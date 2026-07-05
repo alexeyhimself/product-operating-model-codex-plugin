@@ -1,0 +1,73 @@
+name: Sync LLM Wiki into plugin
+
+# Keeps plugins/product-coach/wiki/ (a generated copy) in sync with
+# https://github.com/alexeyhimself/product-operating-model-llm-wiki
+#
+# Triggers:
+#   - repository_dispatch "wiki-updated": fired by the wiki repo's
+#     notify-plugin.yml on every push to its main (needs a PAT there).
+#   - schedule: weekly safety net in case the dispatch/PAT breaks.
+#   - workflow_dispatch: manual "Run workflow" button.
+
+on:
+  repository_dispatch:
+    types: [wiki-updated]
+  schedule:
+    - cron: '0 6 * * 1' # Mondays 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-wiki
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout plugin repo
+        uses: actions/checkout@v5
+
+      - name: Clone wiki (shallow)
+        run: |
+          git clone --depth 1 \
+            https://github.com/alexeyhimself/product-operating-model-llm-wiki.git \
+            /tmp/llm-wiki
+          echo "WIKI_SHA=$(git -C /tmp/llm-wiki rev-parse HEAD)" >> "$GITHUB_ENV"
+
+      - name: Sync wiki content into plugin
+        run: |
+          DEST=plugins/product-coach/wiki
+          rm -rf "$DEST"
+          mkdir -p "$DEST"
+          cp /tmp/llm-wiki/CLAUDE.md /tmp/llm-wiki/index.md "$DEST"/
+          cp -r /tmp/llm-wiki/wiki "$DEST"/wiki
+          {
+            echo "# GENERATED — do not edit"
+            echo
+            echo "This directory is a build artifact, synced by"
+            echo '`.github/workflows/sync-wiki.yml` from'
+            echo "<https://github.com/alexeyhimself/product-operating-model-llm-wiki>."
+            echo "Any manual edit here will be overwritten by the next sync."
+            echo
+            echo "Source commit: \`$WIKI_SHA\`"
+          } > "$DEST/SYNC_INFO.md"
+
+      - name: Commit and push if changed
+        run: |
+          git add plugins/product-coach/wiki
+          if git diff --cached --quiet; then
+            echo "Wiki unchanged — nothing to sync."
+            exit 0
+          fi
+          MANIFEST=plugins/product-coach/.codex-plugin/plugin.json
+          jq '.version |= (split(".") | .[2] = ((.[2] | tonumber) + 1 | tostring) | join("."))' \
+            "$MANIFEST" > /tmp/plugin.json
+          mv /tmp/plugin.json "$MANIFEST"
+          git add "$MANIFEST"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: sync LLM Wiki @ ${WIKI_SHA:0:7}"
+          git push

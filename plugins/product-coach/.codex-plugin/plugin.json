@@ -1,0 +1,33 @@
+{
+  "name": "product-coach",
+  "version": "0.4.0",
+  "description": "AI Product Coach grounded in the Product Operating Model LLM Wiki — guidance and feedback on product strategy, discovery, and delivery.",
+  "author": {
+    "name": "Aleksei Sotskov"
+  },
+  "homepage": "https://github.com/alexeyhimself/product-operating-model-codex-plugin",
+  "repository": "https://github.com/alexeyhimself/product-operating-model-codex-plugin",
+  "license": "MIT",
+  "keywords": [
+    "product-management",
+    "coaching",
+    "discovery",
+    "strategy",
+    "product-operating-model",
+    "wiki"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Product Coach",
+    "shortDescription": "AI Product Coach grounded in the Product Operating Model LLM Wiki.",
+    "longDescription": "An experienced Product Coach grounded in the modern Product Operating Model (Marty Cagan / SVPG, Teresa Torres, Melissa Perri). Its knowledge lives in the Product Operating Model LLM Wiki, a copy of which ships inside this plugin and is kept in sync automatically. Provides feedback and guidance on product strategy, discovery, delivery, roadmaps, OKRs, PRDs, prototyping, opportunity solution trees, and other product-management artifacts and decisions — with citations back to the wiki.",
+    "developerName": "Aleksei Sotskov",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read"
+    ],
+    "websiteURL": "https://github.com/alexeyhimself/product-operating-model-llm-wiki",
+    "defaultPrompt": "Coach me on my product strategy, discovery, or delivery — grounded in the Product Operating Model wiki."
+  }
+}
