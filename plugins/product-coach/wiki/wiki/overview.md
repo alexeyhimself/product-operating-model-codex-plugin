@@ -1,0 +1,70 @@
+---
+title: Overview
+type: overview
+status: mature
+tags: [overview]
+created: 2026-06-14
+updated: 2026-07-04
+---
+
+# The Product Operating Model — Overview
+
+> The big-picture entry point to the wiki. Seeded by the first ingest: the **20 product model first principles** — SVPG's observation of what the world's best product companies share, articulated by **Marty Cagan in *[[transformed|TRANSFORMED]]*** (2024, the [[transformed|root source]]). Two ProductCompass posts were the supporting material used to populate them.
+
+## What it is
+The Product Operating Model is how the strongest product companies work: durable, [[empowered-product-teams|empowered, cross-functional product teams]] are given **problems to solve** (not features to build) and held accountable for **[[outcomes-over-output|outcomes]]**. They decide *what to build* through continuous **[[product-discovery|discovery]]** (testing ideas cheaply against the [[the-four-big-risks|four big risks]]) and **[[product-delivery|deliver]]** it themselves — all guided by one holistic **[[product-strategy|product strategy]]** in service of a **[[product-vision|product vision]]**, inside a **[[product-culture|culture]]** of trust and learning. (The name "product operating model" was coined at **Atlassian** and adopted by [[svpg|SVPG]] — a *model*, i.e. a set of principles, not a process.)
+
+## The 20 first principles
+Five groups of four from *[[transformed|TRANSFORMED]]* ([[svpg|SVPG]]/Cagan). The compact labels and the 5×4 grouping come from the supporting explainer posts; the substance is the book's. **Not to be confused with a company's own [[product-principles]]** — those are an artifact your leaders *author* as part of strategic context; the 20 below *describe the model itself*:
+
+- **[[principles-of-product-teams|Product Teams]]** — [[empowered-with-problems-to-solve|Empowered with Problems]] · [[outcomes-over-output|Outcomes over Output]] · [[sense-of-ownership|Sense of Ownership]] · [[collaboration|Collaboration]]
+- **[[principles-of-product-strategy|Product Strategy]]** — [[focus|Focus]] · [[powered-by-insights|Powered by Insights]] · [[transparency|Transparency]] · [[placing-bets|Placing Bets]]
+- **[[principles-of-product-discovery|Product Discovery]]** — [[minimize-waste|Minimize Waste]] · [[assess-product-risks|Assess Product Risks]] · [[embrace-rapid-experimentation|Rapid Experimentation]] · [[test-ideas-responsibly|Test Ideas Responsibly]]
+- **[[principles-of-product-delivery|Product Delivery]]** — [[small-frequent-uncoupled-releases|Small Frequent Releases]] · [[instrumentation|Instrumentation]] · [[monitoring|Monitoring]] · [[deployment-infrastructure|Deployment Infrastructure]]
+- **[[principles-of-product-culture|Product Culture]]** — [[principles-over-process|Principles over Process]] · [[trust-over-control|Trust over Control]] · [[innovation-over-predictability|Innovation over Predictability]] · [[learning-over-failure|Learning over Failure]]
+
+## The three dimensions
+The SVPG canon ([[svpg-product-operating-model-introduction|the SVPG Introduction]] + Jon Moore's [[2022-05-31-moore-transformation-defined|*Transformation Defined*]] and the three-part deep-dive series) names the three things a transformation must change:
+
+1. **Changing how you decide which problems to solve** — [[product-vision|vision]] + [[product-strategy|strategy]] → [[team-objectives|team objectives]] (Strategy principles). See [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve|Moore]].
+2. **Changing how you solve problems** — [[product-discovery|discovery]] against the [[the-four-big-risks|four risks]] (Discovery principles), done by [[empowered-product-teams|empowered teams]] (Team principles) with an [[empowered-engineers|empowered engineer]] in the room. See [[2022-09-20-moore-changing-how-you-solve-problems|Moore]].
+3. **Changing how you build** — [[product-delivery|delivery]] (Delivery principles) — small, frequent, reliable releases. See [[2022-09-17-moore-changing-how-you-build|Moore]]. All three held together by [[product-culture|culture]] (Culture principles).
+
+See [[transformation]] for the operational guidance on **how** the three dimensions are pursued (pilot-team approach; sequencing tension between Moore's 2022 "in parallel" and Cagan's 2024 "hold Decide for last"), and [[transformation-politics]] for the political dimension.
+
+## The five concepts and four competencies
+Cagan's companion overviews to TRANSFORMED:
+
+- [[2024-01-17-cagan-product-model-concepts|The five product-model concepts]]: [[product-culture|culture]] · [[product-strategy|strategy]] · [[empowered-product-teams|teams]] · [[product-discovery|discovery]] · [[product-delivery|delivery]] — each with its own four principles above.
+- [[2023-03-15-cagan-product-model-competencies|The four product-model competencies]]: [[product-manager|PM]] (value + viability) · [[product-designer|product designer]] (usability) · [[engineers|Tech Lead / engineers]] (feasibility) · [[product-leadership|product leadership]] (the layer that coaches the trio and provides strategic context). The first three form [[the-product-team-trio|the trio]]. Cagan: "if your transformation fails, it will very likely be because you did not establish these competencies."
+
+Beyond the four core competencies, the model touches **adjacent roles**: the [[delivery-manager]] (ship + commitments), [[product-ops]] (a *force multiplier*, not governance), [[product-marketing]] (the market side of product-market fit — [[martina-lauchengco|Lauchengco]]'s *[[loved|LOVED]]*), and [[data-product-management|data / AI / platform PM]] (the "is it a product?" litmus test).
+
+## What it replaces
+The project / IT / **feature-factory** model: teams handed solutions to build, measured on output and predictability, with discovery and delivery split across groups and strategy reduced to a feature roadmap. Two orthogonal anti-patterns to remember ([[feature-teams-vs-product-teams|canon]]):
+
+- **Feature teams** — given features, not problems. The *empowerment* axis is broken.
+- **Project teams** — pool-allocated for a project, disbanded after launch. The *durability/ownership* axis is broken. ("[[missionaries-vs-mercenaries|Teams of mercenaries]]"; engineers are the easiest tell.)
+
+Both axes must be right for a product team. The cultural shift is from **time-to-market** (output, projects, dates) to **[[time-to-money|time-to-money]]** (outcomes, products, iterations). The role-level symptom of the old model is [[product-management-theater|product-management theater]] — the title without the job — which generative AI is now both exposing (the bottleneck was never the engineers) and accelerating (garbage shipped faster). The principles are the standard an agent using this wiki holds the user's org against — see [[diagnostics]].
+
+## How the model is taught
+Per [[2026-02-04-cagan-product-coaching-and-ai|Cagan, Feb 2026]], the primary way PMs become strong at the product model is [[product-coaching]] — by a manager, an external human coach, and (now) a [[model-as-product-coach|foundation model configured with project files + project instructions + strategic context]]. SVPG's Feb 2026 position shift makes the model-as-coach the scalable answer for most PMs. **This wiki implements two of the three layers of that prescription:** the [`wiki/`](.) body is the project files; [`CLAUDE.md`](../CLAUDE.md) is the project instructions. The **third layer — the org's own [[strategic-context|strategic-context baseline]] — is supplied to the agent separately** (this wiki is org-agnostic and never stores it).
+
+What coaching actually consists of — Cagan's older "Coaching Tools" canon, now in the wiki as the **coaching engine**: a coach develops *capability, not deliverables* ([[coaching-vs-contracting]]); for a PM, that means assessing skills across the people/process/product taxonomy ([[pm-competency]]) and coaching the biggest gaps ([[coaching-the-pm]]). Coaching comes in three altitudes — discovery, leadership, transformation ([[types-of-product-coaching]]) — and every coach, human or model, rests on real product experience ([[product-coach]]). The 2026 spoken canon ([[2026-04-14-cagan-ai-product-coaching-women-in-product|AI Product Coaching]]) adds the concrete setup — the three prompting keys, the strategic-context inputs, and the "build [[product-sense|product sense]] fast" script (checklist: [[model-as-coach-readiness]]) — plus the limits (a model "doesn't know *you*" at leadership scale). For leaders, "better leadership" concretely means [[founder-style-leadership]] — product sense + coaching.
+
+## The map
+- **Concepts:** [[empowered-product-teams]] · [[the-four-big-risks]] · [[product-vision]] · [[product-strategy]] · [[team-objectives]] · [[product-discovery]] · [[product-delivery]] · [[product-culture]] · [[feature-teams-vs-product-teams]] · [[missionaries-vs-mercenaries]] · [[empowered-engineers]] · [[time-to-money]] · [[team-topology]] · [[product-coaching]] · [[model-as-product-coach]] · [[coaching-vs-contracting]] · [[types-of-product-coaching]] · [[transformation]] · [[transformation-politics]] · [[transformation-as-a-project]] · [[the-need-for-speed]] · [[outcome-based-roadmap]] · [[product-management-theater]] · [[founder-style-leadership]] · [[product-sense]] · [[build-to-learn-vs-build-to-earn]] · [[data-product-management]]
+- **Principles:** the five area pages above (each linking its four).
+- **Competencies:** [[product-manager]] · [[product-designer]] · [[engineers]] · [[product-leadership]] · [[the-product-team-trio]] · [[delivery-manager]] · [[product-ops]] · [[product-marketing]] · [[product-coach]].
+- **Adjacent-role frameworks:** [[hiring-and-onboarding]] (hire for potential; onboard to competence).
+- **Coaching engine:** framework [[coaching-the-pm]]; diagnostics [[pm-competency]] · [[model-as-coach-readiness]].
+- **Discovery toolkit:** framework [[prototypes]] (four prototype types); concept [[build-to-learn-vs-build-to-earn]].
+- **Transformation hub:** concept [[transformation]]; frameworks [[pilot-teams]] · [[it-to-product-organization]] · [[high-integrity-commitments]]; diagnostics [[model-maturity]] (current state) · [[transformation-readiness]] (preconditions before starting).
+- **Case studies (real examples):** [[amazon-prime]] (Prime — meaningful experimentation + STLs) · [[spotify-discover-weekly]] (Discover Weekly — the four risks in sequence) · [[google-product-model]] (scaling via "experts lead experts" + OKRs) · [[apple-role-of-product]] (the CEO-as-head-of-product succession risk). SVPG's worked illustrations of the model at strong product companies.
+- **Objectives & outcomes:** framework [[okrs]] (team objectives / OKRs the SVPG way — an empowerment technique, not a bolt-on); concept [[team-objectives]]; principle [[outcomes-over-output]]; synthesis [[the-point-is-outcomes]].
+- **Entities:** [[marty-cagan]] · [[jon-moore]] · [[chris-jones]] · [[christian-idiodi]] · [[lea-hickman]] · [[martina-lauchengco]] · [[pawel-huryn]] · [[bill-campbell]] · [[jeff-patton]] · [[svpg]] · [[amazon]] · [[google]] · [[apple]] · [[spotify]] · [[transformed]] · [[inspired]] · [[empowered]] · [[loved]]
+- **Resources:** [[recommended-library]] — SVPG/Cagan-recommended books & videos, by topic.
+- **Synthesis:** [[the-point-is-outcomes]] — the chain of subordination (the point is to move outcomes; learning and shipping are means).
+- **Sources:** root → *[[transformed|TRANSFORMED]]*; SVPG canon model overview → [[svpg-product-operating-model-introduction]] · [[2024-01-17-cagan-product-model-concepts]] · [[2023-03-15-cagan-product-model-competencies]]; transformation root + deep-dives (Moore) → [[2022-05-31-moore-transformation-defined]] · [[2022-09-18-moore-the-transformation-series]] · [[2022-09-17-moore-changing-how-you-build]] · [[2022-09-20-moore-changing-how-you-solve-problems]] · [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]; transformation execution (Cagan) → [[2023-02-20-cagan-transformed-announcement]] · [[2024-10-29-cagan-transformation-as-a-project]] · [[2024-11-21-cagan-transformation-politics]] · [[2023-09-12-cagan-who-is-product-operating-model-for]]; foundational transformation classics → [[2008-07-07-cagan-moving-from-it-to-product-organization]] · [[2013-12-30-cagan-epic-waste]] · [[2013-07-21-cagan-the-need-for-speed]] · [[2022-02-11-cagan-coaching-the-coaches]]; deep-dive companion essays (Cagan/Jones) → vision, strategy, culture, teams, discovery, competencies (see [`index.md`](../index.md) for the full sources list); coaching → [[2026-02-04-cagan-product-coaching-and-ai]] + the 2019/2023 coaching trilogy; supporting explainers → [[2024-03-16-huryn-product-model-first-principles-part-1]] · [[2024-03-21-huryn-product-model-first-principles-part-2]]; **talks & interviews (video, 2014–2026)** → ~71 slim cards in [`sources/`](sources/) spanning the theater interviews, the AI-as-coach conversations, founder-style-leadership, product-sense, strategy, discovery/experimentation, product ops, product marketing, data/AI PM, and hiring & onboarding.
+- **Open flags:** four-vs-five risks (see [[the-four-big-risks]]); confirm chapter attributions by ingesting *TRANSFORMED* directly; Moore-vs-Cagan transformation sequencing tension (see [[transformation]] and [[transformation-politics]]); the 2018 ethics-as-a-separate-question framing is now noted as lineage on [[the-four-big-risks]]; the outcomes-are-the-point hierarchy is now the synthesis page [[the-point-is-outcomes]].
