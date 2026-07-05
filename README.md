@@ -41,15 +41,8 @@ A copy of the wiki is **bundled inside the plugin** and kept in sync automatical
 In the Codex CLI:
 
 ```
-/plugin marketplace add alexeyhimself/product-operating-model-codex-plugin
-/plugin install product-coach@product-operating-model
-/reload-plugins
-```
-
-Then, when you need coaching:
-
-```
-Use product-coach to review my roadmap.
+codex plugin marketplace add alexeyhimself/product-operating-model-codex-plugin
+codex plugin add product-coach@product-operating-model
 ```
 
 ## Use
