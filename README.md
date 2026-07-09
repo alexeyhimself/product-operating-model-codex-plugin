@@ -6,7 +6,7 @@ The plugin is intentionally thin: the knowledge of the model lives in the LLM Wi
 
 A copy of the wiki is **bundled inside the plugin** and kept in sync automatically by CI — installing the plugin installs the wiki too. No separate clone, attach, or setup step.
 
-> This is the Codex port of [`product-operating-model-claude-plugin`](https://github.com/alexeyhimself/product-operating-model-claude-plugin). Same skill, same wiki, adapted to the Codex plugin/marketplace format.
+> **Using Claude Code or Cowork instead of Codex CLI?** There's a sibling repo with the same skill packaged for Claude: [`alexeyhimself/product-operating-model-claude-plugin`](https://github.com/alexeyhimself/product-operating-model-claude-plugin). Both plugins bundle the same wiki and are kept in sync by the same source of truth.
 
 ## Repository layout
 
