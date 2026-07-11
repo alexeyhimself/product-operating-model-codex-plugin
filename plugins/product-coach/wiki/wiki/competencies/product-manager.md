@@ -81,6 +81,12 @@ Cagan assesses PM competence along three pillars — **product knowledge, proces
 ## In your context
 _Field note placeholder — rate your PMs (or yourself) against the three pillars using [[pm-competency]]. Where are the biggest gaps relative to what this team and company need? Who is coaching those gaps?_
 
+## The PM's partnership job (Part VI)
+The PM is the person who **operates the cross-functional partnerships** the model depends on — with customers (Ch 21: promises come from the team that will deliver; direct access as prerequisite; commercial-product vs custom-shop framing), sales (Ch 22: shared time in front of customers is the trust mechanism; reference-customers-not-specials is the systemic fix), product marketing (Ch 23: the eight collaboration areas — see [[product-marketing]]), finance (Ch 24: bring data, not business cases; use [[high-integrity-commitments]] sparingly), stakeholders (Ch 25: show a prototype before building anything that might impact them), and executives (Ch 26: the six-element trust model — see [[partnering-with-executives]]). The unified pattern lives on [[cross-functional-partnering]]. Coaching a PM through their weakest partnership is usually the highest-leverage move a manager can make.
+
+## Common frictions inside product (Ch 46)
+[[transformed|TRANSFORMED]] Ch 46 (*Objections from Inside Product*) is the largest chapter in Part X — because the model's own team has honest frictions that need honest answers. The wiki collects them in [[overcoming-objections|the overcoming-objections synthesis]]; the PM-relevant ones are: "how do we own outcomes we don't control?"; "can we pivot in discovery?"; "we're being set up to fail"; "which decisions are ours to make?"; "PM and designer exclude engineers from discovery"; and "where do POs and BAs fit?" (short answer: they don't — PO is a role covered by the PM, BA responsibilities move partially to PMs and partially to designers). Cross-links inline in the objections page.
+
 ## Related
 - concepts: [[empowered-product-teams]], [[product-discovery]], [[the-four-big-risks]]
 - competencies: [[the-product-team-trio]], [[product-coach]], [[product-leadership]], [[product-marketing]], [[product-ops]]
@@ -88,6 +94,7 @@ _Field note placeholder — rate your PMs (or yourself) against the three pillar
 - frameworks: [[coaching-the-pm]]
 - diagnostics: [[pm-competency]], [[feature-team-vs-empowered-team]]
 - principles: [[empowered-with-problems-to-solve]], [[outcomes-over-output]], [[collaboration]]
+- synthesis: [[overcoming-objections]] — per-constituency objection patterns and responses ([[transformed|TRANSFORMED]] Chs 36–46)
 
 ## Sources
 - [[transformed]] — root source; the PM as owner of value & viability risk in an empowered team (Ch. 10).

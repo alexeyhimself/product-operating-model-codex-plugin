@@ -64,10 +64,18 @@ Large-company transformation takes **1–3 years**. Very few orgs are prepared t
 ## In your context
 _Field note placeholder — how is your transformation communicated internally? What's the cadence and content of updates? Are stakeholders trusted on the problem in your pilots? Has the Decide change been attempted before Solve and Build had landed?_
 
+## Working with specific constituencies
+The eight dimensions above are the frame; the *per-constituency work* has two complementary sides in [[transformed|TRANSFORMED]]:
+- **What healthy looks like** — [[transformed|TRANSFORMED]] Part VI (Chs 21–26), Cagan's *"Product Model in Action"* chapters on partnering with Customers, Sales, Product Marketing, Finance, Stakeholders, and Executives. Collected on [[cross-functional-partnering]] (concept hub) and [[partnering-with-executives]] (framework: the six-element trust model — Decisions · Outcomes · Disagreements · Promises · Surprises · Trust).
+- **What objections surface when the partnerships aren't yet built** — [[transformed|TRANSFORMED]] Part X (Chs 36–46), enumerated in [[overcoming-objections]].
+
+Together: use Part VI as the coaching target, Part X as the coaching companion when specific resistance is loud.
+
 ## Related
 - concepts: [[transformation]], [[transformation-as-a-project]], [[pilot-teams]] (the political mechanism), [[outcome-based-roadmap]]
 - competencies: [[product-leadership]], [[product-manager]], [[product-coach]]
 - diagnostics: [[stakeholder-relationship-health]], [[leadership-readiness]], [[model-maturity]], [[transformation-readiness]]
+- synthesis: [[overcoming-objections]] — Part X per-constituency detail (Chs 36–46)
 
 ## Sources
 - [[2024-11-21-cagan-transformation-politics]] — root canon for the eight dimensions and the sequencing refinement.

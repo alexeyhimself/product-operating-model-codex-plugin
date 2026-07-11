@@ -66,11 +66,18 @@ The PM is the company's acknowledged expert on customers, data, and product, *an
 - **If at Level 3:** invest in *previewing* — proactively show stakeholders evolving prototypes and data so they're never surprised by a decision; build personal credibility by being early to flag risks to their function (legal/privacy/security/sales) before they're problems.
 - **Common traps:** (1) confusing "consensus" with "viability solved" — viability means *workable for the business*, not *unanimously approved*; (2) PM as therapist — endless listening without converting input into prioritized action erodes trust as much as ignoring stakeholders; (3) over-reliance on the CEO/founder to broker stakeholder relationships — non-scalable and a tell of weak PM ([[2016-05-03-cagan-product-success|canon]]); (4) running narratives as PowerPoint — Cagan: the written narrative makes argument gaps obvious; PowerPoint hides them ([[2019-03-11-cagan-coaching-tools-the-narrative|canon]]).
 
+## When a specific stakeholder is objecting
+When a specific constituency is publicly resisting the model (CEO, board, LOB, sales leader, CFO, CIO, CMO, CS leader, PMO director, or internal), use [[overcoming-objections]] as the coaching companion — Cagan devotes an entire Part of *[[transformed|TRANSFORMED]]* (Chs 36–46) to per-constituency objection patterns and SVPG's responses. Rebuilding a Level-1 → Level-3 relationship almost always requires an objection-handling conversation first, before the mojo moves or written-narrative discipline will land.
+
+## What "healthy" looks like (Ch 25 → partnership hub)
+*[[transformed|TRANSFORMED]]* Ch 25 (Partnering with Stakeholders) is Cagan's clearest positive statement of the healthy state this diagnostic scores against: **empowered teams as collaborative partners with stakeholders (no longer subservient, still dependent)**; the PM engaging directly with each relevant stakeholder to learn constraints; **showing the prototype before building** when a proposed solution might impact a stakeholder; transparency (stakeholders welcome in user testing, prototype reviews, product data). *"Sometimes, getting a solution that works not only for customers, but also for multiple stakeholders — each with different needs — may require many iterations to identify a solution that solves for all parties. Further, the solution that solves for all parties may end up being something that none of the stakeholders had imagined was possible."* Ch 25 also names two anti-patterns central to this diagnostic: **committees don't innovate** (Level-1 design-by-committee root cause); and **expecting stakeholders to trust a PM who hasn't done the work** — *"is not only unrealistic, but also unwise."* Product leadership owes stakeholders a competent PM. The full Part VI framing sits on [[cross-functional-partnering]].
+
 ## Related
+- concepts: [[the-four-big-risks]], [[empowered-product-teams]], [[product-strategy]], [[strategic-context]]
 - competencies: [[product-manager]], [[product-leadership]]
-- concepts: [[the-four-big-risks]], [[empowered-product-teams]], [[product-strategy]]
 - frameworks: [[coaching-the-pm]]
 - diagnostics: [[pm-competency]], [[product-strategy-quality]], [[feature-team-vs-empowered-team]], [[leadership-readiness]]
+- synthesis: [[overcoming-objections]] — when the trust gap surfaces as explicit objections
 
 ## Sources
 - [[2010-01-26-cagan-regaining-your-product-mojo]] — the 10 moves to rebuild product credibility with stakeholders.

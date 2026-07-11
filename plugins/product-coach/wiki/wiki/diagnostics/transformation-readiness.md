@@ -45,6 +45,31 @@ Is there a plan for **"keeping the lights on"** during the transformation — th
 ### 8. Patience
 Is leadership prepared for **1–3 years** to a meaningful enterprise-wide transformation? Are there expectations for visible *outcomes* within the first months (via pilots) so support doesn't evaporate before completion? **Red flag:** transformation has a single completion date in the next 6 months.
 
+## The book's own assessment instrument (Ch 29)
+[[transformed|TRANSFORMED]] Ch 29 ("Transformation Assessment") is Cagan's own self-conducted org-assessment instrument — the primary source this diagnostic + [[model-maturity]] both build on. Cagan's caveats before the assessment are load-bearing coaching guidance:
+
+- **Be realistic.** *"No company is perfect… When you assess a competency or a capability, you are not looking for perfection — you are looking to understand the majority case."* Naive perfectionists lose credibility with senior leaders. Also: *"it's rare to find a company that is truly terrible at everything"* — recognize the pockets of good.
+- **Talk to all levels** — CEO/GM down to individual engineers. *"It is remarkable how perceptions and understanding can vary, and also how some managers — especially middle managers — are so effective at obscuring information from the senior leaders."*
+- **Look for evidence.** Ask to see prototypes. Ask to see OKRs. Ask to see the product vision. Ask to see the product strategy. Ask to see roadmaps. Words are cheap.
+- **Look below the surface.** *"There is no single right way to do product… What you mainly care about in an assessment is whether the organization is practicing the product model's principles."* Roles, terms, delivery processes, and favorite discovery techniques are *secondary* — the principles are primary.
+- **Be kind.** *"The assessment is not assessing individuals; it is assessing the particular model being used to produce products."* Handled well, the assessment lets people become leaders of the change; handled poorly, they leave — or worse, stay and sabotage.
+
+Cagan's own **timing benchmark:** an experienced product coach can assess an org (up to a business unit) *"in as little as one day."* Self-conducted assessment typically takes a few days.
+
+The assessment structure (used across [[transformation-readiness]] and [[model-maturity]]):
+
+**High-Level Assessment (three dimensions as posed questions):**
+- **How products are built and deployed** — release frequency + independence; detect-and-correct mechanism for critical customer problems; who ensures the capability works (automated vs manual); team autonomy + dependencies; instrumentation + who looks at data; perceived speed/quality/trustworthiness of engineering; tech debt severity, symptoms, and plan.
+- **How problems are solved** — how work reaches teams (roadmaps of features vs problems); process, roles, evidence-or-opinions; when engineers + designers enter; role of stakeholders in solution details; customer interaction level; ideas killed or significantly changed and who approves; definition of success (shipping? shipping on time? measurable outcomes? what if outcome not achieved?); perception of team members as customer + business experts.
+- **How you decide which problems to solve** — who decides; annual/quarterly planning process purpose; project- vs team- vs individual-funding; presence of product vision + strategy at what level; roadmap items = features/projects or problems/outcomes; prioritization mechanism; desired outcomes and who defines them; tracking of what percentage delivered the hoped-for results.
+
+**Detailed Assessment (four competencies + five concepts):**
+- **Competencies:** Product Management (empowered PM vs feature-team PM vs Scrum PO; time allocation; customer/data/GTM depth; training; respect + collaboration; weekly coaching), Product Design (understands designer types + service/interaction/visual/industrial; sufficient design capacity; embedded in teams vs in-house agency; prototype frequency + testing; experienced design manager coaching weekly), Engineering (senior-engineer-vs-tech-lead distinction; care-about-what-not-just-how; visits customers; ideas received well; QA vs engineer-owned quality; outsourced percentage), Product Leadership (people-manager vs coaching-and-strategic-context; how they define responsibilities; how much time on coaching; awareness without micromanagement; IC perception).
+- **Concepts:** Product Teams (durable vs project; empowered vs feature vs delivery; cross-functional roles; sense of agency; customer/data/stakeholder access), Product Strategy (multi-year vision; annual/quarterly planning that produces roadmaps or strategy that produces problems; holistic-across-teams vs stakeholder-driven; keep-the-lights-on excluded), Product Discovery (many ideas tested vs same-as-built ⇒ design not discovery; which risks tested — feasibility + usability common, value + viability missing; quick experiments qual + quant; test ideas responsibly), Product Delivery (at least biweekly releases; ideally continuous deployment; instrumented; monitoring; A/B-test infrastructure), Product Culture (process- vs principles-following; top-down vs decisions pushed down; predictability vs innovation; understanding role of engineers in innovation; understanding necessary role of failure + techniques to fail fast + cheap).
+- **Innovation Theatre callout** — corporate innovation labs that split discovery from delivery are a named Ch 29 anti-pattern; the *"passion and excitement that the team feels when they engage with customers and the new enabling technology to solve a problem is lost when things are 'thrown over the wall.'"* Also creates two classes of product teams. Acquisitions as innovation-shopping also flagged.
+
+This wiki's [[transformation-readiness]] (below) and [[model-maturity]] rubrics build on Ch 29's structure but score the org differently — readiness on *preconditions to start*, maturity on *current state*.
+
 ## Rubric
 | Level | Name | What it looks like |
 |---|---|---|

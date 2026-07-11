@@ -45,6 +45,15 @@ Three dimensions × four lenses each. A mature org scores **3 or 4** across virt
 | Leadership | Five elements of strategic context delivered; managers coach weekly? | [[leadership-readiness]] |
 | Topology | Loosely coupled, highly aligned team structure owned by head of product + head of tech? | [[team-topology]] |
 
+## The book's own assessment instrument
+[[transformed|TRANSFORMED]] Ch 29 is Cagan's own self-conducted org-assessment. The full instrument is captured on [[transformation-readiness]]'s "The book's own assessment instrument" section — the wiki does not duplicate it here. Notable for this diagnostic:
+
+- **Ch 29's structure matches this diagnostic's three-dimensions frame** (Build / Solve / Decide) at the High-Level Assessment layer, then peels into the four competencies + five concepts at the Detailed Assessment layer. **Where the book's instrument and this diagnostic's rubric diverge, prefer the book.** This is now the primary source; the wiki's Level-1 to Level-4 labels remain useful *as a rubric on top* of the book's assessment.
+- **Ch 29 is explicit that timing benchmarks matter:** experienced product coach ~1 day; self-conducted a few days. Anything beyond that is analysis-paralysis.
+- **Ch 29's "look for evidence" caveat** ("ask to see prototypes / OKRs / vision / strategy / roadmaps") is the load-bearing coaching move for this diagnostic. Rubric scores that rest on interview responses without evidence are worth half the confidence.
+- **Ch 29 explicitly warns against the "no single right way" trap** — this diagnostic scores against the *principles*, not against any specific tool, framework, or team topology. Rewording Level-2 language back into "checkbox transformation" reflects this.
+- **Ch 29's Innovation Theatre callout** (corporate innovation labs that split discovery from delivery; acquisitions as innovation-shopping) is worth remembering when a Level-2 org self-describes as Level-3 based on an innovation lab's existence. Symptom of the split — the discovery team's passion never reaches the delivery team; two classes of product teams get created.
+
 ## Rubric (org-level levels)
 | Level | Name | What it looks like |
 |---|---|---|

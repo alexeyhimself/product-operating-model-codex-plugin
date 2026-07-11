@@ -18,6 +18,8 @@ updated: 2026-07-04
 ## Role here
 A named SVPG partner in the coaching-and-transformation canon. In the [[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction|Hardest Challenges of Product Strategy]] interview, Cagan describes Idiodi "spearheading an effort to develop the product community in Africa" — more than a thousand product people across the continent — as "one of the most inspirational" things SVPG does. Reinforces SVPG's [[product-coaching|coaching-supply]] mission and the [[coaching-vs-contracting]] stance.
 
+**The transformation he led before joining SVPG (now confirmed):** *TRANSFORMED* Part VII is Idiodi's first-person account of the **[[datasite-transformation|Merrill Corporation → Datasite transformation]]**. Marty's own framing: he told Christian he could place him at nearly any marquee company, but Christian chose an old, family-founded, sales-driven, financial-services company deliberately — to prove it was possible. With CEO Rusty Wiley, product peer Thomas Fredell, and head of engineering Jeremiah Ivan, the team transformed Merrill into Datasite, an M&A SaaS platform now considered an industry leader (10,000+ M&A deals annually). Ch 35 continues with an innovation story — the patented redaction product built post-transformation. Idiodi's Part VII is the wiki's canonical example of transforming a *sales-driven legacy* company.
+
 ## Talks / sources referencing him
 - [[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]] — Cagan on Idiodi's Africa product-community initiative.
 
