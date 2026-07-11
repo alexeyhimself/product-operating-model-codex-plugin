@@ -8,7 +8,7 @@ role: The member of the product team accountable for value and viability risk; p
 sources: ["[[transformed]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-06-12-cagan-product-management-start-here]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[inspired]]", "[[2007-09-11-cagan-recruiting-product-managers]]", "[[2016-12-13-cagan-product-manager-vs-product-owner-revisited]]", "[[2010-01-13-cagan-product-management-as-a-service-organization]]", "[[2021-10-28-cagan-process-people]]", "[[2019-06-24-cagan-coaching-owner-vs-employee]]", "[[2019-06-28-cagan-coaching-managing-time]]", "[[2019-07-16-cagan-coaching-thinking]]", "[[2024-03-10-cagan-product-management-theater-lennys]]", "[[2018-06-07-cagan-behind-every-great-product-mtpcon-london-2016]]", "[[2025-09-29-cagan-future-of-product-management-producttank-sydney]]", "[[2024-03-21-cagan-product-management-rules-in-early-stage-june]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2015-08-03-cagan-the-role-of-product-at-apple]]"]
 related: ["[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-designer]]", "[[engineers]]", "[[product-leadership]]", "[[delivery-manager]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[product-coaching]]", "[[marty-cagan]]", "[[product-management-theater]]", "[[build-to-learn-vs-build-to-earn]]", "[[product-sense]]", "[[google-product-model]]", "[[apple-role-of-product]]"]
 created: 2026-06-20
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # Product Manager
@@ -102,7 +102,7 @@ The PM is the person who **operates the cross-functional partnerships** the mode
 - [[2020-06-12-cagan-product-management-start-here]] — canonical PM primer: CSPO is a subset; 3-month ramp; design/research belong to the designer.
 - [[2019-04-08-cagan-coaching-tools-the-assessment]] — the people/process/product skills taxonomy (assessment).
 - [[2019-04-22-cagan-coaching-tools-the-plan]] — how each competency is developed.
-- [[inspired]] — supporting; the PM role and discovery craft.
+- [[inspired]] — **primary (book-length)**; Ch 10 is the origin of the four deep-knowledge areas (customer · data · business · market/industry) + "smart, creative, persistent" + PM ≠ project manager + the "when a product fails, it's the PM's fault; when it succeeds, everyone did their job" framing.
 - [[2024-03-10-cagan-product-management-theater-lennys]] — creator not facilitator; the reckoning; value + viability under AI.
 - [[2018-06-07-cagan-behind-every-great-product-mtpcon-london-2016]] — the "three ways" a PM works; the role more essential than ever.
 - [[2025-09-29-cagan-future-of-product-management-producttank-sydney]] — agency + prototyping; ethics/viability under AI.

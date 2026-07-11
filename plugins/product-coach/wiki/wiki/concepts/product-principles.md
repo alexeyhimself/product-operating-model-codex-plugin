@@ -4,10 +4,10 @@ type: concept
 aliases: [product-principles, product-manifesto, company-product-principles]
 status: drafting
 tags: [strategic-context, principles, leadership, vision, ethics, core-concept]
-sources: ["[[2006-01-02-cagan-the-product-manifesto]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[empowered]]", "[[transformed]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[empowered]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2020-01-09-cagan-coaching-strategic-context]]"]
 related: ["[[product-leadership]]", "[[product-vision]]", "[[product-strategy]]", "[[team-objectives]]", "[[principles-over-process]]", "[[overview]]", "[[product-strategy-quality]]", "[[coaching-vs-contracting]]", "[[the-four-big-risks]]"]
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # Product Principles
@@ -22,6 +22,11 @@ Empowered teams make daily trade-offs no roadmap anticipates. Product principles
 - **Authored by [[product-leadership|product leaders]].** Product principles are one of the six elements of strategic context — company mission, company scorecard, company objectives, [[product-vision|product vision]], [[product-strategy|product strategy]], and product principles ([[2020-01-09-cagan-coaching-strategic-context|canon]]). Providing them is a leadership job, not a PM job — but every PM needs them.
 - **Durable, like the vision.** Strategy and [[team-objectives|objectives]] change often; principles rarely. They bond a team around shared language ([[2006-01-02-cagan-the-product-manifesto|Manifesto]]).
 - **Especially for the hard calls.** Ethics, customer trust, long-term vs short-term, quality bars — the trade-offs where reasonable people disagree and the strategy is silent.
+- **Prioritized, not a flat list** ([[inspired|INSPIRED]] Ch 13). Countless products claim to be *both* easy to use *and* safe and secure. What matters is the ordering. Get the team to agree on the specific ordering — most-important to least-important — not just "critical" vs "very important" clusters.
+- **Bonds the whole product team.** [[inspired|Cagan]]: "more than any other document, a set of product principles can bring together the product team — especially product management, user experience design, engineering, and marketing — and get the team on the same page."
+
+## Origin ([[inspired|INSPIRED]] Ch 13, 2008)
+The book-form origin of the concept is [[inspired|INSPIRED]] Ch 13 "Product Principles," where Cagan describes them as *"a public declaration of your beliefs and intentions"* — a complement to product strategy that "significantly speeds the product discovery process." The Ch 13 framing already carries all four modern moves: **(a)** principles are not features and not tied to any single product; **(b)** they belong closer to a company mission or product-line strategy than to a spec; **(c)** they can be internal-only or public — depends on purpose (Cagan's example: a movie site's principle that "the user community's opinions on movies are more valuable than those of professional reviewers" — later usable to decide whether to accept studio reviews); **(d)** the two most common newcomer mistakes: **overly generic** ("must be reliable") and **confusing product principles with design principles** (e.g. "provide a well-lit path" is a *design* principle, not a product principle). The concept has stayed stable across all four editions of *INSPIRED* and forms the sixth element of strategic context in *EMPOWERED* and *TRANSFORMED*.
 
 ## Not the 20 first principles (disambiguation)
 > **Voice: wiki synthesis** — this section connects two canonical ideas to prevent a common conflation; it is a clarification, not a new claim.
@@ -56,7 +61,8 @@ _Field note: does your org have written product principles? When were they last 
 - diagnostics: [[product-strategy-quality]] — checks whether a written manifesto/principles is in place and actually used.
 
 ## Sources
-- [[2006-01-02-cagan-the-product-manifesto]] — the canonical case for a written product manifesto / principles; distinct from vision and roadmap ("the how-do-we-decide-when-it's-hard layer").
+- [[inspired]] — Ch 13 "Product Principles" (1st ed, 2008) is the book-form origin: public declaration of beliefs; complement to strategy; distinct from features and from design principles; prioritized ordering; the movie-site example; the two common mistakes.
+- [[2006-01-02-cagan-the-product-manifesto]] — Cagan's earlier article version of the same idea ("The Product Manifesto") — the "how-do-we-decide-when-it's-hard" layer, distinct from vision and roadmap.
 - [[2020-01-09-cagan-coaching-strategic-context]] — product principles as one of the six elements of strategic context.
 - [[empowered]] — the long-form treatment of strategic context (leaders provide vision *and* principles).
 - [[transformed]] — root; strategic context in the empowered model.

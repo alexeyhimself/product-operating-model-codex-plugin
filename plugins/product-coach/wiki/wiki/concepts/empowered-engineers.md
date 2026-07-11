@@ -4,7 +4,7 @@ type: concept
 aliases: [empowered-engineers, empowered-engineer]
 status: drafting
 tags: [engineers, empowerment, innovation, the-most-important-thing]
-sources: ["[[transformed]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2020-05-20-cagan-customer-inspired-technology-enabled]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2020-05-20-cagan-customer-inspired-technology-enabled]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]"]
 related: ["[[engineers]]", "[[empowered-product-teams]]", "[[missionaries-vs-mercenaries]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[bill-campbell]]", "[[amazon-prime]]", "[[spotify-discover-weekly]]", "[[google-product-model]]"]
 created: 2026-06-20
 updated: 2026-07-04
@@ -62,6 +62,7 @@ _Field note placeholder — when did your engineers last propose a solution that
 
 ## Sources
 - [[transformed]] — root source; the empowered engineer in the empowered team.
+- [[inspired]] — Ch 8 "Patton's Advice for Product Managers" (1st ed, 2008) is a proto-formulation: PMs should tell designers and engineers **what** the product needs to do, not **how** to build it — "the more latitude you can give your engineers and user experience designers in coming up with the solutions to the problems you are trying to solve, the more likely they will come up with something that customers will love." Note: Ch 8 predates the [[bill-campbell|Bill Campbell]] *"most important thing"* framing by more than a decade.
 - [[2020-04-20-cagan-the-most-important-thing]] — the canonical case for the empowered engineer.
 - [[2022-09-20-moore-changing-how-you-solve-problems]] — engineers as the single most important source of innovation.
 - [[2020-09-04-cagan-discovery-problem-vs-solution]] — engineers in the room during customer/discovery work.

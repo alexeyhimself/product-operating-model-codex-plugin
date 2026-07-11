@@ -4,7 +4,7 @@ type: concept
 aliases: [build-to-learn, build-to-earn, learn-vs-earn]
 status: drafting
 tags: [discovery, delivery, prototypes, ai-tools, jeff-patton, core-concept]
-sources: ["[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[transformed]]"]
+sources: ["[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[transformed]]", "[[inspired]]"]
 related: ["[[product-discovery]]", "[[product-delivery]]", "[[prototypes]]", "[[the-four-big-risks]]", "[[time-to-money]]", "[[jeff-patton]]", "[[empowered-engineers]]"]
 created: 2026-07-03
 updated: 2026-07-03
@@ -47,3 +47,4 @@ _Field note: do your PMs prototype and test (build to learn), or wait for design
 - [[2026-04-14-cagan-ai-product-coaching-women-in-product]] — root video for the distinction and the different tool suites.
 - [[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]] — build-to-learn vs build-to-earn in the AI-tools context.
 - [[transformed]] — discovery vs delivery as canon (the distinction this reframes).
+- [[inspired]] — **Lineage note ([[inspired]] Ch 20, 1st ed, 2008): the "minimal product" framing.** Ch 20 "Minimal Product" is the 2008 form of what became MVP language: build the *minimal* thing that meets the business objective and validate it with users before committing engineers. Cagan later spent years criticizing how MVP got misused (shipped instead of used to learn); the modern build-to-learn vs build-to-earn split is the resolution — *prototypes* are the learning artifact, the *actual product* is what earns. Cite Ch 20 as lineage only; don't use its "minimal product" language as current canon.

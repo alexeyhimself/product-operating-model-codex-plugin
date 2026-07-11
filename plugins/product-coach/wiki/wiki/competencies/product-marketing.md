@@ -8,12 +8,22 @@ role: The competency that owns the market side of product-market fit — positio
 sources: ["[[loved]]", "[[transformed]]", "[[2022-03-07-cagan-product-ops-dan-olsen]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
 related: ["[[martina-lauchengco]]", "[[loved]]", "[[product-manager]]", "[[time-to-money]]", "[[the-four-big-risks]]", "[[product-ops]]", "[[stakeholder-relationship-health]]"]
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # Product Marketing
 
 > The **market** side of product-market fit. Where the [[product-manager]] owns whether the product is *valuable and viable*, product marketing owns whether the market can **find, understand, try, buy, and recommend** it. The SVPG canon on this competency is [[martina-lauchengco|Martina Lauchengco]]'s *[[loved|LOVED]]* (2022); Cagan treats it as the role a strong PM most needs a partner for.
+
+## The four fundamentals of product marketing ([[loved|LOVED]] Ch 2)
+Lauchengco's core framework — the book-length primary source for what product marketing *is*:
+
+1. **Ambassador — Connect Customer and Market Insights.** Bring the buyer's frame of mind, competitive landscape, and market-fit signals into product decisions. Quantitative + qualitative; shared with product / insights / research teams.
+2. **Strategist — Direct Your Product's Go-to-Market.** Define the product-go-to-market plan whose strategies align with business goals. Some things won't work — the plan must be resilient enough for experimentation and failure. *"Much like product managers use discovery techniques to determine if a product is valuable, usable, feasible, and viable, in product marketing, aspects of product go-to-market can only be discovered by trying things in-market."*
+3. **Storyteller — Shape How the World Thinks About Your Product.** **Positioning** (long game) + **messaging** (shorter game); stories are how brains remember and how others can retell.
+4. **Evangelist — Enable Others to Tell the Story.** Direct sales enablement, influencer relations, community, press, analysts — the organic flywheel that lets a market footprint scale cost-effectively.
+
+Lauchengco's purpose statement (Ch 1): *"Product marketing's purpose is to drive product adoption by shaping market perception through strategic marketing activities that meet business goals."*
 
 ## What it owns
 - **Positioning & messaging** — why this product, why now, why better.
@@ -27,7 +37,7 @@ Cagan's chapter on partnering with product marketing structures the collaboratio
 1. **Market understanding + competitive analysis** — PMM has analyst access and market/competitive research; new-competitor and new-tech signals flow in both directions. A canonical joint output is a competitive-response for sales.
 2. **Product go-to-market** — *"arguably the most important area of collaboration."* Effective product is only half; GTM is the other half. PMM is the resident GTM expert.
 3. **Key product decisions** — because PMM has deep knowledge of target markets and GTM, include PMM perspective on important discovery decisions. *"A product's go-to-market is one of the most important considerations in determining successful product strategies."*
-4. **Customer discovery program** — the *INSPIRED* technique for new products and new markets. PM + PMM + sales work with a small set of prospective customers together; PM applies learnings to product, PMM applies them to GTM/sales tools/sales process. The result: your initial reference customers.
+4. **Customer discovery program** — the *INSPIRED* technique for new products and new markets (called *Charter User Program* in the 1st ed, Ch 15). PM + PMM + sales work with a small set of prospective customers together; PM applies learnings to product, PMM applies them to GTM/sales tools/sales process. The result: your initial reference customers. Full mechanics + non-negotiables on [[reference-customer-program]].
 5. **Messaging + positioning** — even day-to-day changes can have implications; PMM consulted for both tactical and broad-implication updates.
 6. **Customer impact assessment** — with continuous delivery, some changes need coordination with PMM to prevent customer/sales/CS surprises. If PMM isn't ready, hold or release-dark. See also [[2012-11-01-cagan-assessing-customer-impact|Cagan's original article on this technique]].
 7. **Pricing + packaging** — most product-model orgs defer to PMM (expertise + pricing-firm relationships + higher granularity than team topology). Product provides input.

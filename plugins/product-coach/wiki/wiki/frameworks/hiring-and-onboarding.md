@@ -4,7 +4,7 @@ type: framework
 aliases: [hiring-and-onboarding, hiring-product-managers, onboarding, first-product-hire]
 status: drafting
 tags: [framework, hiring, onboarding, coaching, potential]
-sources: ["[[empowered]]", "[[transformed]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]"]
+sources: ["[[empowered]]", "[[transformed]]", "[[inspired]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]"]
 related: ["[[product-manager]]", "[[product-coach]]", "[[product-leadership]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[product-sense]]", "[[2007-09-11-cagan-recruiting-product-managers]]"]
 created: 2026-07-04
 updated: 2026-07-04
@@ -52,4 +52,5 @@ _Field note placeholder — did your PMs get an assessment and a coaching plan, 
 - [[2022-12-07-cagan-product-lessons-jobs-musk-20vc]] — first hire (~25 engineers); potential vs experience; domain dogma; the 30-customer onboarding story.
 - [[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]] — hire on potential; first-job companies; the apprenticeship model.
 - [[2019-04-08-cagan-coaching-tools-the-assessment]] — the assessment that seeds the coaching plan.
+- [[inspired]] — **Lineage note ([[inspired]] Ch 9, 1st ed, 2008): "Deputy Product Managers."** Ch 9 predates the modern *hire-for-potential* + trio + team-topology canon and is largely superseded — but its core observation persists: find and utilize the smart, product-minded people already hidden in the org (engineering, sales, customer service, the field, exec team). Cagan proposes deputizing them informally, sometimes even publicly, as sources of product ideas and reality checks; techniques he names include *ask at all levels who the great minds are*, MBWA (Management By Wandering Around, from the HP Way), keep the door open, and hang out across levels. In modern SVPG canon this is folded into (a) the *[[empowered-engineers|engineers-as-the-most-important-thing]]* framing, (b) [[hiring-and-onboarding|hire-for-potential]] plus a coaching-committed manager, and (c) the trio's cross-functional access. The 2008 "deputy" label itself is retired.
 - [[empowered]], [[transformed]] — root sources.

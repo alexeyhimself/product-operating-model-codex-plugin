@@ -7,7 +7,7 @@ tags: [strategic-context, leadership, empowerment, org-baseline, ai-agents, core
 sources: ["[[empowered]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2026-02-04-cagan-product-coaching-and-ai]]"]
 related: ["[[product-leadership]]", "[[product-vision]]", "[[product-strategy]]", "[[team-topology]]", "[[team-objectives]]", "[[product-principles]]", "[[model-as-product-coach]]", "[[empowered-product-teams]]", "[[coaching-vs-contracting]]"]
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-07-12
 ---
 
 # Strategic Context
@@ -61,6 +61,6 @@ _Agent prompt: does the org's strategic-context baseline exist, is it current, a
 
 ## Sources
 - [[2020-01-09-cagan-coaching-strategic-context]] — the six elements of strategic context (root of this page).
-- [[empowered]] — the long-form treatment of leadership providing strategic context.
+- [[empowered]] — **primary (book-length)**; Ch 12 is the book's explicit "Strategic Context" chapter with six elements: **Company Mission · Company Scorecard · Company Objectives · Product Vision and Principles · Team Topology · Product Strategy** (grouped slightly differently from the article — vision+principles combined, topology added). Together with the article, this is the canonical grounding.
 - [[2020-11-19-cagan-product-leadership-is-hard]] — strategic context as a leadership responsibility, not a PM one.
 - [[2026-02-04-cagan-product-coaching-and-ai]] — strategic context as the third layer of the model-as-coach prescription.

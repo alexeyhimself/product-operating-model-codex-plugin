@@ -46,3 +46,4 @@ _Field note placeholder — would your engineers describe themselves as missiona
 - [[2022-09-20-moore-changing-how-you-solve-problems]] — feature-team engineers as effectively mercenaries; outsourced engineers as quite literally so.
 - [[2021-04-27-cagan-product-vs-project-teams]] — project-team durability gap produces teams of mercenaries.
 - [[2025-12-19-cagan-lieberich-product-model-at-google]] — Google GPMs as "true missionaries"; backs [[google-product-model]].
+- [[inspired]] — **primary (book-length)**; Ch 9 is the origin of Cagan's *"team of missionaries, not mercenaries"* phrasing (attributed to John Doerr); also referenced in Chs 31 (Evangelism), 45 (Hack Days), 61 (Managing Stakeholders).

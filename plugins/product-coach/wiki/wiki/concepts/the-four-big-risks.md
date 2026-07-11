@@ -4,10 +4,10 @@ type: concept
 aliases: [four-big-risks, product-risks, value-usability-feasibility-viability]
 status: drafting
 tags: [product-discovery, risk, core-concept]
-sources: ["[[transformed]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf]]", "[[2025-09-29-cagan-future-of-product-management-producttank-sydney]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf]]", "[[2025-09-29-cagan-future-of-product-management-producttank-sydney]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]"]
 related: ["[[assess-product-risks]]", "[[product-discovery]]", "[[product-manager]]", "[[product-designer]]", "[[engineers]]", "[[the-product-team-trio]]", "[[overview]]", "[[build-to-learn-vs-build-to-earn]]", "[[spotify-discover-weekly]]", "[[amazon-prime]]"]
 created: 2026-06-14
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # The Four Big Risks
@@ -27,6 +27,8 @@ For each meaningful idea, the [[the-product-team-trio|trio]] asks:
 
 The team finds its *biggest* risks and tests those first. The **PM is explicitly responsible for value and viability** (*TRANSFORMED* Ch. 10); but **anyone** may raise an objection on any risk — Cagan encourages engineers to refuse to build something they're not convinced is valuable or ethical.
 
+**Provenance note.** The four risks are *older than TRANSFORMED*. Cagan first stated them in *[[inspired|INSPIRED]]* Ch 8 as **four discovery questions**: *"Will the user buy this (or choose to use it)? Can the user figure out how to use this? Can our engineers build this? Can our stakeholders support this?"* — and Ch 6 (*Root Causes*) already uses the exact adjectives **"valuable, usable, feasible, and viable."** TRANSFORMED restates them inside a formal 20-principle spine and adds the trio's risk-ownership table; cite both as primary — INSPIRED as the earlier root, TRANSFORMED as the current canonical form.
+
 ### Worked example — Spotify's Discover Weekly
 The [[spotify-discover-weekly|Discover Weekly case study]] is the wiki's cleanest illustration of the four risks addressed **in sequence** on one real feature: **value** (would lean-back users use it and keep using it?), **usability** (a playlist made *for* you — a Spotify first), **feasibility** (the playlist system wouldn't scale to 75M users), **viability** (fresh off Apple Music's U2 backlash, would auto-adding content feel like an overstep?). Value / usability / viability were cleared with cheap [[product-discovery|discovery]] *before* the expensive feasibility rebuild was greenlit on a [[high-integrity-commitments|high-integrity business case]]. Contrast [[amazon-prime|Amazon's Prime]], where value risk was *low* (data already showed customers wanted faster shipping) and **feasibility + viability dominated** — a reminder that *which* risk is biggest is idea-specific.
 
@@ -35,7 +37,7 @@ Cagan reframes the four risks for founders as **primary vs secondary**: the **pr
 
 ## Anti-patterns & misunderstandings
 - **⚠️ "Five risks" / ethics as a separate risk.** Some popular framings (including [[pawel-huryn|Huryn]]'s posts) add **Ethics** as a fifth risk. Canonically Cagan keeps it to **four**, with **ethics part of business viability** ("ethical risk is part of business viability risk"). His reasoning: "once you get to more than 4, the real worry is that it just becomes a checklist and not a way of thinking." This wiki uses **four**, treating ethics — and go-to-market — as important lenses *within* viability. (Other frameworks vary: Strategyzer uses three — desirability, viability, feasibility; Torres recognizes the same five but visually emphasizes three.)
-  - **Lineage note:** in his 2018 [[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf|Root Causes of Product Failure]] talk Cagan framed discovery around three areas (valuable / usable / feasible-incl-stakeholder-support) and floated *ethics* as a separate "should we build it?" question — the earlier form of what later became "ethics inside viability." In the AI era he stresses that PMs are often the first to spot ethical risk and must escalate it — still *within* viability ([[2025-09-29-cagan-future-of-product-management-producttank-sydney|Sydney]]).
+  - **Lineage note — the risks evolved *three → four → four-with-ethics-inside-viability*.** In [[inspired|INSPIRED]] 1st ed (2008) Ch 21 "Product Validation" Cagan names only **three** validations: **Feasibility, Usability, Value** — *viability is absent as a risk*. **Viability was added later** and the canonical four (value / usability / feasibility / viability) crystallized in the 2nd (2017) edition of [[inspired|INSPIRED]]. In his 2018 [[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf|Root Causes of Product Failure]] talk Cagan framed discovery around three areas (valuable / usable / feasible-incl-stakeholder-support) and floated *ethics* as a separate "should we build it?" question — the earlier form of what later became "ethics inside viability." In the AI era he stresses that PMs are often the first to spot ethical risk and must escalate it — still *within* viability ([[2025-09-29-cagan-future-of-product-management-producttank-sydney|Sydney]]). **Cite as `[[inspired]] Ch 21 (1st ed, 2008)` when using the 2008 three-risk framing — the four-risk canon is the modern one.**
 - Turning the risks into a tick-box checklist rather than a way of thinking.
 - Treating feasibility as the only real risk.
 
@@ -48,6 +50,7 @@ _Field note placeholder — which risk does your org systematically under-test? 
 
 ## Sources
 - [[transformed]] — root source; the four risks and the trio risk ownership.
+- [[inspired]] — Ch 21 "Product Validation" (1st ed, 2008) is the lineage moment: **three** risks named (Feasibility, Usability, Value). Viability is missing. The four-risk canon (value / usability / feasibility / viability) is established in the 2nd ed (2017) and thereafter. Ch 21 is worth citing when discussing the *three-then-four* lineage; **do not cite it as the four-risks source.**
 - [[2023-03-15-cagan-product-model-competencies]] — the canonical risk-ownership table (PM = value+viability, designer = usability, Tech Lead = feasibility).
 - [[2022-09-20-moore-changing-how-you-solve-problems]] — the four risks as the empowered-team accountability set.
 - [[2020-09-04-cagan-discovery-problem-vs-solution]] — the *interplay* between the three dimensions of risk as the engine of discovery.

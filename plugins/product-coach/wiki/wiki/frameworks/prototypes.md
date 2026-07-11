@@ -44,7 +44,7 @@ _Field note placeholder — pick a current risk and choose the prototype type th
 - frameworks: [[high-integrity-commitments]] (a feasibility prototype backs an honest date) · [[opportunity-assessment]]
 
 ## Sources
-- [[inspired]] — prototypes/discovery are canon here.
-- [[2020-08-05-cagan-minimum-viable-product-for-platforms]] — root video for the four types + the platform nuance.
+- [[inspired]] — Chs 20–22 are the book-form origin of the *prototype-as-primary-artifact* discipline: **Ch 20 "Minimal Product"** proposes the high-fidelity prototype with the **minimal functionality** to meet business objectives, validated with users before committing engineers; **Ch 21 "Product Validation"** names the three validations (feasibility / usability / value); **Ch 22 "Prototype Testing"** covers how to run the tests. **Lineage note — MVP framing (1st ed, 2008):** Ch 20's *minimal product* language is the 2008 form of what the industry came to call MVP. Cagan has since spent years criticizing how MVP is misused — most notably [[2020-08-05-cagan-minimum-viable-product-for-platforms|"Minimum Viable Product for Platforms"]] (2020) — because teams routinely ship the MVP as *the product* instead of using it as a build-to-learn artifact. The modern SVPG canon replaces "MVP" with **prototypes** (four types, build-to-learn) and reserves *the actual product* for build-to-earn ([[build-to-learn-vs-build-to-earn]]). When citing Ch 20, use `[[inspired]] Ch 20 (1st ed, 2008)` and flag the MVP-superseded-by-prototypes lineage.
+- [[2020-08-05-cagan-minimum-viable-product-for-platforms]] — root video for the four types + the platform nuance; Cagan's mature critique of MVP framing.
 - [[2024-01-12-cagan-understanding-product-management-and-agile-design-better]] — corroborates the four types (user, feasibility, live-data, hybrid).
 - [[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]] — never commit a date without a feasibility prototype.

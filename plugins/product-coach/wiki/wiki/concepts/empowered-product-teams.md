@@ -4,10 +4,10 @@ type: concept
 aliases: [empowered-team, empowered-product-team, product-team]
 status: drafting
 tags: [product-team, empowerment, core-concept]
-sources: ["[[transformed]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2018-10-31-cagan-empowered-product-teams]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2016-05-03-cagan-product-success]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2020-02-24-cagan-team-objectives-overview]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2018-10-31-cagan-empowered-product-teams]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2016-05-03-cagan-product-success]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2020-02-24-cagan-team-objectives-overview]]", "[[inspired]]"]
 related: ["[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[sense-of-ownership]]", "[[collaboration]]", "[[the-product-team-trio]]", "[[feature-teams-vs-product-teams]]", "[[missionaries-vs-mercenaries]]", "[[empowered-engineers]]", "[[overview]]", "[[feature-team-vs-empowered-team]]", "[[outcome-vs-output-orientation]]", "[[model-maturity]]", "[[spotify-discover-weekly]]", "[[okrs]]", "[[team-objectives]]"]
 created: 2026-06-14
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # Empowered Product Teams
@@ -19,6 +19,9 @@ Everything else in the model rests on this unit. Without empowered teams you hav
 
 ## How it works
 A cross-functional team (product manager, product designer, engineers — the [[the-product-team-trio|trio]], plus the full eng team) is assigned a [[team-objectives|team objective]] (a significant problem + measures of success) — via [[okrs|OKRs]], which Cagan calls "first and foremost an *empowerment* technique" ([[2020-02-24-cagan-team-objectives-overview|canon]]). The team owns both [[product-discovery|discovery]] (finding a solution worth building, against the [[the-four-big-risks|four risks]]) and [[product-delivery|delivery]] (building and shipping it), and is judged on the [[outcomes-over-output|outcome]]. It runs on [[collaboration]], not hand-offs, and depends on a culture of [[trust-over-control]].
+
+### The trust-gap diagnosis ([[empowered|EMPOWERED]] Ch 4)
+The book's founding question: *why*, given how many books argue for empowered teams, do most companies still not? The CEO answer boils down to **trust** — leaders don't believe they have the level of people needed to truly empower them. Cagan's response is the book's thesis: *"having worked with many people at each of these companies, I point out how ordinary the vast majority of the people on these teams actually are. Maybe the important difference lies elsewhere?"* The subtitle — *Ordinary People, Extraordinary Products* — is that hypothesis: strong product companies **leverage ordinary talent differently**, they don't hire different humans. Backs the "empowerment is not backing off" note further down and connects to [[product-leadership]] (better leadership, not less).
 
 ### Two axes (per [[2021-04-27-cagan-product-vs-project-teams|Cagan]])
 - **Empowerment** (product vs. feature) — given problems, not features ([[feature-teams-vs-product-teams]]).
@@ -57,3 +60,5 @@ _Field note placeholder — where do your teams sit between feature team and emp
 - [[2024-03-16-huryn-product-model-first-principles-part-1]] — supporting explainer; Four Product Team Principles; *EMPOWERED* definition.
 - [[2023-10-19-cagan-sunden-product-model-at-spotify]] — Ek gave the team a problem despite his skepticism; the 5% rollout rule; backs [[spotify-discover-weekly]].
 - [[2020-02-24-cagan-team-objectives-overview]] — OKRs as an empowerment technique; the empowered-team prerequisite; see [[okrs]].
+- [[empowered]] — **primary (book-length)**; Ch 4 the trust-gap diagnosis + subtitle *"Ordinary People, Extraordinary Products"*; Ch 53 the litmus test (*"the team is able to decide the best way to solve the problems they have been assigned"*).
+- [[inspired]] — **primary (book-length)**; Ch 9 the team-of-missionaries origin + team-empowerment-and-accountability principle.
