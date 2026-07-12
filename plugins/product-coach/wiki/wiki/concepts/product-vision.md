@@ -29,6 +29,32 @@ Cagan: the product vision is "the future you are trying to create and, most impo
 - **Most common failure:** abandoning the vision **too soon** (6–12 months), usually because the team lacks the discovery skills to make progress on the hard problems.
 - **Help with this:** a [[product-coach|product leadership coach]] — or, as a second option, a "vision sprint" agency.
 
+### The [[inspired|INSPIRED]] Ch 24 + 25 grounding
+INSPIRED 2nd ed Ch 24 grounds the wiki's use of *vision as inspiration + strategy as focus*: *"The difference between vision and strategy is analogous to the difference between good leadership and good management. Leadership inspires and sets the direction, and management helps get us there."* And: *"the product vision should be inspiring, and the product strategy should be focused."*
+
+**Ch 24's core framing:**
+- Vision = the future we're trying to create, **2–5 years for software, 5–10 for hardware/devices**.
+- Vision ≠ **mission statement.** *"Mission statements are useful, but they don't say anything about how we plan on accomplishing that. That's what the product vision is for."*
+- Vision is **not a spec.** *"It's mainly a persuasive piece that might be in the form of a storyboard, a narrative such as a white paper, or a special type of prototype referred to as a visiontype."*
+- Primary purpose: *"to communicate this vision and inspire the teams (and stakeholders, investors, partners — and, in many cases, prospective customers)."*
+- Vision is *"one of our most effective recruiting tools"* — *"strong technology people are drawn to an inspiring vision — they want to work on something meaningful."*
+- **Vision is a leap of faith.** *"You likely don't know how, or even if, you'll be able to deliver on the vision. But remember you have several years to discover the solutions."*
+- **One vision per organization**, not per team. *"The idea is that our organization has a product vision, and all the product teams in that organization are helping to contribute to making that vision a reality."* Large orgs with distinct business units may each have their own.
+
+### The 10 principles for product vision ([[inspired|INSPIRED]] Ch 25)
+Ch 25 enumerates 10 principles for a strong product vision — coach-ready:
+
+1. **Start with why** (Simon Sinek). *"Use the product vision to articulate your purpose. Everything follows from that."*
+2. **Fall in love with the problem, not with the solution.**
+3. **Don't be afraid to think big with vision.** *"Too often I see product visions that are not nearly ambitious enough."*
+4. **Don't be afraid to disrupt yourselves** — because if you don't, someone else will.
+5. **The product vision needs to inspire.** *"It is the product vision that will inspire missionary-like passion in the organization."*
+6. **Determine and embrace relevant and meaningful trends.** *"It is not very hard to identify the important trends. What's hard is to help the organization understand how those trends can be leveraged by your products to solve customer problems in new and better ways."*
+7. **Skate to where the puck is heading, not to where it was.** *"Some product visions are wildly optimistic and unrealistic about how fast things will change, and others are far too conservative. This is usually the most difficult aspect of a good product vision."*
+8. **Be stubborn on vision but flexible on the details** (Jeff Bezos). *"So many teams give up on their product vision far too soon."* Vision pivots are usually *"a sign of a weak product organization."* Discovery pivots (adjusting course to reach the destination) are fine.
+9. **Realize that any product vision is a leap of faith.** *"If you could truly validate a vision, then your vision probably isn't ambitious enough. It will take several years to know."*
+10. **Evangelize continuously and relentlessly.** *"There is no such thing as over-communicating when it comes to explaining and selling the vision."* See [[product-evangelism]].
+
 ### The book-form ([[empowered|EMPOWERED]] Ch 3)
 EMPOWERED Ch 3 grounds the vision inside the four leadership responsibilities and adds three phrasings the wiki now cites:
 - The **North Star** framing — *"no matter what product team you're on, and whatever specific problem you're trying to solve, you can all see and follow the North Star."*

@@ -6,7 +6,7 @@ status: mature
 tags: [product-team, outcomes, roadmaps, first-principles]
 group: product-team
 order: 2
-sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]"]
+sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]"]
 related: ["[[empowered-with-problems-to-solve]]", "[[team-objectives]]", "[[innovation-over-predictability]]", "[[time-to-money]]", "[[principles-of-product-teams]]", "[[okrs]]", "[[the-point-is-outcomes]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-06-14
 updated: 2026-07-12
@@ -18,6 +18,8 @@ updated: 2026-07-12
 
 ## The belief behind it
 Features are a cost, not a benefit; the benefit is the problem they solve. Outcomes are "why you take action" — they can benefit the company or provide value to customers — whereas output is just what got built (see [[2024-03-16-huryn-product-model-first-principles-part-1]]). Cagan recommends **outcome-based roadmaps** (*TRANSFORMED* Ch. 8). This principle is the operational consequence of [[empowered-with-problems-to-solve]].
+
+**Earliest plain-language statement (2016).** Cagan traces his own belief in this principle back to Hewlett-Packard, where the internal "MBO" performance-management training carried the tagline *"When Performance Is Measured By Results"* — "you can release all the features you want, but if it doesn't solve the underlying business problem, you haven't really solved anything" ([[2016-02-09-cagan-when-performance-is-measured-by-results|canon]]). See [[okrs]] for the fuller MBO → OKR lineage this seeds.
 
 ## What it looks like when followed
 Roadmaps and OKRs are framed as outcomes ("reduce churn," "raise activation"), not feature lists with dates. Teams happily kill a built feature that didn't move the outcome, and reviews ask "did the metric move?" rather than "did we ship the backlog?"
@@ -62,3 +64,4 @@ Assign trios **product outcomes**. Leading > lagging: Torres's Sonja Martin / ta
 - [[2024-03-16-huryn-product-model-first-principles-part-1]] — supporting explainer; Principle 2.
 - [[2025-03-17-cagan-castro-outcomes-are-hard]] — outcomes as a consequence of the model; KPIs ≠ outcomes; telemetry; product/business outcomes vs impact.
 - [[continuous-discovery-habits]] — [[teresa-torres|Torres]] Ch 3 (the business-vs-product-vs-traction taxonomy, leading vs lagging, two-way negotiation of the outcome, Sonja Martin/tails.com example). The wiki's Torres-outcomes nuance is corrected here: *"change in human behavior"* is Josh Seiden's phrasing (Ch 3 epigraph), not Torres's own definition; Torres's operational definition of a product outcome is *"a metric the trio can influence"* — closer to Cagan's usage than the wiki previously implied.
+- [[2016-02-09-cagan-when-performance-is-measured-by-results]] — the earliest-dated plain-language statement of this principle, via HP's MBO tagline; the historical root that predates the 2020 Team Objectives series.

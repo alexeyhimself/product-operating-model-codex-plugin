@@ -5,10 +5,10 @@ aliases: [engineers, tech-lead, engineering, empowered-engineer]
 status: drafting
 tags: [competency, engineers, tech-lead, trio, feasibility, delivery, innovation]
 role: The members of the product team accountable for feasibility risk and product delivery; the single most important source of innovation in a strong product company. The Tech Lead is the engineer in the trio.
-sources: ["[[transformed]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]"]
 related: ["[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[empowered-engineers]]", "[[product-delivery]]", "[[the-four-big-risks]]", "[[missionaries-vs-mercenaries]]", "[[delivery-manager]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-07-12
 ---
 
 # Engineers (and the Tech Lead)
@@ -39,6 +39,28 @@ Empowerment is **not**:
 - Engineers are the easiest tell for [[missionaries-vs-mercenaries|missionaries vs mercenaries]] — outsourced engineering is literal mercenary work.
 - "Engineering-driven" cultures are usually the **easiest** to transform into world-class product companies — they have the hardest part right already.
 
+## The [[inspired|INSPIRED]] Ch 12 grounding
+INSPIRED 2nd ed Ch 12 is Cagan's PM-facing framing of *how to work with engineers*. **Ch 12's opening:** *"There's probably no more important relationship for a successful product manager than the one with your engineers. If your relationship is strong, with mutual and sincere respect both ways, then the product manager job is great. If your relationship is not strong, your days as product manager will be brutal (and probably numbered)."*
+
+### Ch 12's PM-side disciplines
+- **Do your homework.** *"Engineers are typically smart and often skeptical by nature, so if you're bluffing, they likely won't be fooled. If you don't know something, it's much better to fess up and say you'll find out rather than try to bluster."*
+- **Develop programming literacy.** If PMs weren't engineers, Cagan strongly encourages taking a class *"at a local community college or online education where you'll learn a programming language."* Purpose: *"to significantly improve your ability to engage with and collaborate with your engineers"* + *"give you a much better appreciation for technology and the art of the possible."* Not to start telling engineers how to do their job.
+- **Share your homework.** *"It's also critical that you share very openly what you know about your customers — especially their pain — the data, and your business constraints. Your job is to bring this information to your team and then to discuss the various potential solutions to these problems."*
+- **Engage daily on two axes** — (1) soliciting engineer ideas + input on things you're working on in discovery, and (2) responding to engineer clarifying questions on things they're delivering.
+- **Don't spell out the how.** *"Just as most product managers don't like it when an executive or stakeholder spells out exactly what they want you to build, engineers generally don't like it when you try to spell out how to build something."* Latitude in coming up with the best solution matters — *"they are the ones who will be called in the middle of the night to fix issues if they arise."*
+- **Own team morale.** *"The morale of the engineers is very much a function of you as the product manager. It is your job to make sure they feel like missionaries and not mercenaries."* By involving them in customer pain + business problems — *"don't try to shelter them from this."*
+
+### The Tech Lead role (Ch 12)
+Ch 12 grounds the career progression + the Tech Lead as a distinct role: *"in general, from the product management perspective, any senior engineer is helpful because of the broad knowledge he or she brings that pertains to what is possible. However, a tech lead not only has this knowledge — and is responsible for helping to share this knowledge with the other engineers on the team — but the tech lead also has an explicit responsibility to help the product manager and product designer discover a strong solution."*
+
+**The load-bearing standard for a team's discovery capacity** (Ch 12):
+> *"Not every engineer or even senior engineer wants to participate in discovery activities, and this is fine. What's not okay is to have a team of engineers in which none of them wants to engage in discovery activities."*
+
+Multiple Tech Leads per team is *"all the better."*
+
+### Ch 12 on communication style
+*"It's also worth pointing out that engineers often have different work styles, which is also true for many designers. The product manager needs to be sensitive to the best way to interact. For example, many product managers are happy to speak in front of a larger group, or even a group of senior executives, but many engineers or designers are not. It's important to be sensitive to this."*
+
 ## Common failure modes
 - **Sprint-planning surprise** — engineers first see ideas as Jira tickets at sprint planning. The diagnostic above.
 - **Outsourced engineering** — Cagan: "a strong tech-powered product company would no sooner outsource their engineers than they would outsource their CEO."
@@ -65,3 +87,4 @@ _Field note placeholder — when did your engineers last see a real customer? Wh
 - [[2023-03-15-cagan-product-model-competencies]] — Cagan's risk-ownership table (Tech Lead = feasibility, delivery).
 - [[2020-04-20-cagan-the-most-important-thing]] — the canonical case for the empowered engineer.
 - [[2020-10-30-cagan-discovery-delivery]] — engineers stay engaged with discovery; one team does both.
+- [[inspired]] Ch 12 — **primary (book-length)**; the PM-facing framing of the engineer relationship. *"There's probably no more important relationship."* The PM-side disciplines (do your homework · develop programming literacy · share your homework · engage daily on two axes · don't spell out the how · own team morale). The **Tech Lead role** as the engineer who explicitly helps PM + designer discover strong solutions; the *"what's not okay is a team where none of them wants to engage in discovery"* standard. Deep-read in the INSPIRED 2nd-ed close-the-gaps pass (2026-07-12).

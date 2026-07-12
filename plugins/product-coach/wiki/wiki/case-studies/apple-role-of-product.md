@@ -5,10 +5,10 @@ aliases: [apple-role-of-product, product-at-apple, apple-succession]
 status: drafting
 tags: [case-study, apple, founder-style-leadership, succession, ceo-as-head-of-product, value, cautionary]
 org: "[[apple]]"
-sources: ["[[2007-01-27-cagan-lessons-from-apple]]", "[[2015-08-03-cagan-the-role-of-product-at-apple]]"]
+sources: ["[[2007-01-27-cagan-lessons-from-apple]]", "[[2015-08-03-cagan-the-role-of-product-at-apple]]", "[[2023-11-28-cagan-alternatives-to-product-managers]]"]
 related: ["[[apple]]", "[[founder-style-leadership]]", "[[product-leadership]]", "[[product-manager]]", "[[the-four-big-risks]]", "[[product-designer]]", "[[product-marketing]]"]
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # The Role of Product at Apple
@@ -38,6 +38,9 @@ Crucially, Cagan distinguished the **true product role** from the "**fill the wh
 ## Outcome / open question
 Cagan ended "rooting for Apple," granting a mulligan on the first Watch — the piece poses a question rather than declaring a verdict.
 
+## 2023 coda — the answer, named explicitly
+[[2023-11-28-cagan-alternatives-to-product-managers|Eight years later, Cagan answered his own 2015 question directly]]: Apple's route to "re-establish the product competency" was, on its core consumer devices, **option 3 — the true product role**, but held by product *leaders* rather than individual-contributor PMs. Cagan calls this "the most under-appreciated aspect of Apple's version of the product model": no dedicated PMs, but a remarkable bench of product leaders "deeply engaged with the product teams on value and viability, as well as product vision, product strategy, team topology" — on top of coaching and developing their own teams. This model works for a **small number of very complex products** where a seamless whole matters more than speed; Apple's larger population of diverse services and apps looks more like conventional individual-contributor product management. The trade-off named in 2015 (bottlenecks, slower pace) is the same one Cagan names again in 2023 — it isn't resolved, it's the *price* of this particular alternative.
+
 > **⚠️ Wiki synthesis / point-in-time flag.** The 2015 article is a *2015* product critique. The Apple Watch subsequently became commercially very successful (the best-selling watch in the world), so Cagan's specific product verdict didn't age as a business prediction. That does **not** undercut the article's structural argument, which is what the wiki keeps: **product judgment concentrated in one leader is a succession risk**, and re-establishing a real [[product-leadership|product competency]] — not just heroic "ship it" energy — is the durable answer. Treat Apple here as **exemplar-with-caveats**, distinct from the cleaner Amazon/Spotify/Google cases.
 
 ## What it illustrates
@@ -50,3 +53,4 @@ A visionary founder *can* be the head of product — but if the company never bu
 ## Sources
 - [[2007-01-27-cagan-lessons-from-apple]] — the four Jobs-era lessons (hardware→software→UX→emotion→real need); value as Apple's hallmark.
 - [[2015-08-03-cagan-the-role-of-product-at-apple]] — the post-Jobs product-competency question; the three options; the true product role vs "fill the white space."
+- [[2023-11-28-cagan-alternatives-to-product-managers]] — the 2023 answer to the 2015 question: Apple's core devices run on product-leader-driven product management, not individual-contributor PMs.

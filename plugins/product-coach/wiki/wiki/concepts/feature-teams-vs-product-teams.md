@@ -4,10 +4,10 @@ type: concept
 aliases: [feature-teams-vs-product-teams, feature-vs-product-teams, feature-team]
 status: drafting
 tags: [team-models, anti-pattern, empowerment, ownership]
-sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]", "[[2023-11-28-cagan-alternatives-to-product-managers]]", "[[2007-10-10-cagan-product-management-vs-project-management]]"]
 related: ["[[empowered-product-teams]]", "[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[sense-of-ownership]]", "[[feature-team-vs-empowered-team]]", "[[product-management-theater]]"]
 created: 2026-06-20
-updated: 2026-07-03
+updated: 2026-07-12
 ---
 
 # Feature Teams vs Product Teams (and Project Teams)
@@ -31,7 +31,7 @@ Where the wiki uses "feature team," the mental model is a *cross-functional but 
 
 ## Why feature teams underperform
 - **No accountability for results** — feature teams deliver *output*; outcomes belong to whoever requested the feature. So the team can ship and still produce no value.
-- **Stakeholder-as-PM** — the feature is a *potential* solution to some underlying problem, designed by stakeholders far from users/technology.
+- **Stakeholder-as-PM** — the feature is a *potential* solution to some underlying problem, designed by stakeholders far from users/technology. [[2023-11-28-cagan-alternatives-to-product-managers|Cagan]] names this the most common alternative to a dedicated PM — founder/stakeholder-driven product management — and calls it "the root cause of most failed efforts." A related, older tell: the titled "product manager" on a feature team is, functionally, a *project* manager — a conflation with historical roots in shipped-software titling ([[2007-10-10-cagan-product-management-vs-project-management|canon, 2007]]).
 - **Mercenary engineers** — engineers build what's specified; they aren't asked what's *just now possible*. Loses the best source of innovation ([[empowered-engineers]]).
 - **Orphaned features** — features that don't produce value but don't get follow-up iterations. Tech debt accumulates.
 - **Cited stat:** only **10–20%** of features on typical roadmaps generate positive ROI ([[2022-09-20-moore-changing-how-you-solve-problems|canon]]).
@@ -70,3 +70,5 @@ _Field note placeholder — pick one of your teams. Are they given problems or f
 - [[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]] — the "three models" spoken framing; when the product model doesn't apply.
 - [[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]] — roadmaps and feature teams go hand in hand.
 - [[empowered]] Ch 1 — **primary (book-length)**; the three-type framing (empowered / feature / delivery); the SAFe callout footnote. Deep-read in EMPOWERED Pass 1 (2026-07-12).
+- [[2023-11-28-cagan-alternatives-to-product-managers]] — founder/stakeholder-driven product management as the most common alternative to a dedicated PM, and "the root cause of most failed efforts."
+- [[2007-10-10-cagan-product-management-vs-project-management]] — the historical origin of the feature-team-PM-is-secretly-a-project-manager tell.

@@ -5,10 +5,10 @@ aliases: [product-leadership, head-of-product, head-of-design, head-of-engineeri
 status: drafting
 tags: [competency, product-leadership, management, leadership, strategic-context]
 role: The managers and leaders of product management, product design, and engineering. Responsible for coaching and staffing the people, and for providing the strategic context (vision, principles, topology, strategy, team objectives, evangelism) that empowered teams need to make good decisions.
-sources: ["[[transformed]]", "[[empowered]]", "[[inspired]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2015-06-27-cagan-leadership-vs-management]]", "[[2023-12-05-cagan-alternatives-to-product-leaders]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2018-10-31-cagan-empowered-product-teams]]", "[[2019-04-24-cagan-the-greatest-coach]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2024-06-01-product-collective-what-every-product-leader-needs-to-know]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2024-03-28-cagan-worrisome-trends-product-people]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2015-08-03-cagan-the-role-of-product-at-apple]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[inspired]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2015-06-27-cagan-leadership-vs-management]]", "[[2023-12-05-cagan-alternatives-to-product-leaders]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2018-10-31-cagan-empowered-product-teams]]", "[[2019-04-24-cagan-the-greatest-coach]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2024-06-01-product-collective-what-every-product-leader-needs-to-know]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2024-03-28-cagan-worrisome-trends-product-people]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2015-08-03-cagan-the-role-of-product-at-apple]]", "[[2023-11-28-cagan-alternatives-to-product-managers]]"]
 related: ["[[empowered-product-teams]]", "[[product-coaching]]", "[[product-strategy]]", "[[product-vision]]", "[[team-objectives]]", "[[team-topology]]", "[[trust-over-control]]", "[[principles-over-process]]", "[[transformation]]", "[[transformation-politics]]", "[[founder-style-leadership]]", "[[product-sense]]", "[[bill-campbell]]", "[[product-ops]]", "[[hiring-and-onboarding]]", "[[lea-hickman]]", "[[amazon-prime]]", "[[google-product-model]]", "[[apple-role-of-product]]", "[[okrs]]"]
 created: 2026-06-20
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # Product Leadership
@@ -66,7 +66,7 @@ Cagan's fullest recent statement of what "better leadership" means is [[founder-
 ### In the exemplars (case studies)
 - **Amazon — Single-Threaded Leaders.** Durable, empowered leaders with strong [[product-sense|product sense]]; "leaders develop leaders and take seriously their role in coaching others." Cagan: "more than anything else … the key to Amazon's ongoing success" ([[amazon-prime]]).
 - **Google — "experts lead experts."** The **Tech Lead Manager** and **Group Product Manager** are technically-competent management units, so no separate "coordinator" layer is needed — the concrete embodiment of *better* management, not less. GPMs are "true [[missionaries-vs-mercenaries|missionaries]]" who earned the role through years of product success ([[google-product-model]]).
-- **Apple — the cautionary counter-case.** When product judgment rests on **one** leader (Steve Jobs) and no durable product competency is built beneath, product quality is one departure away from collapse. The [[apple-role-of-product|Role of Product at Apple]] case is the succession/"CEO as head of product" warning — institutionalize product leadership (as Amazon/Google do) rather than resting it on a single person.
+- **Apple — the cautionary counter-case, and the third alternative to a dedicated PM.** When product judgment rests on **one** leader (Steve Jobs) and no durable product competency is built beneath, product quality is one departure away from collapse. The [[apple-role-of-product|Role of Product at Apple]] case is the succession/"CEO as head of product" warning — institutionalize product leadership (as Amazon/Google do) rather than resting it on a single person. Apple's *post*-Jobs answer, [[2023-11-28-cagan-alternatives-to-product-managers|named explicitly by Cagan in 2023]], is also the clearest real-world case of **product-leader-driven product management** — value and viability owned directly by exceptionally strong product leaders rather than individual-contributor PMs. It only works with Apple-caliber leadership depth (10–25 years), and it costs speed (leaders become bottlenecks); see [[product-manager]] for the three-alternatives framing this is one instance of.
 
 ## Retired proposal — The "Product Council" ([[inspired|INSPIRED]] Ch 14, 1st ed, 2008)
 > **Voice: wiki synthesis of canon lineage.**
@@ -108,6 +108,70 @@ Cagan's Ch 5 of *[[transformed|TRANSFORMED]]* is his sharpest short statement of
 - **The blunt guidance:** *"If this is something your CEO is unwilling or unable to do, then you can likely save yourself a lot of time, money, and effort by reassessing your readiness."* Feeds [[transformation-readiness]] Lens 2 (leadership readiness).
 - **The upside case for the CEO:** a company operating in the product model improves the situation for everyone — pride in products, more for marketing to position, more for sales to sell, financial impact, morale, retention. There's *"a strong case to be made to justify the active help and support of the CEO."*
 
+## The [[inspired|INSPIRED]] Chs 16 + 17 + 18 grounding
+INSPIRED 2nd ed grounds the three holistic-view leadership roles that shape empowered product organizations at scale. Ch 16 (Role of Leadership) frames the "holistic view of product" imperative; Ch 17 (Head of Product) is Cagan's fullest treatment of the VP-product role; Ch 18 (Head of Technology, co-authored with Chuck Geiger) sets the CTO's six responsibilities.
+
+### The holistic-view leadership roles (Ch 16)
+*"One of the big challenges of growth is knowing how the whole product hangs together."* Ch 16's three critical elements — needed as soon as an org has more than a couple of product teams:
+
+1. **Leaders of Product Management** (VP product · directors · principal product manager) — hold the **business point-of-view of the whole system**: vision, strategy, functionality, business rules, business logic. Reviews product work across teams; resolves conflicts. *"Critically essential for companies with large and complex business systems, especially with many legacy systems."*
+2. **Leaders of Product Design** — hold the **holistic user experience**. *"Someone very strong in holistic product design"* who reviews *"everything going on with the product that is going to be visible to the user."* No individual PM or designer can hold this alone.
+3. **Leaders of Technology Organization** (CTO / VP eng, often helped by architects) — hold the **holistic system implementation**: architecture, systems design, technical-debt strategy across in-house and vendor systems.
+
+**Ch 16's diagnostic signals when a role is missing:**
+- *"If the product or site looks like it was created by half a dozen different outside design agencies, with conflicting user models and poor usability, you're probably missing a head of design or principal designer."*
+- *"If projects are constantly getting stuck because product managers don't understand the implications of their decisions or product managers are constantly asking developers to look at the code to tell them how the system really works, then you're probably missing a principal product manager."*
+- *"If your software is a big mess of spaghetti and it takes forever to make even simple changes, you're probably suffering from significant technical debt."*
+
+**Ch 16's staffing advice:**
+- *"First and foremost, don't lose these people!"* Take care of them; don't force them into management to make more money.
+- *"You should always be trying to develop more of these people, and each of them should have at least one person they're working to develop into a strong second."*
+- **Documentation-as-substitute** doesn't work: *"I have never seen this succeed. The systems always seem to grow in complexity and size much faster than anyone can document, and with software, the definitive answer always lives in the source code itself."*
+- **Physical co-location** — *"my personal preference is to have these three people sit very close to one another, sometimes in the same physical office."*
+
+### Head of Product — 4 competencies + experience + chemistry (Ch 17)
+Ch 17 is Cagan's PM-facing template for **hiring the VP product**. Written for CEOs, current VP products, and aspiring VP products.
+
+**Four key competencies:**
+
+1. **Team development** — *"The single most important responsibility of any VP product is to develop a strong team of product managers and designers."* Recruiting, training, ongoing coaching = top priority. *"Developing great people requires a different set of skills than developing great products, which is why many otherwise excellent product managers and designers never progress to leading organizations."*
+   - **Ch 17's warning:** *"One of the worst things you can do is take one of your poor-performing people and promote them to this leadership position."* Doesn't matter that stakeholders like them.
+2. **Product vision and strategy** — Ch 17 names **two different types of head-of-product** for two different situations:
+   - Where there's a CEO or founder who IS the clear product visionary → VP product's job is largely to execute the vision. Strong-visionary VP candidates often don't want this role.
+   - Where there's no clear product visionary → VP product must supply it.
+   - **Two bad situations Ch 17 flags:**
+     - Strong-visionary CEO hires someone in her own image → *"typically an immediate clash and a short tenure for the VP product. If this position looks like a revolving door, it's very possible that's what's going on."*
+     - Non-visionary CEO hires someone in her own image → *"leaves a serious void in terms of vision, and this causes frustration among the product teams, poor morale across the company, and usually a lack of innovation."*
+   - **The founder-departure trap:** *"When you have a visionary founder CEO, and she has a solid partner running product who is very strong at execution, but the founder eventually leaves and now the company has a problem because nobody is there to provide the vision."* Cagan's preference: *"founders stay on at the company, even if they decide they want to bring in someone else as the CEO."*
+3. **Execution** — *"All the great vision in the world doesn't mean much if you can't get the product idea into the hands of customers."* VP product must be expert on modern product planning, customer + product discovery, and product development process, plus stakeholder management + internal evangelism proportional to org size.
+4. **Product culture** — good = strong team + solid vision + consistent execution. Great = adds a strong culture: continuous rapid testing + learning, mistakes to learn from (quickly, with mitigated risk), continuous innovation, true collaboration, respect for designers and engineers. *"A strong VP product will understand the importance of a strong product culture, be able to give real examples of her own experiences with product culture, and have concrete plans for instilling this culture in your company."*
+
+**Experience** — depends on company/industry but at minimum: *"strong technology background with an understanding of the economics and dynamics of your business and your market."*
+
+**Chemistry** — *"Your product leader must be able to work well on a personal level with the other key execs, especially the CEO and CTO."* Include a long dinner with CEO + CTO (+ head of marketing + head of design) in the interview process.
+
+### The Group Product Manager (GPM) — the player-coach role (Ch 17)
+Ch 17 is Cagan's fullest description of the **GPM as a player-coach hybrid**:
+- **The GPM is the actual PM for one team**, PLUS coaches 1–3 additional PMs (typically for tightly-coupled adjacent teams).
+- **Two career-path stages meeting:** the individual-contributor ladder (senior → principal PM) and the functional-management ladder (director of PM). *"Lots of strong senior product managers are not sure about their preferred career path at this stage, and the GPM role is a great way to get a taste of both worlds."*
+- **When it fits:** Cagan's marketplace example — 10 teams split into 3 groups (platform, buyer-side, seller-side). One VP product; three GPMs (one per group). GPM of buyer-side is PM for one buyer-side team and coaches the other two buyer-side PMs.
+- **Why:** *"The buyer side really needs to be one seamless solution, even though there may be multiple product teams working on different aspects of it. The GPM works very closely with the other PMs to ensure this."*
+- **Career outcomes:** some GPMs move to director/VP; some to principal PM; some stay as GPM permanently *"because they love the blend of hands-on working with their own product team, as well as the ability to influence other teams and other product managers through coaching."*
+
+### Head of Technology — the CTO's six responsibilities (Ch 18, co-author Chuck Geiger)
+*"The hallmark of a great CTO is a commitment to continually strive for technology as a strategic enabler for the business and the products. Removing technology as a barrier, as well as broadening the art of the possible for business and product leaders, is the overarching objective."*
+
+Ch 18 explicitly names **the CIO reporting-line as a red flag** (grounded already on [[it-to-product-organization]] via [[empowered|EMPOWERED]] Ch 2): *"if your technology organization reports to the CIO, that is a warning flag for many of the pathologies discussed in Chapter 6, 'The Root Causes of Failed Product Efforts.'"*
+
+**The six CTO responsibilities in priority order:**
+
+1. **Organization** — build an excellent org with strong managers committed to developing employees. Measured: development plans · retention rate · evaluation of managers.
+2. **Leadership** — represent technology in overall strategic direction, working with other execs on direction · M&A · build/buy/partner decisions.
+3. **Delivery** — rapid, reliable, repeatable delivery of quality product. Measured: consistency + frequency of releases · quality/reliability. *"The main obstacle to rapid delivery is often technical debt, and it is the responsibility of the CTO to ensure that the company is keeping this at a manageable level."*
+4. **Architecture** — capable of functionality, scalability, reliability, security, performance. In multi-product-line orgs, the CTO is *"the orchestrator of a company-wide technology strategy"* — the sum, not just the parts. Measured: infrastructure continuously monitored + advanced; customer-impacting outages traced to infrastructure/architecture.
+5. **Discovery** — *"Make sure that members of the senior engineering staff are participating actively and contributing significantly throughout product discovery. If your engineers and architects are only being used to write software, then you are only getting a fraction of the value from them you should be."* Measured: engineering participation in discovery (duration + coverage) + frequency of innovations credited to engineering participants.
+6. **Evangelism** — CTO as spokesperson for engineering — with developers, partners, customers. Measured: university relations / recruitment programs + sponsored/participated developer-community events per year.
+
 ## The executive partnership (Ch 26 → framework page)
 Part VI, Ch 26 of *TRANSFORMED* is Cagan's fullest treatment of the *product-team ↔ executive* relationship — organized around six named elements: **Decisions · Outcomes · Disagreements · Promises · Surprises · Trust**. The wiki treats this as its own framework page: [[partnering-with-executives]]. It's the coaching artifact for a product leader establishing (or repairing) the working model with an executive team. Ch 26's opening premise is worth remembering when coaching leaders who conflate empowerment with executive-back-off: *"'Please just back off and give the product teams space to do their work'… ignores the reality that executives have very real needs when it comes to running the company responsibly and effectively."* In the product model teams need *frequent, high-quality* executive interaction — the **nature**, not the frequency, changes.
 
@@ -142,6 +206,8 @@ _Field note placeholder — can each product leader articulate their team's visi
 - [[2024-03-26-cagan-russell-product-model-at-amazon]] — Single-Threaded Leaders as the key to Amazon's success; backs [[amazon-prime]].
 - [[2025-12-19-cagan-lieberich-product-model-at-google]] — TLM/GPM; "experts lead experts"; better management, not less; backs [[google-product-model]].
 - [[2015-08-03-cagan-the-role-of-product-at-apple]] — the succession / re-establishing-product-competency case; backs [[apple-role-of-product]].
+- [[inspired]] Chs 16 + 17 + 18 — **primary (book-length)**; the three holistic-view leadership roles (Ch 16) + the head-of-product's 4 competencies + GPM player-coach role (Ch 17) + the CTO's 6 responsibilities (Ch 18, co-author Chuck Geiger). Deep-read in the INSPIRED 2nd-ed close-the-gaps pass (2026-07-12).
+- [[2023-11-28-cagan-alternatives-to-product-managers]] — product-leader-driven product management as one of three alternatives to a dedicated PM; Apple as the worked example; the bottleneck/speed trade-off.
 - [[2020-03-04-cagan-team-objectives-action]] — leaders' explicit job to assign problems to teams; key results come from the team. See [[okrs]].
 - [[2020-03-04-cagan-team-objectives-management]] — active management of objectives via weekly check-ins; manage by coaching, not command-and-control.
 - [[inspired]] — Ch 14 "The Product Council" (1st ed, 2008): Cagan's earlier proposal for a cross-functional executive review body making product go/no-go decisions across four milestones. Origin credited to Maynard Webb (eBay COO). **Largely retired in later canon** — replaced by product leaders providing strategic context + empowered trios making solution decisions + the executive partnership model (see the "Retired proposal" section above). Cite as `[[inspired]] Ch 14 (1st ed, 2008)` with the supersession note.

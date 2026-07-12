@@ -6,7 +6,7 @@ status: drafting
 tags: [diagnostics, hub, index, coaching, assessment]
 related: ["[[overview]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[CLAUDE]]"]
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-07-12
 ---
 
 # Diagnostics
@@ -25,30 +25,38 @@ Diagnostics are scoped — a single PM, a single team, the org as a whole. Match
 |---|---|---|
 | **One PM** | their skill, growth, or "am I a good PM?" | [[pm-competency]] |
 | **One team** | "are we a product team or a feature factory?" | [[feature-team-vs-empowered-team]] |
+| **One team** | "does our PM/designer/Tech Lead trio actually collaborate?" | [[team-collaboration-health]] |
+| **One team** | "are our engineers actually empowered, or just coding tickets?" | [[engineering-empowerment]] |
 | **One team** | "do we work on the right things or just ship?" | [[outcome-vs-output-orientation]] |
 | **One team** | "is our discovery real or theater?" | [[discovery-health]] |
 | **One team** | "is our delivery healthy?" | [[delivery-health]] |
 | **One team or PM** | "why don't stakeholders trust us?" | [[stakeholder-relationship-health]] |
+| **Whole org / product line** | "is our vision actually doing its job?" | [[vision-quality]] |
 | **Whole org** | "is our strategy real or a stakeholder roadmap?" | [[product-strategy-quality]] |
 | **Whole org** | "are our leaders set up to lead this model?" | [[leadership-readiness]] |
 | **Whole org** | "where are we against the product model overall?" | [[model-maturity]] |
 | **Whole org, before transforming** | "are we even ready to start a transformation?" | [[transformation-readiness]] |
+| **The AI-as-coach setup itself** | "is my project-files-and-instructions setup aligned with Cagan's prescription?" | [[model-as-coach-readiness]] |
 
 When unsure of scope, default to **[[model-maturity]]** (org-level, broadest) or **[[feature-team-vs-empowered-team]]** (team-level, most actionable). For pre-transformation conversations, **[[transformation-readiness]]** asks the preconditions question before anything else.
 
-## The 10 built diagnostics
+## The 14 built diagnostics
 *Ordered from most specific scope to broadest.*
 
 - **[[pm-competency]]** — a single product manager's skill across people / process / product. Cagan's PM Assessment: rate each of 13 skills on importance vs. capability; coach the top-three weighted gaps.
+- **[[engineering-empowerment]]** — are engineers on a given team empowered — given the problem and trusted to help find the solution — or treated as a build resource? The sprint-planning-first test.
+- **[[team-collaboration-health]]** — does a team's PM/designer/Tech Lead trio actually collaborate on discovery, or does one role direct the other two? Distinct from empowerment.
 - **[[feature-team-vs-empowered-team]]** — a specific team on the empowerment axis. Cagan's seven-indicator test + the Good Team / Bad Team contrast.
 - **[[outcome-vs-output-orientation]]** — a team's actual metric/incentive wiring. Do you celebrate shipping, or moving the KPI? The behavioral test of empowerment.
 - **[[discovery-health]]** — whether discovery tackles the four risks fast and cheaply, or is theater. Nine weekly oversight questions + the two-week rule.
 - **[[delivery-health]]** — small, frequent, instrumented, reversible releases — or big-bang. Customer-impact assessment + gentle deployment.
 - **[[stakeholder-relationship-health]]** — PM/stakeholder trust as the load-bearing wall under viability. Written-narrative discipline + the mojo moves.
+- **[[vision-quality]]** — is the product vision actually doing its job — inspiring, concrete, 2–5 years out — or a slogan / disguised roadmap / absent?
 - **[[product-strategy-quality]]** — whether the org has a real strategy (focus → insights → action → management), or a stakeholder roadmap dressed up.
 - **[[leadership-readiness]]** — whether product leadership delivers the five elements of strategic context and weekly coaching. The three documented failure modes.
 - **[[model-maturity]]** — whole-org rollup against the three transformation dimensions (build / solve / decide). Project model → checkbox transformation → operating in the model → exemplary.
 - **[[transformation-readiness]]** — eight readiness lenses to apply **before** starting (or restarting) a transformation. Distinct from [[model-maturity]] (current state vs. preconditions to changing it).
+- **[[model-as-coach-readiness]]** — is your AI-as-product-coach setup aligned with Cagan's prescription (product-not-project framing, coach stance, strategic context, critique-seeking)?
 
 ## What a good diagnostic does
 Per [`templates/diagnostic.md`](../templates/diagnostic.md), every diagnostic page includes:
@@ -58,13 +66,6 @@ Per [`templates/diagnostic.md`](../templates/diagnostic.md), every diagnostic pa
 4. **Socratic questions** — what an agent asks to place the user on the rubric without leading them.
 5. **What "good" looks like** — the target state, concretely.
 6. **Interventions & experiments** — small testable steps mapped to the gap, cross-referenced to [`principles`](principles/), [`frameworks`](frameworks/), and [`competencies`](competencies/).
-
-## Suggested but not yet built
-Each would fill a real gap the current diagnostics don't quite cover:
-- `team-collaboration-health` — trio dynamics; PM/designer/Tech Lead interplay. Closest existing coverage: [[feature-team-vs-empowered-team]] (which assesses empowerment, not collaboration).
-- `vision-quality` — is the vision inspiring? 2–5 years? A recruiting tool? Closest existing: a mention inside [[leadership-readiness]].
-- `engineering-empowerment` — the "first source of just-now-possible ideas" test for engineers specifically. Closest existing: [[feature-team-vs-empowered-team]] (general empowerment), [[discovery-health]] (engineer-in-discovery).
-- `model-as-coach-readiness` — project files + instructions + strategic context check, the precondition to relying on [[model-as-product-coach]]. Referenced from the concept page; would close the loop.
 
 ## Related
 - concepts: [[overview]], [[product-coaching]], [[model-as-product-coach]], [[transformation]]

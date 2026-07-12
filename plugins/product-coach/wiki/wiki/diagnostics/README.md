@@ -13,8 +13,10 @@ This folder is the engine of agents asked to coach. Each page is a diagnostic: a
 - [[product-strategy-quality]] — whether the org has a real strategy (focus → insights → action → management).
 - [[leadership-readiness]] — whether product leadership delivers strategic context and active coaching.
 - [[model-maturity]] — whole-org maturity against the three transformation dimensions (build / solve / decide).
-
-**Still suggested (not yet built):** `team-collaboration-health`, `vision-quality`, `engineering-empowerment`, `model-as-coach-readiness`.
+- [[team-collaboration-health]] — does a team's PM/designer/Tech Lead trio actually collaborate, distinct from whether it's empowered at all.
+- [[vision-quality]] — is the product vision inspiring, concrete, and 2–5 years out — or a slogan / disguised roadmap / absent.
+- [[engineering-empowerment]] — are engineers given the problem and trusted to help solve it, or treated as a build resource.
+- [[model-as-coach-readiness]] — is an AI-as-coach setup aligned with Cagan's prescription.
 
 Use the [`diagnostic`](../../templates/diagnostic.md) template.
 

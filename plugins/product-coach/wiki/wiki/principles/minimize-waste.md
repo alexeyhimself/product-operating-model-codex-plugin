@@ -6,10 +6,10 @@ status: mature
 tags: [product-discovery, waste, experimentation, first-principles]
 group: product-discovery
 order: 9
-sources: ["[[transformed]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]"]
+sources: ["[[transformed]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2007-09-25-cagan-product-discovery]]"]
 related: ["[[product-discovery]]", "[[embrace-rapid-experimentation]]", "[[assess-product-risks]]", "[[principles-of-product-discovery]]"]
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-07-12
 ---
 
 # Minimize Waste
@@ -18,6 +18,8 @@ updated: 2026-06-14
 
 ## The belief behind it
 "The first problem in product discovery is to try to solve the problem with a minimum amount of wasted time and effort" (Cagan, *TRANSFORMED*). The reason it matters: per *INSPIRED*, **at least half** of ideas won't work, and good teams assume **three quarters** won't perform as hoped. Building unvalidated ideas is therefore enormously wasteful — discovery exists to spend cheap effort (experiments) before expensive effort (engineering) (see [[2024-03-21-huryn-product-model-first-principles-part-2]]).
+
+**The founding statement of the argument (2007).** [[2007-09-25-cagan-product-discovery|Cagan]], describing what happens without discovery: a company uses its full engineering team across full release cycles just to find out whether an idea works — *"they are using the engineering organization to build a very, very expensive prototype, and they use their live customers as unwitting test subjects."* The fix — a cheap, fast, prototyper-led discovery phase before expensive full-team delivery — is the earliest-dated statement of this principle in the wiki.
 
 ## What it looks like when followed
 Risky assumptions are tested with the cheapest sufficient experiment before code is written; the team optimizes for *validated learning per unit effort*, not for keeping engineers busy building every idea.
@@ -36,3 +38,4 @@ Risky assumptions are tested with the cheapest sufficient experiment before code
 
 ## Sources
 - [[2024-03-21-huryn-product-model-first-principles-part-2]] — Principle 9; *INSPIRED* on idea hit-rate.
+- [[2007-09-25-cagan-product-discovery]] — the founding "expensive prototype / unwitting test subjects" argument; the causal link to startup failure.

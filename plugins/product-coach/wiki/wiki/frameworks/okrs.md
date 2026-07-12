@@ -4,15 +4,22 @@ type: framework
 aliases: [okrs, objectives-and-key-results, okr, okr-theater]
 status: drafting
 tags: [framework, okrs, team-objectives, outcomes, empowerment]
-sources: ["[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[transformed]]"]
+sources: ["[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[transformed]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]"]
 related: ["[[team-objectives]]", "[[outcomes-over-output]]", "[[the-point-is-outcomes]]", "[[product-strategy]]", "[[product-leadership]]", "[[empowered-product-teams]]", "[[high-integrity-commitments]]", "[[placing-bets]]", "[[google-product-model]]"]
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # OKRs
 
 > **Objectives and Key Results** — the technique for assigning outcome-based work to teams. SVPG's model-native form is **[[team-objectives|team objectives]]**: a **problem to solve** + **measures of success**. Cagan's central claim: **OKRs are first and foremost an *empowerment* technique** — they came from companies that had empowered product teams "in their DNA," and they only work in that context ([[2020-02-24-cagan-team-objectives-overview|canon]]). After years as a "vocal advocate," Cagan now **stops recommending OKRs** for most companies — because most aren't set up to use them.
+
+## Origins — from HP's MBO to OKRs
+[[2016-02-09-cagan-when-performance-is-measured-by-results|Cagan's own origin story]] (his foreword to Christina Wodtke's *Radical Focus*): he started his career as an engineer at Hewlett-Packard, and learned outcome-based performance management through HP's internal "MBO" — **Management by Objectives** — training. Two founding principles, still the DNA of OKRs:
+1. **Motivation** — General Patton's line, as HP taught it: *"Don't tell people how to do things, tell them what you need done and let them surprise you with their results."*
+2. **Measurement** — HP's own tagline of that era: *"When Performance Is Measured By Results."* You can ship every feature you planned and still have solved nothing if it didn't move the underlying business problem.
+
+MBO was later refined at other companies — "most notably Intel" — into what today is the OKR system. The failure mode Cagan names in this 2016 piece is the same one the 2020 Team Objectives series formalizes: executives hand down a feature roadmap, teams flesh out the details with little belief in the solutions, and "progress is measured by output and not outcome."
 
 ## Why most OKR rollouts fail
 Correlation vs causation: the leading tech companies aren't successful *because* they use OKRs; they use OKRs because the technique is designed to leverage the [[empowered-product-teams|empowered-team]] model. Overlay it on a feature-team culture and you get **"OKR theater"** ([[2020-02-22-cagan-product-strategy-the-missing-link|Missing Link]]). The three failure modes ([[2020-02-24-cagan-team-objectives-overview|Overview]]):
@@ -94,3 +101,4 @@ _Field note placeholder — do your key results describe outcomes or deliverable
 - [[2025-03-17-cagan-castro-outcomes-are-hard]] — outcomes as a consequence of the model; KPIs ≠ outcomes; telemetry.
 - [[2020-02-22-cagan-product-strategy-the-missing-link]] — "OKR theater"; OKRs are downstream of strategy; requisites for OKRs.
 - [[transformed]] — root source; team objectives / outcomes in the product model.
+- [[2016-02-09-cagan-when-performance-is-measured-by-results]] — origin story: HP's MBO training, the Patton motivation quote, the "measured by results" tagline, and the MBO → Intel → OKR lineage.

@@ -5,7 +5,7 @@ aliases: [product-marketing, pmm, product-marketing-manager]
 status: drafting
 tags: [competency, product-marketing, go-to-market, role]
 role: The competency that owns the market side of product-market fit — positioning, messaging, go-to-market, and channel enablement — and the partner a product manager most needs when there's a direct sales channel.
-sources: ["[[loved]]", "[[transformed]]", "[[2022-03-07-cagan-product-ops-dan-olsen]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
+sources: ["[[loved]]", "[[transformed]]", "[[inspired]]", "[[2022-03-07-cagan-product-ops-dan-olsen]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
 related: ["[[martina-lauchengco]]", "[[loved]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[pmm-pm-partnership]]", "[[pmm-marketing-partnership]]", "[[pmm-sales-partnership]]", "[[market-fit]]", "[[agile-product-marketing]]", "[[product-marketing-metrics]]", "[[product-manager]]", "[[time-to-money]]", "[[the-four-big-risks]]", "[[product-ops]]", "[[stakeholder-relationship-health]]"]
 created: 2026-07-04
 updated: 2026-07-12
@@ -26,6 +26,19 @@ Lauchengco's core framework — the book-length primary source for what product 
 Lauchengco's purpose statement (Ch 1): *"Product marketing's purpose is to drive product adoption by shaping market perception through strategic marketing activities that meet business goals."*
 
 The **foundation dependency** (Ch 6): *"Product marketers use all they've learned and created in the first three fundamentals as a foundation on which this fourth gets built. But you need all four for a product's adoption."*
+
+## The [[inspired|INSPIRED]] Ch 13 grounding — the PM-facing view
+INSPIRED Ch 13 is the earliest book-form primary of the modern PMM role — importantly, **written for the product manager, not the PMM.** Cagan's discipline for PMs (Ch 13):
+
+- **PMMs are typically not full-time-dedicated to a single team.** *"Product marketing is most typically organized by customer-facing product, by target market, or sometimes by go-to-market channel."* Fewer PMMs than product teams; they get spread across.
+- **The modern PMM role** — *"represents the market to the product team — the positioning, the messaging, and a winning go-to-market plan. They are deeply engaged with the sales channel and know their capabilities, limitations, and current competitive issues."*
+- **The old-model boundary Cagan explicitly rejects:** *"I am not describing the old model wherein product marketing was responsible for defining the product, and product management was primarily responsible for working with engineering to deliver that product."*
+- **What PMM adds to "works for our business":** *"A very large component of what is meant by works for our business is that there is a real market there (large enough to sustain a business), we can successfully differentiate from the many competitors out there, we can cost-effectively acquire and engage new customers, and we have the go-to-market channels and capabilities required to get our product into the hands of our customers."*
+- **The PM-side risk when there's no PMM partner:** *"If your company has a sales organization, and you don't have a product marketing partner, then this responsibility likely falls on you as product manager. This can easily become a full-time job. And given the cost of the sales organization, it's really not an option to ignore them. But, of course, if you're spending your day helping the sales organization, who is figuring out the product for these people to sell?"*
+- **PM-side risk in D2C without PMM partner:** *"It becomes easy for the marketing teams to focus on clicks and brand at the expense of ensuring all the product work adds up to a successfully differentiated market position."*
+- **The partnership stance:** *"Having a strong product marketing partner does not diminish in any sense the product manager's responsibility for delivering a successful product. The best product marketing manager and product manager relationships understand their respective roles but realize they are essential to each other's success."*
+
+Coach's use: Ch 13 is what to hand a PM who thinks PMM is optional. Lauchengco's *LOVED* completes the PMM-side depth.
 
 ## Canonical worked examples
 LOVED anchors the fundamentals on repeatable case-study stories worth remembering:
