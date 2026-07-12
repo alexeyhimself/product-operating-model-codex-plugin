@@ -4,10 +4,10 @@ type: concept
 aliases: [product-coaching, coaching, pm-coaching]
 status: drafting
 tags: [coaching, learning, leadership, culture, core-concept]
-sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[transformed]]", "[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-04-23-cagan-discovery-strategy-empowered-teams-product-faculty]]", "[[2023-01-16-cagan-master-class-context-not-control]]"]
-related: ["[[model-as-product-coach]]", "[[product-coach]]", "[[types-of-product-coaching]]", "[[coaching-vs-contracting]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[trust-over-control]]", "[[product-culture]]", "[[principles-over-process]]", "[[marty-cagan]]", "[[svpg]]", "[[overview]]", "[[model-as-coach-readiness]]", "[[founder-style-leadership]]", "[[bill-campbell]]"]
+sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[transformed]]", "[[empowered]]", "[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-04-23-cagan-discovery-strategy-empowered-teams-product-faculty]]", "[[2023-01-16-cagan-master-class-context-not-control]]"]
+related: ["[[model-as-product-coach]]", "[[product-coach]]", "[[types-of-product-coaching]]", "[[coaching-vs-contracting]]", "[[coaching-mindset]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[trust-over-control]]", "[[product-culture]]", "[[principles-over-process]]", "[[marty-cagan]]", "[[svpg]]", "[[overview]]", "[[model-as-coach-readiness]]", "[[founder-style-leadership]]", "[[bill-campbell]]"]
 created: 2026-06-14
-updated: 2026-07-03
+updated: 2026-07-12
 ---
 
 # Product Coaching
@@ -23,6 +23,11 @@ updated: 2026-07-03
 - A leadership behavior in [[trust-over-control]]: "servant-based leadership with **active coaching**" (Cagan, *[[transformed|TRANSFORMED]]*).
 - A core [[product-leadership]] competency — not a side activity.
 - The mechanism that operationalizes [[principles-over-process]] at scale: principles only stick when someone is coaching the team in applying them.
+
+## The book-form (EMPOWERED Chs 3 + 7)
+Ch 3 (Strong Product Leadership) is the crispest book-form definition — coaching is one of the **three management responsibilities** (staffing, coaching, team objectives). Cagan's most-cited framing: *"Probably the single most important, yet most often overlooked, element to capable management is coaching. At the very minimum, this involves a weekly 1:1 with the people who report to you as their people manager."* The design-manager cross-team example Ch 3 uses is the reason **engineers report to experienced engineering managers, designers to design managers, and PMs to proven PM managers** — the manager can see across teams what the designer/PM/engineer can't, and coaches on conflicts and craft.
+
+Ch 7 (The Coaching Mindset) is the *why* behind the mechanic. See [[coaching-mindset]] for the seven principles and the opening [[bill-campbell|Bill Campbell]] mentors-vs-coaches passage. Without the mindset, the mechanic (weekly 1:1, assessment, plan, narrative) is *"likely even harmful — as a coaching tool."*
 
 ## Who provides it (supply, as of Feb 2026)
 1. **Your manager** — the ideal source, where available. Still the canonical recommendation when your manager is both willing and able. "Consider yourself very fortunate."

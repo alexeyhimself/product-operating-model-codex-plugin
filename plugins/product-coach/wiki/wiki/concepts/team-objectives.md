@@ -4,7 +4,7 @@ type: concept
 aliases: [team-objective, problems-and-outcomes, okrs-in-the-model]
 status: drafting
 tags: [product-team, product-strategy, outcomes, okrs, core-concept]
-sources: ["[[transformed]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2009-06-01-cagan-the-product-scorecard]]", "[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2009-06-01-cagan-the-product-scorecard]]", "[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]"]
 related: ["[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[product-strategy]]", "[[product-leadership]]", "[[overview]]", "[[outcome-based-roadmap]]", "[[high-integrity-commitments]]", "[[okrs]]", "[[the-point-is-outcomes]]", "[[placing-bets]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]", "[[opportunity-solution-tree]]"]
 created: 2026-06-14
 updated: 2026-07-12
@@ -25,11 +25,11 @@ A team objective = **a significant problem** (a customer or company problem) **+
 
 The team then runs [[product-discovery|discovery]] to find a solution that moves those measures, owning [[product-delivery|delivery]] too. See the [[okrs]] framework for the full technique.
 
-### How teams get the objective (per [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve|Moore]] + [[2020-11-19-cagan-product-leadership-is-hard|Cagan]])
+### How teams get the objective (per [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve|Moore]] + [[2020-11-19-cagan-product-leadership-is-hard|Cagan]] + [[empowered|EMPOWERED]] Ch 3)
 - [[product-leadership|Product leaders]] derive 1–2 team objectives per team per quarter from the [[product-strategy|product strategy]].
 - Teams are selected by area of responsibility, skills, enabling tech, data, and the team's ideas for the problem.
-- The team **proposes the key results** (measures of success) and iterates with leadership.
-- **The litmus test for empowerment:** the team is able to decide the *best way to solve* the problem they've been assigned. If leadership is still dictating the *how*, empowerment is theater.
+- The team **proposes the key results** (measures of success) and iterates with leadership. EMPOWERED Ch 3 book-form: *"The team considers the problems and proposes clear measures of success (the key results), which they then discuss with their managers. The managers may need to iterate with their teams and others to try and get as much coverage as possible of the broader organization's objectives."*
+- **The litmus test for empowerment** (EMPOWERED Ch 3, verbatim): *"The team is able to decide the best way to solve the problems they have been assigned."* If leadership is still dictating the *how*, empowerment is theater. Cagan's stance-check: *"It takes strong managers to be self-confident and secure enough to truly empower the people that work for them, and to stand back and let the team take credit for their successes."*
 
 ### Outcome-based roadmaps (transitional step)
 [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve|Moore]] notes: for orgs not ready to do strategy yet, the simplest first step is to take the existing roadmap and, for each feature, articulate the underlying problem and the logical measure of success. Doesn't fix priority selection, but does meaningfully improve team agency.

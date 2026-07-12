@@ -47,6 +47,9 @@ updated: 2026-07-04
 - **[[creative-selection|Creative Selection]]** — Ken Kocienda. Discovery-by-demo at Apple.
 - **[[inspired|INSPIRED]]** — Cagan. Discovery techniques and the [[the-four-big-risks|four risks]].
 
+**Beyond SVPG canon (supporting reference — cross-check against Cagan before use):**
+- 🌐 **Learning Loop — Idea Validation Playbook** — [[anders-toxboe|Anders Toxboe]] (Copenhagen, ongoing). 89 discovery / validation techniques across problem · market · product · willingness-to-pay, with scored evidence strength (5–95). The wiki's [[discovery-techniques-catalog|integrated catalog]] remaps these to Cagan's four risks and tags each with an alignment (Endorsed · Compatible · Use-with-care). Useful **menu-expansion tool** for a PM who only knows 3–4 techniques; not authoritative — see the catalog's voice-discipline note. → [learningloop.io](https://learningloop.io/playbook-collections/validation-patterns/)
+
 ### Product delivery & engineering excellence
 - **[[accelerate|Accelerate]]** — Forsgren, Humble & Kim. The evidence behind fast + stable delivery (DORA).
 - **[[the-joy-of-agility|The Joy of Agility]]** — Joshua Kerievsky. Real agility over ritual.

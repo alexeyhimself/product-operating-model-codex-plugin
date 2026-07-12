@@ -6,7 +6,7 @@ status: drafting
 tags: [competency, product-marketing, go-to-market, role]
 role: The competency that owns the market side of product-market fit — positioning, messaging, go-to-market, and channel enablement — and the partner a product manager most needs when there's a direct sales channel.
 sources: ["[[loved]]", "[[transformed]]", "[[2022-03-07-cagan-product-ops-dan-olsen]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
-related: ["[[martina-lauchengco]]", "[[loved]]", "[[product-manager]]", "[[time-to-money]]", "[[the-four-big-risks]]", "[[product-ops]]", "[[stakeholder-relationship-health]]"]
+related: ["[[martina-lauchengco]]", "[[loved]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[product-manager]]", "[[time-to-money]]", "[[the-four-big-risks]]", "[[product-ops]]", "[[stakeholder-relationship-health]]"]
 created: 2026-07-04
 updated: 2026-07-12
 ---
@@ -15,15 +15,25 @@ updated: 2026-07-12
 
 > The **market** side of product-market fit. Where the [[product-manager]] owns whether the product is *valuable and viable*, product marketing owns whether the market can **find, understand, try, buy, and recommend** it. The SVPG canon on this competency is [[martina-lauchengco|Martina Lauchengco]]'s *[[loved|LOVED]]* (2022); Cagan treats it as the role a strong PM most needs a partner for.
 
-## The four fundamentals of product marketing ([[loved|LOVED]] Ch 2)
-Lauchengco's core framework — the book-length primary source for what product marketing *is*:
+## The four fundamentals of product marketing ([[loved|LOVED]] Chs 2–6)
+Lauchengco's core framework — the book-length primary source for what product marketing *is*. Each fundamental has its own dedicated page (Ch 2 introduces; Chs 3–6 develop each in depth):
 
-1. **Ambassador — Connect Customer and Market Insights.** Bring the buyer's frame of mind, competitive landscape, and market-fit signals into product decisions. Quantitative + qualitative; shared with product / insights / research teams.
-2. **Strategist — Direct Your Product's Go-to-Market.** Define the product-go-to-market plan whose strategies align with business goals. Some things won't work — the plan must be resilient enough for experimentation and failure. *"Much like product managers use discovery techniques to determine if a product is valuable, usable, feasible, and viable, in product marketing, aspects of product go-to-market can only be discovered by trying things in-market."*
-3. **Storyteller — Shape How the World Thinks About Your Product.** **Positioning** (long game) + **messaging** (shorter game); stories are how brains remember and how others can retell.
-4. **Evangelist — Enable Others to Tell the Story.** Direct sales enablement, influencer relations, community, press, analysts — the organic flywheel that lets a market footprint scale cost-effectively.
+1. **[[pmm-ambassador|Ambassador — Connect Customer and Market Insights]]** (Ch 3). Bring the buyer's frame of mind, competitive landscape, and market-fit signals into product decisions. The **foundation on which everything else is built**. Baseline: weekly customer interaction · open-ended questions · reflect into product + GTM · write down. The eleven market-sensing questions; third-party signal; chess-not-catch-up on competition; **insights ≠ requirements** boundary with the PM.
+2. **[[pmm-strategist|Strategist — Direct Your Product's Go-to-Market]]** (Ch 4). Define the product-GTM plan whose strategies align with business goals. The Ch 4 vocabulary discipline (GTM engine · marketing strategy · product go-to-market · GTM models · channel strategy · [[product-strategy|product strategy]] · business goals). The six GTM models. **Why-then-when-then-what-and-how** sequence. The six strategy themes: growth · conversion · awareness · category · loyalty · new segments. Lauchengco: *"Much like product managers use discovery techniques to determine if a product is valuable, usable, feasible, and viable, in product marketing, aspects of product go-to-market can only be discovered by trying things in-market."*
+3. **[[pmm-storyteller|Storyteller — Shape How the World Thinks About Your Product]]** (Ch 5). Positioning (long game) + messaging (short game). **Use formulas as *input*, not *output***. The **CAST** guide: Clear · Authentic · Simple · Tested. Test in context, not documents. The Looker vs RJMetrics worked example. **Positioning = your actions + others' — 70% of decision-making happens in the dark funnel** (comparison sites, reviews, social postings, employee buzz).
+4. **[[pmm-evangelist|Evangelist — Enable Others to Tell the Story]]** (Ch 6). *"The systematic enabling of influence through others."* Direct sales enablement, influencer relations, community, press, analysts. The Quizlet organic-evangelism extreme; the Word pre-launch enablement mechanics. **Evangelism ≠ promotion** (Table 6.1 contrasts feature-first vs. day-in-the-life). Tailor tools by who's talking + context.
 
 Lauchengco's purpose statement (Ch 1): *"Product marketing's purpose is to drive product adoption by shaping market perception through strategic marketing activities that meet business goals."*
+
+The **foundation dependency** (Ch 6): *"Product marketers use all they've learned and created in the first three fundamentals as a foundation on which this fourth gets built. But you need all four for a product's adoption."*
+
+## Canonical worked examples
+LOVED anchors the fundamentals on repeatable case-study stories worth remembering:
+- **Pocket vs Instapaper** ([[loved|LOVED]] Ch 1) — Nate Weiner's Read-It-Later becomes Pocket; beats Marco Arment's "It-factor" Instapaper by shifting from feature-building to product-marketing mindset. Recurs across Chs 3–6 as the four-fundamentals worked example. (Also 5.0 launch → Pocket Matters event → Nate on Time's *30 Under 30 Changing the World*; Ch 4.)
+- **Microsoft Word spell-check red squiggle** ([[loved|LOVED]] Ch 2) — shipped-half-time constraint became *"focused on what matters most for how most people use Word"* — the Walt Mossberg-review-winning positioning; Ch 6 uses the same case for evangelism activation (evaluation guides for reviewers, in-person pundit meetings, field training, beta program → reference testimonials).
+- **Looker vs RJMetrics** ([[loved|LOVED]] Ch 5) — same audience, same value prop; positioning-formula messaging (RJMetrics) vs concrete-differentiator messaging (Looker) → $2.6B Google acquisition vs *"average"*.
+- **Dropbox / Julie Herendeen** ([[loved|LOVED]] Ch 3) — VP Global Marketing pulls the whole team out of the building; data-only view missed the nuance customer visits caught.
+- **Quizlet** ([[loved|LOVED]] Ch 6) — 10 years zero marketing spend, 1 in 2 US high schoolers use it; the extreme end of organic evangelism.
 
 ## What it owns
 - **Positioning & messaging** — why this product, why now, why better.

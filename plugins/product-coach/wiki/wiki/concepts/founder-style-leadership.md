@@ -52,7 +52,7 @@ _Field note: do your leaders lead with strategic context and coach weekly, or de
 
 ## Sources
 - [[2025-03-03-cagan-why-your-product-operating-model-is-broken]] — root; the whole talk develops this concept.
-- [[empowered]] — "better leadership, not less"; leading with strategic context.
+- [[empowered]] Ch 4 — **primary (book-length)**; the *"Ordinary People, Extraordinary Products"* subtitle *is* the founder-style leadership thesis in five words: leaders leverage ordinary talent to extraordinary outcomes via better management + strategic context + coaching, not by hiring different humans. Deep-read in EMPOWERED Pass 1 (2026-07-12).
 - [[2025-04-21-cagan-design-a-product-like-steve-jobs]] — the Steve-Jobs-as-coach (not dictator) evidence; Bill Campbell.
 - [[2015-08-03-cagan-the-role-of-product-at-apple]] — the CEO-as-head-of-product model and its succession risk; backs [[apple-role-of-product]].
 - [[2023-10-19-cagan-sunden-product-model-at-spotify]] — Ek leading with context, not control; backs [[spotify-discover-weekly]].

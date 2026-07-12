@@ -5,15 +5,25 @@ aliases: [pm-competency, pm-skills-assessment, pm-gap-analysis, product-manager-
 status: drafting
 tags: [diagnostic, pm-competency, assessment, gap-analysis]
 assesses: A product manager's competence across the people / process / product skill pillars, relative to what this team and company require.
-sources: ["[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]"]
-related: ["[[product-manager]]", "[[coaching-the-pm]]", "[[product-coaching]]", "[[product-coach]]", "[[the-four-big-risks]]", "[[marty-cagan]]"]
+sources: ["[[empowered]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]"]
+related: ["[[product-manager]]", "[[coaching-the-pm]]", "[[coaching-mindset]]", "[[product-coaching]]", "[[product-coach]]", "[[the-four-big-risks]]", "[[marty-cagan]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-07-12
 ---
 
 # PM Competency — Gap Analysis
 
-> [[marty-cagan|Cagan]]'s technique for assessing a [[product-manager|product manager]] ([[2019-04-08-cagan-coaching-tools-the-assessment|Coaching Tools – The Assessment]]): rate each skill twice — how **important** it is for this role/company, and the PM's **current capability** — and coach the biggest *weighted gaps* first. The foundation that feeds the [[coaching-the-pm|coaching plan]].
+> [[marty-cagan|Cagan]]'s technique for assessing a [[product-manager|product manager]] ([[2019-04-08-cagan-coaching-tools-the-assessment|Coaching Tools – The Assessment]]): rate each skill twice — how **important** it is for this role/company, and the PM's **current capability** — and coach the biggest *weighted gaps* first. The foundation that feeds the [[coaching-the-pm|coaching plan]]. The book-length primary is [[empowered|EMPOWERED]] Ch 8, which frames the same technique inside the coaching engine.
+
+## The Ch 8 framing (EMPOWERED)
+Ch 8 grounds the assessment inside two premises the article restates but doesn't spell out:
+
+- **Urgency of the need.** *"Empowered product teams depend on competent product people, and if you don't develop your people and provide growth opportunities, there are usually other companies that will. I have always been a big believer in the old adage that 'people join a company but leave their manager.'"*
+- **Why gap-analysis format.** *"This format acknowledges that not all skills are equally important, not all gaps are equally significant, and expectations change with the level of responsibility. This tool is intended to help focus the attention where it is most needed."* This is why the wiki's rubric uses *importance* × *capability*, not a single capability score — the gap-weighted-by-importance is the whole point.
+- **Why product knowledge first.** *"I like to cover product first because product knowledge is the foundation for everything else. Without competence in product knowledge, the rest doesn't really matter."*
+- **How process skills evolve.** *"New product managers are expected to know the basic techniques, but strong product managers are always developing their skills and learning new and more-advanced techniques. Much like a good surgeon is constantly following the latest learnings on surgical skills and techniques, a strong product manager always has more to learn."*
+- **Why people skills separate competent from truly successful.** Ch 8 explicitly labels the People/Process/Product pillar it comes last as *"the difference between competent and truly successful."* The wiki uses this ordering in the table below.
+- **The Chapters ingested pair with [[coaching-mindset]].** Ch 8 (the assessment technique) presumes Ch 7 (the mindset). Without the mindset the assessment becomes a scorecard-for-management-purposes, not coaching material.
 
 ## Why it matters
 Empowered teams depend on competent PMs; weak ones default the team back to a feature factory. "If you don't develop your people … there are usually other companies that will." This diagnostic protects [[empowered-with-problems-to-solve]], [[outcomes-over-output]], and [[collaboration]] by making PM development deliberate rather than left to annual reviews (which Cagan calls inadequate for development).
@@ -81,5 +91,6 @@ A PM who is the team's acknowledged expert on customer, data, domain, business, 
 - diagnostics: [[feature-team-vs-empowered-team]]
 
 ## Sources
-- [[2019-04-08-cagan-coaching-tools-the-assessment]] — root source; the taxonomy and the importance-vs-capability gap analysis.
+- [[2019-04-08-cagan-coaching-tools-the-assessment]] — root source (article); the taxonomy and the importance-vs-capability gap analysis.
 - [[2019-04-22-cagan-coaching-tools-the-plan]] — the coaching plan that acts on the gaps.
+- [[empowered]] Ch 8 — **primary (book-length)**; same technique in the book, plus the *"not all skills equally important, not all gaps equally significant"* framing and the *"product knowledge first"* ordering. Deep-read in EMPOWERED Pass 1 (2026-07-12). Ch 9 (the Coaching Plan) is the book-form of the article — body content not in the current raw file; see [[coaching-the-pm]] for the article-grounded version.

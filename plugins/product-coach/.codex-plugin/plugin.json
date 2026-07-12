@@ -1,6 +1,6 @@
 {
   "name": "product-coach",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "description": "AI Product Coach grounded in the Product Operating Model LLM Wiki — guidance and feedback on product strategy, discovery, and delivery.",
   "author": {
     "name": "Aleksei Sotskov"

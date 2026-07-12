@@ -189,6 +189,10 @@ _Field note prompt for the agent: which discovery techniques does this team actu
 - diagnostics: [[discovery-health]] — does the team actually run these? · [[outcome-vs-output-orientation]]
 - entities: [[jeff-patton]] (story mapping · build-to-learn) · [[inspired]] (Chs 33–59)
 
+## Broader catalog (supporting, non-SVPG)
+
+When Cagan's taxonomy above doesn't fit the situation — e.g. a team asks about Kano, Conjoint, Wizard of Oz, Cultural Probes, LOI, Referral, Dogfooding, etc. — reach for the wiki-integrated **[[discovery-techniques-catalog|Toxboe / Learning Loop catalog]]** (89 techniques, mapped to Cagan's four risks with an alignment tag: Endorsed · Compatible · Use-with-care). It's a supplementary menu — not authoritative — and every entry links out to a full How/Why page. Read the voice-discipline note at the top before using it: evidence-strength ≠ Cagan-alignment.
+
 ## Sources
 - [[inspired]] — Part IV (2nd ed 2017, Chs 33–59) is the primary text for the taxonomy on this page. Ch 33 principles + Ch 34 taxonomy overview; Chs 35–39 framing/planning; Chs 41–44 ideation; Chs 45–49 prototyping; Chs 50–56 testing (usability / value demand·qual·quant / feasibility / viability); Ch 58 discovery sprint; Ch 59 pilot team.
 - [[transformed]] — root; the four risks and empowered-team ownership.
@@ -196,3 +200,4 @@ _Field note prompt for the agent: which discovery techniques does this team actu
 - [[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]] — reference-customer program named as a discovery style alongside continuous discovery and dual-track.
 - [[2006-12-13-cagan-assessing-product-opportunities]] — the article-form origin of Opportunity Assessment (§1).
 - [[continuous-discovery-habits]] — [[teresa-torres|Torres]] (2021, Cagan-endorsed via Foreword). The operational complement to this catalog: [[opportunity-solution-tree|OST]] structures discovery, [[continuous-interviewing|weekly interviews]] execute the keystone habit, [[assumption-testing]] picks and sequences the Cagan-catalog techniques below.
+- **Supporting (non-SVPG):** [[2023-01-01-toxboe-validation-patterns|Toxboe — Idea Validation Playbook]] · [[2026-aleksei-validation-patterns-sheet|Aleksei's working sheet]] — back the [[discovery-techniques-catalog|broader catalog]] pointer above.

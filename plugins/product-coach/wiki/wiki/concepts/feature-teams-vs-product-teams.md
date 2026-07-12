@@ -4,7 +4,7 @@ type: concept
 aliases: [feature-teams-vs-product-teams, feature-vs-product-teams, feature-team]
 status: drafting
 tags: [team-models, anti-pattern, empowerment, ownership]
-sources: ["[[transformed]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]"]
 related: ["[[empowered-product-teams]]", "[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[sense-of-ownership]]", "[[feature-team-vs-empowered-team]]", "[[product-management-theater]]"]
 created: 2026-06-20
 updated: 2026-07-03
@@ -21,6 +21,13 @@ updated: 2026-07-03
 | **Ownership / durability** (product vs. project) | Are teams **durable** with continuous ownership, or **pool-allocated** per project? | Durable team (typically 1–2 years minimum); owns the outcome long after delivery | **Project team** — formed for the duration of the project, disbanded after release ("the pool model") |
 
 A team can be a feature team that's durable (still bad), or a project team that's nominally "given problems" (still bad). The product model needs **both** axes right.
+
+## The **third** type — Delivery Team (EMPOWERED Ch 1 footnote 3)
+Cagan adds a **third technology-team type** in *[[empowered|EMPOWERED]]* Ch 1 (footnote 3), sharper than the feature-team framing above. A **delivery team** — also called a *"Scrum team"* or *"dev team"* — doesn't even pretend to be a product team: **not cross-functional, not empowered**. Composed of a *product owner* (who administers the backlog) + engineers. *"They are purely about output (code and ship)."*
+
+Cagan's explicit callout: *"If you're running a process like SAFe, then this is unfortunately you, and truthfully, I have no idea why you would want to read this book, since what I describe here is the polar opposite both philosophically and practically."*
+
+Where the wiki uses "feature team," the mental model is a *cross-functional but not empowered* team. A delivery team is worse — not even cross-functional. Both are anti-patterns; both produce output but not outcomes.
 
 ## Why feature teams underperform
 - **No accountability for results** — feature teams deliver *output*; outcomes belong to whoever requested the feature. So the team can ship and still produce no value.
@@ -62,3 +69,4 @@ _Field note placeholder — pick one of your teams. Are they given problems or f
 - [[2014-06-13-cagan-good-product-team-bad-product-team]] — the seventeen-bullet contrast.
 - [[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]] — the "three models" spoken framing; when the product model doesn't apply.
 - [[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]] — roadmaps and feature teams go hand in hand.
+- [[empowered]] Ch 1 — **primary (book-length)**; the three-type framing (empowered / feature / delivery); the SAFe callout footnote. Deep-read in EMPOWERED Pass 1 (2026-07-12).

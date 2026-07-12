@@ -4,7 +4,7 @@ type: framework
 aliases: [it-to-product-organization, moving-from-it-to-product, it-transformation, ten-steps-to-product-organization]
 status: drafting
 tags: [framework, transformation, it, legacy-org, ten-steps]
-sources: ["[[transformed]]", "[[2008-07-07-cagan-moving-from-it-to-product-organization]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2008-07-07-cagan-moving-from-it-to-product-organization]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]"]
 related: ["[[transformation]]", "[[pilot-teams]]", "[[product-manager]]", "[[product-designer]]", "[[engineers]]", "[[delivery-manager]]", "[[feature-teams-vs-product-teams]]"]
 created: 2026-06-21
 updated: 2026-06-21
@@ -53,6 +53,23 @@ Most product software has a much higher bar in definition, design, implementatio
 - **Hiring "professional services" firms to lead transformation.** Cagan: most such firms don't understand the product/IT distinction either, perpetuating the problem.
 - **"We don't need designers."** Among the most common gaps in legacy IT-to-product transitions — and one of [[2010-08-16-cagan-top-10-reasons-for-weak-product|Cagan's 10 reasons for weak product]] (weak UX design competency).
 
+## The CIO/CTO question ([[empowered|EMPOWERED]] Ch 2)
+Ch 2 of EMPOWERED is Cagan's sharpest short treatment of what step 1 above *feels like* structurally. He frames it as a diagnostic question — do the engineers building your products report to a **CIO/head of IT** or to a **CTO/head of engineering**? — and pushes hard on the significance:
+
+> *"This may seem like a minor issue, but I've come to realize it's a much more significant impediment to transformation than most companies realize."*
+
+The dynamic Cagan names:
+- *"The CIO truly is there to serve the business."* The traits that make a strong CIO — orchestrating service delivery for internal stakeholders, running efficient IT operations — can *"easily end up undermining the company's attempts to transform."*
+- *"Product engineers — the type the future of your company depends on — are rarely willing to work for a CIO because they know this difference in mindset is extremely important."* You cannot recruit the engineers you need while keeping the reporting line as-is.
+
+Two paths Cagan uses:
+1. **Retitle the CIO as CTO** where the person is up to the larger role.
+2. **Hire a true CTO** to lead product engineering separately — leave the existing CIO to run IT.
+
+**Cost-center vs profit-center is the underlying variable.** Ch 2's worked examples — Boeing (737 MAX; outsourced control software to $9/hr engineers), Tesla (over-the-air updates → a car that *improves* over time), Pixar (tech teams as valued as creative teams), Disney (theme parks + Disney+) — all turn on whether senior leadership views technology as *the business* or as *a cost of doing business*. *"In strong product companies, technology is not an expense, it is the business."* This is the deepest transformation blocker — deeper than any org-chart change.
+
+Coach's use: on any IT→product engagement, surface the CIO/CTO reporting question early, and coach the CEO on the mindset shift before the org-chart work begins. If the CEO can't make the shift, the 10-step framework will stall regardless.
+
 ## Modern overlay (post-2008)
 The 2008 article predates much of today's vocabulary. Read alongside:
 - [[transformation]] — the holistic transformation frame (three dimensions; pilots; politics).
@@ -74,3 +91,4 @@ The 2008 article predates much of today's vocabulary. Read alongside:
 - [[2023-09-12-cagan-who-is-product-operating-model-for]] — modern restatement of the same underlying scope insight.
 - [[2013-12-30-cagan-epic-waste]] — the economic case for making the move.
 - [[transformed]] — root source.
+- [[empowered]] Ch 2 — **primary (book-length)**; the CIO/CTO reporting-line question as "much more significant impediment to transformation than most companies realize"; Boeing/Tesla/Pixar/Disney worked examples for cost-center vs profit-center technology mindset. Deep-read in EMPOWERED Pass 1 (2026-07-12).

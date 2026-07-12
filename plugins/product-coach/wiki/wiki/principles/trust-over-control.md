@@ -6,10 +6,10 @@ status: mature
 tags: [product-culture, trust, leadership, autonomy, first-principles]
 group: product-culture
 order: 18
-sources: ["[[transformed]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2026-02-04-cagan-product-coaching-and-ai]]"]
-related: ["[[principles-over-process]]", "[[transparency]]", "[[sense-of-ownership]]", "[[product-culture]]", "[[principles-of-product-culture]]", "[[product-coaching]]", "[[model-as-product-coach]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2026-02-04-cagan-product-coaching-and-ai]]"]
+related: ["[[principles-over-process]]", "[[transparency]]", "[[sense-of-ownership]]", "[[product-culture]]", "[[principles-of-product-culture]]", "[[product-coaching]]", "[[coaching-mindset]]", "[[model-as-product-coach]]"]
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-07-12
 ---
 
 # Trust over Control
@@ -24,6 +24,11 @@ Leaders spend their time coaching and providing context (strategy, insights, gua
 
 ## What violating it looks like
 Status meetings as surveillance; leaders approving every decision; "looking over the shoulder"; teams that can't move without sign-off — the demotivating opposite of [[empowered-product-teams|empowerment]].
+
+## Why command-and-control persists ([[empowered|EMPOWERED]] Ch 1)
+Cagan's honest observation from *EMPOWERED* Ch 1: *"It's actually easier for a manager to manage (often micromanage) in the old command-and-control style. It's not hard to assign a team a list of activities, or a list of features to build, and just tell them to do the work as fast as they can. While this command-and-control style may be easier for the manager, it creates teams of mercenaries with no empowerment in any meaningful sense."*
+
+The book's key insight: moving to empowered teams does *not* mean fewer leaders and managers — *"it means you need better leaders and managers."* Trust-over-control is *harder* work than command-and-control, not easier — and that's why it doesn't happen by default. Grounds [[coaching-mindset|the coaching-mindset]] "empowering means better management, not less" principle in Ch 7.
 
 ## Tensions & trade-offs
 - Trust is earned and contextual — extending it to teams that lack competence or context is abdication; the answer is coaching to readiness, not control.
@@ -42,3 +47,4 @@ Cagan's [[2026-02-04-cagan-product-coaching-and-ai|Product Coaching and AI]] (Fe
 ## Sources
 - [[2024-03-21-huryn-product-model-first-principles-part-2]] — Principle 18; *TRANSFORMED*.
 - [[2026-02-04-cagan-product-coaching-and-ai]] — Cagan/SVPG, Feb 2026; the AI extension to "active coaching" + the position shift on coaching supply.
+- [[empowered]] Ch 1 — **primary (book-length)**; command-and-control is *easier* for the manager but produces mercenaries; empowered teams need *better* leaders, not fewer. Ch 7 (Coaching Mindset) is the mechanism — see [[coaching-mindset]]. Deep-read in EMPOWERED Pass 1 (2026-07-12).

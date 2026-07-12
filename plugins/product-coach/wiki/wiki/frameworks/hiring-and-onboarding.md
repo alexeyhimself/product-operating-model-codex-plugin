@@ -14,6 +14,12 @@ updated: 2026-07-04
 
 > How to hire product people and get them to **competence** — the practical companion to [[product-coach]] and [[coaching-the-pm]]. Cagan's through-line: hire for **potential**, then invest ~**three months** of deliberate coaching to competence. Hiring juniors without a manager committed to coaching is "throwing good money after bad" ([[2022-12-07-cagan-product-lessons-jobs-musk-20vc|canon]]).
 
+## Staffing as one of the three management responsibilities ([[empowered|EMPOWERED]] Ch 3)
+EMPOWERED Ch 3 puts staffing at the top of the three management responsibilities. The book-form primary that grounds the "manager owns staffing" line:
+> *"These are the people we hold responsible for staffing the product teams. This means sourcing, recruiting, interviewing, onboarding, evaluating, promoting, and when necessary, replacing the members of the teams. If you have an HR function at your company, they are there to support managers with these activities, but they are in no way a substitute for the manager in these responsibilities."*
+
+The load-bearing framing: *"if you want to have truly empowered product teams, then your success depends very directly on these first-level people managers. If you are wondering why there are so many weak product companies in the world, this would be the primary culprit."* This is why **HR-led hiring** is a named failure mode on [[product-leadership]] — the manager owns each staffing step end-to-end; HR is a support function, not a substitute.
+
 ## When to make the first product hire
 In a startup, the **founder is the product person** (owns value and viability). The trigger for the first PM is a function of **engineer count**, not a flat headcount — around **25–30 engineers**, because the founder can no longer stay close enough to make the daily product decisions. Those engineers naturally group into ~4–5 product teams, each with a senior/Tech-Lead engineer the founder stays close to ([[2022-12-07-cagan-product-lessons-jobs-musk-20vc|canon]]). Cagan: "I never invest in a startup unless at least one founder is a proven product leader."
 
