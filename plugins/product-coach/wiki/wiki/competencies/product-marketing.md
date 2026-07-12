@@ -6,7 +6,7 @@ status: drafting
 tags: [competency, product-marketing, go-to-market, role]
 role: The competency that owns the market side of product-market fit — positioning, messaging, go-to-market, and channel enablement — and the partner a product manager most needs when there's a direct sales channel.
 sources: ["[[loved]]", "[[transformed]]", "[[2022-03-07-cagan-product-ops-dan-olsen]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
-related: ["[[martina-lauchengco]]", "[[loved]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[product-manager]]", "[[time-to-money]]", "[[the-four-big-risks]]", "[[product-ops]]", "[[stakeholder-relationship-health]]"]
+related: ["[[martina-lauchengco]]", "[[loved]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[pmm-pm-partnership]]", "[[pmm-marketing-partnership]]", "[[pmm-sales-partnership]]", "[[market-fit]]", "[[agile-product-marketing]]", "[[product-marketing-metrics]]", "[[product-manager]]", "[[time-to-money]]", "[[the-four-big-risks]]", "[[product-ops]]", "[[stakeholder-relationship-health]]"]
 created: 2026-07-04
 updated: 2026-07-12
 ---
@@ -34,6 +34,60 @@ LOVED anchors the fundamentals on repeatable case-study stories worth rememberin
 - **Looker vs RJMetrics** ([[loved|LOVED]] Ch 5) — same audience, same value prop; positioning-formula messaging (RJMetrics) vs concrete-differentiator messaging (Looker) → $2.6B Google acquisition vs *"average"*.
 - **Dropbox / Julie Herendeen** ([[loved|LOVED]] Ch 3) — VP Global Marketing pulls the whole team out of the building; data-only view missed the nuance customer visits caught.
 - **Quizlet** ([[loved|LOVED]] Ch 6) — 10 years zero marketing spend, 1 in 2 US high schoolers use it; the extreme end of organic evangelism.
+
+## Strong PMM — 8 key skills ([[loved|LOVED]] Ch 7)
+Ch 7's Strong-Product-Marketing chapter opens with **StartX** — the founder who hired sales-guys before he had a product-market fit, spent a year+ struggling, finally hired Josie as director of PMM, who diagnosed messaging + ICP + category-positioning gaps and turned the company around. Lauchengco's takeaway: *"Zack learned the hard way he should have brought product marketing in before or at the same time he brought in sales."*
+
+The 8 skills strong PMMs share (Ch 7):
+
+1. **Deep customer curiosity + strong active listening.** *"They don't arrive as customer experts; if they're not learning new things, they're not doing their job. There is no finish line."*
+2. **Genuine product curiosity.** Crucial for credibility with the product team. *"After a period of time, deep understanding of the product is expected."* People don't need to start with category knowledge — they need interest to learn.
+3. **Strategic AND strong on execution.** *"If they are more one than the other, err toward strategy as there are many others in an organization who can cover execution."*
+4. **Collaboration.** *"Nothing in the four fundamentals can be done without a lot of collaboration."*
+5. **Strong verbal + written communication.** *"Strong product marketers are good at simplifying — they don't need to say everything to be clear. They avoid hyperbole and know how to communicate in a way that feels authentic — which is a lot harder than it sounds."* Presentation skills can be trained; hire on evidence of communication effectiveness across forms.
+6. **Broad marketing knowledge.** Not expert in every specialty — enough knowledge to guide product-GTM activities and know why they will be effective.
+7. **Business savvy.** *"Understanding there are different ways in which a business can grow, like new markets or new go-to-markets."* Ability to recognize when an existing product-GTM isn't working well enough.
+8. **Technical competence.** *"A person does not need to have an engineering degree to be technically competent; they must simply have the capacity to understand how technology is used. Remember, product marketing translates between those who understand the product deeply and those who do not. Being unafraid to ask questions is an essential trait."*
+
+Ch 7's bar-setting line: *"Product marketers are made, not born. What's important is setting the bar high for the role and the people you put in it."*
+
+## Key responsibilities — mapped to the 4 fundamentals ([[loved|LOVED]] Ch 7)
+
+**Fundamental 1 — [[pmm-ambassador|Ambassador]]:** connect product team to market · segment customers + identify target personas · understand competitive dynamics · understand customer journey / customer discovery · understand market trends / competitive messaging.
+
+**Fundamental 2 — [[pmm-strategist|Strategist]]:** define product-GTM plan · guide execution + adaptation · understand pipeline / funnel dynamics · partner in branding / packaging / pricing · guide + align programmatic marketing.
+
+**Fundamental 3 — [[pmm-storyteller|Storyteller]]:** positioning + messaging · frame the GTM story narrative + shape categories · create key product-centric content · collaborate on marketing activities + demand gen.
+
+**Fundamental 4 — [[pmm-evangelist|Evangelist]]:** customers' stories · enable analysts, press, influencers · enable sales via effective sales playbook + tools · enable fandom + communities.
+
+**Startup vs mature.** *"At the startup stage, product marketers tend to do much of this work directly, focusing on many fronts but prioritizing by what's most important for a product's go-to-market plan. At more mature companies — where go-to-markets have set grooves — this work is achieved largely in partnership with others."*
+
+## PMM by GTM model ([[loved|LOVED]] Ch 7)
+Ch 7 also names three GTM-model-specific PMM patterns worth surfacing when coaching a PMM in an unfamiliar model:
+
+### Growth Marketing
+Overlaps a lot with PMM — both systematically understand how activities + audiences are business levers. **Growth teams tend to be more multidisciplinary, with product resources under their direct control**. In orgs with growth teams, PMM focuses on **bridging product teams outside the growth team**, enabling positioning, defining product-GTM, enabling key influencers, and intersecting marketing with sales.
+
+### D2C (Direct-to-Customer)
+Ch 7 uses D2C rather than B2C — sophisticated business + developer products increasingly go D2C (Zendesk, Atlassian, Slack, Drift). Focus: providing frameworks + guidance to marketing on how to engage customers through the AARRR funnel (awareness / acquisition / activation / revenue / retention / referral). Requires rigor around customer, market, and product-usage segmentation. *"Thoughtful brand and pricing also matters a lot."*
+
+**D2C PMM focus areas:** hyper-specific customer segmentation based on engagement + growth · new acquisition-channel experimentation · enabling product engagement · enabling customer life-cycle activities · understanding funnel + conversion behaviors · enabling important influencers.
+
+### B2B
+Systematic conversion of companies into customers. Direct sales is the primary vehicle — but PMM's role is broader. **Segmenting is more complex** — the "account/company" level, plus buyer, user, and influencers within each account (departmental user · procurement · IT support).
+
+**B2B PMM focus areas:** user/buyer/influencer personas + roles in the buying process · sales tools (competitive depositioning · demos · sales deck · playbook) · what nurtures/nudges people in their process · work with sales on qualification criteria · guide programmatic marketing that aligns with sales targets/stages/account-based actions.
+
+## Anti-patterns — signals improvement is needed ([[loved|LOVED]] Ch 7)
+Four common anti-patterns Ch 7 names — coach against these when auditing a PMM function:
+
+| Anti-pattern | What it looks like |
+|---|---|
+| **Strong on style, soft on substance.** | Materials look professional + communicate a vision + include benefits like *"saves time and budget"* — but sales keeps getting questions about what the product actually does. Prospects search elsewhere for real info. |
+| **Stuck in technical weeds.** (Inverse of above.) | Product materials explain all the features. Diagrams show what the tech does. PMs feel offloaded. *"But it doesn't all add up to a clear product position, leaving the competition to define what it all means."* |
+| **Functioning like a service.** | Prioritizes what sales/marketing asks for vs what customers need. *"A 'give them what they ask for' service orientation is seductive and common because there is swift action that makes other teams happy. But leadership is often still wondering if product go-to-market is working well enough."* |
+| **Insufficient dedicated product marketing.** | Companies under-resource PMM, not realizing their market situation or product portfolio requires more focus. *"This often manifests as product management doing a lot of sales enablement or teams wondering if marketing efforts are the right ones."* |
 
 ## What it owns
 - **Positioning & messaging** — why this product, why now, why better.

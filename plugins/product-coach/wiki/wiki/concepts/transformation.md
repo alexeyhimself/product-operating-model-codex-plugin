@@ -81,6 +81,16 @@ Cagan's response — the book's founding thesis — is the *"ordinary people, ex
 
 For a transformation coach, Ch 4 is the diagnostic that separates *"we need better people"* orgs from *"we need better leadership + coaching + strategic context"* orgs. The former is almost always mis-diagnosed; the latter is almost always what's actually true.
 
+## Mature-company inflection points ([[loved|LOVED]] Ch 30)
+Ch 30 names four inflection points at mature companies where **major product initiative requires the market to rethink a company** — and PMM is a powerful catalyst in the transformation process. Useful to layer on top of the transformation frame when the transformation is a *portfolio/positioning* shift rather than a build/solve/decide overhaul.
+
+1. **"Traditional" company becomes a tech-first company.** Ch 30's construction-equipment example — 100+ year old firm now employing more software than mechanical engineers, equipment as mobile sensors streaming to cloud. Reorganized to empowered product teams. **First "customers" for PMM were *internal*** — marketing, process, dealer, field sales — before external. Ch 30's coaching line: *"Product marketers in this situation must remain steadfast in nudging the market and internal groups forward. That consistency, as much as any individual activity, is what eventually creates desired change."*
+2. **Single-product → multi-product company.** *"Inevitable if you're succeeding."* Organizational + market muscle memory resist. Rule: *"Establishing the story framing the why is important before diving into any product specifics."* And critically — the same GTM won't work for the second product (or an acquired one). Competition, buying centers, market dynamics all differ.
+3. **Product → solution / service / customer-centric.** Ch 30's Microsoft Office → Microsoft 365 shift. Choose by *segment* not by *products included*. *"Value is constructed around a market segment and providing ongoing value to those customers."*
+4. **International expansion.** Ch 30's Demandbase example. *"Markets in different geographies are distinct."* In-country PMMs act as translation layer between local GTM specialists and HQ.
+
+*"Mature companies are in the unique position of being able to apply more product marketing resources in advance of hitting company inflection points. Doing so can amplify go-to-market success."*
+
 ## What it replaces
 The project / IT / feature-factory model ([[feature-teams-vs-product-teams|two-axes view]]; [[2023-08-17-cagan-from-projects-to-products|cultural narrative]]):
 - Dates over outcomes ([[time-to-money]] is the replacement metric).

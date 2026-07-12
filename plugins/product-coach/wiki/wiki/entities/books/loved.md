@@ -69,15 +69,56 @@ Chapter-by-chapter deep read of Chs 1–6 (Part One — the Foundation). Facts, 
 | **5** | Storyteller | **Created new page:** [[pmm-storyteller]] — positioning-vs-messaging (long game vs short game); formulas-as-input-not-output; the Looker vs RJMetrics worked example (→ $2.6B acquisition vs *"average"*); **CAST** (Clear · Authentic · Simple · Tested); Overly-Precise-Technical trap; SEO discipline (input, not driver); **Positioning = Your Actions + Others'** with the 70%-dark-funnel framing; The Long Game. |
 | **6** | Evangelist | **Created new page:** [[pmm-evangelist]] — evangelism defined as *"the systematic enabling of influence through others"*; the Quizlet organic-evangelism extreme; the Word pre-launch enablement mechanics (evaluation guide · pundits in person · field training · beta-program reference testimonials); Product-led growth as evangelism (Slack); enable sales *and* internal champions; reduce-friction-to-info framing; **Evangelism ≠ Promotion** Table 6.1 (feature-first vs day-in-the-life); Tailor Evangelism Tools by who's talking + context; communities as vector; Evangelism Is a Team Sport with the foundation-dependency sequence. |
 
-## Chapters remaining (backlog for Passes 2 + 3)
+### Deep pass — Part Two (Pass 2, 2026-07-12)
+Chapter-by-chapter deep read of Chs 7–13 (Part Two — How to Do the Role Well).
 
-Chs 7–30 body content **is** in the raw file (unlike EMPOWERED); Pass 2 and Pass 3 can proceed on your say-so.
-- **Part Two — How to Do the Role (Chs 7–13, LOVED Pass 2):** Strong Product Marketing skills · How to Partner with Product Management (PMM-side view; complements [[transformed]] Ch 23) · with Marketing · with Sales · Discovering and Rediscovering Market Fit (the market side of PMF as its own chapter) · Product Marketing in the Age of Agile (release scale) · The Metrics That Matter.
-- **Part Three — Strategist Guardrails and Levers (Chs 14–20, LOVED Pass 3a):** When Strategy Guides · Adoption Life Cycles (the iPhone case) · Brand Lever · Pricing Lever · Marketing When It's Not About Product · **The One-Sheet Product Go-to-Market Canvas** (Ch 19) · Understanding in Action.
-- **Part Four — Storyteller Clarity and Authenticity (Chs 21–26, LOVED Pass 3b):** Discover Your Position · How to Listen and Connect (CAST deep-dive) · Understanding in Action (Netflix / Zendesk) · The Balancing Act (category create vs redefine) · **The One-Sheet Messaging Canvas** (Ch 25) · Ch 26.
-- **Part Five — How to Do the Role Well (Chs 27–30, LOVED Pass 3c):** How to Hire Strong Product Marketing Talent · How to Guide a PMM Career · Product Marketing by Stage · Mature Company Inflection Points.
+| Ch | Title | Wiki impact |
+|---|---|---|
+| **7** | Strong Product Marketing (Skills of the Good) | StartX cautionary opener; the 8 key PMM skills; the responsibilities-by-fundamental map; PMM by GTM model (Growth Marketing / D2C / B2B); the 4 anti-patterns. Enriches [[product-marketing]] with a full **Strong PMM — 8 key skills** section + **PMM by GTM model** + **Anti-patterns** section. |
+| **8** | How to Partner with Product Management | **Created new page:** [[pmm-pm-partnership]] — the PMM-side view (complements [[transformed]] Ch 23 PM-side). Word-for-the-Mac opening; the "quad" framing; the 7 healthy-partnership indicators; the ratio question (1:1 to 1:5, avg 1:2.5); the 5 alignment patterns; the 3 anti-patterns; the weekly/bimonthly/quarterly cadence. |
+| **9** | How to Partner with Marketing | **Created new page:** [[pmm-marketing-partnership]] — Workiva SEC-financial-professionals event opener; where PMM ends and marketing begins; the 4 marketing-goal → activity map; the 7 healthy-partnership indicators; the 3 anti-patterns; the weekly/monthly/quarterly cadence. |
+| **10** | How to Partner with Sales | **Created new page:** [[pmm-sales-partnership]] — paper-data-sheet opening cautionary tale; sales urgent vs PMM right natural tension; reference customers + sales playbook as the two most powerful tools; bottom-up funnel diagnosis; 11 key activities; 5 healthy-partnership indicators; 3 anti-patterns; the weekly/monthly/quarterly cadence. |
+| **11** | Discovering and Rediscovering Market Fit | **Created new page:** [[market-fit]] — Word-for-lawyers opening; the market-fit definition (*"discovering market pull"*); market-fit = market side of PMF; Value + Growth/Connection question sets; 6 discovery-technique adaptations; 3 UC Berkeley creative market tests; 4 existing-product rediscovery techniques (win/loss · sales-call shadowing · intent data · social sentiment); timeboxing; active listening. |
+| **12** | Product Marketing in the Age of Agile | **Created new page:** [[agile-product-marketing]] — Jade + Jim opening symmetric failures; Sprint/Release/Launch disambiguation; **the Release Scale** (7-step recipe); **Agile Marketing** (6 principles + weekly-scrum mechanics + "learnings in, not reporting out"). |
+| **13** | The Metrics That Matter | **Created new page:** [[product-marketing-metrics]] — the "no hard metrics" opening; 5 example PMM OKRs; OKR/KR/KPI disambiguation with Sales-Cycle-Time example; the four-category metric stack (product / marketing / sales / financial); the diagnostic chain from business metric back through the PMM stack; the patience-and-persistence closing. |
 
-Some of this material is already covered indirectly via the SVPG canon the wiki already grounds ([[2022-03-07-cagan-product-ops-dan-olsen]], [[2023-05-17-cagan-10-misconceptions-startups-productx]], [[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]) and [[transformed]] Ch 23 (the PM-side view of the same PMM relationship). Book-length deep pass will still add material the articles + Cagan-mentions don't carry.
+### Deep pass — Part Three (Pass 3a, 2026-07-12)
+Chapter-by-chapter deep read of Chs 14–20 (Part Three — Strategist: Guardrails and Levers).
+
+| Ch | Title | Wiki impact |
+|---|---|---|
+| **14** | When Strategy Guides Product GTM: Salesforce | Michelle Jones / Salesforce B2B Commerce opener showing all 4 fundamentals in action. Backs [[pmm-strategist]] as a canonical worked example; too specific to warrant its own page. |
+| **15** | What the iPhone Shows Us About Adoption Life Cycles | **Created new page:** [[technology-adoption-life-cycle]] — online-backup senior-citizen trap opener; the 5-segment bell curve; the 7–10 year timeline; Superhuman precise-early-adopter example; the overgeneralized-segment trap (*"SMB isn't the customer"*); Palo Alto vs startup CISO example; the iPhone decade-long walkthrough. |
+| **16** | The Brand Lever: It's Not What You Think | **Created new page:** [[brand-lever]] — Netflix trial-notification opener; WebFilings/Workiva case; brand-as-promise reframe; the 4 PMM brand situations; the 3 brand levels (company / LoB / product); Salesforce Marketing Cloud naming taxonomy; Netscape/AOL cautionary tale. |
+| **17** | The Pricing Lever: It's About Perceived Value | **Created new page:** [[pricing-lever]] — Nike sunglasses opener; customer-relative price framing; who owns pricing (monetization / pricing / packaging); 4 essential pricing-metric concepts; cheap-vs-best spectrum; find-the-breaking-point discipline; the 3 canonical packaging strategies (Table 17.1); editions guidance; cloud + subscription shift. |
+| **18** | Marketing When It's Not About Product | Modern Hire pandemic-pivot case study; the 5 non-product campaign types. Enriches [[pmm-strategist]] + [[pmm-marketing-partnership]] with the "no new product, still market" discipline; too situational to warrant its own page. |
+| **19** | The One-Sheet Product Go-to-Market Canvas | **Created new page:** [[one-sheet-gtm-canvas]] — Bandwidth opening + first-hour output; the puzzle metaphor; the 4-swim-lane structure (Customer/Environment · Product Milestones · Marketing Strategies · Key Activities); the 6-step recipe; SWOT gut check; Table 19.1 company-first vs customer-first; boundary vs full marketing plan. |
+| **20** | Understanding in Action: Real Marketing Plans | Early / scaling / mature marketing-plan examples; the 80-slide-deck-is-way-too-long critique. Reinforces [[one-sheet-gtm-canvas]]; too example-heavy to warrant its own page. |
+
+### Deep pass — Part Four (Pass 3b, 2026-07-12)
+Chapter-by-chapter deep read of Chs 21–26 (Part Four — Storyteller: Clarity and Authenticity).
+
+| Ch | Title | Wiki impact |
+|---|---|---|
+| **21** | Discover Your Position | Backs new page [[positioning]] — Brendan/RSA opening; Microsoft Office integrated-suite worked example; positioning-vs-messaging distinction; iterative positioning discovery; accuracy-for-engineering-trained addendum. |
+| **22** | How to Listen and Connect: Expensify and Concur | Backs new page [[messaging]] — Expensify opening; the 5 Listen-and-Learn open-ended questions; Expensify-vs-SAP Concur X-ray + Table 22.1; **CAST deep-dive**; the "'accounting sync' vs 'automate and integrate your AP process'" lesson; the millennial/Gen Z language shift. |
+| **23** | Understanding in Action: Netflix and Zendesk | Backs [[messaging]] — Netflix (2009 DVD days → 2014 streaming era → 2016 brand leads) + Zendesk (2010–11 anticipate-what-customers-want-to-know → 2014 pre-IPO → post-IPO) messaging-evolution walkthroughs. |
+| **24** | The Balancing Act: Right Message, Right Time | Backs [[positioning]] — Microsoft Office Internet-ready vs Loudcloud-cloud-in-2000 timing case; *"competition isn't a crowd, it's confirmation"*; Table 24.1 create-new vs redefine-existing category kings; leveraging PMs, sales, search trends. |
+| **25** | The One-Sheet Messaging Canvas | **Created new page:** [[one-sheet-messaging-canvas]] — CEO-panic-meeting opener; building-blocks design principle; the 7-step process; IndexTank worked example; the FAQ (timing · customer input · multi-product · one-sheet constraint). |
+| **26** | Leading and Transforming Product Marketing | **Created new page:** [[leading-product-marketing]] — Mala Sharma opener; where PMM should report (2 factors); role scope by stage; Ch 26 role-fixing shifts per relationship; **Project Aristotle 5 factors** + PMM-specific implications. |
+
+### Deep pass — Part Five (Pass 3c, 2026-07-12)
+Chapter-by-chapter deep read of Chs 27–30 (Part Five — How to Do the Role Well).
+
+| Ch | Title | Wiki impact |
+|---|---|---|
+| **27** | How to Hire Strong Product Marketing Talent | Enriches [[hiring-and-onboarding]] with a full **Hiring PMM talent** section — the curious/communicator/collaborator three-candidate framing; the signature *"great marketing company"* + corollary question; breadcrumbing; the 1-in-10 entry-level / 1-in-3 director-level hit-rate calibration. Also grounded on [[leading-product-marketing]] with the fuller skill-by-skill rubric. |
+| **28** | How to Guide a Product Marketing Career | Enriches [[leading-product-marketing]] with a full **Career guidance** section — the 3-stage arc (Early 1–5y · Mid-Level 5–12y · Senior 10+y) + the *"I'm a Great Director of Marketing"* essay (the 4 Director-to-VP shifts). |
+| **29** | Product Marketing by Stage: Early, Growth, Mature | **Created new page:** [[product-marketing-by-stage]] — Roadster/Michelle Denogean opening; Early Stage (Ignition) / Growth Stage (Rapid Rise) / Mature Stage (Peak Burn); the mature-company competitive-response worked example. |
+| **30** | Mature Company Inflection Points: When to Lean into Product Marketing | Enriches [[transformation]] with a **Mature-company inflection points** section — the 4 scenarios (traditional-to-tech-first · single-to-multi-product · product-to-solution · international expansion) with worked examples. Also grounded on [[product-marketing-by-stage]]. |
+
+## LOVED complete
+All 30 chapters deep-read. LOVED is now grounded book-length primary across the wiki — 4 fundamental pages (Chs 3-6), 3 partnership pages (Chs 8-10), 1 market-fit + 1 agile-PMM + 1 metrics page (Chs 11-13), 3 strategist-lever pages + 1 GTM canvas (Chs 15-19), 2 storyteller pages + 1 messaging canvas (Chs 21-25), 1 leadership + 1 stage page (Chs 26 + 29). Enrichments across ~10 more existing pages. LOVED Ch 26 profile chapters (Kavanaugh-equivalents in LOVED are the "Profile in Product Marketing" call-outs — Jenn Wei · Julie Choi) are held for future person-entity creation.
 
 ## What the book adds beyond the SVPG-article canon
 The wiki previously grounded product marketing via **Cagan's mentions in videos and TRANSFORMED Ch 23** — from the PM's side. LOVED is the **primary book-length source for the PMM side**, including:

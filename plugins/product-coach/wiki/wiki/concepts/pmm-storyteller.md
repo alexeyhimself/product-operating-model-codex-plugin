@@ -87,6 +87,15 @@ But *"an equal if not more powerful force influencing a product's perception is 
 
 This is why Fundamental 4 — [[pmm-evangelist|Evangelism]] — is essential. *"Intentional and accidental evangelists can create either lift or drag on all of this work, and they are the best way to scale go-to-market efforts."*
 
+## Where the depth lives — Chs 21–25
+Ch 5 introduces the fundamental; **Chs 21–25 (Part Four) are the depth.** The wiki grounds each on its own page:
+
+- **[[positioning]]** (Chs 21 + 24) — Discover Your Position + The Balancing Act (create-new-category vs redefine-existing). Grounds the Brendan/RSA opener and Microsoft Office Internet-features vs Loudcloud cases; *"competition isn't a crowd, it's confirmation."*
+- **[[messaging]]** (Chs 22 + 23) — deep CAST + the Expensify vs SAP Concur X-ray + the Netflix (2009 → 2014 → 2016) and Zendesk (2010 → 2014 → post-IPO) messaging-evolution worked examples.
+- **[[one-sheet-messaging-canvas]]** (Ch 25) — the practical artifact for messaging discovery + final messaging; the 7-step process; the IndexTank worked example.
+
+Use those pages when coaching a PMM through positioning or messaging in depth. This Fundamental page is the introduction.
+
 ## Anti-patterns & misunderstandings
 - **The positioning-statement straitjacket.** Formula generators become the finished messaging; teams check the box and stop. Fix: use formulas as input, iterate to real messaging via CAST + testing.
 - **Formula messaging.** Derivative, dense, jargon-filled. Focus on *what customers need to hear*, not what the team wants to say.
