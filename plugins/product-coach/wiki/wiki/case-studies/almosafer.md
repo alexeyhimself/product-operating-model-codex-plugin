@@ -5,10 +5,10 @@ aliases: [almosafer, almosafer-istiraha, seera-almosafer]
 status: drafting
 tags: [case-study, transformation, innovation, middle-east, saudi-arabia, travel, pandemic-response, empowered-teams]
 org: Almosafer (Seera Group)
-sources: ["[[transformed]]"]
-related: ["[[transformation]]", "[[empowered-product-teams]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-strategy]]", "[[missionaries-vs-mercenaries]]", "[[product-vision]]", "[[team-topology]]", "[[time-to-money]]", "[[amazon-prime]]", "[[spotify-discover-weekly]]", "[[trainline-transformation]]", "[[gympass-wellness-pivot]]"]
+sources: ["[[transformed]]", "[[continuous-discovery-habits]]"]
+related: ["[[transformation]]", "[[empowered-product-teams]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-strategy]]", "[[missionaries-vs-mercenaries]]", "[[product-vision]]", "[[team-topology]]", "[[time-to-money]]", "[[amazon-prime]]", "[[spotify-discover-weekly]]", "[[trainline-transformation]]", "[[gympass-wellness-pivot]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-12
 ---
 
 # Almosafer — Istiraha Marketplace
@@ -38,5 +38,18 @@ The muscles built during a normal transformation are what let a company execute 
 ## In your context
 _When the next crisis hits your org, will your teams have the discovery, delivery, and cross-functional muscles to invent something new — or will they be trying to build them under pressure? Almosafer's answer to that question predated the pandemic by two years._
 
+## Also told by Torres (CDH Ch 6)
+[[teresa-torres|Torres]] opens *[[continuous-discovery-habits|Continuous Discovery Habits]]* Ch 6 (*Mapping the Opportunity Space*) with the **same pivot** told through **Ahmed Guijou at Seera Group** (Almosafer's parent company). Torres's telling adds operational detail on the *discovery method* the team used to identify and structure the new opportunity:
+
+- **Continuous interviews on both sides of the marketplace** — Guijou's team interviewed istiraha hosts and istiraha guests separately, treating them as distinct customer sets with distinct opportunity spaces.
+- **Two [[opportunity-solution-tree|opportunity solution trees]]** — one per side of the marketplace — grew and were restructured week over week as new patterns emerged from the interviews.
+- **Grouped opportunities specific to Istrahas** — the team paid special attention to what was distinctive about the category (afternoon-to-evening same-day rentals; social-gathering context) rather than treating them as generic hotel-like inventory.
+- **Assessed against competition and existing strengths** — once the opportunity space had structure, the team stepped back to look for where they could leverage what Almosafer already did well against gaps competitors weren't filling.
+
+Torres's frame: *"in a few short weeks, they went from watching their business get disrupted overnight to identifying a new market opportunity and developing a product strategy for how they could tap into it. That's the power of opportunity mapping."*
+
+Cross-attribution: the Cagan-endorsed how-to (Torres) and Cagan's own transformation frame (TRANSFORMED Ch 14) tell the *same* pivot from complementary angles — the discovery method (Torres) and the transformation story (Cagan). Both should be cited when coaching a similar situation.
+
 ## Sources
 - [[transformed]] Ch 14 — Innovation Story: Almosafer. Product leaders: Ronnie Varghese (product), Qais Amori (tech). Coach: Hope Gurion (profiled Ch 34).
+- [[continuous-discovery-habits]] Ch 6 — [[teresa-torres|Torres]] tells the same pivot through **Ahmed Guijou at Seera Group** (Almosafer's parent), highlighting the two-sided [[opportunity-solution-tree|OST]] mapping method that structured the new marketplace. Cagan-endorsed via CDH Foreword.

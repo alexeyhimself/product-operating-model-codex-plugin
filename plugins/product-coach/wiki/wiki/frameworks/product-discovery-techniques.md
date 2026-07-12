@@ -4,8 +4,8 @@ type: framework
 aliases: [product-discovery-techniques, discovery-techniques, discovery-technique-catalog]
 status: drafting
 tags: [framework, discovery, techniques, prototypes, testing, risks]
-sources: ["[[transformed]]", "[[inspired]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
-related: ["[[product-discovery]]", "[[the-four-big-risks]]", "[[prototypes]]", "[[opportunity-assessment]]", "[[reference-customer-program]]", "[[pilot-teams]]", "[[build-to-learn-vs-build-to-earn]]", "[[the-product-team-trio]]", "[[empowered-engineers]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[continuous-discovery-habits]]"]
+related: ["[[product-discovery]]", "[[the-four-big-risks]]", "[[prototypes]]", "[[opportunity-assessment]]", "[[reference-customer-program]]", "[[pilot-teams]]", "[[build-to-learn-vs-build-to-earn]]", "[[the-product-team-trio]]", "[[empowered-engineers]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[assumption-testing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-12
 updated: 2026-07-12
 ---
@@ -18,6 +18,15 @@ updated: 2026-07-12
 - **A team is stuck on a risk** and needs a menu of ways to address it. Locate the risk in the taxonomy below; pick the technique that fits the situation.
 - **Coaching a team new to discovery.** The page enumerates what "modern discovery" concretely consists of — many teams have only ever done usability testing and A/B optimization and don't realize what else exists.
 - **A PM proposes a specific technique** and you want to verify (a) it addresses the actual risk, and (b) it's the cheapest/fastest option that will do so.
+
+## Complementary Torres framework (CDH 2021)
+Cagan's catalog names *what techniques exist*; [[teresa-torres|Torres]]'s [[continuous-discovery-habits|CDH]] provides three complementary frameworks for the *how* — endorsed by Cagan in the CDH Foreword and treated in this wiki as SVPG-adjacent canon:
+
+- **[[opportunity-solution-tree]]** — the visual structure connecting the outcome to opportunities, solutions, and assumption tests. The living artifact the trio maintains week over week.
+- **[[continuous-interviewing]]** — the **keystone habit**; weekly customer touchpoints using story-based interviewing to feed the opportunity space.
+- **[[assumption-testing]]** — the discipline for choosing *which* technique from the Cagan catalog to run *when*: enumerate assumptions, plot on the assumption map, test the top-right (leap-of-faith + high-impact) assumption cheapest first.
+
+Rough division of labor: **Torres = the discipline for picking and sequencing tests; Cagan = the technique menu.**
 
 ## The four risks the techniques address
 Every discovery technique below is ultimately in service of surviving one or more of [[the-four-big-risks|the four risks]] ([[transformed|TRANSFORMED]] Ch 10; [[inspired|INSPIRED]] Ch 33):
@@ -58,7 +67,7 @@ Ch 33 of [[inspired|INSPIRED]] enumerates the principles every technique rests o
 ## 3. Ideation techniques
 > **Purpose:** generate a wealth of promising solutions aimed at the problem.
 
-- **Customer Interviews** ([[inspired|INSPIRED]] Ch 41) — the most basic technique in the book. Cadence: **2–3 hours of customer interviews per week, every week** as a bare minimum. The PM must be present. Four key questions every interview tries to answer: *are the customers who you think they are · do they really have the problems you think they have · how do they solve this problem today · what would it take for them to switch*. Ideal trio present: PM, designer, engineer (rotating); designer usually drives, PM takes notes, engineer observes. *Candidate future dedicated page: `[[customer-interviews]]`.*
+- **Customer Interviews** ([[inspired|INSPIRED]] Ch 41; deep how-to on **[[continuous-interviewing]]** from [[continuous-discovery-habits|CDH]] Chs 5, 14) — the most basic technique in the book. Cadence: **2–3 hours of customer interviews per week, every week** as a bare minimum (Cagan); Torres's operational floor is **at least one interview per week per trio, on a target-market user, story-based**. The PM must be present. Four key questions every Cagan interview tries to answer: *are the customers who you think they are · do they really have the problems you think they have · how do they solve this problem today · what would it take for them to switch*. Torres's story-based technique (*"tell me about the last time you…"*) is the practical execution — see [[continuous-interviewing]].
 - **Concierge Test** ([[inspired|INSPIRED]] Ch 42) — do the customer's job for them, manually, in person. Learn their workflow by *becoming their concierge*. Generates high-quality product ideas + customer empathy in one motion. Distinct from customer service (which is reactive; concierge is proactive). Ideally the whole trio (PM + designer + engineer) participates.
 - **The Power of Customer Misbehavior** ([[inspired|INSPIRED]] Ch 43) — a third source of opportunities (beyond market-following and technology-following): *"allow, and even encourage, our customers to use our products to solve problems other than what we planned for."* eBay's "Everything Else" category → used cars is the canonical example. Corollary: **The Power of Developer Misbehavior** — public APIs invite developers (Cagan's *"consistently best sources of truly innovative product ideas"*) to reveal what's *just-now-possible* on your platform (Facebook's platform strategy).
 - **Hack Days** ([[inspired|INSPIRED]] Ch 44) — undirected (any product idea loosely related to the mission) or **directed** (a specific customer problem or business objective, e.g. *"reduce customer churn rate"*). Two benefits: engineers participate in ideation (where many of the best ideas come from); builds [[missionaries-vs-mercenaries|missionaries]] by pulling engineers deep into the business context.
@@ -186,3 +195,4 @@ _Field note prompt for the agent: which discovery techniques does this team actu
 - [[2024-06-24-cagan-pm-and-experimentation-testing-insights]] — optimization vs innovation experimentation; the pyramid-not-diamond critique; qualitative + quantitative discipline. Modern update to Ch 54.
 - [[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]] — reference-customer program named as a discovery style alongside continuous discovery and dual-track.
 - [[2006-12-13-cagan-assessing-product-opportunities]] — the article-form origin of Opportunity Assessment (§1).
+- [[continuous-discovery-habits]] — [[teresa-torres|Torres]] (2021, Cagan-endorsed via Foreword). The operational complement to this catalog: [[opportunity-solution-tree|OST]] structures discovery, [[continuous-interviewing|weekly interviews]] execute the keystone habit, [[assumption-testing]] picks and sequences the Cagan-catalog techniques below.

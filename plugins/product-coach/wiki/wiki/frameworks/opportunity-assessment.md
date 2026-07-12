@@ -4,8 +4,8 @@ type: framework
 aliases: [opportunity-assessment, product-opportunity-assessment, 10-questions]
 status: drafting
 tags: [framework, opportunity, discovery, prioritization]
-sources: ["[[transformed]]", "[[inspired]]", "[[2006-12-13-cagan-assessing-product-opportunities]]", "[[2012-07-24-cagan-the-opportunity-backlog]]"]
-related: ["[[product-discovery]]", "[[team-objectives]]", "[[product-strategy]]", "[[the-four-big-risks]]", "[[product-manager]]", "[[reference-customer-program]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2006-12-13-cagan-assessing-product-opportunities]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[continuous-discovery-habits]]"]
+related: ["[[product-discovery]]", "[[team-objectives]]", "[[product-strategy]]", "[[the-four-big-risks]]", "[[product-manager]]", "[[reference-customer-program]]", "[[opportunity-solution-tree]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-06-21
 updated: 2026-07-12
 ---
@@ -51,6 +51,20 @@ Answer each in 1–3 sentences. The whole assessment should fit on a page. The w
 ## How it relates to the opportunity backlog
 The modern descendant ([[2012-07-24-cagan-the-opportunity-backlog|canon]]) condenses the 10 to a **three-question entry**: what problem / for whom / how will we know we succeed. The full 10 still live behind the scenes when a problem rises to active consideration.
 
+## Compared to Torres's [[opportunity-solution-tree]]
+Both address the "which opportunities?" moment; they solve different problems and complement each other.
+
+| | **Cagan's opportunity assessment** | **[[teresa-torres\|Torres]]'s [[opportunity-solution-tree\|OST]]** |
+|---|---|---|
+| Unit | One opportunity | The whole opportunity space for one outcome |
+| Depth | 1 page, 10 questions, ~1 hour | Living artifact, evolves weekly |
+| Best for | Single new opportunity — go/no-go before discovery | Team assigned an outcome, must find which opportunities to pursue |
+| Decision | Whether-or-not on one opportunity | Compare-and-contrast across siblings |
+| Stakeholder use | Communicated as a one-pager | Walked through as a visual |
+| Provenance | [[inspired\|INSPIRED]] Ch 11 (2008); [[2006-12-13-cagan-assessing-product-opportunities\|SVPG 2006]] | [[continuous-discovery-habits\|CDH]] Chs 2, 6, 7 (2021) |
+
+Use them together: assessment for the *entry gate* on a specific incoming opportunity; the tree for the *ongoing discovery structure* once a team has an outcome to pursue.
+
 ## Example
 *Field note placeholder — pick an opportunity the team is currently arguing about. Force the 10 questions. Note which two are weakest. That's where the homework needs to go.*
 
@@ -64,3 +78,4 @@ The modern descendant ([[2012-07-24-cagan-the-opportunity-backlog|canon]]) conde
 - [[2006-12-13-cagan-assessing-product-opportunities]] — the earlier SVPG article Cagan reused in [[inspired|INSPIRED]] Ch 11; same 10 questions.
 - [[2012-07-24-cagan-the-opportunity-backlog]] — the modern condensation (three questions per backlog entry).
 - [[transformed]] — root source; opportunity assessment survives into the empowered model as the light-touch gate before discovery.
+- [[continuous-discovery-habits]] — [[teresa-torres|Torres]]'s [[opportunity-solution-tree|OST]] is the complementary framework for the *ongoing* discovery structure (Chs 2, 6, 7). Cited on this page for the comparison table.

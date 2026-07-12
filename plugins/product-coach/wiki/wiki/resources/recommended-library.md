@@ -43,7 +43,7 @@ updated: 2026-07-04
 - **[[working-backwards|Working Backwards]]** — Bryar & Carr. Customer-obsessed mechanisms (Amazon).
 
 ### Product discovery (figuring out what to build)
-- **[[continuous-discovery-habits|Continuous Discovery Habits]]** — Teresa Torres. The practical discovery system. *(See outcomes nuance on [[outcomes-over-output]].)*
+- **[[continuous-discovery-habits|Continuous Discovery Habits]]** — [[teresa-torres|Teresa Torres]] (2021). The practical discovery system: [[opportunity-solution-tree|opportunity solution tree]] + [[continuous-interviewing|weekly customer interviews]] + [[assumption-testing]]. **Cagan wrote the Foreword** — SVPG-adjacent canon. Complement to [[inspired|INSPIRED]] (Cagan articulates what/why; Torres executes how). *(Outcomes nuance clarified 2026-07-12: the "change in human behavior" wording is Josh Seiden's, not Torres's — see [[outcomes-over-output]].)*
 - **[[creative-selection|Creative Selection]]** — Ken Kocienda. Discovery-by-demo at Apple.
 - **[[inspired|INSPIRED]]** — Cagan. Discovery techniques and the [[the-four-big-risks|four risks]].
 

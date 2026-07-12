@@ -5,10 +5,10 @@ aliases: [carmax, carmax-omnichannel, carmax-love-your-car]
 status: drafting
 tags: [case-study, transformation, innovation, retail, automotive, pandemic-response, empowered-teams, product-strategy]
 org: CarMax
-sources: ["[[transformed]]"]
-related: ["[[transformation]]", "[[product-strategy]]", "[[product-discovery]]", "[[product-delivery]]", "[[the-four-big-risks]]", "[[empowered-product-teams]]", "[[time-to-money]]", "[[amazon-prime]]", "[[trainline-transformation]]", "[[almosafer]]", "[[gympass-wellness-pivot]]"]
+sources: ["[[transformed]]", "[[continuous-discovery-habits]]"]
+related: ["[[transformation]]", "[[product-strategy]]", "[[product-discovery]]", "[[product-delivery]]", "[[the-four-big-risks]]", "[[empowered-product-teams]]", "[[time-to-money]]", "[[amazon-prime]]", "[[trainline-transformation]]", "[[almosafer]]", "[[gympass-wellness-pivot]]", "[[assumption-testing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-12
 ---
 
 # CarMax — Omnichannel Pandemic Pivot
@@ -45,5 +45,17 @@ CarMax's ability to move fast under crisis wasn't luck. Two things had already b
 ## In your context
 _If a 75% revenue drop landed on your org next quarter, which strategic bets would you accelerate — and would your teams be able to actually deliver, or would they still be requesting-tools-and-training?_
 
+## Also told by Torres (CDH Ch 12)
+[[teresa-torres|Torres]] tells a distinct CarMax story in *[[continuous-discovery-habits|CDH]]* Ch 12 (*Managing the Cycles*) — **Victoria Lawson**, Senior PM on the **CarMax Digital Merchandising Experience** team. Not the pandemic-transaction transformation Cagan tells in Ch 20; a discovery *within* the same product organization on how to display car condition.
+
+- **Target opportunity:** *"I want to feel confident that this car is in good condition."*
+- **The strategic tension.** Competitors were highlighting dings/scratches on their vehicles as a trust signal. CarMax's own value proposition is that their reconditioning process *fixes* those issues before sale — so they had nothing to highlight. Would customers understand that absence of highlighted dings meant they'd been fixed?
+- **First assumption test — do customers actually value reconditioning?** Wireframe A/B: same car, one with minor issues at $1,000 discount, one reconditioned at $1,000 premium. Result: customers *would pay more* for reconditioned. The value proposition mattered.
+- **Second test — communicate the value proposition generalized (vs vehicle-specific).** Text overlays on image gallery ("No major dings or dents"). High test threshold set because the image gallery is prime real estate. **Multiple experiments failed to meet threshold** — customers wanted *vehicle-specific* reconditioning information to trust the specific car.
+- **The wisdom move.** Rather than push a generalized solution that didn't clear the bar, Victoria's team concluded they'd extracted the value they could from generalized approaches. Vehicle-specific solutions would require investment across multiple teams — they pushed that opportunity to *later*, and worked a different opportunity in parallel to keep delivering short-term outcome progress. Later, this discovery work made the business case for the vehicle-specific investment they now ship.
+
+Torres's frame: opportunity selection has a *temporal* dimension — the same opportunity may be *"not now"* even when it's clearly important. Small tests helped Victoria's team learn this quickly rather than committing months to a solution the market wouldn't accept.
+
 ## Sources
 - [[transformed]] Ch 20 — Innovation Story: CarMax. Digital transformation led by Ann Yauger (carmax.com team). No coach named in the chapter. Company book endorsement in the front matter is by Tyler Tuite, CPO CarMax.
+- [[continuous-discovery-habits]] Ch 12 — [[teresa-torres|Torres]] tells the Victoria Lawson / Digital Merchandising Experience story: opportunity selection has a *temporal* dimension; the trio used small assumption tests to conclude a vehicle-specific approach was needed but out of scope *now* — pushing it to future while pursuing another opportunity in parallel. Complements the pandemic-transformation frame in TRANSFORMED with a within-transformation discovery cycle.

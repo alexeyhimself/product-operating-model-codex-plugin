@@ -4,10 +4,10 @@ type: concept
 aliases: [team-objective, problems-and-outcomes, okrs-in-the-model]
 status: drafting
 tags: [product-team, product-strategy, outcomes, okrs, core-concept]
-sources: ["[[transformed]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2009-06-01-cagan-the-product-scorecard]]", "[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]"]
-related: ["[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[product-strategy]]", "[[product-leadership]]", "[[overview]]", "[[outcome-based-roadmap]]", "[[high-integrity-commitments]]", "[[okrs]]", "[[the-point-is-outcomes]]", "[[placing-bets]]"]
+sources: ["[[transformed]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2009-06-01-cagan-the-product-scorecard]]", "[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]"]
+related: ["[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[product-strategy]]", "[[product-leadership]]", "[[overview]]", "[[outcome-based-roadmap]]", "[[high-integrity-commitments]]", "[[okrs]]", "[[the-point-is-outcomes]]", "[[placing-bets]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]", "[[opportunity-solution-tree]]"]
 created: 2026-06-14
-updated: 2026-07-04
+updated: 2026-07-12
 ---
 
 # Team Objectives
@@ -42,7 +42,11 @@ Cagan's nine-part **Team Objectives** series is the operating manual — capture
 - Key results that are output/feature counts rather than [[outcomes-over-output|outcomes]].
 - **OKR theater** — the technique overlaid on a feature-team culture, or diluted into **manager/individual** objectives instead of *team* objectives ([[okrs]]).
 - **KR targets handed down** (kills ownership) — or the inverse, **teams choosing their own objectives** with leadership absent (produces "lack of direction"). Leaders pick the problems; teams set the measures.
-- **Nuance:** desired outcomes need not be "changes in human behavior" (Torres) — Cagan generalizes to any measure the team can directly influence (e.g. Customer Effort Score). Watch that the easier-to-read proxy still reflects real value.
+- **Wrong altitude of metric ([[teresa-torres|Torres]], [[continuous-discovery-habits|CDH]] Ch 3).** Three-tier altitude test:
+  - **Business outcome** as team objective → coordination-heavy, lagging, hard to guide day-to-day work. Escalate the altitude if this is what's been handed down: which *product outcome* would drive it?
+  - **Product outcome** as team objective → the right altitude; within the trio's span of control.
+  - **Traction metric** as team objective → strips the trio of latitude (they can only push the one workflow). Use for junior teams or mature-product optimization only.
+- **Nuance (Torres attribution correction — 2026-07-12).** The "outcome = a change in human behavior" phrasing is Josh Seiden's, quoted by Torres in the CDH Ch 3 epigraph. Torres's own operational definition of a *product outcome* is *"a metric the team can influence"* — matches Cagan's usage; the wiki's older Torres-vs-Cagan tension was overstated. See [[outcomes-over-output]] for the full nuance.
 
 ## In your context
 _Field note placeholder — are your teams handed problems-with-outcomes, or feature lists?_
@@ -58,3 +62,4 @@ _Field note placeholder — are your teams handed problems-with-outcomes, or fea
 - [[2024-03-16-huryn-product-model-first-principles-part-1]] — supporting explainer; *TRANSFORMED* Ch. 13 (team objectives, OKR mapping).
 - **The Team Objectives series (Cagan, 2020) — the operating manual, expanded on [[okrs]]:** [[2020-02-24-cagan-team-objectives-overview]] (empowerment technique; three prerequisites) · [[2020-03-02-cagan-team-objectives-empowerment]] (objective + KRs; backstop; KRs-from-team) · [[2020-03-04-cagan-team-objectives-action]] (leaders assign; KTLO) · [[2020-03-04-cagan-team-objectives-ambition]] (roof/moon shot) · [[2020-03-04-cagan-team-objectives-commitments]] (high-integrity commitments) · [[2020-03-04-cagan-team-objectives-management]] (weekly check-ins) · [[2020-03-04-cagan-team-objectives-accountability]] (accountability scaled to ambition) · [[2020-03-04-cagan-team-objectives-summary]] (the ten keys) · [[2020-03-04-cagan-team-objectives-collaboration]] (shared vs common objectives; swarms; attribution).
 - [[2025-03-17-cagan-castro-outcomes-are-hard]] — moving to outcomes is a consequence of the model; KPIs ≠ outcomes.
+- [[continuous-discovery-habits]] — [[teresa-torres|Torres]] Ch 3 (business/product/traction three-tier; leading vs lagging; the **two-way negotiation** of the outcome between product leader and trio — parallel to Cagan's KRs-from-the-team). Torres's product-outcome definition ("a metric the trio can influence") is the operational match for empowered team objectives.
