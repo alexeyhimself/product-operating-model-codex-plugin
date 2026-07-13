@@ -4,7 +4,7 @@ type: concept
 aliases: [product-strategy, strategy]
 status: drafting
 tags: [product-strategy, core-concept]
-sources: ["[[transformed]]", "[[2020-02-17-cagan-product-strategy-overview]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2020-02-18-cagan-product-strategy-focus]]", "[[2020-02-19-cagan-product-strategy-insights]]", "[[2020-02-20-cagan-product-strategy-actions]]", "[[2020-02-21-cagan-product-strategy-management]]", "[[2016-07-16-cagan-vision-vs-strategy]]", "[[2008-06-29-cagan-product-strategy-in-an-agile-world]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2017-07-14-cagan-analyzing-product-strategy]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2009-06-01-cagan-the-product-scorecard]]", "[[2009-01-07-cagan-product-roadmaps]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2010-01-13-cagan-product-management-as-a-service-organization]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2020-02-17-cagan-product-strategy-overview]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2020-02-18-cagan-product-strategy-focus]]", "[[2020-02-19-cagan-product-strategy-insights]]", "[[2020-02-20-cagan-product-strategy-actions]]", "[[2020-02-21-cagan-product-strategy-management]]", "[[2016-07-16-cagan-vision-vs-strategy]]", "[[2008-06-29-cagan-product-strategy-in-an-agile-world]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2017-07-14-cagan-analyzing-product-strategy]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2009-06-01-cagan-the-product-scorecard]]", "[[2009-01-07-cagan-product-roadmaps]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2010-01-13-cagan-product-management-as-a-service-organization]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]"]
 related: ["[[product-vision]]", "[[focus]]", "[[powered-by-insights]]", "[[transparency]]", "[[placing-bets]]", "[[team-objectives]]", "[[product-leadership]]", "[[overview]]", "[[product-strategy-quality]]", "[[outcome-based-roadmap]]", "[[good-strategy-bad-strategy]]", "[[the-art-of-action]]", "[[amazon-prime]]", "[[spotify-discover-weekly]]", "[[google-product-model]]", "[[okrs]]"]
 created: 2026-06-14
 updated: 2026-07-04
@@ -48,6 +48,33 @@ The spoken origin of this framework is [[2020-02-22-cagan-product-strategy-the-m
 - **Assign the same problem to multiple teams** — an underused technique. Not a competition (different people, data, technology) but a way to raise the odds that at least one team cracks a hard problem; in the ideal case you get the cumulative win.
 - **Set aggressiveness explicitly.** When you hand a team a problem, state the **confidence level** you want — ~50% (a real stretch / moonshot) vs ~90% (near-certain / roofshot).
 - **Strategy outranks discovery in importance.** "Even if you're terrible at discovery, as long as the money doesn't run out you might get there; if the strategy is bad, it almost never works out."
+
+### The [[inspired|INSPIRED]] Chs 24 + 26 grounding
+INSPIRED 2nd ed Ch 24 (Product Vision and Product Strategy) grounds the wiki's operating rule that **product strategy = a sequence of product/market fits on the way to the vision** — *"one target market at a time."*
+
+**Ch 24's product-strategy framing:**
+- *"One of the most basic of all product lessons learned is that trying to please everybody at once will almost certainly please nobody."* So don't try to build a giant multi-year release that delivers the full vision.
+- *"The product strategy is our sequence of products or releases we plan to deliver on the path to realizing the product vision."*
+- **Structure options** (there is no single ideal): by **vertical market** (financial services / manufacturing / automotive) · by **customer persona** (high-school students → college students → working learners) · by **geography** · by **milestones in logical sequence** (rating first → sentiment DB → recommendations).
+- **The most important benefit:** *"you decided to focus your product work on a single target market at a time."* Everyone knows which market is being obsessed on right now.
+- **GTM alignment payoff:** the strategy gives sales/marketing an aligned target. *"As soon as we demonstrate product/market fit for a new market (usually by developing an initial set of reference customers), we want the sales force to go out and find as many additional customers in that market as possible."*
+
+**Ch 24's prioritizing-markets discipline** — three critical inputs (no one right answer):
+
+1. **TAM** — total addressable market. *"All things considered equal, we like big markets rather than small markets. But of course, they're not equal."*
+2. **GTM** — distribution / sales channels required. *"Even if the market is larger, if that market would require a new sales channel, then most likely we would all prioritize a somewhat smaller market that can leverage our existing sales channels."*
+3. **TTM** — time to market. A very rough estimation of how long each option would take.
+
+*"The head of product, head of technology, and head of product marketing sit down together to work out your product strategy, balancing these various factors."*
+
+### The 5 principles for product strategy ([[inspired|INSPIRED]] Ch 26)
+Ch 26 gives 5 principles good strategies have in common — coach-ready:
+
+1. **Focus on one target market or persona at a time.** *"Don't try to please everyone in a single release. Focus on one new target market, or one new target persona, for each release. You'll find that the product will still likely be useful to others, but at least it will be loved by some."*
+2. **Product strategy needs to be aligned with business strategy.** *"If that business strategy involves a change in monetization strategy or business model, then the product strategy needs to be aligned with this."*
+3. **Product strategy needs to be aligned with sales and go-to-market strategy.** *"A new sales channel or go-to-market strategy can have far-reaching impact on a product."*
+4. **Obsess over customers, not over competitors.** *"Too many companies completely forget about their product strategy once they encounter a serious competitor. They panic and then find themselves chasing their competitor's actions and no longer focusing on their customers. We can't ignore the market, but remember that customers rarely leave us for our competitors. They leave us because we stop taking care of them."*
+5. **Communicate the strategy across the organization.** *"Stay especially closely synced with sales, marketing, finance, and service."*
 
 ### Focus in practice (case studies)
 - [[amazon-prime|Amazon — Prime]]: made **shipping** a multi-year focus from customer insight, and said no to advertising *and much else* — "most companies would have chosen to spread their resources across a much larger set of initiatives."

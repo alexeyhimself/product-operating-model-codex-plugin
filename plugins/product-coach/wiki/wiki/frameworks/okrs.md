@@ -4,7 +4,7 @@ type: framework
 aliases: [okrs, objectives-and-key-results, okr, okr-theater]
 status: drafting
 tags: [framework, okrs, team-objectives, outcomes, empowerment]
-sources: ["[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[transformed]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]"]
+sources: ["[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[transformed]]", "[[inspired]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]"]
 related: ["[[team-objectives]]", "[[outcomes-over-output]]", "[[the-point-is-outcomes]]", "[[product-strategy]]", "[[product-leadership]]", "[[empowered-product-teams]]", "[[high-integrity-commitments]]", "[[placing-bets]]", "[[google-product-model]]"]
 created: 2026-07-04
 updated: 2026-07-12
@@ -20,6 +20,69 @@ updated: 2026-07-12
 2. **Measurement** — HP's own tagline of that era: *"When Performance Is Measured By Results."* You can ship every feature you planned and still have solved nothing if it didn't move the underlying business problem.
 
 MBO was later refined at other companies — "most notably Intel" — into what today is the OKR system. The failure mode Cagan names in this 2016 piece is the same one the 2020 Team Objectives series formalizes: executives hand down a feature roadmap, teams flesh out the details with little belief in the solutions, and "progress is measured by output and not outcome."
+
+## The [[inspired|INSPIRED]] Chs 27 + 28 + 29 + 30 book-form
+INSPIRED 2nd ed grounds OKRs across four chapters that together comprise the wiki's OKR canon in book form.
+
+### Ch 27 (Product Objectives — Overview) — the HP → Intel → Google lineage
+Ch 27 restates the HP MBO → Intel/Andy Grove → John Doerr → Google OKR lineage this page grounds via [[2016-02-09-cagan-when-performance-is-measured-by-results|the 2016 Wodtke foreword]]:
+
+*"Dave Packard claimed: 'No [tool] has contributed more to Hewlett-Packard's success. [MBO] is the antithesis of management by control.'"* And: *"John Doerr brought the technique from Intel to a very young Google, and a couple decades after Dave Packard attributed much of HP's success to MBO, Larry Page said essentially the same thing about the importance of the OKR process on Google's success."*
+
+**Ch 27's two founding principles** (verbatim from the book):
+1. **General George Patton:** *"Never tell people how to do things. Tell them what to do, and they will surprise you with their ingenuity."* → how to empower + motivate.
+2. **HP's tagline of that era:** *"When performance is measured by results."* → how to meaningfully measure progress.
+
+*"So much has changed in our industry over the years, but these two fundamental management principles are still at the foundation of how the best tech companies and teams operate."*
+
+### Ch 28 — The OKR Technique (the 10 critical points)
+Ch 28 gives Cagan's 10 critical points when using OKRs for product teams — coach-ready checklist:
+
+1. **Objectives = qualitative; Key Results = quantitative/measurable.**
+2. **KRs should be a measure of business results, not output or tasks.**
+3. **Focus on organization objectives + each team's objectives** (which are designed to roll up to the org's). *"Don't let personal objectives or functional team objectives dilute or confuse the focus."*
+4. **Cadence:** annually for organization objectives; quarterly for team objectives.
+5. **Small numbers:** 1–3 objectives + 1–3 KRs each is typical.
+6. **Weekly active-progress tracking** by every product team.
+7. Objectives *don't need to cover every little thing* the team does — but should cover **what the team needs to accomplish.**
+8. **Team accountability** — post-mortem with peers or management when a team fails substantially.
+9. **Scoring convention** (0.0–1.0 scale is common): 0 = essentially no progress · 0.3 = bare minimum you knew you could achieve · 0.7 = really did what you'd hoped · 1.0 = exceptional result beyond what people hoped.
+10. **High-integrity commitments are indicated separately + are binary** — either you delivered or you didn't. Distinct from a normal 0.7-target KR.
+
+**Ch 28 transparency + role split:**
+- *"Be very transparent (across the product and technology organization) on what objectives each product team is working on and their current progress."*
+- **Senior management (CEO + exec team)** = organization objectives + KRs.
+- **Heads of product + technology** = product team objectives + ensuring they deliver on org objectives.
+- **Individual product teams** = proposing the KRs for each objective they're assigned. *"It is normal to have a give-and-take process each quarter as the OKRs are finalized."*
+
+### Ch 29 — Product Team Objectives (the cascade discipline)
+Ch 29 is Cagan's clearest statement of **why OKRs must cascade *up* from teams, not *down* from functional departments** — and this is the most-common cause of failed OKR rollouts.
+
+*"There's a common tendency to have each functional department create their own OKRs for their own organization. For example, the design department might have objectives related to moving to a responsive design; the engineering department might have objectives related to improving the scalability and performance of the architecture; and the quality department might have objectives relating to the test and release automation."*
+
+**The problem:** *"The individual members of each of these functional departments are the actual members of a cross-functional product team. The product team has business-related objectives (for example, to reduce the customer acquisition cost, to increase the number of daily active users, or to reduce the time to onboard a new customer), but each person on the team may have their own set of objectives that cascade down through their functional manager. Imagine if the engineers were told to spend their time on re-platforming, the designers on moving to a responsive design, and QA on retooling. While each of these may be worthy activities, the chances of solving the business problems that the cross-functional teams were created to solve are not high."*
+
+**Ch 29's load-bearing rule:** *"If you deploy OKRs for your product organization, the key is to focus your OKRs at the product team level. This means don't let functional team or individual person OKRs confuse the issue."*
+
+*"The key is that the cascading of OKRs in a product organization needs to be up from the cross-functional product teams to the company or business-unit level."*
+
+Ch 29's carve-outs — what's OK:
+- **Managers of functional areas** may have individual objectives relating to their organization (e.g. head of UX with a responsive-design strategy) — they're not serving on a product team.
+- **Individual contributors** may have a small number of **personal growth-related objectives** — assuming they don't interfere with product-team contribution.
+
+### Ch 30 — Product Objectives @ Scale
+Ch 30 addresses OKRs at scale — 20-50+ product teams. Ch 30's core additions:
+
+- **Startups (small orgs)** — each team proposes their OKRs, some give-and-take, then work. This doesn't scale.
+- **At scale, teams need help.** *"The first help they need is a very clear understanding of the organization-level objectives."*
+- **Leadership assigns teams to org objectives.** *"Some teams might focus on only one, others might contribute to both, and yet other teams may be tackling critical work beyond those two objectives. Leadership (especially the head of product, head of technology, and head of design) will need to discuss the company objectives and which teams are best suited to pursue each objective."*
+- **Platform teams get requests from most/all higher-level product teams.** *"Leadership will need to help coordinate the objectives for these teams and make sure we coordinate the dependencies and align the interests."*
+- **The reconciliation process** — *"leadership team looks at the proposed key results from the product teams and identifies gaps and then looks to what might be adjusted to cover those gaps (for example, enlisting the help of additional teams or reviewing the priority of the work)."*
+- **Transparency tools help but aren't enough** — *"even with these tools, we lean on management to help connect the dots between teams."*
+- **[[delivery-manager|Delivery managers]] play a key role in tracking + managing dependencies + high-integrity commitments.**
+- **Multi-business-unit enterprises** — corporate-level OKRs + business-unit-level OKRs; product teams roll up into their BU.
+
+Ch 30's summary line: *"When using OKRs at scale, there's a larger burden on leadership and management to ensure that the organization is truly aligned, that each and every product team understands how they fit into the mix, and what they are there to contribute."*
 
 ## Why most OKR rollouts fail
 Correlation vs causation: the leading tech companies aren't successful *because* they use OKRs; they use OKRs because the technique is designed to leverage the [[empowered-product-teams|empowered-team]] model. Overlay it on a feature-team culture and you get **"OKR theater"** ([[2020-02-22-cagan-product-strategy-the-missing-link|Missing Link]]). The three failure modes ([[2020-02-24-cagan-team-objectives-overview|Overview]]):
@@ -102,3 +165,4 @@ _Field note placeholder — do your key results describe outcomes or deliverable
 - [[2020-02-22-cagan-product-strategy-the-missing-link]] — "OKR theater"; OKRs are downstream of strategy; requisites for OKRs.
 - [[transformed]] — root source; team objectives / outcomes in the product model.
 - [[2016-02-09-cagan-when-performance-is-measured-by-results]] — origin story: HP's MBO training, the Patton motivation quote, the "measured by results" tagline, and the MBO → Intel → OKR lineage.
+- [[inspired]] Chs 27 + 28 + 29 + 30 — **primary (book-length)** OKR canon. Ch 27 (Product Objectives overview) the HP → Intel → Google lineage + two founding principles (Patton motivation + HP "measured by results"). Ch 28 (The OKR Technique) the 10 critical points + transparency + role split (senior mgmt → org OKRs · heads of product+tech → team OKRs · teams propose KRs). Ch 29 (Product Team Objectives) the cascade-up rule + why functional-department OKRs undermine cross-functional product teams. Ch 30 (Product Objectives @ Scale) leadership assigns teams to org objectives · platform-team dependencies · the reconciliation process · delivery managers tracking dependencies · BU-level rollup. Deep-read in the INSPIRED 2nd-ed close-the-gaps pass (2026-07-12).

@@ -58,10 +58,32 @@ The work of the modern product manager and cross-functional product team — the
 - **Customer Discovery Program.** Ch 39 is the origin of the technique TRANSFORMED Ch 23 lists as one of the eight PM ↔ PMM collaboration areas.
 
 ## Chapters ingested (2nd ed, 2017; pass 2026-07-12)
+
+**Part I–II — Structural + PM core:**
 - **Ch 6** — Root Causes of Failed Product Efforts; the "two inconvenient truths."
 - **Ch 8** — Key Concepts (Holistic Product · Continuous Discovery and Delivery · Prototypes · Product/Market Fit · Product Vision · MVP-should-be-a-prototype); the four discovery questions.
 - **Ch 9** — Principles of Strong Product Teams; team of missionaries.
 - **Ch 10** — The Product Manager: four deep-knowledge areas + smart/creative/persistent; PM ≠ project manager; PM ≈ CEO metaphor.
+
+**Part II role chapters — close-the-gaps pass (2026-07-12 later same day):**
+- **Ch 11** — The Product Designer (PM-facing). The 5 responsibilities (product discovery · holistic UX · prototyping · user testing · interaction+visual design); the **3 Absence-of-Product-Design anti-patterns**; the internal-agency anti-pattern; the *"design informs functionality"* framing; the **5 keys to a strong PM ↔ designer relationship**; design as competitive differentiator by product type. Enriches [[product-designer]].
+- **Ch 12** — The Engineers (PM-facing). *"There's probably no more important relationship."* The PM-side disciplines (do your homework · develop programming literacy · share your homework · engage daily on two axes · don't spell out the how · own team morale). **Tech Lead role** as the engineer who explicitly helps PM + designer discover strong solutions. Enriches [[engineers]].
+- **Ch 13** — Product Marketing Managers (PM-facing). The modern PMM role; the old-model boundary Cagan rejects; PM-side risks with no PMM partner (sales-org drain in B2B · clicks-and-brand focus in D2C). Enriches [[product-marketing]].
+- **Ch 14** — Supporting Roles (User Researchers · Data Analysts · Test Automation Engineers). Cover-yourself-if-absent guidance; folded into [[product-designer]] (user researchers if no dedicated), [[product-manager]] (data analysts if no dedicated), and [[engineers]] (test automation).
+- **Ch 16** — The Role of Leadership: the **3 holistic-view leadership roles** (leaders of product management · leaders of product design · leaders of technology organization); diagnostic signals when each is missing; documentation-as-substitute doesn't work; physical co-location preference. Enriches [[product-leadership]].
+- **Ch 17** — The Head of Product Role: the **4 key competencies** (team development · product vision and strategy · execution · product culture) + experience + chemistry; the 2 CEO-VP-product mismatch patterns; the founder-departure trap. The **GPM player-coach role** (grounded on [[product-manager]] + [[product-leadership]]).
+- **Ch 18** — The Head of Technology Role (co-author Chuck Geiger). CIO reporting-line as red flag. The **CTO's 6 responsibilities in priority order** (organization · leadership · delivery · architecture · discovery · evangelism) with measurement approach for each. Enriches [[product-leadership]].
+- **Ch 20** — Principles of Structuring Product Teams: the **9 principles** (investment strategy · minimize dependencies · ownership+autonomy · maximize leverage · vision+strategy · team size · architecture · user/customer · business) + *"Structure is a moving target"* + **Autonomy @ Scale** (8 factors for weighing autonomy vs leverage). Enriches [[team-topology]].
+
+**Part III vision/strategy/OKR/evangelism chapters — close-the-gaps pass (2026-07-12 later same day):**
+- **Ch 24** — Product Vision and Product Strategy: vision ≠ mission-statement; vision is not a spec; vision as a leap of faith. Strategy as **a sequence of product/market fits on the way to the vision** — one target market at a time. **Prioritizing markets:** TAM + GTM + TTM. Enriches [[product-vision]] + [[product-strategy]].
+- **Ch 25** — Principles of Product Vision: the **10 principles** (start with why · fall in love with the problem · think big · disrupt yourselves · inspire · embrace trends · skate to where the puck is heading · stubborn on vision but flexible on details · leap of faith · evangelize continuously). Enriches [[product-vision]].
+- **Ch 26** — Principles of Product Strategy: the **5 principles** (focus on one target market/persona · align with business strategy · align with sales+GTM · obsess over customers not competitors · communicate the strategy). Enriches [[product-strategy]].
+- **Ch 27** — Product Principles + Product Objectives Overview: the eBay buyer-vs-seller principle worked example; public-vs-internal decision. The HP MBO → Intel → Google OKR lineage; the 2 founding OKR principles (Patton motivation quote + HP *"when performance is measured by results"*). Enriches [[product-principles]] + [[okrs]].
+- **Ch 28** — The OKR Technique: the **10 critical points** (Objectives qualitative · KRs quantitative + business results not output · focus on org + team OKRs · annual/quarterly cadence · 1–3 O + 1–3 KR each · weekly tracking · accountability with post-mortems · 0–1.0 scoring convention · HICs separately + binary · transparency). Enriches [[okrs]].
+- **Ch 29** — Product Team Objectives: the **cascade-up rule** — OKRs must roll up from cross-functional product teams, not down from functional departments. Why functional-department OKRs undermine cross-functional teams. Enriches [[okrs]].
+- **Ch 30** — Product Objectives @ Scale: leadership assigns teams to org objectives · platform-team dependency coordination · the reconciliation process · [[delivery-manager|delivery managers]] tracking HICs and dependencies · BU-level rollup. Enriches [[okrs]].
+- **Ch 31** — Product Evangelism: *"selling the dream"*; the **10 techniques** (use a prototype · share the pain · share the vision · share learnings · share credit · learn to give a great demo · do your homework · be genuinely excited · show enthusiasm · spend time with the team). PM-vs-PMM boundary at scale. **Created new page:** [[product-evangelism]].
 
 **Part IV — Discovery Techniques (deep pass, 2026-07-12 follow-up):**
 - **Ch 33** — Principles of Product Discovery; the four discovery-risk questions; discovery iterations (10–20/week target); *"the most important thing is to know what you can't know"* (Andreessen); **ethics as a separate risk** ("Should we build it?") — noted as a 2017 lineage moment on [[the-four-big-risks]].
