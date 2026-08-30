@@ -30,6 +30,8 @@ From [[2025-03-03-cagan-why-your-product-operating-model-is-broken|"Why Your Pro
 
 **The AI accelerant** ([[2026-04-14-cagan-ai-product-coaching-women-in-product|AI Product Coaching]]): a foundation model dramatically speeds the "build product sense fast" step — ask it to teach you your data, the KPIs that matter for your kind of business, the industry and major players, how a company in this space judges its own health, the flywheel dynamics, and the kinds of users and their motivations. Cagan does exactly this before engaging any company he hasn't worked with. See [[model-as-product-coach]].
 
+**The full curriculum, verbatim from the Feb 2026 article ([[2026-02-04-cagan-product-coaching-and-ai]]).** *"You can start using the model-as-coach to learn about your company, your industry, your competitive landscape, your domain, the sales and marketing considerations, the financial considerations (both costs and monetization), the compliance, legal and privacy constraints, the key metrics used to assess your company's health, your different types of users and customers, your enabling technology, how your product team contributes to your overall product strategy, and how your team relates to other product teams."* When coaching a new PM through their first weeks, this list is the syllabus — hand it to them and have them work through it with their coach (human or model).
+
 ## The three enabling traits — humility · curiosity · empathy
 On [[2024-05-02-idiodi-cagan-coaching-product-sense|*Product Therapy* Ep 3]] (Cagan + Idiodi), Cagan names the three traits that either enable or block product sense — the underlying reason some product people build the muscle quickly and others never do:
 

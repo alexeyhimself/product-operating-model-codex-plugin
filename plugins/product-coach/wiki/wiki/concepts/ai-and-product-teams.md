@@ -7,7 +7,7 @@ tags: [ai, gen-ai, product-teams, tech-lead, empowered-teams, product-discovery,
 sources: ["[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]"]
 related: ["[[product-discovery]]", "[[product-delivery]]", "[[empowered-engineers]]", "[[product-designer]]", "[[product-manager]]", "[[product-leadership]]", "[[team-topology]]", "[[the-four-big-risks]]", "[[remote-collaboration]]"]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-30
 ---
 
 # AI and Product Teams
@@ -16,6 +16,10 @@ updated: 2026-08-29
 
 ## Why it matters
 Every product organization is either responding to Generative AI or being disrupted by it. But most public discussion is about *what* products will be built with AI (an important topic, and one many others cover well). This page is about what the wiki actually specializes in: how AI changes *how we build products*. The stakes are large: [[marty-cagan|Cagan]]'s working thesis on [[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams|Product Therapy Ep 20]] is that a large number of product-management, design, and especially engineering jobs will be lost, that the roles that survive will be *more essential* and harder, and that leaders who have not moved their organization to the product model are running out of time.
+
+**"The reckoning has begun."** By early 2026 Cagan escalates from a years-long warning to a present-tense claim ([[2026-04-14-cagan-ai-product-coaching-women-in-product|Apr 2026]]). The debate over which way of doing product management is right is over — *"you can argue if you want, but your company's probably not going to be here."* Two forces make it non-ideological:
+- **The 10× valuation gap.** Boards want to be valued like innovative companies — Cagan: *"at least on the order of 10× more than the non-innovative companies."* The market is pricing the difference.
+- **The Bay-Area salary bifurcation.** *"The people in the model that the good companies use, they're being rewarded like never before. Their salaries have nearly doubled in the Bay Area."* Simultaneously, old-model PMs are being laid off. Both are happening.
 
 ## How it works
 **The four historical product problems (Cagan's 50-year lens — 25 back, 25 forward).**

@@ -7,7 +7,7 @@ tags: [discovery, delivery, prototypes, ai-tools, jeff-patton, core-concept]
 sources: ["[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[transformed]]", "[[inspired]]"]
 related: ["[[product-discovery]]", "[[product-delivery]]", "[[prototypes]]", "[[the-four-big-risks]]", "[[time-to-money]]", "[[jeff-patton]]", "[[empowered-engineers]]"]
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-30
 ---
 
 # Build to Learn vs Build to Earn
@@ -28,6 +28,12 @@ updated: 2026-07-03
 | **Tools** | Prototyping tools (Lovable, Figma Make, …) | Engineering tools (Claude Code, Cursor, …) |
 
 You don't *have* to use different tools, but good teams usually do, because the purposes differ. Cagan's caution ([[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto|Modern CTO]]): tools like Claude Code and Cursor are breakthrough **build-to-earn** tools; using them as a *project-management* tool, or mistaking build-to-earn speed for build-to-learn, is a category error. The AI payoff for discovery is real, though — teams can now produce "50 prototypes in a week without breathing hard," giving even unsophisticated teams a pace of learning once reserved for the strongest.
+
+**The prototyping-tools boom (Apr 2026).** On the [[2026-04-14-cagan-ai-product-coaching-women-in-product|Women-in-Product interview]] Cagan names his current favorites — but with the caveat that they change every few weeks:
+- **Lovable** — "terrific" for build-to-learn prototyping today.
+- **Figma Make** — *"clearly directional but it's not there yet but it will be there I believe. I really have a lot of admiration for that company. And if you think about it, they're perfectly positioned to do that well. If they don't do it well, somebody else will step in and take that from them."*
+
+Cagan frames the moment: *"It is a golden era for product people just because of this."* When advising on tool choice, don't over-anchor to a specific name — the class of tools matters more than any one product this year.
 
 ## Anti-patterns & misunderstandings
 - **Treating a prototype like a product.** A build-to-learn artifact skips automated tests, SEO, performance, scale, and maintainability on purpose (see [[prototypes]]). Shipping it is a mistake; so is over-engineering it.

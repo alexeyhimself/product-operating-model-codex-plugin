@@ -7,7 +7,7 @@ assesses: whether a PM's or leader's AI-as-product-coach setup matches Cagan's p
 sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]"]
 related: ["[[model-as-product-coach]]", "[[product-coaching]]", "[[coaching-vs-contracting]]", "[[product-sense]]", "[[pm-competency]]"]
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-30
 ---
 
 # Model-as-Coach Readiness
@@ -41,9 +41,11 @@ updated: 2026-07-03
 Cagan's full prescription ([[model-as-product-coach]]): **project files** (this wiki) + **project instructions** (tell it to prioritize the product operating model; act as a coach) + **your strategic context** (vision, strategy, team topology, role/industry). Used to build product sense fast, prepare for decisions, and seek critique — 7×24. For leaders, plus a human leadership coach.
 
 ## Interventions & experiments
-- **If at level 1–2:** add the three prompt keys (product-not-project; coach-not-cheerleader; prioritize trusted voices), then load a one-page strategic-context doc. Cagan: it only takes a few minutes and "then it's amazing."
+- **If at level 1–2:** add the three prompt keys (product-not-project; coach-not-cheerleader; prioritize trusted voices — Torres, Doshi, SVPG), then load a one-page strategic-context doc. Cagan: *"If you don't have a document that has a team topology, it only takes a few minutes to create one. Just do that and then share it with the model and then it's amazing."*
+- **The Cagan curriculum for the first weeks** (from [[2026-02-04-cagan-product-coaching-and-ai]]): teach me our data, our KPIs, our industry, competitive landscape, sales & marketing considerations, financial considerations, compliance/legal/privacy constraints, health metrics, user types & motivations, enabling technology, how our team contributes to overall product strategy, how our team relates to other teams. This is the syllabus — hand it over on day one.
 - **If at level 3:** practice critique-seeking; re-ask important questions to expose non-determinism; capture where the model is weakest for your domain.
-- **If a leader:** arrange a human product-leadership coach for the political/relational work; keep the AI coach for everything else.
+- **If a leader:** arrange a human product-leadership coach for the political/relational work — the things the model *"doesn't even know it doesn't know"*, above all your specific executives and their reasoning; keep the AI coach for everything else.
+- **The 30-minute onramp** (Cagan's public dare): give the defaults 30 minutes with your own strategic context loaded and see if it doesn't change what you think is possible.
 
 ## Related
 - concepts: [[model-as-product-coach]] · [[coaching-vs-contracting]] · [[product-sense]]
