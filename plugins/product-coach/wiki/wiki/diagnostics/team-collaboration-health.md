@@ -65,10 +65,22 @@ A trio that frames problems together before any one role has a solution in mind,
 - **If at Level 4:** the risk shifts to onboarding — a new trio member takes longer to reach this level of shared context than the team may expect. Deliberately over-invest in the new member's first few problem-framing sessions.
 - **Common pitfall:** mistaking meeting attendance for collaboration. A trio that's technically in every meeting together but where one role always arrives with the answer already decided is still Level 1–2.
 
+## Remote-team diagnostic prompts (Product Therapy Ep 15 · Hickman + Ep 22 · Leto)
+The batch-2 Product Therapy corpus surfaces four additional diagnostic prompts specific to remote teams — sharper than the in-person prompts above because remote conditions systematically hide low-collaboration patterns:
+
+1. **The false-trust trap** — in remote meetings, small talk substitutes for the rapport that was never built. *"How was your weekend"* is not real rapport if the team doesn't work together every day. Diagnostic: after the small talk, is anyone actually collaborating, or are they trying to build enough trust for the 1-hour timebox? ([[remote-collaboration]])
+2. **Collaborating through an artifact** — the 6-pager gets circulated; the team responds via async comments; the "collaboration" is a comment storm. Hickman's rule: *"documentation is about capturing a conversation, not being the vehicle for alignment."* Diagnostic: where does the actual decision happen — in a conversation, or in comment threads? ([[remote-collaboration]])
+3. **Silence + no pushback on leader decisions** — the [[psychological-safety]] failure mode. Uniform politeness without candor. Diagnostic (Leto): can any team member say *"I don't agree with that"* to the highest-status person on the call, and be met with curiosity rather than defense?
+4. **Sequential handoffs disguised as "role clarity"** — RACI/DACI in remote settings hardens silos. Diagnostic ([[chris-jones|Jones]] on [[2025-04-03-idiodi-jones-coaching-product-myths-part-1|Ep 17]]): does the team retreat into corners when disagreement surfaces, or huddle up?
+
+## Team chemistry as a topology signal (Product Therapy Ep 25 · Cagan)
+[[2025-08-07-idiodi-cagan-coaching-team-topology|Ep 25 (Cagan)]] names *"the team doesn't trust or like each other"* as one of the three signs of a **[[team-topology|topology]] problem** (the other two being too many dependencies and people feeling like cogs). Cagan's practical heuristic: *"just sit in on one Zoom team meeting — you can see chemistry or the lack of it in minutes."* When this diagnostic reads Level 1–2 for a team, check whether the topology is *asking* the team to work with people it can't work with — sometimes the right fix is not team-level coaching but a topology change.
+
 ## Related
 - competencies: [[the-product-team-trio]], [[product-manager]], [[product-designer]], [[engineers]]
 - principles: [[collaboration]], [[sense-of-ownership]]
 - diagnostics: [[feature-team-vs-empowered-team]], [[engineering-empowerment]], [[discovery-health]]
+- concepts: [[remote-collaboration]], [[psychological-safety]], [[team-topology]]
 
 ## Sources
 - [[the-product-team-trio]] — the trio's risk-ownership model and common failure modes this diagnostic formalizes.
@@ -76,3 +88,6 @@ A trio that frames problems together before any one role has a solution in mind,
 - [[2020-09-04-cagan-discovery-problem-vs-solution]] — the *interplay* of value/usability/feasibility as the engine of good solutions.
 - [[2020-10-30-cagan-discovery-delivery]] — one team does both discovery and delivery; hand-off culture as the failure mode.
 - [[2023-03-15-cagan-product-model-competencies]] — the trio as three of the four core competencies.
+- [[2025-02-20-idiodi-hickman-coaching-remote-collaboration]] — Product Therapy Ep 15 (Hickman); false-trust trap; collaborating-through-an-artifact anti-pattern; the huddle metaphor.
+- [[2025-06-12-idiodi-leto-coaching-psychological-safety]] — Product Therapy Ep 22 (Leto); the trust ≠ PS distinction; hero-complex leader as the primary blocker to team candor.
+- [[2025-08-07-idiodi-cagan-coaching-team-topology]] — Product Therapy Ep 25 (Cagan); team chemistry as a topology signal; the *"one Zoom meeting"* heuristic.

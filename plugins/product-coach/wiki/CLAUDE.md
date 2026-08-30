@@ -27,7 +27,6 @@ The wiki itself does **not prescribe** how to interact with the user. *What* you
 ├── README.md             # human-facing intro
 ├── index.md              # content catalog — read this first when answering
 ├── log.md                # append-only chronological record
-├── backlog.md            # suggested pages to create (delete as you go)
 ├── raw/                  # immutable sources (+ raw/assets/ for images/PDFs)
 ├── templates/            # page templates — one per page type
 └── wiki/
@@ -127,7 +126,7 @@ On request (or periodically), scan for: contradictions between pages, stale clai
 - This is an Obsidian vault (`.obsidian/` present). Favor wikilinks, frontmatter, and the graph view. Dataview-style queries over frontmatter are encouraged once pages accumulate.
 - It's also a git repo — every change is versioned. Make focused edits with clear intent; the user reviews via diffs and the Obsidian graph.
 - No search engine is needed yet; `index.md` suffices at this scale. Revisit if the wiki grows past a few hundred pages.
-- **Don't recursively list the whole repo root** (e.g. a glob like `**/*` from `/`). On many agent tools, results are sorted by modification time and capped — `.git/objects/**` and pack files tend to have the most recent mtimes (from commits/repacks) and flood the results, pushing top-level files like `index.md`, `log.md`, and `backlog.md` out of view entirely. This can make a populated wiki look like an empty scaffold. Instead, list what you need directly: `index.md` and `log.md` for orientation, a scoped glob like `wiki/**/*.md` or `*.md`, or a directory listing that excludes `.git`.
+- **Don't recursively list the whole repo root** (e.g. a glob like `**/*` from `/`). On many agent tools, results are sorted by modification time and capped — `.git/objects/**` and pack files tend to have the most recent mtimes (from commits/repacks) and flood the results, pushing top-level files like `index.md` and `log.md` out of view entirely. This can make a populated wiki look like an empty scaffold. Instead, list what you need directly: `index.md` and `log.md` for orientation, a scoped glob like `wiki/**/*.md` or `*.md`, or a directory listing that excludes `.git`.
 
 ---
 
@@ -139,4 +138,3 @@ Maintainer extras (read-write, advanced — see the README warning):
 
 1. Drop a source into [`raw/`](raw/) and say *"ingest this."* The agent summarizes it into `wiki/sources/`, integrates it across affected pages, refreshes [`index.md`](index.md), and logs it in [`log.md`](log.md).
 2. Periodically say *"lint the wiki"* to keep it healthy.
-3. See [`backlog.md`](backlog.md) for suggested pages to seed the wiki.

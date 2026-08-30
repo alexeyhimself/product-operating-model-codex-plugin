@@ -4,7 +4,7 @@ type: concept
 aliases: [cross-functional-partnering, partnering, partnering-with-customers-sales-marketing-finance-stakeholders-executives, partnering-hub, the-product-model-in-action]
 status: drafting
 tags: [concept, partnering, stakeholders, executives, customers, sales, finance, product-marketing, cross-functional, transformation]
-sources: ["[[transformed]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]"]
+sources: ["[[transformed]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]"]
 related: ["[[product-manager]]", "[[product-marketing]]", "[[product-leadership]]", "[[stakeholder-relationship-health]]", "[[partnering-with-executives]]", "[[overcoming-objections]]", "[[transformation-politics]]", "[[high-integrity-commitments]]", "[[product-vision]]", "[[team-objectives]]", "[[the-four-big-risks]]", "[[loved]]", "[[martina-lauchengco]]"]
 created: 2026-07-11
 updated: 2026-07-11
@@ -118,6 +118,35 @@ Reading all six chapters together reveals shared moves the wiki collects here:
 - **PMM as afterthought.** Ch 23 (implicit) — the eight collaboration areas signal that pairing/relationship is load-bearing, not optional.
 - **HICs as the default.** Ch 21, Ch 26 explicit — HICs are the exception path; making them the norm corrupts empowerment and burns capacity.
 
+## Friction as the mechanism — *Product Therapy* Ep 2 (Cagan + Idiodi)
+[[2024-04-15-idiodi-cagan-coaching-mindset|Ep 2]] adds the mechanism this concept depends on: *productive friction* is a feature of good cross-functional partnering, not a bug. The wiki's canonical Steve Jobs rock-tumbler metaphor: *"common stones rubbing against each other, creating a little bit of friction, creating a little bit of noise… come out these beautiful polished stones."* Cagan's explicit coaching move: **encourage the friction**, name it as respectful, and hold it distinct from dysfunction. *"We do not want anybody on a product team deferring to the product manager because they're the product manager."* Product designers with right-brain empathy and engineers with left-brain concreteness are *supposed* to disagree — the disagreement is what tackles risk.
+
+Two elaborations from Ep 2 worth linking:
+
+- **Engineers in discovery, connected to customers.** Cagan's disagreement escalation ladder — *defer to expertise (engineer, designer, PM); run a test; last-resort escalate with a recommendation.* Grounded on [[empowered-engineers]] but the mechanic is cross-functional. *"The best product teams I have met — the engineer can almost always talk about the customer by name — they say 'we met somebody named Marty who had this problem'; they're not connecting to a jira ticket."*
+- **NASA's mission-to-the-Moon story (Idiodi).** NASA started as engineers building a photo lab into a satellite bus, sized like half a baseball field. It took the mission to force the discovery that *designers* had to be part of the room — you can't engineer separately from design; solving a problem takes the *right* cross-functional skills in the room. The wiki's canonical case that cross-functional partnering is not a nice-to-have — the problems the company is trying to solve force it.
+
+**Psychological safety** is the pre-condition Ep 2 names — Google's landmark study of team performance concluded that psychological safety, not talent stacking or seniority, is what separates high-performing from struggling teams. Grounds this concept on [[trust-over-control]] and [[coaching-mindset]].
+
+## Remote collaboration + the huddle metaphor — Product Therapy Ep 15 (Hickman)
+[[2025-02-20-idiodi-hickman-coaching-remote-collaboration|Ep 15 (Hickman)]] adds two crucial reframings to cross-functional partnering in remote/hybrid contexts:
+
+**The sports-huddle metaphor** ([[christian-idiodi|Idiodi]]): *"everybody is in the huddle whether the play is called or not. Shared context is rule #1. Nothing in any sport says a goalkeeper can't score."* **"There is nothing I should know that my designer or my engineer should not know."** Sequential handoffs = the opposite of collaboration.
+
+**True collaboration = solving a problem together** — distinct from *meetings* (status / info-share / updates). Idiodi's rule: *"work is when you create work product — insights, code, a decision, an outcome."* A meeting where you didn't produce work product isn't work. The **best collaboration tool is the phone**: Hickman's illustration — email → call → 90-second conversation → decision → move on. **Scheduling a meeting to make a decision has already lost the game.**
+
+**Debate is natural to product; collaboration ≠ consensus.** Hickman's engineering-led company was full of disagreement between product, design, and engineering — and that was the *feature*, not the bug. Different functions bring different perspectives; you consider them all and make a call.
+
+**Blame games are structural.** The fix: a **shared quantifiable definition of success** + shared access to the same data (customers, product telemetry, financial). Worst anti-pattern: engineering measured on velocity while product is measured on results.
+
+See [[remote-collaboration]] for the full remote-work framing.
+
+## The extended trio — Product Therapy Ep 24 (Cullen · Fredell)
+[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite|Ep 24 (Cullen + Fredell)]] surfaces the Datasite innovation on the trio structure during a multi-year transformation: **the extended trio.** Idiodi and Cullen jointly extended the standard product trio (PM + designer + engineer) to *pull in sales and service management when needed* — kept the sales team engaged as supporters rather than skeptics during a long platform build with no product to show for months. The pattern is a specific practical answer to the "how do sales and product not devolve into a $1-to-product-is-$1-away-from-sales fight" problem. See [[datasite-transformation]].
+
+## Topology co-ownership — Product Therapy Ep 25 (Cagan)
+[[2025-08-07-idiodi-cagan-coaching-team-topology|Ep 25 (Cagan)]] confirms cross-functional partnering at the leadership level: **team topology is co-owned by the Head of Product and the Head of Engineering, working together at a whiteboard.** When one owns it alone, they optimize for their primary interest and the other axis breaks. Cagan's #1 tomorrow-morning advice: *"a product leader should go have lunch with the technology leader and talk about where you are together on this — that's 80% of the battle."* See [[team-topology]].
+
 ## In your context
 _Which of the six partnerships is weakest in your org — customers, sales, product marketing, finance, stakeholders, or executives — and which of the cross-cutting patterns (prototypes, direct access, reference customers, data-not-business-cases) is missing where it's weakest?_
 
@@ -133,3 +162,4 @@ _Which of the six partnerships is weakest in your org — customers, sales, prod
 - [[2014-06-13-cagan-good-product-team-bad-product-team]] — historic canon for the stakeholder-relationship pattern.
 - [[2010-01-26-cagan-regaining-your-product-mojo]] — the mojo moves for PM stakeholder credibility.
 - [[2019-03-11-cagan-coaching-tools-the-narrative]] — the written-narrative discipline that pairs with the prototype-preview discipline for stakeholder + executive partnership.
+- [[2024-04-15-idiodi-cagan-coaching-mindset]] — *Product Therapy* Ep 2 with Cagan; the rock-tumbler friction metaphor, deference-by-expertise, engineers-in-discovery, the NASA story, psychological safety as pre-condition.

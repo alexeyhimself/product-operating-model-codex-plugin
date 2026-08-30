@@ -4,7 +4,7 @@ type: concept
 aliases: [product-judgment, doing-your-homework, product-intuition]
 status: drafting
 tags: [product-sense, judgment, onboarding, product-manager, coaching, discovery]
-sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]"]
+sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]"]
 related: ["[[founder-style-leadership]]", "[[product-manager]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[powered-by-insights]]", "[[the-four-big-risks]]", "[[amazon-prime]]"]
 created: 2026-07-03
 updated: 2026-07-04
@@ -30,6 +30,23 @@ From [[2025-03-03-cagan-why-your-product-operating-model-is-broken|"Why Your Pro
 
 **The AI accelerant** ([[2026-04-14-cagan-ai-product-coaching-women-in-product|AI Product Coaching]]): a foundation model dramatically speeds the "build product sense fast" step — ask it to teach you your data, the KPIs that matter for your kind of business, the industry and major players, how a company in this space judges its own health, the flywheel dynamics, and the kinds of users and their motivations. Cagan does exactly this before engaging any company he hasn't worked with. See [[model-as-product-coach]].
 
+## The three enabling traits — humility · curiosity · empathy
+On [[2024-05-02-idiodi-cagan-coaching-product-sense|*Product Therapy* Ep 3]] (Cagan + Idiodi), Cagan names the three traits that either enable or block product sense — the underlying reason some product people build the muscle quickly and others never do:
+
+- **Humility** — *"if you don't have humility, why would you bother spending your time talking to customers? What are you going to learn from them?"* The startup-founder anti-pattern: a successful exit was misattributed to innate awesomeness rather than earned product sense; the next company, in a new space, without the humility to rebuild it, fails.
+- **Curiosity** — *"most good product people are naturally curious; they want to learn; they're much more interested in the things they don't know than the things they do know."*
+- **Empathy** — *"if you have empathy, the customer will sense that; they know very quickly if you think they're clueless or if you think they actually know what they're doing, just with different expertise than you have."*
+
+Idiodi adds a fourth prerequisite from Ep 1 of the podcast: **agency** — see [[coaching-agency]]. Without agency, none of the other three traits get exercised.
+
+Idiodi's canonical vulnerability story: winning an innovation competition at 23; losing ~$26M across 17 failed experiments; rebuilding by adopting a job-seeker for 90 days at his next role. The story grounds the claim that product sense is *earned* — even the person on stage teaching it once had none of it.
+
+## Domain expertise as a double-edged sword
+Ep 3's Cagan quote: *"the domain expertise is a double-edged sword — on one level, how could you do a product for people if you don't understand what they're trying to do? On the other, if you know too much, you sometimes think you don't need to learn."* Deep domain expertise crowds out the humility and curiosity that keep product sense sharp — the [[hiring-and-onboarding|dogma-vs-expertise]] pattern. Innovation comes from *fresh looks* at old problems.
+
+## Building product sense through biographies (Idiodi)
+An Idiodi coaching move worth naming: read biographies of great decision-makers not for the timeline, but for *how they made critical hard decisions under uncertainty* — the inputs they used, the trade-offs they navigated. Idiodi's specific list: Lincoln (David Herbert Donald); Steve Jobs (Isaacson); [[build-tony-fadell|*Build*]] (Fadell). The learning target is decision-making calibration, not domain facts.
+
 ## Anti-patterns & misunderstandings
 - **"Product sense is innate."** Cagan: never been true — it's an excuse. It's learned by doing the homework.
 - **Domain dogma masquerading as domain expertise** (Shreyas Doshi) — knowing "how it's always been done" is not the same as real domain judgment; distinguish law from lore.
@@ -50,3 +67,4 @@ _Field note: how deliberately do your PMs build product sense in their first 90 
 - [[2026-04-14-cagan-ai-product-coaching-women-in-product]] — the "build product sense fast" script via a foundation model.
 - [[2020-02-22-cagan-product-strategy-the-missing-link]] — leaders as a "learning distribution machine"; product sense as connecting the dots.
 - [[2024-03-26-cagan-russell-product-model-at-amazon]] — STLs' strong product sense as the key to Amazon's success; backs [[amazon-prime]].
+- [[2024-05-02-idiodi-cagan-coaching-product-sense]] — *Product Therapy* Ep 3 with Cagan; the humility/curiosity/empathy triad; domain-as-double-edged-sword; the "biographies for decision-making" coaching move; Idiodi's $26M-losing origin story.

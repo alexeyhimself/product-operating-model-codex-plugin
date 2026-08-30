@@ -51,6 +51,19 @@ Pilot teams are the **political mechanism** of transformation. They:
 - Concentrate the risk of early failure on a contained team rather than across the company.
 - Produce the outcomes that fund continued investment in the transformation.
 
+## The political-selection criteria (Product Therapy Ep 14 · Cagan)
+[[2025-02-06-idiodi-cagan-coaching-transformation-politics|Ep 14 (Cagan)]] adds a crisp four-check list for pilot-team selection beyond the "problem worth solving" test:
+
+1. **Ambition ceiling** — ambitious enough that people can't say *"we could have done that in our old way of working"*; not so hard that success is impossible. (*"Triple the business in a quarter"* is the fail-side; incremental optimization is the fail-side too.)
+2. **Manager-support check** — the pilot team members' *managers* must be supportive. Some managers are; some are less so; check before you pick people out from under them.
+3. **Tech-debt check** — if the pilot depends on a tech-debt issue that won't be addressed for a year, you've set the team up to fail. Check the infrastructure the pilot needs.
+4. **Skills check** — do you have people with the necessary skills, or will you have to hire them first (which changes the timeline dramatically)?
+
+**The Jonathan Moore / Trainline story in Cagan's voice** — the canonical worked example. Moore picked his best PM, designer and engineers, put them on a new native mobile app (Trainline didn't even have one — a genuine leadership gap), and told the team explicitly: *"we need to show the rest of our own organization what good looks like."* Moore knew from prior industry-leading mobile-app work that this team could succeed at this problem. The pilot became the "prize at the end of the road" that motivated the rest of the transformation. See [[trainline-transformation]] for the fuller story.
+
+## The Datasite One near-fail (Product Therapy Ep 24 · Cullen · Fredell)
+[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite|Ep 24 (Cullen + Fredell)]] surfaces what happens when a first pilot *misses* its ambition ceiling — the Datasite One M&A platform's first customer deal in Ireland went badly ("nowhere effing near ready"). The recovery: 3-day company offsite → October launch. The lesson is not that pilots should be less ambitious — it's that the **culture bank** (see [[transformation]]) has to be full enough to survive a pilot failure. First pilots that "just fail without recovery" are usually pilots where the trust deposits weren't in place ahead of time.
+
 ## Example
 *Field note placeholder — does your org have running pilot teams? Who picked them? What outcome are they pursuing, and how is it measured? Is there a coach available to them?*
 
@@ -64,5 +77,7 @@ Pilot teams are the **political mechanism** of transformation. They:
 - [[2024-10-29-cagan-transformation-as-a-project]] — pilot teams as the prototypes that address transformation risks.
 - [[2024-11-21-cagan-transformation-politics]] — pilot teams as the political mechanism; design checklist.
 - [[2022-05-31-moore-transformation-defined]] — "instead of a progression, pursue the dimensions in parallel via one or a few pilot teams."
+- [[2025-02-06-idiodi-cagan-coaching-transformation-politics]] — Product Therapy Ep 14; the four-check political-selection criteria + the Trainline pilot in Cagan's voice.
+- [[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]] — Product Therapy Ep 24; the Datasite One near-fail and culture-bank recovery.
 - [[transformed]] — root source.
 - _Not yet ingested:_ SVPG's dedicated *Pilot Teams* article (referenced from both Cagan articles) — added to backlog.

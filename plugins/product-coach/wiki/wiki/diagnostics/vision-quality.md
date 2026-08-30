@@ -64,6 +64,9 @@ A vision 2–5 years out (5–10 for device companies), stated in terms of how c
 - **If at Level 4:** the risk is leadership succession — a vision this good is often tied to the person who articulated it. Deliberately test whether other leaders can carry and evangelize it, not just the originator.
 - **Common pitfall:** treating vision as a fill-in-the-blanks canvas exercise. Cagan is explicit that there's no paint-by-numbers template — crafting a real vision is a creative act, not a form.
 
+## The CFO test (Product Therapy Ep 21 · Moore)
+[[2025-05-29-idiodi-moore-coaching-vision|Ep 21 (Moore)]] adds the crispest single test for whether a vision is actually strong: **the CFO test.** The finance team gets excited about it. The head of corporate affairs stomps up and down excited about the next 5 years. Every non-product function feels drawn in. Product/tech teams tend to grok vision naturally (their day-job is imagining futures) — non-product functions are the real test. A vision that lights up only PMs is a *product-team artifact*, not a company vision. Moore's practical validation method behind it: **deep-then-broad** — go deep with a small set of customers per target geography to understand problems, draw tentative conclusions, then go broad to validate. Result: when the CFO asks *"why these problems?"*, you can say *"I have quant and I can prove they're critical"* — which is what got Trainline's vision through the CFO conversation. Moore also names the crucial time-horizon compression under GenAI: many companies now ask for **12–18 month visions** rather than 3–5 year, because tech is changing too fast for a 5-year commit. Both defaults are correct — pick based on the company's tech-change velocity.
+
 ## Related
 - concepts: [[product-vision]], [[product-strategy]], [[strategic-context]], [[missionaries-vs-mercenaries]]
 - competencies: [[product-leadership]]
@@ -72,5 +75,6 @@ A vision 2–5 years out (5–10 for device companies), stated in terms of how c
 ## Sources
 - [[product-vision]] — the concept page this diagnostic formalizes into a rubric.
 - [[2020-08-10-cagan-product-vision-faq]] — root source; timeframe, scope, ownership, the nine crafting factors, refresh cadence, the "abandoned too soon" failure mode, the empty-vision anti-patterns.
+- [[2025-05-29-idiodi-moore-coaching-vision]] — Product Therapy Ep 21; the CFO test, the three core ingredients, the deep-then-broad validation method, the time-horizon compression under GenAI.
 - [[empowered]] — Ch 3; the North Star framing; the vision as "the single most powerful recruiting tool for strong product people."
 - [[transformed]] — root source; vision in the empowered model (Ch 13).

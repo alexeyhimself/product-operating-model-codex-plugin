@@ -5,7 +5,7 @@ aliases: [product-marketing, pmm, product-marketing-manager]
 status: drafting
 tags: [competency, product-marketing, go-to-market, role]
 role: The competency that owns the market side of product-market fit — positioning, messaging, go-to-market, and channel enablement — and the partner a product manager most needs when there's a direct sales channel.
-sources: ["[[loved]]", "[[transformed]]", "[[inspired]]", "[[2022-03-07-cagan-product-ops-dan-olsen]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
+sources: ["[[loved]]", "[[transformed]]", "[[inspired]]", "[[2022-03-07-cagan-product-ops-dan-olsen]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[2024-11-21-idiodi-lauchengco-coaching-product-marketing]]"]
 related: ["[[martina-lauchengco]]", "[[loved]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[pmm-pm-partnership]]", "[[pmm-marketing-partnership]]", "[[pmm-sales-partnership]]", "[[market-fit]]", "[[agile-product-marketing]]", "[[product-marketing-metrics]]", "[[product-manager]]", "[[time-to-money]]", "[[the-four-big-risks]]", "[[product-ops]]", "[[stakeholder-relationship-health]]"]
 created: 2026-07-04
 updated: 2026-07-12
@@ -134,6 +134,24 @@ Cagan: with a **direct sales channel**, it is "very, very difficult to do both j
 ## When marketing objects to the model
 [[transformed|TRANSFORMED]] Ch 41 (*Objections from Marketing*) is the constituency-facing counterpart to this competency page. Cagan combines all flavors of marketing there and answers three patterns: (1) "we know the market — we should define the product" (focus groups don't yield iPhones; marketing feeds insights *in*, doesn't drive the roadmap); (2) "how can we best help teams?" (product marketing sits at the market-fit side of PMF: enablement, positioning, evangelism, growth); (3) "we want to pre-announce a future state" (only with evidence, coordinated head-of-product + head-of-PMM + CMO — cannibalization + team-pressure risks are real). Collected in [[overcoming-objections]].
 
+## Market-shaping as *the* discipline — *Product Therapy* Ep 10 (Idiodi + Lauchengco)
+[[2024-11-21-idiodi-lauchengco-coaching-product-marketing|Ep 10]] of *Product Therapy* is Lauchengco's compact restatement of *LOVED*'s thesis for a podcast audience. The purpose-statement redux: **product marketing = driving product adoption by shaping market perception through strategic marketing activities that connect to business goals.** *"It's the steel thread that unites the product with the go-to-market machinery."*
+
+The **wiki's canonical Microsoft AI market-shaping case** (Lauchengco on Ep 10):
+
+- *"Three years ago, if you had asked anyone who is the leading company in AI between Google and Microsoft, 100% of people would have said absolutely Google."*
+- Microsoft's response was not a search-engine play; it was a **positioning play** for Enterprise AI. The tactics Lauchengco enumerates: (a) the ChatGPT/Bing beta released to influencers *with no restraints* — write about it, good and bad; (b) Satya Nadella's on-record *"make Google dance"* gauntlet — thrown down deliberately; (c) the "AI across the Enterprise product suite" reframe that used the influencer buzz as trust equity for the actual commercial move. *"It doesn't matter what Google does now — they are always being looked at as they are responding."*
+- The lesson: *"they had the product portfolio to back it up, but they took all the market-shaping actions so that they could command this market perspective."* Product + market-shaping together; either alone doesn't produce the outcome.
+
+Two elaborations Ep 10 gives that live especially cleanly on this page:
+
+- **Product value gets defined through a use case.** Especially at early stages, adoption depends on a hyper-specific use case someone can name back to you (*"oh, I can do that with it — that's fantastic"*). PMM's job is to find and elevate that use case, not describe the product's feature list.
+- **The "average PMM" anti-pattern — checklist over strategy.** *"Product marketers who check every box are not doing the job — the job is to be selective about what's most important to say."* If the PMM function is comprehensive but not moving the market, it is functioning as an activities-driven service org, not a strategic function.
+
+**Healthy PM ↔ PMM collaboration** (Ep 10, extending *LOVED* Ch 7 and *TRANSFORMED* Ch 23): the test is that *"both feel they are better at their job because of the other."* PMM brings market signal into product prioritization; PM brings product juice into GTM. Embedding varies with team topology — often one PMM per product director (with multiple squads reporting up); rarely one-per-squad. The Cadence question (daily / weekly standup / phone call / embedded) is company-dependent; the principle (regular presence, mutual dependence) is not.
+
+**PMM without a PMM.** The work has to be done by *someone* — founders in early-stage; the sales team plus a coordinator in growth-stage; the PM directly if there's a real GTM channel and no partner. The discipline is what matters, not the title.
+
 ## In your context
 _Field note placeholder — who owns positioning, go-to-market, and sales enablement in your org? Is your PM secretly doing product marketing too (a tell that the market side of PMF is under-owned)?_
 
@@ -149,3 +167,4 @@ _Field note placeholder — who owns positioning, go-to-market, and sales enable
 - [[2023-05-17-cagan-10-misconceptions-startups-productx]] — both sides of product-market fit.
 - [[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]] — product marketing as one of the roles to take *off* the PM's plate.
 - [[transformed]] — root source.
+- [[2024-11-21-idiodi-lauchengco-coaching-product-marketing]] — *Product Therapy* Ep 10 with Lauchengco; the Microsoft AI market-shaping case; the average-PMM checklist anti-pattern; the PM↔PMM healthy-collaboration test; PMM-without-a-PMM.

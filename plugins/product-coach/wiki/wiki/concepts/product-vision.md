@@ -4,10 +4,10 @@ type: concept
 aliases: [product-vision, vision]
 status: drafting
 tags: [product-strategy, vision, core-concept]
-sources: ["[[transformed]]", "[[empowered]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]"]
-related: ["[[product-strategy]]", "[[focus]]", "[[product-leadership]]", "[[missionaries-vs-mercenaries]]", "[[product-principles]]", "[[overview]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-05-29-idiodi-moore-coaching-vision]]"]
+related: ["[[product-strategy]]", "[[focus]]", "[[product-leadership]]", "[[missionaries-vs-mercenaries]]", "[[product-principles]]", "[[overview]]", "[[vision-quality]]", "[[kaiser-permanente-get-care-now]]", "[[trainline-transformation]]"]
 created: 2026-06-14
-updated: 2026-07-12
+updated: 2026-08-29
 ---
 
 # Product Vision
@@ -62,6 +62,24 @@ EMPOWERED Ch 3 grounds the vision inside the four leadership responsibilities an
 - **The single most powerful recruiting tool.** *"It is worth noting that the product vision is typically the single most powerful recruiting tool for strong product people."*
 
 Ch 3 also grounds the vision-and-principles pairing that becomes an element of [[strategic-context]] Ch 12: *"Product principles complement the product vision by speaking to the nature of the products that your organization believes it needs to produce."*
+
+## The podcast-form deepening — Product Therapy Ep 21 (Moore)
+[[2025-05-29-idiodi-moore-coaching-vision|Ep 21 (Moore)]] is the wiki's most complete podcast-form teaching on product vision. Key additions:
+
+- **The four-layer frame: mission = why · vision = what over 3–5 years · strategy = how · roadmap = when/what tactically.** Patagonia mission: *"we are in business to save our planet"* — great mission, doesn't tell how. Google's *"organize the world's information"* — great mission, **crappy vision** (a million ways to do it, so teams go in a thousand directions). Vision *"takes us from the incremental to the audacious."*
+- **The three misconceptions.** (i) Not having one (Moore's estimate: ~80% of companies); (ii) confusing vision with mission; (iii) confusing product vision with the company/culture vision (that's a PR/recruiting artifact, not a product vision).
+- **Ownership.** The CPO / most senior product leader owns and creates it. Input from CTO/VP Eng, CFO, CEO. **The #1 stakeholder is the CEO** — the person who will use it more than anyone (at events, all-hands, deflecting bad ideas with *"is that in our vision? not really; maybe later"*).
+- **Multiple-visions rule.** One integrated holistic product vision per company. Exceptions only for genuinely independent large business units (Amazon: AWS, consumer, Alexa each own their own). Ten teams with ten product visions = chaos. *"You can see how even just using those words, the whole argument falls apart under its own weight."*
+- **The three core ingredients.** (i) Focused on **validated** business AND customer problems. (ii) Reflects the corporate strategy the C-suite has set. (iii) Shows a glimpse of how you'll make money. Plus the amplifiers: audacious enough to inspire (*"crack military unit vs school kids running everywhere"*); incorporates industry trends (AI now is unavoidable input); grounded enough to be believable for *this* company at *this* stage.
+- **The Microsoft flying-car anti-example.** Moore's own experience pre-Nadella — a once-a-year vision video with a flying car in it, everyone laughed, no one talked about it after. The failure mode is un-grounded audacity that no one believes.
+- **Time-horizon compression under GenAI.** Cagan's canonical 3–5 year default is now shifting. Moore is seeing companies ask for **12–18 month visions** — *"if technology is changing so quickly, how can you think 10 years out?"* Superhuman updated their vision to "AI-powered communication quality"; Adobe integrated AI across products (Firefly). 5 years ago these weren't in either company's vision.
+- **The Trainline validation method (Moore's own).** Went **deep** with a small set of customers in every target geography to understand problems, drew tentative conclusions, then went **broad** to validate. Result: when the CFO asked *"why these problems?"*, Moore could say *"I have quant and I can prove these are critical."* See [[trainline-transformation]].
+- **Idiodi's vision test questions.** *"If I can't answer 'what problems are you going to solve?', you don't have a vision. If I can't answer 'who are you solving them for?', you don't have a vision. If I can't answer 'how would you make customers' lives better?', you don't have a vision. If I can't see within it a reflection of our corporate strategy and where we want to be, you don't have a vision."*
+- **If no vision exists — Moore's playbook for a PM.** Don't panic; ~80% of companies are here. (i) Do the homework yourself — start collecting the customer problems. (ii) Educate leadership — leave *INSPIRED* / *EMPOWERED* on your leader's desk with a note pointing to the right chapter. (iii) Choose your moments to ask *"where are we headed? Susan's doing that, I'm doing this — are we going the same direction?"*
+- **Idiodi's skyscraper analogy.** Without a vision, you build a 2-floor duplex, sales sells 10 floors, then you announce a skyscraper — and now you have to replatform because the infrastructure won't support it. Vision drives infrastructure investment decisions AND team topology decisions.
+- **Communication.** SVPG bias for video (emotion, narrative). PRFAQ / deck / storyboards work too. **Video is best for the introduction; the vision has to be coached one-on-one, cascading, to actually be understood.** Idiodi: *"an all-hands is the best way to show alignment; it's not the best way to communicate the vision."*
+- **The CFO test — the true test of a strong vision.** The finance team gets excited. The head of corporate affairs stomps up and down excited about the next 5 years. Every non-product function feels drawn in. Product/tech teams tend to grok vision naturally; non-product functions are the real test.
+- **Kaiser Permanente case study (fuller version).** Mission = quality affordable healthcare. Vision = *"Get Care Now"* — telehealth as the concentration of that mission. Started just in time for the pandemic → *"never let a crisis go to waste."* The vision made the transformation legible and the pandemic response executable. See [[kaiser-permanente-get-care-now]].
 
 ## Anti-patterns & misunderstandings
 - Confusing vision with an **empty mission slogan** ("organize the world's information"). Cagan distinguishes the two — and in *TRANSFORMED* **drops "product mission" entirely**, which Huryn welcomes.

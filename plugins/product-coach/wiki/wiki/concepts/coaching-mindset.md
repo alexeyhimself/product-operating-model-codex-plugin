@@ -4,7 +4,7 @@ type: concept
 aliases: [coaching-mindset, coach-mindset, developing-people-is-job-1]
 status: drafting
 tags: [coaching, leadership, mindset, product-leadership, culture, empowered-teams]
-sources: ["[[empowered]]", "[[transformed]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2019-06-24-cagan-coaching-owner-vs-employee]]", "[[2019-04-24-cagan-the-greatest-coach]]", "[[bill-campbell]]"]
+sources: ["[[empowered]]", "[[transformed]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2019-06-24-cagan-coaching-owner-vs-employee]]", "[[2019-04-24-cagan-the-greatest-coach]]", "[[bill-campbell]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]"]
 related: ["[[product-coaching]]", "[[product-coach]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[coaching-vs-contracting]]", "[[product-leadership]]", "[[trust-over-control]]", "[[bill-campbell]]", "[[empowered-product-teams]]"]
 created: 2026-07-12
 updated: 2026-07-12
@@ -77,6 +77,16 @@ The non-negotiable: *"every person on a product team knows who is specifically a
 - **Insecurity dressed as arrogance.** Bosses who suppress diverse views, control visibility to leadership, or take credit — usually a compensation for feeling threatened.
 - **Substituting mentoring for coaching.** Ch 7's Campbell frame: mentors dispense wisdom; coaches "get in the arena." Both have value; only coaching develops.
 
+## The Nature of Product Work — *Product Therapy* Ep 2 (Cagan + Idiodi)
+[[2024-04-15-idiodi-cagan-coaching-mindset|Ep 2]] of *Product Therapy* frames the coaching mindset through the Steve Jobs 1995 "Lost Interview" — the mindset half of what separates a strong team from a feature team. The load-bearing quotes and moves (attribute to Jobs, Cagan, and Idiodi respectively):
+
+- **The 10%/90% principle (Jobs, via Cagan).** *"There's just a tremendous amount of craftsmanship in between a great idea and a great product."* The idea itself is 10% of the work; the other 90% is the cross-functional craft of turning an idea into something customers will buy, engineers can build, and the business can support. The disease Jobs diagnoses — *"the disease of thinking a really great idea is 90% of the work"* — is exactly what shows up in the feature-team pattern where executives hand ideas down and expect delivery.
+- **The rock-tumbler (Jobs, via Cagan).** *"Common stones rubbing against each other, creating a little bit of friction, creating a little bit of noise… come out these beautiful polished stones."* The wiki's canonical metaphor for cross-functional friction as *productive* — the difference between healthy disagreement (respectful, evidence-based, deferring to expertise) and dysfunction. Feeds [[cross-functional-partnering]].
+- **Deference by expertise, not seniority (Cagan).** Escalation ladder when a product team disagrees: (1) defer to the expert in that domain (engineer for tech, designer for UX, PM for business viability); (2) run a test; (3) escalate only as a last resort, always with a recommendation. *"We do not want anybody on a product team deferring to the product manager because they're the product manager."*
+- **Anticipate the objection — the PRFAQ move (Cagan, via Amazon).** For stakeholder engagement, write the objection out *as they would say it*, then write your response — *"they'll say 'Christian actually listened to me — he gets it — and I feel like the solution respects those constraints.'"* Deeper treatment on [[stakeholder-relationship-health]] and [[product-evangelism]].
+- **Invoke care via a prototype, not a PowerPoint (Idiodi).** *"How often does anybody get inspired by a PowerPoint slide?"* Prototypes make people care because they can see the future; artifacts don't.
+- **The "that's a great idea / what problem / how will we succeed" script (Idiodi).** The disarming turn-a-feature-into-a-problem move — see [[coaching-agency]] for the full script and the coaching context.
+
 ## In your context
 _Agent prompt: which of the seven principles do the managers around this PM actually live? Which does the coaching relationship (whether human or [[model-as-product-coach|model-as-coach]]) most need to strengthen next?_
 
@@ -95,3 +105,4 @@ _Agent prompt: which of the seven principles do the managers around this PM actu
 - [[2019-06-24-cagan-coaching-owner-vs-employee]] — related coaching-mindset trilogy (Owner vs Employee · Managing Time · Thinking) — book chapters 13/14/15 whose body content is not in the current raw file; add on a future pass.
 - [[2019-04-24-cagan-the-greatest-coach]] — the [[bill-campbell|Campbell]] tribute; the "measure leadership by leaders produced" yardstick.
 - [[bill-campbell]] — the Ch 7 opening passage attribution.
+- [[2024-04-15-idiodi-cagan-coaching-mindset]] — *Product Therapy* Ep 2 with Cagan; the "Nature of Product Work" section above (Steve Jobs 10%/90% + rock-tumbler; deference by expertise; PRFAQ; the Idiodi coaching scripts).

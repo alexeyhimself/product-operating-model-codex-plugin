@@ -1,13 +1,13 @@
 ---
 title: Transformation
 type: concept
-aliases: [transformation, product-transformation, transformation-to-the-product-model, moving-to-the-product-operating-model]
+aliases: [transformation, product-transformation, transformation-to-the-product-model, moving-to-the-product-operating-model, change-management, organizational-change]
 status: drafting
 tags: [transformation, three-dimensions, product-operating-model, pilot-teams]
-sources: ["[[transformed]]", "[[empowered]]", "[[2022-05-31-moore-transformation-defined]]", "[[2022-09-18-moore-the-transformation-series]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2023-02-20-cagan-transformed-announcement]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]", "[[2023-10-31-cagan-transformed-just-product]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-05-31-moore-transformation-defined]]", "[[2022-09-18-moore-the-transformation-series]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2023-02-20-cagan-transformed-announcement]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]", "[[2023-10-31-cagan-transformed-just-product]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]"]
 related: ["[[overview]]", "[[empowered-product-teams]]", "[[feature-teams-vs-product-teams]]", "[[pilot-teams]]", "[[transformation-politics]]", "[[transformation-as-a-project]]", "[[model-maturity]]", "[[product-coaching]]", "[[product-leadership]]", "[[lea-hickman]]"]
 created: 2026-06-21
-updated: 2026-07-03
+updated: 2026-08-29
 ---
 
 # Transformation
@@ -116,6 +116,26 @@ The whole arc is Cagan's illustration of what happens when a transformation is (
 
 ## Common objections (Part X)
 [[transformed|TRANSFORMED]] Part X (Chs 36–46) enumerates the objections a transformation actually meets, per constituency (Customers · Sales · CEO & Board · LOB · Customer Success · Marketing · Finance · HR · CIO · PMO · Inside Product). The wiki's hub is [[overcoming-objections]] — the coaching companion to this page when a transformation has surfaced a specific resistance pattern. Related political-frame page: [[transformation-politics]].
+
+## Change management as *implementation*, not decision (Product Therapy Ep 18 · Hickman)
+[[2025-04-17-idiodi-hickman-coaching-change-management|Ep 18 (Hickman)]] adds the wiki's canonical *change-management* framing of transformation. It folds into this page rather than a separate framework page; `change-management` is an alias on [[transformation]] so a search for it lands here.
+
+- **The #1 anti-pattern: delegating change management.** Leaders make the strategic decision, then hand implementation to a "change management team" or department. Hickman: *"the biggest myth is that all the work is done once the decision has been made — the success or failure is going to be based on what we do after."* Her own rule: *"I would never coach a change-management department — I would coach the leaders."*
+- **Big bang vs incremental — the acquisition-is-different rule.** Incremental change lasts longer, gets ingrained in culture; use it when the organization needs proven success to keep going (which is most of the time). Acquisitions are the exception — defer integration and the host organization's antibodies reject the new organ. NY-resolution metaphor: cutting all red meat cold turkey fails; *"I'll have red meat once a week"* lasts.
+- **The middle-management resistance layer.** Senior execs get the why (competitive threat, valuation gap). Teams get the why (they want empowerment). **But it's the management in the middle who have built their career operating in a certain way — what has got them successful is acting a certain way, playing by a certain rule book. Any introduction to change threatens that.** This is where the heavy lifting is. And they aren't resisting maliciously — most simply *don't know what "great" looks like* to reinforce the change.
+- **The training → coaching shift.** Training is a one-time event; coaching is ongoing support. Middle managers pushing back may not disagree with the transformation — they just don't know how to reinforce it in their teams. See [[types-of-product-coaching]].
+- **The retitling anti-pattern (restated).** Same as Cagan's #1 transformation-failure cause: *"product owners retitled to product managers → declare victory → nothing changes."*
+- **Measure results, not activity.** The wrong metric: *number of teams that have moved to the product model.* The right metric: **business results those teams achieve.** Number of PMs, number of designers hired, number of releases → all activity, not success. Idiodi's follow-up: *"outcomes are hard, and that's exactly why leaders retreat to activity metrics."*
+- **Advice for individual contributors going through change** — assume goodwill; opt to be part of the solution (it's easier than fighting); ask leaders for context (*"wouldn't it be great if we both understood why?"*). Getting context is what creates agency.
+- **Leaders modeling vulnerability** — Idiodi's coaching move: teach leaders it's okay to say *"I don't know / I'm not sure / I need help"* in town halls. Hiding in the bubble of shame reinforces victim mentality across the org. See [[coaching-mindset]] and [[psychological-safety]].
+- **Culture of curiosity as change catalyst** — Hickman's closer: *"one of the biggest catalysts is leaders asking the right questions."*
+
+## The culture bank (Product Therapy Ep 24 · Cullen)
+[[doug-cullen|Doug Cullen]]'s crispest single-line contribution to the wiki's transformation canon (from [[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite|Ep 24]]):
+
+> *"You have to have something in the culture bank if you're going to make a withdrawal from it."*
+
+Every transformation eventually requires a withdrawal — a launch that fails (see [[datasite-transformation]] for the Datasite One story), a customer complaint, a delivery miss. The organizations that survive those moments are the ones that made **deposits ahead of time** — trust between sales and product built through visible learning, human connection outside the business area (Cullen's habit of hosting sales leaders at his home; his predecessor Todd hosting every sales leader at his childhood Cleveland home 3 weeks after Cullen joined), and small consistent wins that accumulated *before* the withdrawal was needed. **Transformations without accumulated culture-bank deposits fail at their first setback**, because they had no reserve to draw down.
 
 ## Anti-patterns
 - **[[transformation-as-a-project|Transformation as a project]]** — manage the transformation in the very mode you're trying to leave.

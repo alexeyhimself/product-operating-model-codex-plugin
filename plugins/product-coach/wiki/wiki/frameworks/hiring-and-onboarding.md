@@ -4,7 +4,7 @@ type: framework
 aliases: [hiring-and-onboarding, hiring-product-managers, onboarding, first-product-hire]
 status: drafting
 tags: [framework, hiring, onboarding, coaching, potential]
-sources: ["[[empowered]]", "[[transformed]]", "[[inspired]]", "[[loved]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]"]
+sources: ["[[empowered]]", "[[transformed]]", "[[inspired]]", "[[loved]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2025-01-23-idiodi-jones-coaching-employee-onboarding]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]"]
 related: ["[[product-manager]]", "[[product-coach]]", "[[product-leadership]]", "[[product-marketing]]", "[[leading-product-marketing]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[product-sense]]", "[[2007-09-11-cagan-recruiting-product-managers]]"]
 created: 2026-07-04
 updated: 2026-07-12
@@ -78,6 +78,34 @@ Ch 27 uses **"breadcrumbing"** — you suggest examples or introduce new data to
 
 See [[leading-product-marketing]] for the fuller Ch 27 skill-by-skill hiring rubric and the Ch 28 career-guidance staging (early / mid / senior + the Director-to-VP essay).
 
+## Idiodi's New-Employee Boot Camp (*Product Therapy* Ep 13)
+[[christian-idiodi|Christian Idiodi]]'s signature onboarding framework, publicly documented at [New Employee Bootcamp](https://www.svpg.com/new-employee-bootcamp/) and taught end-to-end on [[2025-01-23-idiodi-jones-coaching-employee-onboarding|*Product Therapy* Ep 13]]. Hickman's public attribution (from [[2024-05-31-idiodi-hickman-coaching-trust|Ep 4]]): *"I wish I'd learned it 25 years ago — it's the biggest missing piece from my own career."* Idiodi has been running some version of it for at least ~8 years before the podcast.
+
+**The new-hire trust asymmetry that motivates the framework.** On day one, the employee arrives with the *highest* trust — they left another job publicly announcing this one. The company arrives with the *lowest* trust — they don't yet know what the new hire can actually do in *this* context. Un-managed, that asymmetry inverts within weeks. The boot camp's job is to grow company-side trust and preserve employee-side trust in parallel, before the mismatch produces the *"was this the right decision?"* moment on the first weekend.
+
+**Two-week structure**, run **in cohorts** (typically every 6–8 weeks in an active hiring cycle) by the hiring leader personally, with hiring managers going through the boot camp alongside their reports (they learn to coach onboarding while the reports are onboarded):
+
+- **Week 1 — the individual.**
+  - Personally deliver the strategic context (vision, strategy, principles) — never Second-hand from a line manager, and never a video.
+  - Tour the company physically (or on Zoom, with a tour of your house/workspace for remote teams) — extend the leader's trust by showing the new hire with people who matter.
+  - Deliver the **manager's *user manual*** — how you communicate, how you give feedback, what your cadence is, how to reach you, what you'll ignore.
+  - The **stakeholder-buddy** assignment (Idiodi's "emotional-intelligence black belt"). Pair the new hire with the most influential (often loudest, sometimes most critical) stakeholder to the team, for 2 days. The stakeholder teaches; the new hire observes. Downstream effects: (a) an inevitable relationship forms (nobody spends 2 days with a stranger without one); (b) the stakeholder's trust is extended to the new hire by observation; (c) the stakeholder is now accountable for the new hire's competence — they cannot later criticize a person they were tasked with teaching.
+- **Week 2 — the team.**
+  - The team joins the boot camp; run a discovery-sprint-style *safe practice* on a real problem before "game time."
+  - Sales and marketing come in and present; the team practices collaborating with them.
+  - Team dynamics get named (adding one person changes the team, not just adds to it — the new dynamic itself is what the leader is coaching).
+
+**Critical milestones** (each with a coaching move):
+
+- **End of day 1.** Anchor the story the new hire tells their family that evening. *"How was your first day?"* — the answer you want ("great team, made progress on getting to know people, felt welcomed by the leader") is what you script the day for.
+- **End of week 1.** Anchor the story the new hire tells themselves over the *weekend*. Culture is how you feel about Monday on Sunday afternoon; the leader's job is to shape that reflection before it drifts.
+- **The day before the first paycheck.** Deliver the new hire's **first coaching plan** (from the [[coaching-the-pm|assessment loop]]). The framing: *"you've been here two weeks, you've met the team, here are the areas we're going to work on — and this is what we're paying you like you're already great at."* Grows agency and buy-in simultaneously.
+- **30-day** and **90-day** cycles are the standard personal-value / team-outcome checkpoints. If a new hire feels disconnected after 90 days, the onboarding failed regardless of the individual's talent.
+
+**The public-win discipline** (Jones on Ep 13, learned from his own manager): in the first ~45 days, the hiring manager's job is to *create space* for the new hire to have a **public win** — a visible team outcome the new person is clearly credited for. Two effects: (a) grows the new hire's confidence in the environment; (b) the company's trust in the new hire jumps a full level once there is public evidence of competence in *this* context.
+
+**Re-onboarding existing staff.** Ep 13's closing move: if your team never went through a deliberate onboarding, design one today for people who have been here for years. The gap between "successful somewhere else" and "successful here" doesn't disappear just because the employee stayed.
+
 ## Related
 - competencies: [[product-manager]], [[product-coach]], [[product-leadership]], [[product-marketing]], [[leading-product-marketing]]
 - frameworks: [[coaching-the-pm]], [[opportunity-assessment]]
@@ -91,3 +119,5 @@ See [[leading-product-marketing]] for the fuller Ch 27 skill-by-skill hiring rub
 - [[inspired]] — **Lineage note ([[inspired]] Ch 9, 1st ed, 2008): "Deputy Product Managers."** Ch 9 predates the modern *hire-for-potential* + trio + team-topology canon and is largely superseded — but its core observation persists: find and utilize the smart, product-minded people already hidden in the org (engineering, sales, customer service, the field, exec team). Cagan proposes deputizing them informally, sometimes even publicly, as sources of product ideas and reality checks; techniques he names include *ask at all levels who the great minds are*, MBWA (Management By Wandering Around, from the HP Way), keep the door open, and hang out across levels. In modern SVPG canon this is folded into (a) the *[[empowered-engineers|engineers-as-the-most-important-thing]]* framing, (b) [[hiring-and-onboarding|hire-for-potential]] plus a coaching-committed manager, and (c) the trio's cross-functional access. The 2008 "deputy" label itself is retired.
 - [[empowered]], [[transformed]] — root sources.
 - [[loved]] Ch 27 — **primary (book-length)** for PMM hiring; the three-candidate framing (curious · communicator · collaborator); the signature "great marketing company" interview question + breadcrumbing; the entry-level 1-in-10 / director-level 1-in-3 hit-rate calibration. Ch 28 grounds career staging (early / mid / senior); see [[leading-product-marketing]] for the full treatment. Deep-read in LOVED Pass 3c (2026-07-12).
+- [[2025-01-23-idiodi-jones-coaching-employee-onboarding]] — **primary** for Idiodi's New-Employee Boot Camp; the full two-week structure, milestones, and public-win discipline.
+- [[2024-05-31-idiodi-hickman-coaching-trust]] — supporting; Hickman's public attribution of the boot-camp origin to Idiodi, ~8+ years before the podcast; the new-hire trust asymmetry.

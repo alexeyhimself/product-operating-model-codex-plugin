@@ -4,10 +4,10 @@ type: concept
 aliases: [team-topology, topology, product-org-design]
 status: drafting
 tags: [team-topology, org-design, product-leadership, empowerment]
-sources: ["[[transformed]]", "[[empowered]]", "[[inspired]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2021-03-23-cagan-internal-data-products-designing-for-analytics]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2020-03-04-cagan-team-objectives-collaboration]]"]
-related: ["[[product-leadership]]", "[[empowered-product-teams]]", "[[product-strategy]]", "[[product-vision]]", "[[the-product-team-trio]]", "[[data-product-management]]", "[[google-product-model]]", "[[okrs]]", "[[team-objectives]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[inspired]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2021-03-23-cagan-internal-data-products-designing-for-analytics]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-08-07-idiodi-cagan-coaching-team-topology]]"]
+related: ["[[product-leadership]]", "[[empowered-product-teams]]", "[[product-strategy]]", "[[product-vision]]", "[[the-product-team-trio]]", "[[data-product-management]]", "[[google-product-model]]", "[[okrs]]", "[[team-objectives]]", "[[psychological-safety]]", "[[ai-and-product-teams]]", "[[team-collaboration-health]]"]
 created: 2026-06-20
-updated: 2026-07-04
+updated: 2026-08-29
 ---
 
 # Team Topology
@@ -84,6 +84,44 @@ Ch 20's second half addresses the tension between team autonomy and shared-found
 
 The critical context = (1) the overall product vision + (2) the specific business objectives assigned to each team. Provide both, and the autonomy-vs-leverage discussions become more productive.
 
+## The podcast-form deepening — Product Therapy Ep 25 (Cagan)
+[[2025-08-07-idiodi-cagan-coaching-team-topology|Ep 25 (Cagan)]] is the most complete podcast-form teaching on team topology to date. Key additions:
+
+**Naming credit.** SVPG had no name for this concept until Skelton & Pais's *Team Topologies* book (DevOps origin). Cagan reached out and asked to use the name — they agreed. **Two complementary perspectives:** the book optimizes for **throughput/flow** (bottom-up, DevOps); SVPG optimizes for **outcomes** (top-down, empowered teams). Both worth reading.
+
+**Topology ≠ org structure.** Org structure = reporting relationships (engineers report to eng managers, designers to design managers — the functional model is most common). Topology = *who is on each product team and what each product team is responsible for.* Same org structure can produce many different topologies. This distinction is Cagan's crispest statement to date; use it to close down definitional debates.
+
+**Cognitive load** (Cagan credits the *Team Topologies* book for surfacing this well). *"How much can you really fit in your head at one time when you're working on a specific problem?"* Thousands of business rules, millions of lines of code, layers of tech stack, APIs, SDKs — teams get lost in details. Under-discussed because it's a *squishy* factor that varies person-to-person.
+
+**The single-KPI-per-team anti-pattern.** *"We'll have a growth team, a retention team"* — sounds clean, creates dependencies everywhere because these outcomes cut across every user flow.
+
+**The three signs a team has a topology problem:**
+1. **Too many dependencies** — the team could ship in a day if they controlled everything, but has to coordinate with 10 other teams (this is the symptom of *lost autonomy*, distinct from lost empowerment).
+2. **The team doesn't trust or like each other** — Cagan's rule: *"just sit in on one Zoom team meeting — you can see chemistry or the lack of it in minutes."* See [[team-collaboration-health]], [[psychological-safety]].
+3. **People feel like a small cog in a giant wheel** — they own the recommendation step in a checkout flow, not the checkout; they want more scope, not less.
+
+**Ownership** is co-owned by the Head of Product and the Head of Engineering, working together at a whiteboard. When one owns it alone, they optimize for their primary interest and the other axis breaks. Cagan's #1 tomorrow-morning advice: *"a product leader should go have lunch with the technology leader and talk about where you are together on this — that's 80% of the battle in so many companies."*
+
+**Platform teams as the surprising fix.** Counterintuitive because a platform is a dependency — but a platform-team dependency *minimizes* the total dependency count.
+
+**"What is a product?" is a rabbit-hole question — don't fall in.** Modern SaaS is *one product with 50 product teams*, not the old HP catalog of thousands of small SKUs. Trying to define "a product" first and then create teams around each produces a self-fulfilling mess. Cagan's reframe: *"we provide a set of services to our customers, often powered by technology — what we're really talking about is dividing up the work to power those customer experiences. Full stop."*
+
+**The topology method.** Head of Product + Head of Engineering at a whiteboard together. Inputs: (i) raw materials — how many engineers, how many designers, how many PMs, what skill sets; (ii) the product vision — the strategy has to reveal the most critical problems to solve; the engineering leader can't architect for tomorrow without knowing the vision. Then reconcile: if you need 15 teams and have staff for 5, either grow (hiring spree) or narrow the strategy — often *"5 teams can do a lot; more team-count is not always more throughput."*
+
+**Splitting teams — fixed cost + hidden cost.** Fixed = new PM, designer, tech lead per split team. Hidden = the two teams need to be kept aligned + each needs *meaningful* work. **Cagan strongly prefers fewer teams with larger scope over more teams with less scope.** The two-pizza rule (~10–12 engineers max per PM/designer pair) is the backlog-generation constraint — one PM/designer can't generate enough good backlog items for more than that.
+
+**AI teams — the mobile-team pattern replayed.** Start with a **pioneering team** on the tip of the arrow. Others get training; new AI-fluent people are recruited; over time embed across teams. Google's mobile-first → AI-first shift took several years to show results — and Google is one of the *fastest* at these transitions. See [[ai-and-product-teams]].
+
+**Durable teams.** Once a topology is working well, don't mess with it. *"The last thing you want to do is get this working and then some excited manager moves people between teams because there's more work over there this week."* Adding an engineer is fine; keep the **PM + designer + tech-lead muscle** stable.
+
+**Rolling out changes — the CPE frame.** Most of the company won't see this as a re-org (they don't know team structure). Within product/technology, the sensitive case is people on legacy commitments (the "sunset team" — euphemism: **Current Product Engineering / CPE**). Be blunt with them about why + reward the delivery + name the next spot they'll move to. Nobody is fooled by "growth team" as a compliment or "CPE" as a disguise.
+
+**Cadence.** Annual topology review by Head of Product + Head of Engineering. Watch backlog size as a signal — too big = not enough engineers or too much tech debt; too small = the PM/designer can't keep up. But most topology changes come from **life happening**: someone leaves, someone is promoted, an acquisition, a moved team.
+
+**Big-company complexity is not special.** Cagan's rebuttal: *"you mean you're bigger than Apple, Amazon, Netflix? Oh no? Well, do you think they don't have complicated products with incredible constraints?"* Most of the constraint is smaller than the org thinks — and losing mojo to competitors is exactly what fuels the industry.
+
+**Redundancy — good vs bad.** *Bad redundancy:* four teams each building their own authentication for four apps — this is a **product-strategy** failure calling for a platform play. *Good redundancy:* multiple teams working on the same critical problem (e.g. churn/retention) because in the real world only one may make enough breakthrough progress — this is *deliberate strategic execution*.
+
 ## The future shape of teams (AI era)
 Two shifts Cagan flags ([[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto|Modern CTO]]): the **average number of engineers per team is going down** (smaller teams communicate better — "a four is really easy"), while the **scope of each team is going up** (GenAI raises engineers' cognitive capacity, so a team can own more end-to-end and suffer fewer painful cross-team dependencies — the most common complaint of even good empowered teams). The open question is whether companies use this to do *more* (pursue the vision faster) or the *same with fewer people*.
 
@@ -104,4 +142,5 @@ _Field note placeholder — pick a product team. Can it ship a meaningful end-to
 - [[2024-06-24-cagan-pm-and-experimentation-testing-insights]] — the pyramid (not diamond); the trio applies on platform teams (may lack a designer).
 - [[2025-12-19-cagan-lieberich-product-model-at-google]] — broadcast problems; multiple teams on one problem at planet scale; backs [[google-product-model]].
 - [[2020-03-04-cagan-team-objectives-collaboration]] — shared vs common objectives; swarms; the product-attribution problem.
+- [[2025-08-07-idiodi-cagan-coaching-team-topology]] — Product Therapy Ep 25 (Cagan); the most complete podcast-form teaching to date. Topology-vs-org-structure distinction, cognitive load, three signs of a topology problem, co-ownership by Head of Product + Head of Eng, durable teams, CPE, AI-teams-as-mobile-teams-replayed, redundancy good-vs-bad.
 - [[inspired]] Ch 20 — **primary (book-length)**; the **9 principles for structuring product teams** (investment strategy · minimize dependencies · ownership+autonomy · maximize leverage · vision+strategy · team size · architecture · user/customer · business) + *"Structure is a moving target"* meta-principle + the **Autonomy @ Scale** treatment (8 factors for weighing autonomy vs leverage; the two critical context inputs — product vision + team-specific business objectives). Deep-read in the INSPIRED 2nd-ed close-the-gaps pass (2026-07-12).

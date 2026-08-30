@@ -53,6 +53,9 @@ Cagan ([[2023-01-11-cagan-becoming-a-product-coach|Becoming a Product Coach]], 2
 ## Where leaders still need humans
 Per [[2026-02-04-cagan-product-coaching-and-ai|Cagan, Feb 2026]]: SVPG is concentrating its human-coach network on **product leaders**, especially during transformation. The problems at that level are people problems — relationships, power dynamics, transformation politics — and the strategic context (vision, strategy, team topology, team objectives) has to be built with humans before model-as-coach is fully useful below.
 
+## The *Product Therapy* podcast (2024–) — the behavioral half of the corpus
+[[christian-idiodi|Christian Idiodi]] hosts SVPG's *Product Therapy* podcast, with a rotating cast of SVPG partners as co-hosts. The wiki has ingested 13 episodes (2024-03 through 2025-01) which together form the definitive video-form corpus for the **behavioral, cultural, and mindset** half of coaching — [[coaching-agency|agency]], [[trust-over-control|trust]], [[feedback]], [[imposter-syndrome|imposter syndrome]], [[product-ethics|ethics]], [[time-management|time management]], [[hiring-and-onboarding|onboarding]], [[product-career-development|career]] — that the craft-focused SVPG canon (discovery, strategy, delivery techniques) systematically under-serves. Idiodi's opening framing on Ep 1: *"it's a lot easier to show people how to do a great product vision than to get them to change their hearts and minds, their behaviors, their mindset — and these are things we rarely talk about in podcasts, honestly we don't even write much about them."* Full episode index on [[christian-idiodi]].
+
 ## In your context
 _Field note placeholder — who coaches you today? Manager, external coach, model, none? What's the gap, and could [[model-as-product-coach]] close it?_
 
@@ -72,3 +75,4 @@ _Field note placeholder — who coaches you today? Manager, external coach, mode
 - [[2026-04-14-cagan-ai-product-coaching-women-in-product]] — why coaching fails (never worked this way; span of control); the tipping point; the ~100-coach network as "a drop in the bucket."
 - [[2020-04-23-cagan-discovery-strategy-empowered-teams-product-faculty]] — "not who they hire — they coach you."
 - [[2023-01-16-cagan-master-class-context-not-control]] — challenge to the coaching community; context-not-control.
+- **The *Product Therapy* podcast (2024–), 13 episodes ingested** — the wiki's canonical corpus for the behavioral half of coaching. Episode index on [[christian-idiodi]]; the individual episodes are the primary sources for [[coaching-agency]], [[coaching-mindset]], [[trust-over-control]], [[product-sense]], [[imposter-syndrome]], [[product-ethics]], [[feedback]], [[stakeholder-relationship-health]], [[product-career-development]], [[product-marketing]], [[time-management]], [[founder-style-leadership]], and [[hiring-and-onboarding]].

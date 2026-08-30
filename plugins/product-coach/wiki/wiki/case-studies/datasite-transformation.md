@@ -5,10 +5,10 @@ aliases: [datasite, datasite-transformation, merrill-corporation, merrill-datasi
 status: drafting
 tags: [case-study, transformation, innovation, saas, finance, m-and-a, christian-idiodi, sales-driven, disempowerment, product-strategy]
 org: Datasite (formerly Merrill Corporation)
-sources: ["[[transformed]]"]
-related: ["[[transformation]]", "[[transformation-politics]]", "[[christian-idiodi]]", "[[missionaries-vs-mercenaries]]", "[[feature-teams-vs-product-teams]]", "[[product-strategy]]", "[[empowered-product-teams]]", "[[focus]]", "[[empowered-engineers]]", "[[the-product-team-trio]]", "[[trainline-transformation]]", "[[adobe-creative-cloud-transformation]]"]
+sources: ["[[transformed]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]"]
+related: ["[[transformation]]", "[[transformation-politics]]", "[[christian-idiodi]]", "[[doug-cullen]]", "[[thomas-fredell]]", "[[missionaries-vs-mercenaries]]", "[[feature-teams-vs-product-teams]]", "[[product-strategy]]", "[[empowered-product-teams]]", "[[focus]]", "[[empowered-engineers]]", "[[the-product-team-trio]]", "[[trainline-transformation]]", "[[adobe-creative-cloud-transformation]]", "[[cross-functional-partnering]]", "[[pilot-teams]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-08-29
 ---
 
 # Datasite (Merrill Corporation) — Sales-Driven → Product-Driven
@@ -97,6 +97,33 @@ Post-transformation Datasite had the muscle to attempt a technically hard produc
 3. **Focus is often *strategic divestment*.** Merrill's transformation was as much *"what we sold and shut down"* as *"what we built."* The rebrand recognized the strategic focus.
 4. **The <1-hour bug fix as leadership evidence.** When the CEO can *feel* the difference between the old and new speed, transformation gains political air cover. Look for the story that will do this in your org.
 5. **Coaching a head of sales as ally, not opposition.** Doug Cullen was Idiodi's earliest ally, not an obstacle. Naming the diagnosis truthfully required trust with the person whose organizational power was being repositioned.
+
+## The inside-out narrative — Product Therapy Ep 24 (Cullen · Fredell)
+[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite|Ep 24 (Cullen + Fredell)]] is the two operators' co-primary inside-view of the transformation TRANSFORMED Part VII tells from Cagan's outside-in vantage. Practitioner detail the book cannot supply:
+
+**Rusty Wiley's pitch to the board.** *"A technology-based business has a much higher valuation than an equivalent revenue service business — so if we look at the portfolio of businesses Merrill had, there is a software-service play here that can create tremendous value."* This is the crispest single articulation of how to make a transformation investment case to a board.
+
+**The Workiva catalyst.** Wiley had watched Cagan-coached Workiva disrupt Merrill's financial-print business with collaborative-across-time-and-space technology. *That was the demonstration* — an outsider with the product model can eat a legacy service business. It shaped the entire pitch.
+
+**Fredell's opening moves.** (i) Spent weeks in Minneapolis learning people. (ii) Realized *"I just didn't have people who had done product before, and I didn't have time to coach them up."* (iii) Terrifying decision: **wiped out the management layer** and started from scratch. (iv) Brought in [[christian-idiodi|Christian Idiodi]] and Jeremiah Ivan (both from Interlinks). (v) Adopted a Spotify-inspired **squad/modular** organization structure. (vi) Committed to a **microservices** platform architecture from the start — Pivotal Cloud Foundry as training wheels; MongoDB replacing Oracle.
+
+**Cullen's parallel work in sales.** Not a wholesale management-wipe on the sales side — Cullen inherited *"excellent talent that had not been empowered."* Jim Collins's *good-to-great* — right people on the bus, wrong people off — plus a shift from "big book of business" to scaled selling. Real tension: *"$1 goes to product = 1 less dollar for TNE with clients"* was personal to salespeople who genuinely believed they'd do better with the money themselves.
+
+**Idiodi's trust-building method.** *"I had no right to tell the organization what problems to solve — I had no competence in the industry. But people had to see me learn."* Spent significant time with Cullen publicly, learning from him. The New York sales-leader meeting: they asked no product questions — asked about family, kids, life — then went back and said *"this guy is cool, it's okay."* **In a transformation, trust is fundamental: forget the process, do I trust your intent enough to give you a chance to fail?**
+
+**The Datasite One launch failure — the culture-bank story.** First deal on the new platform: a financing deal for a large Irish energy customer. *"You can't not get it right when you do an M&A deal — this isn't a normal MVP situation."* The Irish customer called: *"I learned a whole bunch of new words about how this platform is nowhere effing near ready."* Bucket of cold water.
+
+**The recovery.** Pulled the company together at the Lowe's Hotel in downtown Minneapolis for **3 straight days** in July → product launched October 9th same year. **Cullen's crisp frame:** *"you have to have something in the culture bank if you're going to make a withdrawal from it."* The failure forced sales + product to actually solve together, and the pattern of solving together *became the company* after that. See [[transformation]] for the culture-bank metaphor's canonical treatment.
+
+**The extended trio.** Standard product trio (PM + designer + engineer) *extended* by Idiodi and Cullen to pull in sales and service management when needed. This kept sales team engaged as supporters, not skeptics, during a long platform build with no product to show for months. See [[cross-functional-partnering]].
+
+**The discovery breakthrough — CRO at the customer meeting.** Idiodi took the CRO to a customer meeting. First meeting: CRO thought the questions were dumb ("sales knows the customer"). Second meeting: CRO *"hits his head on the table"* — realized this was *validating* what the first customer said and going deeper. *"If every product person understood this, we'd have better products."* CRO then championed a product tour, called every sales office to welcome the product team. **That single conversion was the pivot.**
+
+**The M&A life-cycle vision emergence.** Not just due-diligence software, but extending earlier and later (pre-diligence prep → post-deal integration → operational optimization → next deal). Strategy: *"how do we go earlier in the M&A life cycle?"* Company shifted from project drops ("release one, release two, big drop") to problem-solving toward the vision.
+
+**The technology transformation numbers.** Quarterly max release cadence → **20 deploys/day** by the time Fredell left, all seamless with no customer impact. Went from viewed as "junky old company out on Energy Park Drive" to one of the best places to work for engineers in Minneapolis (via Pivotal's marketing partnership: *"the most important company you've never heard of"*).
+
+**Closing advice from Cullen + Fredell.** Cullen: *good-to-great* right-people/wrong-people; force collaboration and trust-building *outside the business area* (host people at your home — Todd hosted every sales leader at his childhood Cleveland home 3 weeks after Cullen joined); embrace diversity of thought. Fredell: **communication that resonates with the *listener's* frame, not yours** — the contractor analogy (good contractor = clear on what will happen, does what they said, circles back on issues; bad contractor = surprises everyone).
 
 ## In your context
 _If someone at the top of your sales organization sat down with an outside product leader and honestly answered "who decides what gets built here?" — what would they say? Doug Cullen's answer at Merrill was the entire diagnosis in a paragraph._
