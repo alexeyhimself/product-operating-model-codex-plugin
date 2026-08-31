@@ -12,18 +12,18 @@ Catalog of every page in the wiki, by category. **The coach reads this first whe
 | Section | Count | What it holds |
 |---|---:|---|
 | [Overview](#overview) | 1 | The Product Operating Model + 20 first principles in one page. |
-| [Concepts](#concepts) | 60 | Core ideas: discovery, delivery, the four risks, empowered teams, transformation, coaching mindset, PMM fundamentals, psychological-safety, AI-and-product-teams, remote-collaboration, product-in-startups, coaching-up, cultural-debt, transformation-anti-patterns, etc. |
+| [Concepts](#concepts) | 61 | Core ideas: discovery, delivery, the four risks, empowered teams, transformation, coaching mindset, PMM fundamentals, psychological-safety, AI-and-product-teams, remote-collaboration, product-in-startups, coaching-up, cultural-debt, transformation-anti-patterns, keep-the-lights-on, etc. |
 | [Principles](#principles) | 5 | The 20 first principles grouped by the 5 areas (teams · strategy · discovery · delivery · culture). |
 | [Competencies](#competencies) | 10 | Roles & skills: PM, designer, engineers, leadership, trio, delivery manager, coach, ops, PMM. |
 | [Frameworks](#frameworks) | 26 | Techniques & tools: opportunity assessment, OKRs, OST, continuous interviewing, prototypes, pilot teams, transformation ten keys, decision-making, strategy-jumpstart, etc. |
-| [Diagnostics](#diagnostics) | 15 | Rubrics to score a team / org / leader / setup against the model. |
+| [Diagnostics](#diagnostics) | 17 | Rubrics to score a team / org / leader / setup against the model. |
 | [Case studies](#case-studies) | 12 | Public exemplars from SVPG canon (Amazon, Spotify, Google, Apple + 7 from *TRANSFORMED* + Palace Resorts hospitality transformation). Org-agnostic. |
 | [Synthesis](#synthesis) | 6 | Cross-cutting essays: the-point-is-outcomes, overcoming-objections, POM vs Agile/SAFe/Lean/Design-Thinking, evolving thesis, product-myths. |
 | [Resources](#resources-trusted-recommendations) | 1 | Recommendation engine mapping problems → SVPG-endorsed books/videos. |
 | [Sources](wiki/sources/INDEX.md) | 59 → | Moved to its own file to keep this catalog scan-cheap; open only for provenance ("where does X come from?"). |
-| [Entities — People](#entities--people) | 20 | Cagan, Moore, Jones, Idiodi, Hickman, Lauchengco, Torres, Patton, Campbell, Leto, Cullen, Fredell + 6 new Batch-3 externals (Shreyas Doshi, Gabrielle Bufrem, Anuar Chapur, Elias Lieberich, Marcus Castenfors, Mike Fisher) + the 7 *TRANSFORMED* Ch 34 coaches. |
+| [Entities — People](#entities--people) | 26 | Cagan, Moore, Jones, Idiodi, Hickman, Lauchengco, Torres, Patton, Campbell, Leto, Cullen, Fredell + 6 new Batch-3 externals (Shreyas Doshi, Gabrielle Bufrem, Anuar Chapur, Elias Lieberich, Marcus Castenfors, Mike Fisher) + the 7 *TRANSFORMED* Ch 34 coaches. |
 | [Entities — Books](#entities--books) | 18 | The 4 SVPG core (INSPIRED · EMPOWERED · TRANSFORMED · LOVED) + 13 recommended-reading titles + Leto's *Hiring Product Managers* stub. |
-| [Entities — Organizations](#entities--organizations) | 7 | SVPG + 6 named exemplar orgs (Amazon, Apple, Google, Spotify, Datasite, Palace Company). |
+| [Entities — Organizations](#entities--organizations) | 15 | SVPG + 14 named orgs — SVPG-article exemplars (Amazon, Apple, Google, Spotify); *TRANSFORMED* case-study orgs (Almosafer, CarMax, Trainline, Gympass, Datasite, Kaiser Permanente); Palace Company (hospitality exemplar); Learning Loop (Toxboe's discovery-technique publisher, supporting/non-SVPG); Product Matters (Elias Lieberich's coaching company, external); Workiva (Cagan-coached precedent mentioned via Datasite). |
 
 **How to use this catalog.** Skim the jump table → open the relevant section(s) → scan the one-line entries for the pages worth reading. Wikilinks resolve inside the vault; from a chat reply, cite pages as `wiki/<subdir>/<page>.md` (see `CLAUDE.md` §3 *Answer*).
 
@@ -87,13 +87,14 @@ Catalog of every page in the wiki, by category. **The coach reads this first whe
 - [[product-marketing-by-stage]] — 📝 LOVED Chs 29 + 30. Roadster/Michelle Denogean opener; Early/Growth/Mature staging with the mature-company competitive-response worked example; 4 mature-company inflection points (traditional-to-tech-first · single-to-multi-product · product-to-solution · international expansion).
 - [[continuous-discovery]] — 📝 discovery run as a weekly cadence, in parallel with delivery, by the same team. Carries the Dual-Track-Agile → Continuous-Discovery naming lineage; Torres's four-clause operational test.
 - [[insights]] — 📝 the four sources (quantitative · qualitative · technology · industry) that power strategy; evaluative vs. generative; insights must be shared, not just discovered. The mechanics behind the [[powered-by-insights]] principle.
-- [[psychological-safety]] — 📝 the shared team belief that it's safe to speak up, offer ideas, admit uncertainty, and make mistakes without negative repercussions. Grounded in Kate Leto on *Product Therapy* Ep 22 (Google Project Aristotle; trust ≠ PS; EQ enables PS; hero-complex blocker; leaders modeling *"I don't know"*; the rehearsed call-out technique).
+- [[psychological-safety]] — 📝 the shared team belief that it's safe to speak up, offer ideas, admit uncertainty, and make mistakes without negative repercussions. Grounded primarily in Kate Leto on *Product Therapy* Ep 22 (Google Project Aristotle; trust ≠ PS; EQ enables PS; hero-complex blocker; leaders modeling *"I don't know"*; the rehearsed call-out technique), with book-canon grounding from *TRANSFORMED* itself (the remote-team "psychological safety is dropping" diagnostic; disagreement as a healthy sign of safety).
 - [[ai-and-product-teams]] — 📝 how GenAI reshapes empowered product teams over a 2–5 year horizon. Primary root: Cagan on *Product Therapy* Ep 20 (May 2025). The four historical product problems; discovery/delivery balance flips to ~90/10; PM harder + more essential; tech lead absorbs ML/data role; team topology improves; the AI-tools-restore-remote-discovery-friction bet.
 - [[remote-collaboration]] — 📝 how empowered product teams do the collaborative half of their work when they aren't in the same room. Primary root: Hickman on *Product Therapy* Ep 15. Rules of proximity · always-on with self-view off · false-trust trap · collaborating-through-an-artifact anti-pattern · the huddle metaphor · the-best-collaboration-tool-is-the-phone · the leader-level "tie VP objectives to shared outcomes" HR fix.
 - [[product-in-startups]] — 📝 how product work is different — and often harder — inside a pre-PMF startup. Primary root: Lauchengco on *Product Therapy* Ep 16. Ideas are dime-a-dozen · **market-product fit** (not the reverse) · 9–10x adoption bar · founder gap-closer trait · co-founder rule 100% · opportunistic first hire · joining-a-startup 4 assessments.
 - [[coaching-up]] — 📝 the IC's craft of developing their own manager — exposing information the leader might not see so behavior can change, without a career-progression motive. Primary root: Hickman on *Product Therapy* Ep 27. Coaching-up vs managing-up distinction; if-your-manager-doesn't-coach-you sequence (ask directly · model the framework · celebrate when they try); jiu-jitsu for the always-right manager (ask for help); name-the-pattern with positive intent for the checked-out manager; Idiodi's **User Manual** technique (both write-one-about-your-manager and give-your-reports-one-about-you).
 - [[transformation-anti-patterns]] — 📝 the wiki's canonical named catalog of transformation anti-patterns. Primary root: Castenfors on *Product Therapy* Ep 38 (author of *10 Anti-Patterns When Moving to the Product Model*), with Hickman on Ep 37. Includes the *loop of transformation failure* (six-step), the *air sandwich* (vision above, backlog below, gap in the middle), *17 North Stars*, *transformation in a bubble*, *autonomy too soon*, the *three value buckets* (new / existing / protect), pilot theater / pilot-team factory / sacred golden child, *dependencies are the root of all evil*.
 - [[cultural-debt]] — 📝 the hidden cost of neglecting the system that governs how people work together — analog to tech debt; interest compounds silently. Primary root: Fisher on *Product Therapy* Ep 43. *What you reward always beats what you say* (Wells Fargo); wartime rationalizations become the culture; silence in rooms + "what he really meant" translation work as signals; Boeing (decades → 737 Max crashes → Alaska Airlines door bolts years later) as the long-tail example; blameless postmortem for cultural failures; **culture is a C-suite responsibility, not an HR problem**; avoidance disguised as kindness ("No More Mr. Nice Guy").
+- [[keep-the-lights-on]] — 📝 maintenance / compliance / bug-fixing / tech-debt work — separate from and not stopped by strategic focus ("would be suicide" — Cagan). Castenfors's three-buckets frame (new value / existing value / protect value); Idiodi's first rule of tech debt: talk about tech debt.
 
 ## Principles
 **Product Teams** — [[principles-of-product-teams]] (🌳 index)
@@ -161,11 +162,13 @@ Catalog of every page in the wiki, by category. **The coach reads this first whe
 - [[discovery-health]] — 📝 is discovery tackling the four risks fast and cheap, or theater? Nine weekly oversight questions + the two-week rule.
 - [[delivery-health]] — 📝 small/frequent/reversible/instrumented releases — or big-bang. Customer-impact assessment + gentle deployment.
 - [[product-strategy-quality]] — 📝 org-level: real strategy = focus + insights + actions + management. Or stakeholder roadmap dressed up.
+- [[strategy-and-focus-health]] — 📝 the *"we have a prioritization problem"* tell (it's actually a strategy problem); the four roadmap anti-patterns (stakeholder-driven / executive-driven / fill-the-bucket / feature-factory); the 12-big-rocks / best-in-class-everything pattern; the grandfather test. Faster, symptom-based companion to [[product-strategy-quality]].
 - [[leadership-readiness]] — 📝 does product leadership deliver strategic context and weekly coaching? The three documented failure modes.
 - [[model-maturity]] — 📝 whole-org rollup against the three transformation dimensions (build / solve / decide). Project model → exemplary.
 - [[outcome-vs-output-orientation]] — 📝 do you celebrate shipping or moving the KPI? The behavioral test of empowerment.
 - [[stakeholder-relationship-health]] — 📝 PM/stakeholder trust as the wall under viability; written-narrative discipline; the mojo moves.
 - [[transformation-readiness]] — 📝 **before** starting a transformation: 8 readiness lenses (scope clarity, leadership, coaching, pilot strategy, political plan, comms cadence, KTLO budget, patience). Distinct from [[model-maturity]] (current state).
+- [[transformation-execution-health]] — 📝 once a transformation/pilot is running: installation-vs-adoption; the leadership-intention-vs-team-reality gap; pilot theater / pilot-team factory / sacred golden child; the loop of transformation failure; 17 North Stars; the air sandwich; autonomy-too-soon-without-coaching. Distinct from [[transformation-readiness]] (preconditions to start).
 - [[model-as-coach-readiness]] — 📝 is your AI-as-product-coach setup aligned with Cagan's prescription (product-not-project framing, coach stance, strategic context, critique-seeking)? Protects coaching-not-contracting.
 
 ## Case studies
@@ -240,14 +243,14 @@ Catalog of every page in the wiki, by category. **The coach reads this first whe
 - [[build-tony-fadell]] — 🌱 Fadell; making things worth making.
 - [[working-backwards]] — 🌱 Amazon mechanisms.
 - [[no-rules-rules]] — 🌱 Netflix; context over control.
-- [[creative-selection]] — 🌱 Apple; discovery by demo.
+- [[creative-selection]] — 📝 Apple; discovery by demo.
 - [[how-google-works]] — 🌱 Google; empowering smart creatives.
 - [[continuous-discovery-habits]] — 📝 [[teresa-torres|Torres]] (2021); continuous discovery how-to; **Cagan wrote the Foreword**. Root source for [[opportunity-solution-tree]], [[continuous-interviewing]], [[assumption-testing]]. Primary-adjacent canon.
 - [[trillion-dollar-coach]] — 🌱 Campbell; coaching leaders.
 - [[the-making-of-a-manager]] — 🌱 Zhuo; for new managers.
 - [[the-joy-of-agility]] — 🌱 Kerievsky; real agility.
 - [[accelerate]] — 🌱 DORA; delivery performance.
-- [[good-strategy-bad-strategy]] — 🌱 Rumelt; real strategy vs fluff (Cagan pick); focus ≠ prioritization.
+- [[good-strategy-bad-strategy]] — 📝 Rumelt; real strategy vs fluff (Cagan pick); focus ≠ prioritization.
 - [[the-art-of-action]] — 🌱 Bungay; military "command intent" = strategic context / OKRs done right (Cagan pick).
 - [[hiring-product-managers]] — 🌱 [[kate-leto|Leto]] (2021); the *Product EQ* frame — hiring and developing PMs on the human-skills dimensions that culture-fit + skills-check systematically miss.
 
@@ -259,3 +262,6 @@ Catalog of every page in the wiki, by category. **The coach reads this first whe
 - [[spotify]] — 📝 exemplar; the four-risks worked example (Discover Weekly); corrects "The Spotify Model" myth.
 - **From *TRANSFORMED* (Pass 2 ingest 2026-07-11):** [[almosafer]] · [[carmax]] · [[trainline]] · [[gympass]] · [[datasite]] · [[kaiser-permanente]] — six new org entities backing the seven book case studies. Adobe stays via [[lea-hickman]] and the [[adobe-creative-cloud-transformation|Adobe case study]] pending a dedicated Adobe entity.
 - **From *Product Therapy* (Batch 3 ingest 2026-08-30):** [[palace-company]] — Mexico-based hospitality group; the wiki's first hospitality / non-US / family-run exemplar; backs the [[palace-resorts-transformation]] case study.
+- [[learning-loop]] — 📝 Copenhagen-based product-education publisher (learningloop.io) run by [[anders-toxboe]]; supporting/non-SVPG source of the 89-play Idea Validation Playbook behind [[discovery-techniques-catalog]].
+- [[product-matters]] — 🌱 [[elias-lieberich|Elias Lieberich]]'s product coaching company (Europe); external to SVPG.
+- [[workiva]] — 🌱 the Cagan-coached disruption precedent that convinced Rusty Wiley the product model would work at [[datasite]]; single explanatory aside, minimal stub.

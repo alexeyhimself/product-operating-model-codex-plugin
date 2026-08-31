@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Product Roadmaps"
 type: source
-aliases: [cagan-product-roadmaps]
+aliases: [cagan-product-roadmaps, product-roadmap]
 status: drafting
 tags: [primary-source, svpg, roadmaps, prioritization, anti-pattern]
 role: primary

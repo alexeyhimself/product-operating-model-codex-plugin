@@ -7,7 +7,7 @@ tags: [concept, roadmap, outcomes, transitional, okrs]
 sources: ["[[transformed]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2009-01-07-cagan-product-roadmaps]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]"]
 related: ["[[product-strategy]]", "[[product-vision]]", "[[team-objectives]]", "[[outcomes-over-output]]", "[[empowered-product-teams]]", "[[high-integrity-commitments]]"]
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-08-31
 ---
 
 # Outcome-Based Roadmap
@@ -44,7 +44,7 @@ _Field note placeholder — does your roadmap entries describe **outcomes** the 
 - concepts: [[product-strategy]], [[product-vision]], [[team-objectives]], [[empowered-product-teams]], [[time-to-money]]
 - principles: [[outcomes-over-output]], [[focus]], [[transparency]]
 - frameworks: [[high-integrity-commitments]], [[opportunity-assessment]]
-- diagnostics: [[product-strategy-quality]], [[outcome-vs-output-orientation]], [[feature-team-vs-empowered-team]]
+- diagnostics: [[product-strategy-quality]], [[strategy-and-focus-health]], [[outcome-vs-output-orientation]], [[feature-team-vs-empowered-team]]
 
 ## Sources
 - [[2015-09-07-cagan-the-alternative-to-roadmaps]] — the canonical alternative-framing: vision + team objectives + high-integrity commitments.

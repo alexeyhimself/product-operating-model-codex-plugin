@@ -11,7 +11,7 @@ source_url: https://www.youtube.com/watch?v=jHUPl-PzD2I
 date: 2026-03-19
 related: ["[[transformation]]", "[[transformation-anti-patterns]]", "[[transformation-as-a-project]]", "[[marcus-castenfors]]"]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Product Therapy Ep 38 — Coaching Transformation Anti-Patterns (with Marcus Castenfors)
@@ -81,7 +81,7 @@ Pilot teams need the opportunity to create new or improve existing value. If the
 - concepts: [[strategic-context]] (adds the *air sandwich* metaphor for the missing middle)
 - concepts: [[keep-the-lights-on]] (adds Castenfors's *three-buckets: new value / existing value / protect value* frame; adds Idiodi's *first rule of tech debt is to talk about tech debt*)
 - concepts: [[cross-functional-partnering]] (adds the *don't transform product-and-tech in isolation* rule; adds Castenfors's *sidelines rule* for cross-org trust)
-- diagnostics: [[transformation-execution-health]] (if the wiki has this — the loop of failure; 17 North Stars; air sandwich; product-and-tech-in-a-bubble; autonomy-too-soon-without-coaching)
+- diagnostics: [[transformation-execution-health]] (built 2026-08-31 — the loop of failure; 17 North Stars; air sandwich; product-and-tech-in-a-bubble; autonomy-too-soon-without-coaching)
 - entities: **[[marcus-castenfors]]** (**new person entity** — external product coach, author of *10 Anti-Patterns When Moving to the Product Model*)
 
 ## Notes for the coach

@@ -11,7 +11,7 @@ source_url: https://www.youtube.com/watch?v=9sKip0Uwm44
 date: 2025-12-11
 related: ["[[pilot-teams]]", "[[transformation]]", "[[coaching-agency]]", "[[gabrielle-bufrem]]"]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Product Therapy Ep 34 — Coaching Pilot Teams (with Gabrielle Bufrem)
@@ -82,7 +82,7 @@ Key material:
 - concepts: [[transformation-as-a-project]] (reinforces — pilot as spiral is the antidote)
 - concepts: [[team-topology]] (adds one-PM+one-designer+one-tech-lead ideal per pilot team)
 - concepts: [[strategic-context]] (leaders' job of *decide-which-problems-to-solve-with-context* is one of the two muscles)
-- diagnostics: [[transformation-execution-health]] (if the wiki has this — pilot theater, pilot-team factory, sacred-golden-child as diagnostic anti-patterns; the three signs of a working pilot as the positive signals)
+- diagnostics: [[transformation-execution-health]] (built 2026-08-31 — pilot theater, pilot-team factory, sacred-golden-child as diagnostic anti-patterns; the three signs of a working pilot as the positive signals)
 - entities: [[gabrielle-bufrem]] (third appearance; the pilot-teams voice; deepens as external coach entity)
 
 ## Notes for the coach

@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Product Strategy: Insights"
 type: source
-aliases: [cagan-product-strategy-insights]
+aliases: [cagan-product-strategy-insights, product-strategy-insights]
 status: drafting
 tags: [primary-source, svpg, strategy, insights]
 role: primary

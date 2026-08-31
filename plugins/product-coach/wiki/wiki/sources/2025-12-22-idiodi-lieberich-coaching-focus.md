@@ -11,7 +11,7 @@ source_url: https://www.youtube.com/watch?v=9Q1eT-tqNF4
 date: 2025-12-22
 related: ["[[product-strategy]]", "[[strategic-context]]", "[[team-objectives]]", "[[elias-lieberich]]"]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Product Therapy Ep 35 — Coaching Focus (with Elias Lieberich)
@@ -80,7 +80,7 @@ Key material:
 - frameworks: [[partnering-with-executives]] (adds the *"who is this for?"* magic coaching question; adds the *"when was the last time you had a hit that was intentional?"* CEO question; adds the *"what are you pretending not to know?"* probe)
 - concepts: [[outcome-based-roadmap]] (adds the *not-yet-vs-no* tradeoff conversation; adds Idiodi's *"if you can't answer what's-in-it-for-the-business / how-we-measure-success / what-problem-and-for-whom, don't do it"* filter)
 - concepts: [[stakeholder-relationship-health]] (the e-commerce CPO case — trust built by presence, homework, asking for help)
-- diagnostics: [[strategy-and-focus-health]] (if the wiki has this — the fastest signal + the 12-big-rocks / best-in-class-everything pattern + the *swoop-and-poop* executive move)
+- diagnostics: [[strategy-and-focus-health]] (built 2026-08-31 — the fastest signal + the 12-big-rocks / best-in-class-everything pattern + the *swoop-and-poop* executive move)
 - entities: **[[elias-lieberich]]** (new person entity — product coach at [[product-matters]], external to SVPG), [[christian-idiodi]]
 
 ## Notes for the coach

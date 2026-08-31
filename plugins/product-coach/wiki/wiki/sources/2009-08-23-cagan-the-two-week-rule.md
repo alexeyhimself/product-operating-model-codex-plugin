@@ -1,7 +1,7 @@
 ---
 title: "Cagan — The Two-Week Rule"
 type: source
-aliases: [cagan-the-two-week-rule, two-week-rule]
+aliases: [cagan-the-two-week-rule, two-week-rule, the-two-week-rule]
 status: drafting
 tags: [primary-source, svpg, discovery, customer-contact]
 role: primary

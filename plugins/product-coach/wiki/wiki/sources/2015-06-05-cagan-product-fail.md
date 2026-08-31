@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Product Fail"
 type: source
-aliases: [cagan-product-fail]
+aliases: [cagan-product-fail, product-fail]
 status: drafting
 tags: [primary-source, svpg, project-model, transformation, anti-pattern]
 role: primary

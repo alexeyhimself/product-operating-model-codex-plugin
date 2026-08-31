@@ -1,6 +1,6 @@
 ---
 title: Recommended Library
-type: resource
+type: overview
 aliases: [recommended-library, recommended-reading, recommended-resources, what-should-i-read]
 status: drafting
 tags: [resources, recommendations, books, videos, reading-list]

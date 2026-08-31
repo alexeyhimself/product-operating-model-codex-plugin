@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Product Strategy: Management"
 type: source
-aliases: [cagan-product-strategy-management]
+aliases: [cagan-product-strategy-management, product-strategy-management]
 status: drafting
 tags: [primary-source, svpg, strategy, management, servant-leadership]
 role: primary

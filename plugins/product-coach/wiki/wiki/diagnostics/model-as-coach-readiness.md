@@ -1,6 +1,7 @@
 ---
 title: Model-as-Coach Readiness
 type: diagnostic
+status: drafting
 aliases: [ai-coach-readiness, model-as-coach-setup, coaching-setup-check]
 tags: [diagnostic, ai, coaching, model-as-coach, strategic-context]
 assesses: whether a PM's or leader's AI-as-product-coach setup matches Cagan's prescription

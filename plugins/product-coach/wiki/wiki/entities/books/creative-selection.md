@@ -2,7 +2,7 @@
 title: "Creative Selection"
 type: book
 aliases: [creative-selection]
-status: stub
+status: drafting
 tags: [book, recommended, exemplar-apple, discovery, craft]
 author: Ken Kocienda
 year: 2018
@@ -12,7 +12,7 @@ recommended_in: ["[[svpg-product-operating-model-introduction]]"]
 topics: [company-exemplars, product-discovery, prototyping, craft]
 related: ["[[recommended-library]]", "[[product-discovery]]", "[[embrace-rapid-experimentation]]", "[[empowered-engineers]]", "[[product-sense]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]"]
 created: 2026-06-15
-updated: 2026-07-03
+updated: 2026-08-31
 ---
 
 # Creative Selection

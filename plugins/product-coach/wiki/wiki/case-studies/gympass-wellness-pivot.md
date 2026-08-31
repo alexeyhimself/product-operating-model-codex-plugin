@@ -16,7 +16,7 @@ updated: 2026-07-11
 > The Latin-American entry in TRANSFORMED's innovation-under-crisis pattern. A Brazilian corporate-fitness company that had just finished its transformation (2018–2020) used those muscles during COVID to pivot from *in-person gym network* to *home-based wellness marketplace* — reaching **10 countries in 4 weeks** with **1 PM + 1 designer + 4 engineers**, going from zero to hundreds of thousands of users in months. Source: *[[transformed|TRANSFORMED]]* Ch 27 (Innovation Story).
 
 ## Starting state
-Gympass was founded in Brazil in 2012 with the mission to *"improve employee health and well-being by helping to defeat inactivity."* Model: companies bought Gympass as a benefit for their employees, who then accessed a network of **50,000+ gyms and studios in 11 countries**.
+[[gympass|Gympass]] was founded in Brazil in 2012 with the mission to *"improve employee health and well-being by helping to defeat inactivity."* Model: companies bought Gympass as a benefit for their employees, who then accessed a network of **50,000+ gyms and studios in 11 countries**.
 
 For its first five years the company grew to ~800 people with only a very small IT organization; the business ran largely on **spreadsheets managed by a large business operations team**. In 2018, leadership brought in experienced product leader **Joca Torres** as CPO to transform. Working with the CTO and CMO, the three leaders built out a technology + product organization — first automating the business operations team's manual work, then creating new experiences for gyms, employees, and HR (so HR could see impact on their employees). Strong growth trajectory going into 2020.
 

@@ -13,7 +13,7 @@ updated: 2026-07-11
 
 # Trainline — KKR-to-IPO Transformation
 
-> The book's clearest end-to-end transformation narrative — because [[jon-moore|Jon Moore]] tells it in the first person. KKR bought Trainline in January 2015 believing the company was significantly undervalued; a new CEO ([[#Cast|Clare Gilmartin, from eBay]]), CTO (Mark Holt), and CPO (Moore) rebuilt the company across all three transformation dimensions. Four years and one IPO later, Trainline was valued at £2B — from KKR's <£500M purchase. Sources: *[[transformed|TRANSFORMED]]* Part V (Transformation Story) + Ch 49 (Innovation Story: price prediction).
+> The book's clearest end-to-end transformation narrative — because [[jon-moore|Jon Moore]] tells it in the first person. KKR bought [[trainline|Trainline]] in January 2015 believing the company was significantly undervalued; a new CEO ([[#Cast|Clare Gilmartin, from eBay]]), CTO (Mark Holt), and CPO (Moore) rebuilt the company across all three transformation dimensions. Four years and one IPO later, Trainline was valued at £2B — from KKR's <£500M purchase. Sources: *[[transformed|TRANSFORMED]]* Part V (Transformation Story) + Ch 49 (Innovation Story: price prediction).
 
 ## Cast
 - **CEO:** Clare Gilmartin (recruited from eBay, first-time CEO).

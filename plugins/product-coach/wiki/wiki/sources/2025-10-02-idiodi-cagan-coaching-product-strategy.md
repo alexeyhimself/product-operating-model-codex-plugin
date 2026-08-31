@@ -11,7 +11,7 @@ source_url: https://www.youtube.com/watch?v=acryXl9EVEg
 date: 2025-10-02
 related: ["[[product-strategy]]", "[[product-vision]]", "[[product-roadmap]]", "[[team-objectives]]", "[[strategic-context]]"]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Product Therapy Ep 29 — Coaching Product Strategy
@@ -63,7 +63,7 @@ Key material:
 - concepts: [[strategic-context]] (WHY as strategic context; written narrative as artifact)
 - frameworks: [[outcome-based-roadmap]] (Cagan's *convert feature-lists to problem+measure+hypothesis* first-move for earning stakeholder trust)
 - concepts: [[transformation]] (annual-planning-as-symptom-of-missing-strategy)
-- diagnostics: [[strategy-and-focus-health]] (if the wiki has this — the *"we have a prioritization problem"* symptom is the canonical diagnostic tell)
+- diagnostics: [[strategy-and-focus-health]] (built 2026-08-31 — the *"we have a prioritization problem"* symptom is the canonical diagnostic tell)
 - concepts: [[ai-and-product-teams]] (AI-in-strategy: probabilistic-solutions guardrails; AI-tools-as-thinking-partner but not substitute)
 - case-studies: [[datasite-transformation]] (product-strategy-shaped-the-business-strategy divestiture example)
 - entities: [[marty-cagan]], [[christian-idiodi]]

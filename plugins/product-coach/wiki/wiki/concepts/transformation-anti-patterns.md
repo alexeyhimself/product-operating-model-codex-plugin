@@ -7,7 +7,7 @@ tags: [transformation, anti-patterns, loop-of-failure, air-sandwich, pilot-teams
 sources: ["[[2026-03-19-idiodi-castenfors-coaching-transformation-anti-patterns]]", "[[2026-02-19-idiodi-hickman-coaching-transformations]]"]
 related: ["[[transformation]]", "[[transformation-as-a-project]]", "[[pilot-teams]]", "[[strategic-context]]"]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Transformation Anti-Patterns
@@ -107,3 +107,5 @@ Every org will have its own live subset. When coaching, look for: which loop-of-
 - [[transformation-politics]] — the political variants of these anti-patterns.
 - [[strategic-context]] — the *air-sandwich* antidote; the *grandfather test.*
 - [[product-management-theater]] — installation-not-adoption is the wiki's canonical example.
+- [[keep-the-lights-on]] — the three-buckets frame's protect-value bucket, in full.
+- [[transformation-execution-health]] — the diagnostic that operationalizes this catalog into a rubric.

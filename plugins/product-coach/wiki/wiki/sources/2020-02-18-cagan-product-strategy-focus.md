@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Product Strategy: Focus"
 type: source
-aliases: [cagan-product-strategy-focus]
+aliases: [cagan-product-strategy-focus, product-strategy-focus]
 status: drafting
 tags: [primary-source, svpg, strategy, focus, prioritization]
 role: primary

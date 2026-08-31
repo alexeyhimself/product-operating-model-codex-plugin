@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Empowered Engineers FAQ"
 type: source
-aliases: [cagan-empowered-engineers-faq]
+aliases: [cagan-empowered-engineers-faq, empowered-engineers-faq]
 status: drafting
 tags: [primary-source, svpg, engineers, empowerment, faq]
 role: primary

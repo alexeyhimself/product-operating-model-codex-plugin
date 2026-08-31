@@ -11,7 +11,7 @@ source_url: https://www.youtube.com/watch?v=POFh9tCE51o
 date: 2026-02-19
 related: ["[[transformation]]", "[[strategy-jumpstart]]", "[[pilot-teams]]", "[[transformation-anti-patterns]]"]
 created: 2026-08-30
-updated: 2026-08-30
+updated: 2026-08-31
 ---
 
 # Product Therapy Ep 37 — Coaching Transformations
@@ -59,7 +59,7 @@ Key material:
 - concepts: [[product-operating-model]] (adds Hickman's three-dimensions restatement for general audiences)
 - concepts: [[ai-and-product-teams]] (adds *transformed companies are better equipped to leverage AI*; adds *AI has brought CTOs to the executive table*)
 - concepts: [[team-objectives]] (adds Idiodi's *revenue-is-not-a-project — you need people who wake up every day to solve it* frame)
-- diagnostics: [[transformation-execution-health]] (if the wiki has this — the installation-vs-adoption test; the leadership-intention-vs-team-reality gap; product-leadership-as-management anti-pattern)
+- diagnostics: [[transformation-execution-health]] (built 2026-08-31 — the installation-vs-adoption test; the leadership-intention-vs-team-reality gap; product-leadership-as-management anti-pattern)
 - entities: [[lea-hickman]] (fifth Product Therapy appearance)
 
 ## Notes for the coach

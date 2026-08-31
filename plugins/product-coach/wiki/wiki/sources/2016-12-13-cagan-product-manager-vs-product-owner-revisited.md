@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Product Manager vs. Product Owner Revisited"
 type: source
-aliases: [cagan-product-manager-vs-product-owner-revisited, pm-vs-po-revisited]
+aliases: [cagan-product-manager-vs-product-owner-revisited, pm-vs-po-revisited, product-manager-vs-product-owner-revisited]
 status: drafting
 tags: [primary-source, svpg, pm, product-owner, scrum, anti-pattern]
 role: primary

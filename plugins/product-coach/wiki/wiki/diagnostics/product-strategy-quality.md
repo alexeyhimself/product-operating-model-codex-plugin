@@ -8,12 +8,12 @@ assesses: Whether an organization actually has a product strategy — focused, i
 sources: ["[[transformed]]", "[[2020-02-17-cagan-product-strategy-overview]]", "[[2020-02-18-cagan-product-strategy-focus]]", "[[2020-02-19-cagan-product-strategy-insights]]", "[[2020-02-20-cagan-product-strategy-actions]]", "[[2020-02-21-cagan-product-strategy-management]]", "[[2016-07-16-cagan-vision-vs-strategy]]", "[[2008-06-29-cagan-product-strategy-in-an-agile-world]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2017-07-14-cagan-analyzing-product-strategy]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2020-01-09-cagan-coaching-strategic-context]]"]
 related: ["[[product-strategy]]", "[[principles-of-product-strategy]]", "[[focus]]", "[[powered-by-insights]]", "[[transparency]]", "[[placing-bets]]", "[[product-vision]]", "[[team-objectives]]", "[[product-leadership]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-08-31
 ---
 
 # Product Strategy Quality — Diagnostic
 
-> Assess an organization (not a single team) against the four pillars of strategy canon: **focus → insights → actions → management**, all in service of the [[product-vision]]. Most orgs have a *goal* (e.g. "double revenue") and a *roadmap* (the tactics) but no product strategy at all ([[2016-07-16-cagan-vision-vs-strategy|Cagan]]). Pair with [[leadership-readiness]] — strategy is a leadership artifact, and weak strategy is usually a leadership symptom ([[2023-12-05-cagan-alternatives-to-product-leaders|canon]]).
+> Assess an organization (not a single team) against the four pillars of strategy canon: **focus → insights → actions → management**, all in service of the [[product-vision]]. Most orgs have a *goal* (e.g. "double revenue") and a *roadmap* (the tactics) but no product strategy at all ([[2016-07-16-cagan-vision-vs-strategy|Cagan]]). Pair with [[leadership-readiness]] — strategy is a leadership artifact, and weak strategy is usually a leadership symptom ([[2023-12-05-cagan-alternatives-to-product-leaders|canon]]). Distinct from [[strategy-and-focus-health]] — a faster, symptom-and-roadmap-based companion for the coaching-conversation moment ("we have a prioritization problem"); this page is the deeper, artifact-based org assessment.
 
 ## Why it matters
 Empowered teams need [[2020-01-09-cagan-coaching-strategic-context|strategic context]] (mission, scorecard, objectives, vision, strategy, principles) to make good decisions. Without strategy, the org defaults to feature teams serving stakeholders, OKRs collapse into "ship these features by Friday," and product leadership is reduced to roadmap negotiation ([[2010-08-16-cagan-top-10-reasons-for-weak-product|canon: #1 source of weak product is lack of vision/strategy]]). This diagnostic protects [[focus]], [[powered-by-insights]], [[transparency]], [[placing-bets]], and [[empowered-with-problems-to-solve]].
@@ -73,7 +73,7 @@ A small number (2–3) of *focused* problems the whole org can name. Behind each
 - concepts: [[product-strategy]], [[product-vision]], [[team-objectives]], [[product-principles]], [[empowered-product-teams]]
 - principles: [[focus]], [[powered-by-insights]], [[transparency]], [[placing-bets]]
 - competencies: [[product-leadership]], [[product-manager]]
-- diagnostics: [[leadership-readiness]], [[outcome-vs-output-orientation]], [[feature-team-vs-empowered-team]], [[model-maturity]]
+- diagnostics: [[leadership-readiness]], [[outcome-vs-output-orientation]], [[feature-team-vs-empowered-team]], [[model-maturity]], [[strategy-and-focus-health]]
 
 ## Sources
 - [[2020-02-17-cagan-product-strategy-overview]] — the four-pillar overview (focus, insights, actions, management).

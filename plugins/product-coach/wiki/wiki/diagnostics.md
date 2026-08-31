@@ -4,9 +4,9 @@ type: overview
 aliases: [diagnostics, the-diagnostics, diagnostic-rubrics, assessment-rubrics]
 status: drafting
 tags: [diagnostics, hub, index, coaching, assessment]
-related: ["[[overview]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[CLAUDE]]"]
+related: ["[[overview]]", "[[product-coaching]]", "[[model-as-product-coach]]"]
 created: 2026-06-21
-updated: 2026-07-12
+updated: 2026-08-31
 ---
 
 # Diagnostics
@@ -33,14 +33,16 @@ Diagnostics are scoped — a single PM, a single team, the org as a whole. Match
 | **One team or PM** | "why don't stakeholders trust us?" | [[stakeholder-relationship-health]] |
 | **Whole org / product line** | "is our vision actually doing its job?" | [[vision-quality]] |
 | **Whole org** | "is our strategy real or a stakeholder roadmap?" | [[product-strategy-quality]] |
+| **Whole org** | "is our prioritization problem actually a missing strategy?" | [[strategy-and-focus-health]] |
 | **Whole org** | "are our leaders set up to lead this model?" | [[leadership-readiness]] |
 | **Whole org** | "where are we against the product model overall?" | [[model-maturity]] |
 | **Whole org, before transforming** | "are we even ready to start a transformation?" | [[transformation-readiness]] |
+| **Whole org, transformation underway** | "is our transformation or pilot actually executing well?" | [[transformation-execution-health]] |
 | **The AI-as-coach setup itself** | "is my project-files-and-instructions setup aligned with Cagan's prescription?" | [[model-as-coach-readiness]] |
 
 When unsure of scope, default to **[[model-maturity]]** (org-level, broadest) or **[[feature-team-vs-empowered-team]]** (team-level, most actionable). For pre-transformation conversations, **[[transformation-readiness]]** asks the preconditions question before anything else.
 
-## The 14 built diagnostics
+## The 16 built diagnostics
 *Ordered from most specific scope to broadest.*
 
 - **[[pm-competency]]** — a single product manager's skill across people / process / product. Cagan's PM Assessment: rate each of 13 skills on importance vs. capability; coach the top-three weighted gaps.
@@ -53,9 +55,11 @@ When unsure of scope, default to **[[model-maturity]]** (org-level, broadest) or
 - **[[stakeholder-relationship-health]]** — PM/stakeholder trust as the load-bearing wall under viability. Written-narrative discipline + the mojo moves.
 - **[[vision-quality]]** — is the product vision actually doing its job — inspiring, concrete, 2–5 years out — or a slogan / disguised roadmap / absent?
 - **[[product-strategy-quality]]** — whether the org has a real strategy (focus → insights → action → management), or a stakeholder roadmap dressed up.
+- **[[strategy-and-focus-health]]** — the faster, symptom-based companion: the "prioritization problem" tell, the four roadmap anti-patterns, and the 12-big-rocks pattern.
 - **[[leadership-readiness]]** — whether product leadership delivers the five elements of strategic context and weekly coaching. The three documented failure modes.
 - **[[model-maturity]]** — whole-org rollup against the three transformation dimensions (build / solve / decide). Project model → checkbox transformation → operating in the model → exemplary.
 - **[[transformation-readiness]]** — eight readiness lenses to apply **before** starting (or restarting) a transformation. Distinct from [[model-maturity]] (current state vs. preconditions to changing it).
+- **[[transformation-execution-health]]** — once a transformation or pilot is running, is it executing well or drifting into a named anti-pattern (pilot theater, installation-not-adoption, the loop of transformation failure)?
 - **[[model-as-coach-readiness]]** — is your AI-as-product-coach setup aligned with Cagan's prescription (product-not-project framing, coach stance, strategic context, critique-seeking)?
 
 ## What a good diagnostic does

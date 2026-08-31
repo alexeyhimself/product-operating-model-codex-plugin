@@ -5,9 +5,9 @@ aliases: [overcoming-objections, strongest-objections-to-the-model, objections, 
 status: drafting
 tags: [synthesis, transformation, politics, objections, stakeholders, executives, change-management]
 sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]"]
-related: ["[[transformation]]", "[[transformation-politics]]", "[[pilot-teams]]", "[[stakeholder-relationship-health]]", "[[product-leadership]]", "[[product-manager]]", "[[product-marketing]]", "[[high-integrity-commitments]]", "[[team-objectives]]", "[[time-to-money]]", "[[outcomes-over-output]]", "[[empowered-engineers]]", "[[product-strategy]]", "[[product-vision]]", "[[team-topology]]", "[[delivery-manager]]", "[[product-ops]]"]
+related: ["[[transformation]]", "[[transformation-politics]]", "[[pilot-teams]]", "[[stakeholder-relationship-health]]", "[[product-leadership]]", "[[product-manager]]", "[[product-marketing]]", "[[high-integrity-commitments]]", "[[team-objectives]]", "[[time-to-money]]", "[[outcomes-over-output]]", "[[empowered-engineers]]", "[[product-strategy]]", "[[product-vision]]", "[[team-topology]]", "[[delivery-manager]]", "[[product-ops]]", "[[psychological-safety]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-08-31
 ---
 
 # Overcoming Objections to the Product Model
@@ -226,7 +226,7 @@ The largest chapter in Part X — objections from within product management, pro
 - **"Crushing tech debt."** Senior leaders + executives; recovery plans; specialty firms; typically 1–2 years to get back on track. Painful. Many companies don't survive it.
 - **"No time to test risks."** [[time-to-money|Time to money]] beats time to market. Prototypes in hours-to-days beat products in weeks-to-months of build-then-discover-it-was-wrong. Often the first hours of discovery reveal an idea isn't worth building — the biggest savings there is.
 - **"Discovery/delivery imbalance."** Temporary a week or two — normal. Sustained — usually a staffing issue: discovery-can't-keep-up → too many engineers; delivery-can't-keep-up (backlog piling up) → too few engineers.
-- **"Remote-team struggles."** In-person time ~1×/quarter (duration + frequency matter more than location). Increase 1:1 coaching cadence — twice-weekly 30-min for people struggling.
+- **"Remote-team struggles."** Named diagnostic: *"work is taking an unusually long time; team members don't feel included; [[psychological-safety|psychological safety]] is dropping."* Remedies: in-person time ~1×/quarter (duration + frequency matter more than location); increase 1:1 coaching cadence — twice-weekly 30-min for people struggling.
 - **"Engineering leader keeps moving people between teams."** Sometimes a leader who doesn't get durability. More often a **team topology** problem — teams scoped too narrowly. Fix: fewer, larger teams with broader charters; teams themselves route work around, not the leader routing people.
 - **"Where do POs and BAs fit?"** *"The short answer is that they don't."* Product owner is a **role, not a job** — covered by the PM. Business analyst responsibilities move partially to PMs and partially to product designers.
 
@@ -242,7 +242,7 @@ The largest chapter in Part X — objections from within product management, pro
 
 ## Related
 
-- concepts: [[transformation]], [[transformation-politics]], [[transformation-as-a-project]], [[stakeholder-relationship-health]] (the trust discipline), [[time-to-money]], [[outcomes-over-output]], [[empowered-product-teams]], [[missionaries-vs-mercenaries]], [[team-topology]], [[strategic-context]]
+- concepts: [[transformation]], [[transformation-politics]], [[transformation-as-a-project]], [[stakeholder-relationship-health]] (the trust discipline), [[time-to-money]], [[outcomes-over-output]], [[empowered-product-teams]], [[missionaries-vs-mercenaries]], [[team-topology]], [[strategic-context]], [[psychological-safety]] (the remote-team diagnostic)
 - competencies: [[product-leadership]], [[product-manager]], [[product-marketing]], [[delivery-manager]], [[engineers]], [[product-ops]], [[product-coach]]
 - frameworks: [[pilot-teams]], [[high-integrity-commitments]], [[coaching-the-pm]], [[okrs]], [[hiring-and-onboarding]], [[opportunity-assessment]]
 - diagnostics: [[stakeholder-relationship-health]], [[transformation-readiness]], [[model-maturity]], [[leadership-readiness]], [[feature-team-vs-empowered-team]]

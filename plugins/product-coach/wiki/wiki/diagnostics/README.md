@@ -11,8 +11,10 @@ This folder is the engine of agents asked to coach. Each page is a diagnostic: a
 - [[delivery-health]] — small, frequent, instrumented, reversible releases — or fighting big-bang.
 - [[stakeholder-relationship-health]] — PM/stakeholder trust as the load-bearing wall under viability.
 - [[product-strategy-quality]] — whether the org has a real strategy (focus → insights → action → management).
+- [[strategy-and-focus-health]] — the "prioritization problem" tell, the four roadmap anti-patterns, the 12-big-rocks pattern.
 - [[leadership-readiness]] — whether product leadership delivers strategic context and active coaching.
 - [[model-maturity]] — whole-org maturity against the three transformation dimensions (build / solve / decide).
+- [[transformation-execution-health]] — once a transformation or pilot is running, is it executing well or drifting into a named anti-pattern.
 - [[team-collaboration-health]] — does a team's PM/designer/Tech Lead trio actually collaborate, distinct from whether it's empowered at all.
 - [[vision-quality]] — is the product vision inspiring, concrete, and 2–5 years out — or a slogan / disguised roadmap / absent.
 - [[engineering-empowerment]] — are engineers given the problem and trusted to help solve it, or treated as a build resource.

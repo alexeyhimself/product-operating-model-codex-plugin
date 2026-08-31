@@ -7,12 +7,14 @@ tags: [ethics, viability, ai, psychological-safety, diversity, product-manager, 
 sources: ["[[2024-06-27-idiodi-moore-coaching-ethics]]", "[[transformed]]", "[[the-four-big-risks]]"]
 related: ["[[the-four-big-risks]]", "[[cross-functional-partnering]]", "[[coaching-mindset]]", "[[trust-over-control]]", "[[product-manager]]", "[[product-leadership]]", "[[christian-idiodi]]", "[[jon-moore]]"]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-08-31
 ---
 
 # Product Ethics
 
 > **Product ethics** = the discipline of asking, on every substantive product decision, *should we build this?* — separate from *can we*, *will they use it*, *will they buy it*, and *does it work for our business.* From [[jon-moore|Jon Moore]] and [[christian-idiodi|Christian Idiodi]] on *Product Therapy* Ep 5: ethics functions as an **emerging fifth risk** alongside value, usability, feasibility, and [[the-four-big-risks|viability]] — overlapping most with viability, but not reducible to it. *"Just because we can build something doesn't mean that we should build it."*
+
+**Canon note — this page keeps Moore's own language.** [[jon-moore|Moore]] and [[christian-idiodi|Idiodi]] call ethics an *"emerging fifth risk"* in this podcast conversation — a coaching-context framing, not *TRANSFORMED*'s book canon. Cagan's canonical position, documented on [[the-four-big-risks]], keeps the model to **four** risks (value, usability, feasibility, viability), with ethics folded inside viability: *"ethical risk is part of business viability risk."* This page doesn't resolve that by picking a winner — it keeps Moore's "not reducible to viability" language because that's what he actually said, and because the practical discipline is the same either way: whether or not ethics is a *named* fifth risk, the work is asking "should we build this?" as a separate question from "can we/will they/does it pay off." When coaching an SVPG-canon-oriented team, use [[the-four-big-risks|the four-risks-with-ethics-inside-viability]] framing; when working from this podcast's material directly, Moore's own "fifth risk" language is fine to use as-is.
 
 ## Why it matters
 Ethics failures rarely arrive as one big dramatic decision — they accumulate through **small decisions made over time**, each of which felt inconsequential in isolation ([Radhika Dutt](https://www.linkedin.com/in/radhika-dutt/) on *radical ethics*, quoted in Ep 5). Moore's core commercial argument: **good ethics is good business.** When you get an ethics call wrong, the downstream consequences — regulation, lawsuits, brand damage, customer trust destruction — dwarf whatever you gained by shipping the questionable thing. The European wave of social-media regulation, and the (as of Ep 5) live discussion of banning smartphones for under-16s, are Moore's evidence that markets and states *do* eventually reprice ethical debts.
@@ -50,7 +52,7 @@ The last question is the fastest personal test. If you'd be embarrassed to have 
 _Agent prompt: on the last non-trivial decision this team shipped, who asked "should we build this?" — and did the answer come from a psychologically safe conversation with the team? Where in the org (leaders and PMs both) is the ethics question systematically not being asked? What blind spots would a more diverse room have caught earlier?_
 
 ## Related
-- [[the-four-big-risks]] — ethics operates as an emerging fifth risk, mostly overlapping viability but not reducible to it.
+- [[the-four-big-risks]] — canon keeps four risks with ethics folded inside viability; this page's "fifth risk" language is Moore's own framing from the podcast, not book canon (see the canon note above).
 - [[cross-functional-partnering]] — psychological safety and diverse-perspectives are cross-functional pre-conditions.
 - [[coaching-mindset]] — the leader mindset that makes ethics conversations possible.
 - [[trust-over-control]] — the underlying leadership behavior; ethics can't be commanded, only trusted-into.

@@ -9,7 +9,7 @@ author: Marty Cagan
 medium: article
 source_url: https://www.svpg.com/product-coaching-and-ai/
 date: 2026-02-04
-related: ["[[marty-cagan]]", "[[svpg]]", "[[model-as-product-coach]]", "[[product-coaching]]", "[[model-as-coach-readiness]]", "[[ai-and-product-teams]]", "[[product-sense]]", "[[strategic-context]]", "[[coaching-strategic-context]]", "[[product-management-theater]]", "[[transformation-politics]]", "[[trust-over-control]]", "[[chris-jones]]", "[[christian-idiodi]]", "[[thomas-fredell]]", "[[marcus-castenfors]]", "[[elias-lieberich]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[overview]]"]
+related: ["[[marty-cagan]]", "[[svpg]]", "[[model-as-product-coach]]", "[[product-coaching]]", "[[model-as-coach-readiness]]", "[[ai-and-product-teams]]", "[[product-sense]]", "[[strategic-context]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[product-management-theater]]", "[[transformation-politics]]", "[[trust-over-control]]", "[[chris-jones]]", "[[christian-idiodi]]", "[[thomas-fredell]]", "[[marcus-castenfors]]", "[[elias-lieberich]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[overview]]"]
 created: 2026-06-14
 updated: 2026-08-30
 ---

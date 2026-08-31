@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Big Bang Releases"
 type: source
-aliases: [cagan-big-bang-releases]
+aliases: [cagan-big-bang-releases, big-bang-releases]
 status: drafting
 tags: [primary-source, svpg, delivery, anti-pattern, big-bang]
 role: primary

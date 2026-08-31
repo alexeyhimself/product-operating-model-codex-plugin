@@ -1,7 +1,7 @@
 ---
 title: "Cagan — The Greatest Coach"
 type: source
-aliases: [cagan-the-greatest-coach, bill-campbell-article]
+aliases: [cagan-the-greatest-coach, bill-campbell-article, greatest-coach]
 status: drafting
 tags: [primary-source, svpg, coaching, bill-campbell, leadership-development]
 role: primary

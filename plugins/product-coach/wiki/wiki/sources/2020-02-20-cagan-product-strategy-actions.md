@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Product Strategy: Actions"
 type: source
-aliases: [cagan-product-strategy-actions]
+aliases: [cagan-product-strategy-actions, product-strategy-actions]
 status: drafting
 tags: [primary-source, svpg, strategy, actions, okrs, team-objectives]
 role: primary

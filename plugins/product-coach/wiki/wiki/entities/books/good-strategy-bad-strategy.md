@@ -2,7 +2,7 @@
 title: "Good Strategy Bad Strategy"
 type: book
 aliases: [good-strategy-bad-strategy, rumelt]
-status: stub
+status: drafting
 tags: [book, recommended, strategy]
 author: Richard Rumelt
 year: 2011
@@ -12,7 +12,7 @@ recommended_in: ["[[2020-02-22-cagan-product-strategy-the-missing-link]]"]
 topics: [product-strategy, focus, leadership]
 related: ["[[recommended-library]]", "[[product-strategy]]", "[[focus]]", "[[the-art-of-action]]"]
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-08-31
 ---
 
 # Good Strategy Bad Strategy

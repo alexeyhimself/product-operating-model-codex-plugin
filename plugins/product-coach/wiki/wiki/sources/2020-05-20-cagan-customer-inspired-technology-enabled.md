@@ -1,7 +1,7 @@
 ---
 title: "Cagan — Customer Inspired, Technology Enabled"
 type: source
-aliases: [cagan-customer-inspired-technology-enabled]
+aliases: [cagan-customer-inspired-technology-enabled, customer-inspired-technology-enabled]
 status: drafting
 tags: [primary-source, svpg, video, talk, empowered-engineers, discovery]
 role: primary

@@ -5,9 +5,9 @@ aliases: [pilot-teams, pilot-team, transformation-pilot, product-pilot]
 status: drafting
 tags: [framework, transformation, pilot, risk-mitigation, change-management]
 sources: ["[[transformed]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2022-05-31-moore-transformation-defined]]"]
-related: ["[[transformation]]", "[[transformation-politics]]", "[[transformation-as-a-project]]", "[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[product-leadership]]", "[[model-maturity]]"]
+related: ["[[transformation]]", "[[transformation-politics]]", "[[transformation-as-a-project]]", "[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[product-leadership]]", "[[model-maturity]]", "[[transformation-execution-health]]"]
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-08-31
 ---
 
 # Pilot Teams
@@ -70,7 +70,7 @@ Pilot teams are the **political mechanism** of transformation. They:
 ## Related
 - concepts: [[transformation]], [[transformation-politics]], [[transformation-as-a-project]], [[empowered-product-teams]], [[outcomes-over-output]]
 - competencies: [[the-product-team-trio]], [[product-leadership]], [[product-coach]]
-- diagnostics: [[model-maturity]], [[transformation-readiness]], [[stakeholder-relationship-health]]
+- diagnostics: [[model-maturity]], [[transformation-readiness]], [[transformation-execution-health]], [[stakeholder-relationship-health]]
 - frameworks: [[high-integrity-commitments]]
 
 ## Sources

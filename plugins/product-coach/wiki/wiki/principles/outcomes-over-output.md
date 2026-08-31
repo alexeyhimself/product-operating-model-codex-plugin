@@ -9,7 +9,7 @@ order: 2
 sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]"]
 related: ["[[empowered-with-problems-to-solve]]", "[[team-objectives]]", "[[innovation-over-predictability]]", "[[time-to-money]]", "[[principles-of-product-teams]]", "[[okrs]]", "[[the-point-is-outcomes]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-06-14
-updated: 2026-07-12
+updated: 2026-08-31
 ---
 
 # Outcomes over Output
@@ -34,7 +34,7 @@ Output theater: success measured in story points, releases, and "% of roadmap de
 - **Define a clear problem *before* the metric.** Don't let existing metrics dictate which problems to solve; most measurement/alignment struggles are really *clarity* struggles.
 - **KPIs ≠ outcomes.** A business has hundreds of KPIs; only a few truly measure a given outcome (the gas-gauge-vs-miles-per-gallon analogy). Define new KPIs and add **telemetry** where needed.
 - **Product outcomes → business outcomes → impact.** Team-level *product outcomes* (Torres) roll up like dominoes into *business outcomes* and top-level *impact* (Patton's outputs/outcomes/impact). Revenue and profit are usually the *end-result* of many smaller outcomes.
-- **Not everything is an outcome** — [[team-objectives|keep-the-lights-on]] work still exists.
+- **Not everything is an outcome** — [[keep-the-lights-on]] work still exists.
 
 ## The Torres taxonomy (CDH Ch 3)
 [[teresa-torres|Torres]] operationalizes outcomes with a three-tier taxonomy in [[continuous-discovery-habits|CDH]] Ch 3 — useful when coaching a team that's been handed the wrong altitude of metric:
