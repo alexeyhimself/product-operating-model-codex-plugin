@@ -20,7 +20,7 @@ Catalog of every page in the wiki, by category. **The coach reads this first whe
 | [Case studies](#case-studies) | 12 | Public exemplars from SVPG canon (Amazon, Spotify, Google, Apple + 7 from *TRANSFORMED* + Palace Resorts hospitality transformation). Org-agnostic. |
 | [Synthesis](#synthesis) | 6 | Cross-cutting essays: the-point-is-outcomes, overcoming-objections, POM vs Agile/SAFe/Lean/Design-Thinking, evolving thesis, product-myths. |
 | [Resources](#resources-trusted-recommendations) | 1 | Recommendation engine mapping problems → SVPG-endorsed books/videos. |
-| [Sources](wiki/sources/INDEX.md) | 59 → | Moved to its own file to keep this catalog scan-cheap; open only for provenance ("where does X come from?"). |
+| [Sources](wiki/sources/INDEX.md) | 32 / 228 | Moved to its own file to keep this catalog scan-cheap — 32 grouped topic bundles covering 228 individual source cards; open only for provenance ("where does X come from?"). |
 | [Entities — People](#entities--people) | 26 | Cagan, Moore, Jones, Idiodi, Hickman, Lauchengco, Torres, Patton, Campbell, Leto, Cullen, Fredell + 6 new Batch-3 externals (Shreyas Doshi, Gabrielle Bufrem, Anuar Chapur, Elias Lieberich, Marcus Castenfors, Mike Fisher) + the 7 *TRANSFORMED* Ch 34 coaches. |
 | [Entities — Books](#entities--books) | 18 | The 4 SVPG core (INSPIRED · EMPOWERED · TRANSFORMED · LOVED) + 13 recommended-reading titles + Leto's *Hiring Product Managers* stub. |
 | [Entities — Organizations](#entities--organizations) | 15 | SVPG + 14 named orgs — SVPG-article exemplars (Amazon, Apple, Google, Spotify); *TRANSFORMED* case-study orgs (Almosafer, CarMax, Trainline, Gympass, Datasite, Kaiser Permanente); Palace Company (hospitality exemplar); Learning Loop (Toxboe's discovery-technique publisher, supporting/non-SVPG); Product Matters (Elias Lieberich's coaching company, external); Workiva (Cagan-coached precedent mentioned via Datasite). |
@@ -203,7 +203,7 @@ Catalog of every page in the wiki, by category. **The coach reads this first whe
 - [[recommended-library]] — 📝 the coach's recommendation engine: SVPG/Cagan-recommended **books + videos** mapped to problems/topics.
 
 ## Sources
-> Moved out of the root catalog to keep this file scan-cheap. **31 grouped source entries** (SVPG canon articles + books + videos + podcasts, primary-adjacent Torres, supporting explainers) covering **200+ individual source cards** — each with the wiki pages it backs — now live in [`wiki/sources/INDEX.md`](wiki/sources/INDEX.md). Read that file only when you need provenance for a claim (*"where does X come from?"*); for topic lookup, stay in this catalog.
+> Moved out of the root catalog to keep this file scan-cheap. **32 grouped source entries** (SVPG canon articles + books + videos + podcasts, primary-adjacent Torres, supporting explainers) covering **228 individual source cards** — each with the wiki pages it backs — now live in [`wiki/sources/INDEX.md`](wiki/sources/INDEX.md). Read that file only when you need provenance for a claim (*"where does X come from?"*); for topic lookup, stay in this catalog.
 
 
 ## Entities — People
