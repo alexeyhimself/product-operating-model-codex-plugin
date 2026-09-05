@@ -4,10 +4,10 @@ type: framework
 aliases: [high-integrity-commitments, hi-commitments, managing-commitments-in-agile]
 status: drafting
 tags: [framework, commitments, dates, agile, discovery]
-sources: ["[[transformed]]", "[[2012-12-15-cagan-high-integrity-commitments]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2020-03-04-cagan-team-objectives-commitments]]"]
+sources: ["[[transformed]]", "[[2012-12-15-cagan-high-integrity-commitments]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]"]
 related: ["[[time-to-money]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[delivery-manager]]", "[[product-manager]]", "[[okrs]]", "[[team-objectives]]"]
 created: 2026-06-21
-updated: 2026-07-04
+updated: 2026-09-05
 ---
 
 # High-Integrity Commitments
@@ -51,7 +51,19 @@ updated: 2026-07-04
 
 ## Sources
 - [[2012-12-15-cagan-high-integrity-commitments]] — root canon for the framework.
+- [[2025-12-01-jones-cagan-stakeholders-and-the-product-model]] — the stakeholder-facing framing: a trustworthy date, earned with some discovery first, used sparingly.
 - [[2020-03-04-cagan-team-objectives-commitments]] — the high-integrity commitment inside the OKR / [[team-objectives]] system (binary; tracked separately from KRs; CTO sign-off; the exception not the rule).
 - [[2015-09-07-cagan-the-alternative-to-roadmaps]] — high-integrity commitments as the alternative to date-driven roadmaps.
 - [[2022-09-17-moore-changing-how-you-build]] — the Build dimension's three reasons for small/frequent/reliable releases (which is what makes commitments honorable).
 - [[transformed]] — root source.
+
+## A worked example under an immovable external date
+
+[[guardian-eyewitness|The Guardian's *eyewitness* app]] is the cleanest small illustration in the wiki, and Cagan names the technique explicitly while telling it ([[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]]):
+
+Apple offered a five-person Guardian team the iPad launch — seven weeks, an unreleased SDK, no hardware for the first fortnight — and needed to know whether they were submitting at all. Rather than committing on optimism or declining on caution, the team **analysed the SDK and did quick prototyping first**, and only then gave Apple an answer. *"That's called a high-integrity commitment."*
+
+Two things make it instructive. The commitment was to a **date and a submission**, not to a feature set — the actual product (news told through the paper's under-used photography, with a daily editorial and sponsorship operation behind it) was discovered afterwards. And the discovery that preceded the commitment was cheap and fast: enough to know the thing was feasible, not enough to know what it would be.
+
+## Sources (addition)
+- [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan, ProductTank Oslo (Apr 2022); see [[guardian-eyewitness]] for the full story.

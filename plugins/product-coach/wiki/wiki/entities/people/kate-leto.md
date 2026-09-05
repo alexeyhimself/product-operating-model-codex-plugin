@@ -8,7 +8,7 @@ role: Executive coach; author
 org: Independent
 related: ["[[psychological-safety]]", "[[product-career-development]]", "[[coaching-mindset]]", "[[trust-over-control]]", "[[hiring-product-managers]]"]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-05
 ---
 
 # Kate Leto
@@ -27,6 +27,16 @@ updated: 2026-08-29
 - Product Therapy podcast — two episodes as guest:
   - [[2025-06-12-idiodi-leto-coaching-psychological-safety|Ep 22 — Coaching Psychological Safety]] (June 2025) · the primary root for [[psychological-safety]].
   - Referenced (not carded as her own episode) on [[2024-10-24-idiodi-moore-coaching-career-advice|Ep 9 — Coaching Career Advice]] via Moore's citation of her human-skills reframe on [[product-career-development]].
+
+## Sources ingested
+
+- [[2025-03-20-idiodi-leto-coaching-emotional-intelligence]] — SVPG *Product Therapy*, *Coaching Emotional Intelligence* (Mar 2025), with [[christian-idiodi|Idiodi]]. **Root source for [[emotional-intelligence]]**: Goleman's four competencies, her **inner game / outer game** framing, the **self-awareness trilogy** and its three exercises (daily what-framed reflection · trusted critic · observational feedback), **growth partners**, and the AI-era argument for EQ.
+- [[2025-06-12-idiodi-leto-coaching-psychological-safety]] — *Product Therapy* (Jun 2025); the team-level companion. Backs [[psychological-safety]].
+- [[hiring-product-managers]] — *Hiring Product Managers: Using EQ to go beyond culture and skill*.
+
+## Her framing, in one line
+
+**"Human skills", not "soft skills"** — a relabelling the wiki has adopted. Her reasons: the hard/soft split comes from military training vocabulary; "soft" implies optional and secondary; and the field is broader than any one framework, taking in resilience and creativity as outcomes of emotional intelligence rather than separate categories. [[christian-idiodi|Idiodi]] credits her for the reframe and now uses it himself.
 
 ## Related
 - [[psychological-safety]] — Leto's primary concept contribution

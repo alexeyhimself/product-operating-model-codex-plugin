@@ -7,7 +7,7 @@ tags: [framework, discovery, product-marketing, sales, reference-customers, go-t
 sources: ["[[transformed]]", "[[inspired]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
 related: ["[[product-marketing]]", "[[cross-functional-partnering]]", "[[product-discovery]]", "[[product-manager]]", "[[stakeholder-relationship-health]]", "[[overcoming-objections]]", "[[amazon-prime]]", "[[trainline-transformation]]", "[[datasite-transformation]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Reference Customer Program
@@ -55,6 +55,26 @@ The program becomes the shared object of trust between product, product marketin
 ## Reality check — the program as an early demand signal
 Cagan's line ([[inspired|INSPIRED]] Ch 15): if you can't recruit charter users, "it's very likely you are chasing a problem that isn't that important, and you will probably have a very hard time selling this product." Recruitment difficulty is one of the **earliest and cheapest** signals that the [[opportunity-assessment|opportunity]] is weaker than it looked — treat it as a discovery result, not an obstacle to work around.
 
+## Idiodi's version — references as the definition of product-market fit
+
+[[christian-idiodi|Idiodi]] on [[2023-12-21-idiodi-essence-of-product-management-lennys|Lenny's Podcast]], asked which single discovery technique he would keep if he could keep only one, answers: **this one.** *"The holy grail of product work is really a reference customer."* His version differs from the [[inspired|INSPIRED]] Ch 15 mechanics in emphasis rather than substance, and is worth carrying because it turns the program into a **[[market-fit|product-market fit]] test with a number on it**.
+
+**The numbers he works to.** *"For B2B I want **six to eight** references; for B2C, **fifteen to twenty-five**, as an indication that we've achieved product-market fit."* The B2B figure matches Cagan's ~6. The consumer figure is higher than [[inspired|INSPIRED]]'s 10–15 and Idiodi is explicit about why: consumer adoption is driven by social proof, and he treats the count as a threshold rather than a working-group size. His own practice: *"on the day I launch the app in the app store, there are 25 five-star reviews. I will never launch an app and hope somebody loves it."* If he has to work with 30 or 50 people to end up with 25 who will genuinely vouch, he does.
+
+**The definition of "reference" he uses is behavioural, not attitudinal.** Not *are you satisfied* — **are you willing to put your reputation on the line and tell other people about this?** The hesitation you get when you actually ask someone to write the review is where the real discovery happens: *"people will say or do anything just to avoid hurting our feelings. But when I say do it, you're like — well, I have this hesitation. Why?"*
+
+**The technique in his framing** — two discoveries running at once:
+1. **Discover and develop who has the problem** (the customer), and
+2. **Discover and deliver a solution to that problem** — with the same people, without leaving.
+
+*"Get out of your building, get out of your assumptions, get out of your opinions. Immerse yourself, find someone who has the problem, stick with them until you discover a solution."* He calls it a pressure-cooked form of discovery, and his analogy is COVID-vaccine trial recruitment: the research was fast partly because the researchers were *immersed in the environment of the problem* — nobody had to go looking for someone with the disease.
+
+**The constraint that produces the minimum viable product, and it is a hard one:** *"All 25 have to want the same thing. If one person's out, you just don't do it at all."* That is how he arrives at the smallest thing worth building — and it is also the answer to the late feature request: *"well, 25 people that look like you are very happy without it."*
+
+**The under-appreciated by-product: the marketing copy writes itself.** *"I only market exactly what customers tell me. I have never been surprised about what customers will say when I release a product."* Whatever the references said about the product goes on the box — because the expectations customers arrive with are set by what is on the box, and mismatches between the two are self-inflicted. He gives the counter-example of shipping something honestly labelled *super fast but difficult to read*, and users reporting back exactly that. Also gives sales, legal, finance and marketing a way in early. See [[messaging]] and [[cross-functional-partnering]].
+
+**Why the discipline loses influence without this.** Idiodi's structural argument: almost all companies start product-led — the product team creates the first customers, and then sales, marketing and operations are hired to *capture* the value that was created. When product stops producing reference customers, salespeople are left selling a product on their own credibility, and they push back with demands. *"Product teams feel that contract to an organisation when they don't create powerful reference customers."* This is the same diagnosis Cagan gives in [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo|ProductTank Oslo]] — sales-driven product is a symptom of a weak product organisation, and reference customers are the cure, *"chapter 39 in INSPIRED"*.
+
 ## Anti-patterns
 - **Too many participants.** Sales will lean on you to accept everyone who asks. Cap at ~10. Consider running a separate *early-release program* for those who just want the software early but aren't right for charter status.
 - **Prepaying customers.** Turns partners into custom-work buyers; you now owe features, not learning.
@@ -83,3 +103,6 @@ _Field note placeholder — for a live product effort: do you have 6–8 named t
 - [[inspired]] — Ch 15 "Charter User Programs" (1st ed, 2008) is the book-form origin: the mechanics, the two-sided deal, the non-negotiables, the platform variant, and the "can't recruit = no market" reality check.
 - [[transformed]] — Ch 23 "Partnering with Product Marketing" is the modern canon: the program renamed to the **Customer Discovery Program**, situated as one of the eight PM ↔ PMM collaboration areas.
 - [[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]] — the *reference-customer program* named as a discovery style alongside continuous discovery and dual-track.
+
+- [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Idiodi, Lenny's Podcast (Dec 2023). The B2B 6–8 / B2C 15–25 thresholds as a product-market-fit definition; references as reputational commitment; the all-25-must-want-the-same-thing constraint; marketing copy taken verbatim; the Snagajob/Starbucks/McDonald's worked story (told as his own career work, not as an SVPG case study).
+- [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan (Apr 2022); reference customers named from the stage as the fix for sales-driven product, citing *INSPIRED* Ch 39.

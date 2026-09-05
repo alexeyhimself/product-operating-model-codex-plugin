@@ -96,6 +96,6 @@ _Agent prompt: which of the six strategy themes drives your current product-GTM 
 
 ## Sources
 - [[loved]] Ch 4 — root source; Pocket 5.0 / Pocket Matters worked example; the Key Terms disambiguation; the six GTM models; the eight starter questions; the six strategy themes; the maturity arc. Deep-read in LOVED Pass 1 (2026-07-12).
-- [[loved]] Chs 14–20 (Part Three) — deeper treatment of Strategist tools; not yet ingested (LOVED Pass 3 planned).
+- [[loved]] Chs 14–20 (Part Three — Strategist: Guardrails and Levers) — deep-read in LOVED Pass 3a (2026-07-12); grounded new pages [[technology-adoption-life-cycle]] (Ch 15), [[brand-lever]] (Ch 16), [[pricing-lever]] (Ch 17), [[one-sheet-gtm-canvas]] (Ch 19) — see the *Deep pass — Part Three* section of [[loved]].
 - [[transformed]] Ch 23 — the PM-side view of the same PM ↔ PMM partnership; product-go-to-market as *"arguably the most important area of collaboration."*
 - [[martina-lauchengco]] — author.

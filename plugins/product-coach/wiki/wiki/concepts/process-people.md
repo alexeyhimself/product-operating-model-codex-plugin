@@ -4,10 +4,10 @@ type: concept
 aliases: [process-people, third-contributor-type, makers-managers-process-people]
 status: drafting
 tags: [scaling, process, product-ops, product-owner, scrum-master, culture]
-sources: ["[[2021-10-28-cagan-process-people]]", "[[2018-07-26-cagan-tools-and-processes]]", "[[2021-12-20-cagan-product-ops-overview]]", "[[2018-06-30-cagan-revenge-of-the-pmo]]", "[[transformed]]", "[[empowered]]"]
+sources: ["[[2021-10-28-cagan-process-people]]", "[[2018-07-26-cagan-tools-and-processes]]", "[[2021-12-20-cagan-product-ops-overview]]", "[[2018-06-30-cagan-revenge-of-the-pmo]]", "[[transformed]]", "[[empowered]]", "[[2021-06-10-cagan-the-cspo-pathology]]"]
 related: ["[[principles-over-process]]", "[[product-ops]]", "[[product-manager]]", "[[product-leadership]]", "[[empowered-product-teams]]", "[[missionaries-vs-mercenaries]]", "[[coaching-vs-contracting]]", "[[transformation-as-a-project]]"]
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-05
 ---
 
 # Process People
@@ -31,7 +31,7 @@ Every process person is a **choice not to fund another engineer, designer, or PM
 | **Process people** | *The process itself* — not the makers, not the product | Product Owner (Scrum), Scrum Master, Six Sigma Black Belt, one common definition of [[product-ops|product ops]] |
 
 ### Where the PM sits (and why it's tricky)
-On a **feature team**, the PM is much more of a *manager* type — stakeholder manager, project manager, roadmap-tallier — closer to a process role. On an **empowered team**, the PM is a **maker** (a less pure maker than an engineer or designer, but a maker). This is why the CSPO pathology hurts: a process role (Product Owner) is asked to cover a product job (PM). See [[product-manager]] and [[feature-teams-vs-product-teams]].
+On a **feature team**, the PM is much more of a *manager* type — stakeholder manager, project manager, roadmap-tallier — closer to a process role. On an **empowered team**, the PM is a **maker** (a less pure maker than an engineer or designer, but a maker). This is why the CSPO pathology hurts: a process role (Product Owner) is asked to cover a product job (PM). See [[2021-06-10-cagan-the-cspo-pathology|The CSPO Pathology (2021)]] — Cagan's root treatment — and [[product-manager]] · [[feature-teams-vs-product-teams]].
 
 ### Why hiring process people usually causes harm
 Cagan's four reasons (from [[2021-10-28-cagan-process-people|the source]]):
@@ -53,6 +53,24 @@ The six models Cagan catalogues in [[2021-12-20-cagan-product-ops-overview|Produ
 - Models **#1 (Reincarnated PMO)**, **#2 (Two-in-a-Box PM)**, and **#3 (Delegated Product Leader)** — process-people patterns.
 - Model **#6 (Force Multiplier)** — the escape hatch: staffed with your *best experienced makers/managers* in a support role. **A force multiplier is not a process person** — they are a maker/manager whose job is to raise the bar.
 
+## Process as comfort — why it is attractive, not just imposed (Jones · Cagan)
+
+The wiki's existing treatment explains why process people cause harm structurally. Two 2022–2024 talks add the *demand-side* explanation — why the people subject to process often want it.
+
+**[[chris-jones|Jones]] ([[2024-04-03-jones-moving-to-the-product-operating-model-product-people]]), and this is the sharpest version:**
+
+> *"Process is comforting, because it basically means you are absolved of having judgment. You can say: I know this product didn't work, our customers didn't adopt it — but I did my job, I followed the process. If it failed it was because somebody asked me to do this thing in the first place."*
+
+He flags it as especially true for people early in their career who have not yet found their own voice or confidence. The model breaks down exactly there, because **it succeeds only when people keep their judgment front and centre** — a process may support them, but it never substitutes. His companion warning: *"you've lost the game if the people in the organization are saying, well, the process says I need to do this."*
+
+**Cagan ([[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]])** puts the same point at company scale, with the two-forks framing:
+
+> There are only two ways companies scale — **with process, or with leaders.** Every good product company he knows scales with leaders.
+
+And the corollary that the wiki should not lose: an empowered organisation does **not** need less leadership. *"You don't need less leadership, you need better leadership — it's harder to be a leader of an empowered organization."* He names the misunderstanding directly, and attributes much of it to Agile coaches telling managers to back off and give people space.
+
+**Tools as the back door.** Cagan's practical addition: tools typically dictate specific processes, and are a sneaky way for a process to arrive uninvited. A roadmap tool that mostly counts how many people requested each feature is teaching the exact opposite of how good teams prioritise; an OKR tool encodes one of several very different ways of doing OKRs. *"If the way that tool prescribes is not how you think you should work, that tool is going to do way more damage than good."* Compare [[2018-07-26-cagan-tools-and-processes]], and Jones's independently-arrived-at tool agnosticism: *"you've lost the game if it becomes about the tool."*
+
 ## Anti-patterns & misunderstandings
 - **"Process is bad."** Not the claim. Cagan quotes Bezos: *"Good process serves you so you can serve customers. But if you're not watchful, the process can become the thing."* The concept is about being watchful, not abolitionist.
 - **"Every Scrum Master / PO is a process person."** The *role definition* is a process role. Whether it does net harm depends on why the org hired the person and what the manager is (or isn't) doing.
@@ -73,4 +91,8 @@ _Field note placeholder — count your makers, managers, and process people. Wha
 - [[2018-07-26-cagan-tools-and-processes]] — the *no-one-right-way* argument the "Process People" essay explicitly cites for its fourth reason; every tool/method embeds a belief system.
 - [[2021-12-20-cagan-product-ops-overview]] — the six product-ops models are the 2021 manifestations of the general phenomenon.
 - [[2018-06-30-cagan-revenge-of-the-pmo]] — the deep-dive on the PMO/SAFe strand that is *the* archetypal process-people pattern in enterprise IT.
+- [[2021-06-10-cagan-the-cspo-pathology]] — the CSPO pathology as the paradigmatic case of a process role (product owner) being asked to cover a product job (PM); Cagan's regional-pattern origin cite (PO problem concentrated outside the US).
 - [[transformed]], [[empowered]] — root sources: how to scale with **leaders**, the alternative.
+
+- [[2024-04-03-jones-moving-to-the-product-operating-model-product-people]] — Jones (Apr 2024); process-as-absolution-from-judgment; tool agnosticism.
+- [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan (Apr 2022); scaling with process vs. with leaders; empowered orgs need *better* leadership, not less; tools as the back door for process; the SAFe critique and the SAFe-coach anecdote.

@@ -8,7 +8,7 @@ role: Product coach and author; originator of user story mapping
 org: (independent)
 related: ["[[build-to-learn-vs-build-to-earn]]", "[[product-discovery]]", "[[prototypes]]", "[[marty-cagan]]"]
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-09-05
 ---
 
 # Jeff Patton
@@ -18,7 +18,7 @@ updated: 2026-07-03
 ## Contributions & positions
 - **"Build to learn vs build to earn."** Patton's phrase for the two kinds of building — discovery (prototyping to learn) vs delivery (production to earn). Cagan uses it as the backbone of [[build-to-learn-vs-build-to-earn]].
 - **"In a modern product team, we're all builders."** The framing behind Cagan's [[product-manager|new PM litmus test]]: PMs are expected to prototype and test, not delegate all of it to designers and engineers.
-- **User story mapping** — a discovery/backlog technique (a candidate future [[product-discovery|discovery]] framework page, `[[story-mapping]]`).
+- **User story mapping** — a discovery/backlog technique, taught here via [[product-discovery-techniques]] (rooted in INSPIRED Ch 38). `[[story-mapping]]` as a dedicated page is a **deliberate non-target, closed 2026-09-05** (ingest-plan Batch 8, non-SVPG boundary decision, Option A — see `CLAUDE.md` §2): Patton's own book, *User Story Mapping*, was never explicitly endorsed by Cagan (no Foreword, no recommended-reading listing), unlike Torres's *Continuous Discovery Habits*.
 
 > **Not to be confused with General George S. Patton, Jr.** [[inspired|INSPIRED]] (1st ed, 2008) Ch 8 *"Patton's Advice for Product Managers"* uses the WWII **General Patton**'s line *"Never tell people how to do things. Tell them what to do, and they will surprise you with their ingenuity"* — not Jeff Patton. The Ch 8 material about the *what-not-how* discipline and giving the trio latitude is captured on [[product-discovery]] (problem vs solution) and [[empowered-engineers]] / [[the-product-team-trio]] (latitude and early designer involvement) — not here.
 

@@ -11,7 +11,7 @@ source_url: https://www.svpg.com/changing-how-you-build/
 date: 2022-09-17
 related: ["[[jon-moore]]", "[[svpg]]", "[[transformed]]", "[[principles-of-product-delivery]]", "[[small-frequent-uncoupled-releases]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-05
 ---
 
 # Moore — Changing How You Build
@@ -25,7 +25,8 @@ updated: 2026-06-20
 - principles: [[small-frequent-uncoupled-releases]], [[principles-of-product-delivery]] (the *why* behind the four delivery principles), [[deployment-infrastructure]] (test/deploy automation as enabler), [[instrumentation]] / [[monitoring]] (cited indirectly)
 - concepts: [[product-delivery]] (canonical reasoning for the dimension), [[product-culture]] (high-integrity commitments as a culture lever)
 - entities: [[jon-moore]] (Cagan's SVPG partner; author)
-- related linked references (not yet pages): `[[transformation-defined]]`, `[[high-integrity-commitments]]`, `[[fake-agile]]`, `[[big-bang-releases]]`
+- related linked references (not yet pages): `[[transformation-defined]]`, `[[high-integrity-commitments]]`, `[[big-bang-releases]]`
+- `[[fake-agile]]` — **closed as a deliberate non-target, 2026-09-05** (ingest-plan Batch 8, non-SVPG boundary decision, Option A — see `CLAUDE.md` §2). Same call as on [[2022-05-31-moore-transformation-defined]]: cited in passing, not ingested.
 
 ## Notes for the coach
 - **Three principles, one technique.** Pair these three principles (protect, respond, earn trust) with the [[principles-of-product-delivery|four product delivery principles]]; the principles in this article are the *purpose*, the delivery principles are the *mechanism*.

@@ -11,7 +11,7 @@ source_url: https://www.svpg.com/product-vs-project-teams/
 date: 2021-04-27
 related: ["[[marty-cagan]]", "[[svpg]]", "[[empowered-product-teams]]", "[[sense-of-ownership]]", "[[feature-teams-vs-product-teams]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-05
 ---
 
 # Cagan — Product vs. Project Teams
@@ -25,7 +25,8 @@ updated: 2026-06-20
 - concepts: [[empowered-product-teams]] (durability + ownership), [[feature-teams-vs-product-teams]] (empowerment axis), [[sense-of-ownership]] (project-team teams of mercenaries vs. durable missionaries)
 - principles: [[sense-of-ownership]] (canonical), [[empowered-with-problems-to-solve]]
 - entities: [[marty-cagan]], [[chris-jones]] (Cagan's co-author referenced in the article)
-- related linked references (not yet pages): `[[dedicated-product-teams]]`, `[[product-fail]]`, `[[technology-as-cost-center]]`, `[[products-over-projects-fowler]]`
+- related linked references (not yet pages): `[[dedicated-product-teams]]`, `[[product-fail]]`, `[[technology-as-cost-center]]`
+- `[[products-over-projects-fowler]]` — **closed as a deliberate non-target, 2026-09-05** (ingest-plan Batch 8, non-SVPG boundary decision, Option A — see `CLAUDE.md` §2). Fowler/ThoughtWorks' *Products over Projects* essay is cited approvingly here as supporting material, but Cagan never explicitly endorsed the piece itself (no Foreword, no recommended-reading listing) — it doesn't clear the bar. Attribute the products-vs-projects distinction to this SVPG article; do not build a Fowler entity or source page.
 
 ## Notes for the coach
 - **Two axes to remember:** product-vs-feature is about **empowerment**; product-vs-project is about **ownership/durability**. Useful when a user says "we're a product team" but reorganizes every project.

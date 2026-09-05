@@ -8,7 +8,7 @@ role: The competency that owns the market side of product-market fit — positio
 sources: ["[[loved]]", "[[transformed]]", "[[inspired]]", "[[2022-03-07-cagan-product-ops-dan-olsen]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[2024-11-21-idiodi-lauchengco-coaching-product-marketing]]"]
 related: ["[[martina-lauchengco]]", "[[loved]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[pmm-pm-partnership]]", "[[pmm-marketing-partnership]]", "[[pmm-sales-partnership]]", "[[market-fit]]", "[[agile-product-marketing]]", "[[product-marketing-metrics]]", "[[product-manager]]", "[[time-to-money]]", "[[the-four-big-risks]]", "[[product-ops]]", "[[stakeholder-relationship-health]]"]
 created: 2026-07-04
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Product Marketing
@@ -152,6 +152,22 @@ Two elaborations Ep 10 gives that live especially cleanly on this page:
 
 **PMM without a PMM.** The work has to be done by *someone* — founders in early-stage; the sales team plus a coordinator in growth-stage; the PM directly if there's a real GTM channel and no partner. The discipline is what matters, not the title.
 
+## The discipline-not-a-title argument, and the 37 boxes (Lauchengco, 2022)
+
+The framing [[martina-lauchengco|Lauchengco]] opened both her 2022 talks with, and the reason *LOVED* exists at all ([[2022-04-27-lauchengco-loved-lean-product-meetup]] · [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id]]):
+
+**The definition, stated the same way in both:** product marketing is *"driving product adoption by shaping market perception through strategic marketing activities that meet business goals."*
+
+**Product marketing is a discipline, not a job.** *"That's why you'll hear me say product marketing a lot and not necessarily product marketer — I want all of you to come away thinking that we all contribute to product marketing. It's not just the product marketer who will quarterback a lot of this."* And the scale argument underneath it: there is not enough product-marketing talent in the world for all of this to be done only by people holding the title.
+
+**What went wrong, and she names the culprits.** Pragmatic Marketing's framework with its **37 boxes**, and the Product Marketing Alliance's five concentric rings — both well-intentioned, and both of which caused *the tasks to be conflated with the role*. Her Lean Product story: a room debating what product marketing should be at their company, someone opens a drawer, produces the 37-box sheet and says *"this is the job — we just do all these things."*
+
+This is precisely the [[principles-over-process]] failure mode, one function over: an activity checklist standing in for the purpose it was meant to serve. Compare [[process-people]].
+
+**Why it matters more now than when she started.** The MarTech landscape she shows went from ~2,000 companies in 2015 to over 8,000 by 2020 — one software category with as many entrants as the planet has cities. *"It's also no longer possible to say something that's totally unique."* Five ranks above and below you in an app store there will be 100% perceived overlap. The challenge stopped being *can we build it* and became *can anyone tell why this is worth their attention*.
+
+**Lori, the cautionary promotion.** A talented demand-generation marketer promoted into product marketing turns up at her first product scrum suggesting feature ideas, and later ships templates to PMs asking them to fill in the information. She believed she was adding value; what was missing was a **strategic point of view** on how the product goes to market. A useful hiring-and-coaching illustration for [[leading-product-marketing]].
+
 ## In your context
 _Field note placeholder — who owns positioning, go-to-market, and sales enablement in your org? Is your PM secretly doing product marketing too (a tell that the market side of PMF is under-owned)?_
 
@@ -168,3 +184,7 @@ _Field note placeholder — who owns positioning, go-to-market, and sales enable
 - [[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]] — product marketing as one of the roles to take *off* the PM's plate.
 - [[transformed]] — root source.
 - [[2024-11-21-idiodi-lauchengco-coaching-product-marketing]] — *Product Therapy* Ep 10 with Lauchengco; the Microsoft AI market-shaping case; the average-PMM checklist anti-pattern; the PM↔PMM healthy-collaboration test; PMM-without-a-PMM.
+
+- [[2022-04-27-lauchengco-loved-lean-product-meetup]] — Lauchengco, Lean Product Meetup (Apr 2022), launch week for *LOVED*; the four fundamentals walked through end to end, the definition above, the 37-boxes critique, and the Microsoft Word repositioning story.
+- [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id]] — Lauchengco, RED-ID (May 2022); the same talk with a substantially different Q&A — reporting lines, the PM/PMM split, and what to do when marketing says it can't sell the roadmap.
+- [[2022-08-20-lauchengco-designing-products-that-are-loved-language-of-leadership]] — Lauchengco (Aug 2022); positioning vs. messaging, the say-do gap, and go-to-market shaping the product.

@@ -7,7 +7,7 @@ tags: [career, coaching, hiring-and-onboarding, human-skills, mentorship, produc
 sources: ["[[2024-10-24-idiodi-moore-coaching-career-advice]]", "[[transformed]]", "[[empowered]]", "[[loved]]"]
 related: ["[[hiring-and-onboarding]]", "[[product-manager]]", "[[product-leadership]]", "[[product-coaching]]", "[[product-coach]]", "[[coaching-the-pm]]", "[[product-sense]]", "[[coaching-mindset]]", "[[christian-idiodi]]", "[[jon-moore]]"]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-05
 ---
 
 # Product Career Development
@@ -53,6 +53,35 @@ Moore's most contrarian claim: *"don't rush your exit from team-level jobs, beca
 ## Stay relevant by creating value
 Moore's answer to *"how do I stay relevant?"*: **create value, and create a lot of it.** Product is a commercial role — the discipline exists to drive outcomes (usually revenue) for customers and the business. The London PM community's "Reckoning" (Moore's word) is the industry's belated correction to PMs who focused on process, delivery, and design theatre without ever moving a business metric. The career-development version of *"outcomes over output"*: your promotable evidence is not the artifacts you produced, it is the outcomes you moved.
 
+## Promote people to *do* the job, not to *learn* it (Idiodi)
+
+[[christian-idiodi|Idiodi]]'s most quotable position, from [[2023-12-21-idiodi-essence-of-product-management-lennys|Lenny's Podcast]], and the wiki's best account of where micromanagement comes from.
+
+**The pattern.** A brilliant engineer wins engineer-of-the-year, gets restless, and looks at the ladder — the next rung is engineering manager. HR and leadership look at the same ladder and reach the same conclusion: we love this person, we don't want to lose them, promote them. Everyone feels good for a week. Then: nobody claps for them at all-hands any more; their photo comes off the wall because someone else is now engineer of the year; and when a hard engineering problem appears, **they jump in and solve it themselves**, because nobody told them the job had changed.
+
+> *"This dynamic is probably the most common origin story of what people see as micromanagement. In many cases this individual knows how to do engineering. They don't know how to do engineering **management**."*
+
+**The compounding failure.** A new manager cannot say *I don't know* — the expectation is that leaders have answers — so instead of asking for help they search for "how to do an interview", "how to write a review", pick a framework that looks reasonable, use it, and nothing visibly breaks. Their own reports then copy it, because the boss did it. *"And we have this dysfunctional culture of everybody doing different things, whatever works for anybody."*
+
+**The fix, and it is a scheduling decision, not a philosophy.** Practise the job *before* the title:
+
+> *"If someone comes to me and says I need to get promoted to be a director, I say: go be a director. You don't need a title. Let me tell you what a director does, and you're going to work with me over the next couple of months to do those things — because **I am promoting you to do the job, not to learn the job**."*
+
+> *"The best place to learn how to be a VP is when you're not a VP, because that's where you practise it. When you're not in the job you can make mistakes and nobody blames you — 'he's not a VP, look at him trying to do VP things.' The second you are a VP, the leverage means your mistakes hit everybody."*
+
+The corollary for **group product manager**-style roles: they are properly a place to find out whether you want to manage at all. *"Why would you give somebody four direct reports if there's no evidence they can manage one?"* Give them one; they may discover they hate it, and that is a fine outcome to discover cheaply.
+
+**And on outsourcing the growth:** sending someone on a communication course and expecting them to come back better is the same error one level up. Go **with** them; learn what they are learning; practise it together; give feedback. *"A communication class doesn't get you better at communication. Communicating better is the indication that you're better at communication."* See [[coaching-vs-contracting]] and [[emotional-intelligence]].
+
+## Career mechanics — Jones's own rules of thumb
+
+From [[2024-04-05-jones-product-power-play-pmdojo|PMDojo]], offered as personal practice rather than doctrine:
+
+- **On luck.** *"There's a real arrogance to putting too much on one's own agency in architecting their career."* His career makes sense looking backward; he would be lying if he claimed he engineered it forward. Treat career moves as **experiments**, not a plan.
+- **Put ~90% into the job you have and ~10% into positioning for the next.** More attention than that on the next job and you damage the current one.
+- **Roughly four years** was his own number for a job — with a dip around two years that he would deliberately work through by changing something and getting reinvigorated.
+- **Time to leave:** when you are no longer learning and growing **and** you cannot see a path to changing that. Start with your first-line manager. If the manager is the problem, that path is usually closed — *"and that's a good time to leave."*
+
 ## Anti-patterns & misunderstandings
 - **Wait to be promoted, then learn the job.** The reverse of the working rule; if you can't do the job before the title, you probably won't do it after.
 - **Optimize for salary bumps, not for coaches.** Especially early in a career, *who* you work for compounds more than *what* you're paid. Cagan explicitly names Google, Amazon, and Apple as apprenticeships worth accepting a down-levelling for.
@@ -78,3 +107,7 @@ _Agent prompt: for the person you're coaching, what is their career vision? Whic
 - [[transformed]] Ch 34 (Transformation Help) — supporting; the coaching typology this framework maps onto.
 - [[empowered]] Ch 3 (Strong Product Leadership) — supporting; the manager-as-coach framing.
 - [[loved]] Ch 28 (Career Development) — supporting; the PMM-specific staging companion.
+
+- [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Idiodi (Dec 2023); promote-to-do-not-to-learn, the micromanagement origin story, the GPM role as a cheap test, and the outsourced-coaching critique.
+- [[2024-04-05-jones-product-power-play-pmdojo]] — Jones (Apr 2024); luck and career-as-experiments, the 90/10 rule, the four-year number, and when to leave.
+- [[2024-11-02-jones-from-features-to-outcomes-khodor]] — Jones (Nov 2024); the Bob story as the IC→manager transition (detailed on [[coaching-the-pm]]), and *"your product is the organization you're building."*

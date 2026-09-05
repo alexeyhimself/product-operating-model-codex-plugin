@@ -5,10 +5,10 @@ aliases: [product-coach, coach, discovery-coach, leadership-coach, transformatio
 status: drafting
 tags: [competency, coaching, product-coach, profession]
 role: An experienced product practitioner who develops other product people — teaching them to do the work, not doing it for them.
-sources: ["[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]"]
+sources: ["[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2024-04-30-cagan-good-product-coach-bad-product-coach]]"]
 related: ["[[product-coaching]]", "[[model-as-product-coach]]", "[[coaching-vs-contracting]]", "[[types-of-product-coaching]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[marty-cagan]]", "[[svpg]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-05
 ---
 
 # Product Coach
@@ -26,10 +26,21 @@ updated: 2026-06-20
 3. **Runway** — typically 2–3 years to reach consistent revenue; alternatives are in-house coaching, joining an agency, or moonlighting.
 
 ## Competencies — weak vs strong
-| Competency | Weak | Strong |
+Expanded from Cagan's [[2024-04-30-cagan-good-product-coach-bad-product-coach|"Good Product Coach / Bad Product Coach"]] (2024) — written explicitly in the behavioral-job-description format he credits to Ben Horowitz's *Good Product Manager / Bad Product Manager* (not itself ingested into this wiki). Cagan's framing for why this matters: he estimates ~90% of self-described product coaches and trainers are "deeply vested" in the feature-team model, because that's what their own clients expect and what they personally know.
+
+| Competency | Weak (Bad Product Coach) | Strong (Good Product Coach) |
 |---|---|---|
-| Foundation | "Agile/career coach" with no product experience | Years in the trenches at strong (or many) product companies; deep grasp of principles, concepts, techniques |
-| Mode | Does the work for the client (contractor/fractional) | Develops the client to do the work themselves ([[coaching-vs-contracting]]) |
+| Relevant experience | "Agile/career coach" who has never actually seen or done product well | Has personally *seen* and *done* product well at a strong product company — the foundation everything else depends on |
+| Boundaries of credibility | Fakes it or is oblivious to the limits of their own experience | Knows exactly what they don't know and calls in other coaches when a question is outside their lane |
+| Ask good questions, genuinely listen | Waits for the client to finish so they can deliver their favorite lecture | Seeks first to understand; knows there is real context behind every question |
+| Mode / developing others | Does the work for the client (contractor/fractional) — "does the fishing for you" | Develops the client to do the work themselves — "teaches you to fish" ([[coaching-vs-contracting]]) |
+| Business savvy | Believes pleasing customers is all that matters | Fluent in the language of business (finance); knows product must solve for the business *and* the customer |
+| Best technique for circumstances | Forces one favorite framework/method onto every situation | Knows many techniques, recommends what fits, and names each one's weaknesses honestly |
+| Space and time for practice | Pushes clients to learn and take risk in high-stakes situations | Creates low-stakes room to try new thinking, ask questions, and get feedback |
+| Honest, constructive feedback | Tells clients what they want to hear, for fear of losing them | Gives timely, specific feedback — positive and critical — built on genuine trust |
+| Empower and enable | Validates the client's fears and insecurities; adds to the noise | Helps the client see they're capable of more than they think; helps them see signal in the noise |
+| Principles over process | Encourages or facilitates hiding behind process or an artifact instead of thinking | Recognizes the retreat-to-process moment and pushes back on it |
+| Defining success | Measures success as completed activities they can help with | Measures success as *the client's* outcomes, and directs the credit to the client |
 | Focus | Everything to everyone | One [[types-of-product-coaching|type of coaching]] for one type of client; a clear "superpower" |
 | Relationship | One-off engagement | Ongoing relationship that builds trust and develops judgment over months |
 | Responsiveness | Replies when convenient | Responds to every inquiry within 24 hours (Cagan's bar) |
@@ -90,3 +101,4 @@ _Field note placeholder — who coaches your PMs and leaders today, and do they 
 - [[transformed]] Ch 34 (Transformation Help) — the four external coach types (Delivery / Discovery / Product Leadership / Transformation), in-house vs external, finding-a-coach criteria, and the seven named coaches. Ch 34 opens with the [[bill-campbell|Bill Campbell]] line on coaching-as-management.
 - [[2023-01-11-cagan-becoming-a-product-coach]] — root source (2023 article); prerequisites, types (3 altitudes; Ch 34 adds delivery as the fourth), business models, marketing/pricing.
 - [[2019-04-08-cagan-coaching-tools-the-assessment]] · [[2019-04-22-cagan-coaching-tools-the-plan]] — supporting; what a coach actually does with a PM (assess gaps, coach them).
+- [[2024-04-30-cagan-good-product-coach-bad-product-coach]] — the eleven-dimension weak/strong behavioral contrast now expanding the Competencies table above.

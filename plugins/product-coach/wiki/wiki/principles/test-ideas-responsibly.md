@@ -6,10 +6,10 @@ status: mature
 tags: [product-discovery, experimentation, risk, established-companies, first-principles]
 group: product-discovery
 order: 12
-sources: ["[[transformed]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]"]
+sources: ["[[transformed]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2026-04-28-cagan-build-to-learn-faq]]"]
 related: ["[[embrace-rapid-experimentation]]", "[[assess-product-risks]]", "[[deployment-infrastructure]]", "[[product-discovery]]", "[[principles-of-product-discovery]]"]
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-09-05
 ---
 
 # Test Ideas Responsibly
@@ -25,6 +25,8 @@ Experiments are scoped to limit blast radius (small traffic slices, feature flag
 ## What violating it looks like
 Either extreme: reckless live experiments that confuse customers or blindside colleagues; *or* over-caution that forbids all experimentation, pushing teams back to "build it and pray." Both miss the point.
 
+Cagan names the reckless extreme **"ready-fire-aim"** ([[2026-04-28-cagan-build-to-learn-faq|Build To Learn FAQ]]): the logic of "faster output → faster outcomes" — accelerate delivery in the project model and hope outcomes follow. Even loyal customers start to feel like guinea pigs under constant, erratic change; that's a cost this principle exists to prevent for anyone who hasn't opted into a discovery cohort.
+
 ## Tensions & trade-offs
 - Responsibility vs. [[embrace-rapid-experimentation|speed]]: the constraint is real but must not become an excuse to stop experimenting — the goal is *safe* fast learning.
 - Enabled by [[deployment-infrastructure]] (feature flags, rollbacks, A/B platforms) that make small, safe experiments practical.
@@ -36,3 +38,4 @@ Either extreme: reckless live experiments that confuse customers or blindside co
 
 ## Sources
 - [[2024-03-21-huryn-product-model-first-principles-part-2]] — Principle 12; *TRANSFORMED*.
+- [[2026-04-28-cagan-build-to-learn-faq]] — names the reckless-extreme anti-pattern "ready-fire-aim" and its guinea-pig-customer cost.

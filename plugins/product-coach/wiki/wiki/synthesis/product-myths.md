@@ -4,10 +4,10 @@ type: synthesis
 aliases: [product-myths, common-product-misconceptions, nine-product-myths]
 status: drafting
 tags: [myths, misconceptions, product-management, engineering, design, discovery, hiring, go-to-market]
-sources: ["[[2025-04-03-idiodi-jones-coaching-product-myths-part-1]]", "[[2025-06-26-idiodi-jones-coaching-product-myths-part-2]]"]
+sources: ["[[2025-04-03-idiodi-jones-coaching-product-myths-part-1]]", "[[2025-06-26-idiodi-jones-coaching-product-myths-part-2]]", "[[2024-02-27-hickman-transformation-theater]]", "[[2026-04-09-cagan-commercial-vs-internal-products]]"]
 related: ["[[feature-teams-vs-product-teams]]", "[[empowered-engineers]]", "[[product-designer]]", "[[product-manager]]", "[[product-discovery]]", "[[coaching-mindset]]"]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-05
 ---
 
 # Product Myths
@@ -37,7 +37,7 @@ Most product-transformation failures are not the *absence* of the product model 
 **Correction:** discovery is **not a formula, recipe, or process — it's a set of tools that inform your judgment.** People love this misconception because it lets them *replace* judgment with process ("I followed discovery, product didn't work, must be the process"). Right-size discovery based on actual risks and confidence needed. Idiodi's illustration: PM asks *"how do I do discovery?"* — actual issue = the site is down. Direct manager's job = spot when a PM is **grinding metal** (weeks of tweaking a prototype) and call it. See [[product-discovery]], [[product-discovery-techniques]].
 
 ### Myth 6 — "We need to iterate on a solution until it succeeds."
-**Correction:** some grit is valuable; runaway sunk-cost pushing a rock uphill is not. Product teams don't recognize they're running against a **clock** — the moment the business gives you a problem, there's a race for the value of the team. Idiodi's diagnostic: *"when a company says 'we have an innovation team,' that literally means my product team is not innovating."* Same for acquisitions: *"I've not met a single CEO who tells me 'if we thought we could build this better and quicker ourselves, we wouldn't have bought this company.'"* See [[the-need-for-speed]], [[time-to-money]].
+**Correction:** some grit is valuable; runaway sunk-cost pushing a rock uphill is not. Product teams don't recognize they're running against a **clock** — the moment the business gives you a problem, there's a race for the value of the team. Idiodi's diagnostic: *"when a company says 'we have an innovation team,' that literally means my product team is not innovating"* — a sharper, later echo of Hickman's **Innovation Theater**, named over a year earlier in the [[2024-02-27-hickman-transformation-theater|Transformation Theater]] article. Same for acquisitions: *"I've not met a single CEO who tells me 'if we thought we could build this better and quicker ourselves, we wouldn't have bought this company.'"* See [[the-need-for-speed]], [[time-to-money]].
 
 ### Myth 7 — "Product managers need product owners."
 **Correction:** the PO/BA role is a **historical artifact of the waterfall→agile transition** — companies changed the title but not how they worked. **Two people doing one job = handoffs = command-and-control by another name.** Jones's reframe: **inside game vs outside game.** Inside game = engineers, stories, technical decomposition. Outside game = customers, markets, discovery, stakeholders. Both must live *in a single skull.* **The PO role has no career path in a serious product company.** Idiodi's cost argument: 10-person team = ~$1.5–2M/year in salaries = ~$55–65k/sprint — that is not a decision to split across two roles. See [[product-manager]], [[delivery-manager]], [[feature-teams-vs-product-teams]].
@@ -46,11 +46,12 @@ Most product-transformation failures are not the *absence* of the product model 
 **Correction:** product teams are responsible for the *whole* solution, not just the product's functionality. **Go-to-market is part of the solution.** How do customers learn the product exists? How do they get it? What entices them to buy? These may involve sales, marketing, or the product itself (product-led growth). A PLG product and a direct-sales product are *dramatically different products*. Applies to internal products too. Jones's admission: *"I was an idiot on this when I started."* See [[product-manager]], [[product-marketing]], [[leading-product-marketing]].
 
 ### Myth 9 — "The product manager is the CEO of their product."
-**Correction:** the *idea* is right; the *power* interpretation is wrong. Idiodi's flip: *"the PM is the opposite of Spider-Man — with great responsibility comes no power."* Right reading: holistic understanding of the company, deep sales/marketing/stakeholder relationships, outcome-oriented mindset. Wrong reading: license to bark orders, control the team, be the boss. PM's role is elevated because of value responsibility, not authority. See [[product-manager]], [[empowered-product-teams]].
+**Correction:** the *idea* is right; the *power* interpretation is wrong. Idiodi's flip: *"the PM is the opposite of Spider-Man — with great responsibility comes no power."* Right reading: holistic understanding of the company, deep sales/marketing/stakeholder relationships, outcome-oriented mindset. Wrong reading: license to bark orders, control the team, be the boss. PM's role is elevated because of value responsibility, not authority. See [[product-manager]], [[empowered-product-teams]]. **A later nuance ([[2026-04-09-cagan-commercial-vs-internal-products|Cagan, 2026]]):** the correction lands differently depending on product type. For an internal product, the "CEO of the product" framing "sounds tone-deaf and arrogant" — the correction applies at full force. For a commercial product battling in an open marketplace, deep personal immersion in marketing, sales, funding, legal, and compliance genuinely does start to look CEO-adjacent — but still in the *value/outcome-responsibility* sense the correction above already draws out, never the authority sense Myth 9 rejects.
 
 ## Evidence
 - [[2025-04-03-idiodi-jones-coaching-product-myths-part-1]] — Myths 1–4 (product/eng split · design downstream · domain expertise · give customers what they ask)
 - [[2025-06-26-idiodi-jones-coaching-product-myths-part-2]] — Myths 5–9 (discovery gives the answer · iterate until it succeeds · PMs need POs · if you build it they will come · PM as CEO)
+- [[2026-04-09-cagan-commercial-vs-internal-products]] — nuances Myth 9 for internal vs. commercial products.
 
 ## Counterpoints
 Two edges worth naming:
@@ -80,3 +81,4 @@ The **coaching move** when using this synthesis in a live conversation:
 ## Sources
 - [[2025-04-03-idiodi-jones-coaching-product-myths-part-1]] · Product Therapy Ep 17 · Myths 1–4
 - [[2025-06-26-idiodi-jones-coaching-product-myths-part-2]] · Product Therapy Ep 23 · Myths 5–9
+- [[2026-04-09-cagan-commercial-vs-internal-products]] · nuance on Myth 9 (internal vs. commercial PM)

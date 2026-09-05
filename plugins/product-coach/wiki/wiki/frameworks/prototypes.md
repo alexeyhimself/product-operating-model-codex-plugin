@@ -4,15 +4,15 @@ type: framework
 aliases: [prototype, prototype-types, four-prototypes, user-prototype, live-data-prototype, feasibility-prototype]
 status: drafting
 tags: [discovery, prototypes, build-to-learn, risks]
-sources: ["[[inspired]]", "[[2020-08-05-cagan-minimum-viable-product-for-platforms]]", "[[2024-01-12-cagan-understanding-product-management-and-agile-design-better]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]"]
+sources: ["[[inspired]]", "[[2020-08-05-cagan-minimum-viable-product-for-platforms]]", "[[2024-01-12-cagan-understanding-product-management-and-agile-design-better]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]", "[[2026-04-28-cagan-build-to-learn-faq]]"]
 related: ["[[product-discovery]]", "[[build-to-learn-vs-build-to-earn]]", "[[the-four-big-risks]]", "[[high-integrity-commitments]]", "[[opportunity-assessment]]"]
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-09-05
 ---
 
 # Prototypes
 
-> The primary artifact of [[product-discovery|discovery]] / [[build-to-learn-vs-build-to-earn|build-to-learn]]: a cheap, deliberately incomplete thing you create to test one or more of [[the-four-big-risks|the four risks]] before committing engineers to production work. A prototype is "a fraction of the work" of a product — you skip automated tests, SEO, performance, scale, and maintainability on purpose.
+> The primary artifact of [[product-discovery|discovery]] / [[build-to-learn-vs-build-to-earn|build-to-learn]]: a cheap, deliberately incomplete thing you create to test one or more of [[the-four-big-risks|the four risks]] before committing engineers to production work. A prototype is "a fraction of the work" of a product — you skip automated tests, SEO, performance, scale, and maintainability on purpose. (A **[[visiontype]]** is a related but distinct prototype form — used to communicate a multi-year *vision*, not to test one of the four risks against a near-term backlog item.)
 
 ## When to use it
 Whenever you face a real risk — value, usability, feasibility, or viability — and don't yet have evidence. Cagan's rule for engineers: **never give a date (a [[high-integrity-commitments|high-integrity commitment]]) without first doing a feasibility prototype** ([[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps|Talking Roadmaps]]). Match the prototype type to the risk you're testing.
@@ -26,6 +26,20 @@ Cagan's taxonomy ([[2020-08-05-cagan-minimum-viable-product-for-platforms|MVP fo
 4. **Feasibility prototype** — engineer-built, to answer "can we do this / how, and by when?" Most common for technical/performance risk (e.g., can we return results fast enough on real data). Tests **feasibility**; the prerequisite for an honest date.
 
 ("User prototype" + "hybrid prototype" are the same four grouped differently in [[2024-01-12-cagan-understanding-product-management-and-agile-design-better|Design Better]].)
+
+## Fidelity — how realistic does it need to be?
+"Just enough fidelity" is the common advice — but per [[2025-09-12-cagan-the-purpose-of-prototypes|Cagan]], that's overly simplistic on its own: **what counts as "just enough" depends on which risk you're testing and who you're testing it with**, not a single fixed bar. Three dimensions of fidelity:
+
+- **Visual fidelity** — how realistic the prototype looks and feels.
+- **Behavioral fidelity** — how realistic the interactions are.
+- **Data fidelity** — whether the data shown is real ("live data"), realistic-but-fake (e.g. from an earlier point in time), or made up.
+
+Match fidelity to the audience and the risk, not to a universal standard: a CISO assessing security often needs *low* visual and behavioral fidelity; a marketing executive or CEO protecting the brand may need *high* visual fidelity but not behavioral; a lawyer often needs high fidelity across all three, given the legal stakes; a **feasibility prototype** frequently needs no visual fidelity at all — sometimes no UI whatsoever.
+
+## The prototype as spec
+Beyond its primary purpose (testing risk), a prototype is also the team's main tool for communicating the intended experience to engineers — "prototype as spec." Tom Kelley of IDEO: *"if a picture is worth a thousand words, then a prototype is worth a thousand meetings"* ([[2025-09-12-cagan-the-purpose-of-prototypes|cited by Cagan]]). **The danger:** using a prototyping tool only to produce a communication artifact, without ever testing it — teams that do this end up building and shipping a product that fails in market, having skipped discovery entirely.
+
+In the product model, the prototype is the **primary** spec; a PRD, where one exists, **supplements** it — enumerating specific use cases and non-functional requirements (e.g. scale expectations) the prototype doesn't capture on its own ([[2026-04-28-cagan-build-to-learn-faq|Build To Learn FAQ]]). The failure mode is the project-model one: using the PRD **instead of** discovery. "Countless products have failed because a product manager thinks he or she knows what's 'required' only to find later that they were wrong."
 
 ## Inputs & outputs
 **In:** a problem to solve and the specific risk(s) you're unsure about. **Out:** evidence — enough to separate good ideas from bad, iterate to a solution that's valuable/usable/feasible/viable, and (for feasibility) make a credible commitment. Good teams run many prototypes fast (Cagan: "50 prototypes in a week without breathing hard" with modern tools; historically "10, 20, 50 iterations" in Figma).
@@ -48,3 +62,5 @@ _Field note placeholder — pick a current risk and choose the prototype type th
 - [[2020-08-05-cagan-minimum-viable-product-for-platforms]] — root video for the four types + the platform nuance; Cagan's mature critique of MVP framing.
 - [[2024-01-12-cagan-understanding-product-management-and-agile-design-better]] — corroborates the four types (user, feasibility, live-data, hybrid).
 - [[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]] — never commit a date without a feasibility prototype.
+- [[2025-09-12-cagan-the-purpose-of-prototypes]] — the fidelity framework (visual / behavioral / data); "just enough fidelity" as risk-dependent; the Tom Kelley "prototype as spec" quote; the gen-AI cost shift for live-data prototypes.
+- [[2026-04-28-cagan-build-to-learn-faq]] — the PRD's role in the product model: prototype as primary spec, PRD as supplement, never a substitute for discovery.

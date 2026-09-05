@@ -8,7 +8,7 @@ role: Partner / founder, Silicon Valley Product Group; author
 org: "[[svpg]]"
 related: ["[[svpg]]", "[[transformed]]", "[[inspired]]", "[[empowered]]", "[[overview]]", "[[model-as-product-coach]]", "[[product-coaching]]", "[[product-coach]]", "[[jon-moore]]", "[[chris-jones]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[2020-06-12-cagan-product-management-start-here]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2020-02-17-cagan-product-strategy-overview]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[product-management-theater]]", "[[founder-style-leadership]]", "[[product-sense]]", "[[bill-campbell]]", "[[jeff-patton]]", "[[martina-lauchengco]]", "[[christian-idiodi]]", "[[lea-hickman]]", "[[loved]]", "[[product-ops]]", "[[product-marketing]]", "[[data-product-management]]", "[[hiring-and-onboarding]]"]
 created: 2026-06-14
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 <!-- updated 2026-06-14 to reflect the Feb 2026 model-as-coach position shift -->
@@ -63,3 +63,6 @@ Cagan didn't *invent* the first principles — he and the [[svpg|SVPG]] team **o
 
 ## Related
 - [[svpg]], [[transformed]], [[pawel-huryn]] (interpreter of his work), [[overview]], [[christian-idiodi]] (Product Therapy co-host)
+
+## Additional talk source (2022)
+- [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — *Common Transformation Pitfalls (and Q&A)*, ProductTank Oslo (Apr 2022). His two ten-item taxonomies of why transformations fail (see [[transformation-anti-patterns]]); the [[guardian-eyewitness|Guardian *eyewitness*]] story; the CIO-vs-CTO distinction; the SAFe critique; and — at the end, in unusual detail — **his own coaching origin story at HP**: an engineer moving into product, barred by his coach from making a single decision for his team until he had visited 30 customers, taken on two week-long go-to-market ride-alongs, and been tutored by someone in finance because he could not define LTV for his own product. *"That took a quarter. It's not that hard."*

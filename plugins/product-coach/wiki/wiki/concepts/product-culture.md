@@ -7,7 +7,7 @@ tags: [product-culture, core-concept]
 sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]"]
 related: ["[[principles-over-process]]", "[[trust-over-control]]", "[[innovation-over-predictability]]", "[[learning-over-failure]]", "[[empowered-product-teams]]", "[[outcomes-over-output]]", "[[time-to-money]]", "[[feature-teams-vs-product-teams]]", "[[overview]]"]
 created: 2026-06-14
-updated: 2026-06-20
+updated: 2026-09-05
 ---
 
 # Product Culture
@@ -24,6 +24,25 @@ The four [[principles-of-product-culture|culture principles]] define it: [[princ
 The most visible and profound culture change in the product model is moving from funding/building/shipping **features and projects on dates** to funding/building/shipping **products to achieve outcomes**. Reframed as **time-to-market → [[time-to-money|time-to-money]]**. This change touches: how decisions get made, who makes them, the role of project/program management, how teams are staffed, how long teams stay together, how teams decide what to build, the level of customer/data knowledge they have, the level of customer involvement, the role of experimentation, and the level of accountability.
 
 > "It's not hard to declare that your company now cares about achieving business results. Especially because it's very likely this has always been the claim. What is hard is embracing the many changes required to adopt a culture of outcomes." — Cagan, *From Projects to Products*
+
+## Product culture is not company culture (Idiodi)
+
+The distinction [[christian-idiodi|Idiodi]] insists on in [[2023-05-30-idiodi-building-strong-product-cultures-product-unfiltered|*Building Strong Product Cultures*]], because people constantly conflate the two and then argue past each other:
+
+- A **product culture** is a culture of learning, experimentation, innovation, discovery, collaborative problem solving and customer-centricity.
+- A **company culture** is what it is like to work there.
+
+His worked example is [[amazon|Amazon]]: *"a fantastic product culture… probably one of the most consistently innovative companies in the world."* And in the same breath — if a friend told him they were joining, he'd hesitate; the company culture is famously brutal. Both statements can be true.
+
+**The asymmetry, which is the useful part:**
+
+> *"It's possible that a good product can come out of a bad company culture, but it's not possible for a good product to come out of a bad product culture."*
+
+**But the company culture is upstream over time.** Idiodi is equally clear that a strong product culture cannot be sustained indefinitely inside an unhealthy company culture — and he names the mechanism: **[[process-people|process]] and promotion**. Process people get promoted, hierarchy and governance and layers accumulate to manage risk, and the org ends up manufacturing blockers to innovation. This is the same erosion Cagan describes as scaling-with-process rather than scaling-with-leaders, and it is why companies "run out of steam" and eventually reach for a product CEO again.
+
+**The reciprocal obligations inside a healthy product culture**, in his framing:
+- **Leadership owes the team:** staffing and coaching; [[strategic-context|context]] (a clear [[product-vision|vision]], a real [[product-strategy|strategy]], a [[team-topology|topology]] with clear ownership); and [[team-objectives|objectives]] to go and deliver.
+- **The team owes leadership:** experimentation, customer-centricity, use of data, working *with* stakeholders rather than around them — and collaborating as one across product, design and engineering rather than in sequential handoffs.
 
 ## Anti-patterns & misunderstandings
 - "Transformation" as a reorg only — new boxes, same control-and-predictability culture.
@@ -42,3 +61,5 @@ _Field note placeholder — which culture principle is most absent in your org t
 - [[2023-08-17-cagan-from-projects-to-products]] — the canonical projects→products cultural shift; time-to-market vs. time-to-money.
 - [[2024-01-17-cagan-product-model-concepts]] — culture as one of the five product-model concepts.
 - [[2024-03-21-huryn-product-model-first-principles-part-2]] — supporting explainer; Four Product Culture Principles.
+
+- [[2023-05-30-idiodi-building-strong-product-cultures-product-unfiltered]] — Idiodi, *Product Unfiltered* (May 2023); the product-culture/company-culture distinction, the Amazon example, and the erosion mechanism.

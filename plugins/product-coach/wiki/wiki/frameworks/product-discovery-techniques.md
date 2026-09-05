@@ -4,10 +4,10 @@ type: framework
 aliases: [product-discovery-techniques, discovery-techniques, discovery-technique-catalog]
 status: drafting
 tags: [framework, discovery, techniques, prototypes, testing, risks]
-sources: ["[[transformed]]", "[[inspired]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[continuous-discovery-habits]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[continuous-discovery-habits]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]"]
 related: ["[[product-discovery]]", "[[the-four-big-risks]]", "[[prototypes]]", "[[opportunity-assessment]]", "[[reference-customer-program]]", "[[pilot-teams]]", "[[build-to-learn-vs-build-to-earn]]", "[[the-product-team-trio]]", "[[empowered-engineers]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[assumption-testing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Product Discovery Techniques
@@ -61,14 +61,14 @@ Ch 33 of [[inspired|INSPIRED]] enumerates the principles every technique rests o
 ## 2. Planning techniques
 > **Purpose:** scope and plan the discovery work itself, especially for larger efforts.
 
-- **Story Map** ([[inspired|INSPIRED]] Ch 38) — [[jeff-patton|Jeff Patton]]'s two-dimensional map: major user activities across the top (loose time-ordering), progressive detail down each column (critical tasks higher; optional lower). Solves the *"flat backlog with no context"* problem. Useful *throughout* discovery *and* delivery: framing, planning, ideation, design, communication with stakeholders, and (finally) the actual product backlog. See Patton's *User Story Mapping* (O'Reilly, 2014). *Candidate future dedicated page: `[[story-mapping]]`.*
+- **Story Map** ([[inspired|INSPIRED]] Ch 38) — [[jeff-patton|Jeff Patton]]'s two-dimensional map: major user activities across the top (loose time-ordering), progressive detail down each column (critical tasks higher; optional lower). Solves the *"flat backlog with no context"* problem. Useful *throughout* discovery *and* delivery: framing, planning, ideation, design, communication with stakeholders, and (finally) the actual product backlog. Technique attributed to INSPIRED and to Patton by name; his book itself, *User Story Mapping* (O'Reilly, 2014), is **not ingested** and `[[story-mapping]]` is a **deliberate non-target, closed 2026-09-05** (ingest-plan Batch 8, non-SVPG boundary decision, Option A — see `CLAUDE.md` §2): Cagan credits and borrows from Patton, but never explicitly endorsed the book itself.
 - **[[reference-customer-program|Customer Discovery Program]]** ([[inspired|INSPIRED]] Ch 15 + Ch 39 · [[transformed|TRANSFORMED]] Ch 23) — 6–8 target-market customers as development partners through the whole effort, ending in reference customers at launch. Cagan: *"if they could only pick a single technique, the one I'd recommend is the customer discovery program"* — his single favorite leading indicator of future success. Full mechanics + non-negotiables on **[[reference-customer-program]]**.
 
 ## 3. Ideation techniques
 > **Purpose:** generate a wealth of promising solutions aimed at the problem.
 
 - **Customer Interviews** ([[inspired|INSPIRED]] Ch 41; deep how-to on **[[continuous-interviewing]]** from [[continuous-discovery-habits|CDH]] Chs 5, 14) — the most basic technique in the book. Cadence: **2–3 hours of customer interviews per week, every week** as a bare minimum (Cagan); Torres's operational floor is **at least one interview per week per trio, on a target-market user, story-based**. The PM must be present. Four key questions every Cagan interview tries to answer: *are the customers who you think they are · do they really have the problems you think they have · how do they solve this problem today · what would it take for them to switch*. Torres's story-based technique (*"tell me about the last time you…"*) is the practical execution — see [[continuous-interviewing]].
-- **Concierge Test** ([[inspired|INSPIRED]] Ch 42) — do the customer's job for them, manually, in person. Learn their workflow by *becoming their concierge*. Generates high-quality product ideas + customer empathy in one motion. Distinct from customer service (which is reactive; concierge is proactive). Ideally the whole trio (PM + designer + engineer) participates.
+- **Concierge Test** ([[inspired|INSPIRED]] Ch 42) — do the customer's job for them, manually, in person. Learn their workflow by *becoming their concierge*. Generates high-quality product ideas + customer empathy in one motion. Distinct from customer service (which is reactive; concierge is proactive). Ideally the whole trio (PM + designer + engineer) participates. See also **[[forward-deployed-engineers]]** — the extended, engineer-led form of sustained customer embedding, especially for complex enterprise or platform products.
 - **The Power of Customer Misbehavior** ([[inspired|INSPIRED]] Ch 43) — a third source of opportunities (beyond market-following and technology-following): *"allow, and even encourage, our customers to use our products to solve problems other than what we planned for."* eBay's "Everything Else" category → used cars is the canonical example. Corollary: **The Power of Developer Misbehavior** — public APIs invite developers (Cagan's *"consistently best sources of truly innovative product ideas"*) to reveal what's *just-now-possible* on your platform (Facebook's platform strategy).
 - **Hack Days** ([[inspired|INSPIRED]] Ch 44) — undirected (any product idea loosely related to the mission) or **directed** (a specific customer problem or business objective, e.g. *"reduce customer churn rate"*). Two benefits: engineers participate in ideation (where many of the best ideas come from); builds [[missionaries-vs-mercenaries|missionaries]] by pulling engineers deep into the business context.
 
@@ -82,7 +82,7 @@ Cagan's **four prototype types** ([[inspired|INSPIRED]] Chs 45–49) already hav
 - **Live-data prototype** ([[inspired|INSPIRED]] Ch 48) — real code hitting real data sources, optionally with real traffic. The workhorse for **value** (real usage, real evidence).
 - **Hybrid prototype** ([[inspired|INSPIRED]] Ch 49) — mix of the above (e.g. relevance work using live data but no live traffic).
 
-Ch 45 principles: order-of-magnitude effort reduction · creating the prototype forces deeper thinking · fidelity right-sized to purpose · often doubles as *"prototype as spec"* for engineers.
+Ch 45 principles: order-of-magnitude effort reduction · creating the prototype forces deeper thinking · fidelity right-sized to purpose · often doubles as *"prototype as spec"* for engineers. **Fidelity is risk-dependent, not fixed** — visual, behavioral, and data fidelity each need to be "just enough" for the specific risk and audience (a CISO needs low visual/behavioral fidelity; a lawyer often needs high fidelity across all three) — see [[prototypes|the fidelity section on prototypes]] ([[2025-09-12-cagan-the-purpose-of-prototypes|Cagan, 2025]]).
 
 ## 5. Testing techniques
 > **Purpose:** address a specific risk with a specific technique. *"We only validate what we need to, and then we pick the right technique based on the particular situation"* ([[inspired|INSPIRED]] Ch 34).

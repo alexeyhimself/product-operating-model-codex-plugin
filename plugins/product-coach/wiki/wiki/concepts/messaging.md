@@ -7,7 +7,7 @@ tags: [product-marketing, messaging, storytelling, cast, positioning]
 sources: ["[[loved]]", "[[martina-lauchengco]]"]
 related: ["[[product-marketing]]", "[[pmm-storyteller]]", "[[positioning]]", "[[one-sheet-messaging-canvas]]", "[[loved]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Messaging
@@ -136,6 +136,24 @@ Lauchengco's guardrail: *"Talking about something in a way that simplifies — a
 
 *"Messaging's job is to connect first before diving into all the details. It's hard to process depth without some table-setting context. If everything said about a product is true, it is still accurate. It might not be the precise way you would talk about it with someone with deep knowledge and full context, but that is the precise difference between the job of messaging versus that of product details."*
 
+## Against the Mad Libs template (Lauchengco)
+
+Asked directly about the standard positioning-statement template — *our [blank] built for [blank] is the best [blank] in the [blank] market* — [[martina-lauchengco|Lauchengco]]'s verdict in [[2022-08-20-lauchengco-designing-products-that-are-loved-language-of-leadership|*Language of Leadership*]]:
+
+> *"It's a helpful thought exercise, but it's terrible at generating usable messaging."*
+
+**Why:** it kitchen-sinks everything, and then — because everything arrived together — people believe everything must *stay* together. Modern messaging works the other way: hone in on **what this audience wants and has the capacity to hear**, so that it separates you simply from everything else they are hearing. Often that is a plain entry point, a comparison to something familiar, a reason to believe you, and only then the product detail. The second-most-important thing might be *24/7/365 support*. It depends entirely on who is listening.
+
+> *"Prioritise the key messages that at that moment in time the customer needs to hear."* And on the rest: *"that's the second meeting, or a page deep — don't burden your initial messaging with carrying everything for you."*
+
+## "Not what you want to say — what they need to hear"
+
+Lauchengco's one-line test, stated in both 2022 talks, and the reason her Looker/RJ Metrics comparison lands the way it does. The short, benefit-shaped line (*"the best tool for running a data-driven online business"*) could be Microsoft Excel; the long, specific, technically-loaded one (*"operates in-database, so all your data is inherently drillable and explorable"*) tells a business analyst **why to believe the claim** without making them click. Counterintuitively, the longer one is the better message, because it was written for a real audience. Mediocre outcome vs. a multi-billion-dollar one — and RJ Metrics' CEO's own retrospective: *"we were building a better horse-drawn carriage while Looker was building the Model T Ford."*
+
+**And the cheapest possible validation, aimed at product people:** you already run discovery tests. **Test messaging inside them** — ask a participant to describe what they just saw *to a friend or a colleague*. Their words are the raw material. See [[one-sheet-messaging-canvas]] and [[product-discovery]].
+
+**Messaging is not written in a room.** *"Too often people in marketing go off in a room and say we're creating this magical wonderful messaging — that's not how great messaging happens."* It is collaborative and iterative across sales, customer success, product and engineering; don't try to get it perfect, get something and test the heck out of it. See [[pmm-pm-partnership]] and [[pmm-sales-partnership]].
+
 ## Anti-patterns & misunderstandings
 - **Feature-list messaging.** *"Improves the efficiency and effectiveness of…"* — hundreds of products could substitute in.
 - **Formulaic messaging** (see [[positioning]] and [[pmm-storyteller]] for the positioning-statement-generator trap).
@@ -160,3 +178,6 @@ _Agent prompt: does your current homepage messaging pass CAST for its intended a
 - [[loved]] Ch 23 — Netflix + Zendesk multi-era messaging walkthrough.
 - [[loved]] Ch 21 — Discover Your Position; the accuracy-for-engineering-trained addendum.
 - [[martina-lauchengco]] — author.
+
+- [[2022-08-20-lauchengco-designing-products-that-are-loved-language-of-leadership]] — Lauchengco (Aug 2022); the Mad Libs critique and the prioritise-what-they-can-hear rule.
+- [[2022-04-27-lauchengco-loved-lean-product-meetup]] · [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id]] — Lauchengco (Apr/May 2022); the Looker vs. RJ Metrics comparison, "the best messaging also positions", and testing messaging inside discovery tests.

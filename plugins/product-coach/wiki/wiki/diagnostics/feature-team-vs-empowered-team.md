@@ -5,10 +5,10 @@ aliases: [feature-team-vs-empowered-team, team-empowerment-diagnostic, empowerme
 status: drafting
 tags: [diagnostic, team-models, empowerment, feature-team, product-team, anti-pattern]
 assesses: Whether a given team is operating as a feature team (handed solutions) or as an empowered product team (given problems and accountable for outcomes), and which specific behaviors are blocking the shift.
-sources: ["[[transformed]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2018-10-31-cagan-empowered-product-teams]]", "[[2015-11-25-cagan-missionaries-vs-mercenaries]]", "[[2021-04-27-cagan-product-vs-project-teams]]"]
+sources: ["[[transformed]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2018-10-31-cagan-empowered-product-teams]]", "[[2015-11-25-cagan-missionaries-vs-mercenaries]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2025-07-02-cagan-agency-vs-ambition]]", "[[2023-11-28-cagan-transformed-faq]]"]
 related: ["[[feature-teams-vs-product-teams]]", "[[empowered-product-teams]]", "[[missionaries-vs-mercenaries]]", "[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[sense-of-ownership]]", "[[the-product-team-trio]]", "[[product-manager]]", "[[empowered-engineers]]", "[[product-leadership]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-05
 ---
 
 # Feature Team vs. Empowered Team — Diagnostic
@@ -50,7 +50,7 @@ Use Cagan's [[2019-08-29-cagan-product-vs-feature-teams|seven indicator question
 | **3** | **Empowered product team** | Given problems with measurable outcomes (OKRs the team helped shape). Trio collaborates from day one. PM owns value + viability; designer owns usability; Tech Lead owns feasibility. Engineers see prototypes daily and contribute ideas. Releases are continuous. Customers seen weekly. |
 | **4** | **Exemplary** (model-best) | Above + a missionary-culture team that consistently produces innovation. Engineers proactively bring just-now-possible technology insights to leadership. Team owns the outcome long after launch. Strong product leadership coaches the team and provides [[product-vision|vision]], [[product-strategy|strategy]], and [[product-principles|principles]]. New hires can articulate the vision at lunch on day three. |
 
-The most common shape is a **Level-2 team that believes it's Level-3**, often because OKRs are present in name. Cagan: "even in what I consider the best product companies, not every product team is empowered."
+The most common shape is a **Level-2 team that believes it's Level-3**, often because OKRs are present in name. Cagan: "even in what I consider the best product companies, not every product team is empowered." **This is not a reason to discount the exemplars** — [[coaching-agency|Cagan's later elaboration]] reframes the diagnostic question as *"what is the predominant model at a company, and is that model generating the necessary outcomes?"*, not whether any single company is uniformly empowered. Pockets of feature-team behavior exist even at the best companies, and pockets of empowerment exist even at weak ones; place the *org*, not just the one team in front of you.
 
 ## Socratic questions
 Ask one at a time. Listen — don't lead.
@@ -65,6 +65,9 @@ Ask one at a time. Listen — don't lead.
 
 ## What "good" looks like
 A durable cross-functional team given a small number of significant problems each quarter, with measurable outcomes the team helped define. The trio collaborates intensely. Engineers are routinely the source of "we should try X" because they were in the room when the problem was framed. The team meets users weekly, runs cheap tests routinely, and ships small continuous releases. They celebrate when the metric moves — not when something launches. PM is a "future leader of the company" archetype ([[2019-08-29-cagan-product-vs-feature-teams|canon]]).
+
+## When a feature team is genuinely enough
+Not every situation calls for the extra capability of an empowered product team ([[2023-11-28-cagan-transformed-faq|Transformed FAQ]]). An empowered team can do everything a feature team can, plus more — so up-leveling never costs you anything — but two narrow cases are named exceptions: a **bug-fix team**, where there is rarely any need for product discovery; and a **tech-debt / re-platforming team**, once the major architecture decisions are already settled and the remaining work is "plowing through the code base." Both are useful, legitimate teams that don't need the empowered-team apparatus. This is a narrow carve-out, not a general excuse — a team doing anything beyond these two shapes should still be diagnosed against the rubric below.
 
 ## Interventions & experiments
 - **If at Level 1 (delivery team):** the issue is structural and almost always leadership. This rarely improves without [[product-leadership|product leadership]] coming in (or being developed) and explicitly moving the org off the project model. See [[leadership-readiness]]. Don't try to fix one squad alone; the organism above it will reject it.
@@ -84,4 +87,6 @@ A durable cross-functional team given a small number of significant problems eac
 - [[2018-10-31-cagan-empowered-product-teams]] — the long-form on empowerment, leadership/management, ordinary-people staffing.
 - [[2015-11-25-cagan-missionaries-vs-mercenaries]] — the three root causes (leadership / staffing / process) and what to do.
 - [[2021-04-27-cagan-product-vs-project-teams]] — the durability axis — needed alongside this empowerment diagnostic.
+- [[2025-07-02-cagan-agency-vs-ambition]] — supporting; re-quotes and defends the "not every team is empowered" line with the predominant-model reframing and the Federer anecdote.
 - [[transformed]] — root source; the empowered product team is the foundation concept.
+- [[2023-11-28-cagan-transformed-faq]] — supporting; the two named exceptions where a feature team is genuinely sufficient (bug-fix team; settled-architecture re-platforming team).

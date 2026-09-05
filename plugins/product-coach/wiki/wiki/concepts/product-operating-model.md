@@ -7,7 +7,7 @@ tags: [core-concept, product-operating-model, definition]
 sources: ["[[transformed]]", "[[svpg-product-operating-model-introduction]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]"]
 related: ["[[overview]]", "[[empowered-product-teams]]", "[[the-four-big-risks]]", "[[product-strategy]]", "[[product-discovery]]", "[[product-delivery]]", "[[product-culture]]", "[[transformation]]", "[[svpg]]", "[[marty-cagan]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Product Operating Model
@@ -50,3 +50,20 @@ _Field note placeholder — when someone in your org says "we're moving to the p
 - [[2024-01-17-cagan-product-model-concepts]] — the five concepts, written to make the model legible to a non-technical audience.
 - [[2023-03-15-cagan-product-model-competencies]] — the four competencies; "titles without competencies" warning.
 - [[2024-05-21-cagan-moving-to-the-product-operating-model-industry]] — the INDUSTRY keynote naming Atlassian as the term's origin.
+
+## What an *operating model* is at all (Jones)
+
+Before the qualifier "product", the noun itself. [[chris-jones|Jones]]'s working definition, from [[2024-04-03-jones-moving-to-the-product-operating-model-product-people|*Moving to a Product Operating Model*]] — useful because it is the answer to give an executive who has never had the term defined for them:
+
+> **How does a company organise and generally get work done?** — specifically: what are the roles inside the company; how are people in those roles put together, functionally and cross-functionally; **how is work allocated**; what is the actual unit of work; how is that work accomplished; and **what are we holding people accountable for**?
+
+Three consequences Jones draws out:
+
+1. **There are many operating models**, and some work much better than others for particular goals. The product model is the one the consistently innovative companies converge on — *"they'll use different words, but if you interview people within these companies they'll say similar things in terms of the principles they follow."*
+2. **It is not a process and not really a framework.** *"This is a conceptual model. It is very high level on how we actually organise. It is comprised less of tasks and processes and much more of principles."* See [[principles-over-process]].
+3. **It reaches far past product management.** Not just PMs; not even just the product/design/engineering triad — *"it gets far into the other aspects of the company that are nowhere near the technology: the business owners and the various stakeholders."* This is why a transformation run inside product and technology alone stalls, and it is the same point Cagan makes about Chief Digital Officers in [[transformation-anti-patterns]].
+4. **There is no single right way to do it.** *"You go inside the really big, effective technology companies — the Amazons, the Apples, the Spotifys, the Netflixes — there is no single way to do this, but there are some consistent principles behind how these companies do it."* How Apple does product is genuinely different from how Airbnb does product and from how Amazon does product.
+
+## Sources (addition)
+- [[2024-04-03-jones-moving-to-the-product-operating-model-product-people]] — Jones (Apr 2024).
+- [[2024-08-04-jones-empowered-vs-feature-teams-peter-yang]] — Jones (Aug 2024); the same three-category cut of the model (how you build · how you solve problems · how you decide which problems to solve), stated as *product operating principles* before the "three dimensions" phrasing settled.

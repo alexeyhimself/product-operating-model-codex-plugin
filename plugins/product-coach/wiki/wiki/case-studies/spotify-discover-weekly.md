@@ -6,9 +6,9 @@ status: drafting
 tags: [case-study, spotify, discover-weekly, four-risks, discovery, high-integrity-business-case]
 org: "[[spotify]]"
 sources: ["[[2023-10-19-cagan-sunden-product-model-at-spotify]]"]
-related: ["[[spotify]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[product-strategy]]", "[[product-delivery]]", "[[empowered-product-teams]]", "[[empowered-engineers]]", "[[high-integrity-commitments]]", "[[powered-by-insights]]", "[[prototypes]]"]
+related: ["[[spotify]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[product-strategy]]", "[[product-delivery]]", "[[empowered-product-teams]]", "[[empowered-engineers]]", "[[high-integrity-commitments]]", "[[powered-by-insights]]", "[[prototypes]]", "[[intelligent-products]]"]
 created: 2026-07-04
-updated: 2026-07-04
+updated: 2026-09-05
 ---
 
 # The Product Model at Spotify: Discover Weekly
@@ -45,3 +45,4 @@ When a stakeholder (even the CEO) doubts an idea, the product-model move is not 
 
 ## Sources
 - [[2023-10-19-cagan-sunden-product-model-at-spotify]] — the canonical account (Cagan & Joakim Sundén, early Spotify coach); Discover Weekly mapped to the model; the "Spotify Model" myth-correction.
+- [[2025-06-09-cagan-creating-intelligent-products]] — cites Discover Weekly as a worked example of an [[intelligent-products|intelligent product]] (classical ML, probabilistic-by-design) that most people don't register as "AI." Light cross-reference only — the primary account of the case study remains the source above.

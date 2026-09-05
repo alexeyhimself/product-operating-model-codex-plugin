@@ -5,9 +5,9 @@ aliases: [your-evolving-thesis, evolving-thesis, wiki-corrections, wiki-thread]
 status: drafting
 tags: [synthesis, meta, corrections, lineage]
 sources: []
-related: ["[[the-four-big-risks]]", "[[transformation]]", "[[transformation-politics]]", "[[outcomes-over-output]]", "[[the-point-is-outcomes]]", "[[strategic-context]]", "[[overview]]", "[[jeff-patton]]"]
+related: ["[[the-four-big-risks]]", "[[transformation]]", "[[transformation-politics]]", "[[outcomes-over-output]]", "[[the-point-is-outcomes]]", "[[strategic-context]]", "[[overview]]", "[[jeff-patton]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # The Wiki's Evolving Thesis
@@ -37,10 +37,11 @@ The wiki's understanding of the product operating model hasn't been a flat accum
 
 **Product-leader-driven product management, and the Apple story completing itself (2026-07-12).** Apple's page told an open question for months — Cagan's 2015 piece asked how Apple would re-establish product competency after Jobs, without answering it. A newly-found 2023 article closed the loop directly: Apple's answer was product-leader-driven product management, not individual-contributor PMs. Not a correction so much as a story the wiki had been carrying half-finished, completed once the missing article was found sitting un-ingested in `raw/`.
 
+**The non-SVPG boundary, resolved (2026-09-05, ingest-plan Batch 8, Aleksei's call).** The Good Product Manager/Bad Product Manager judgment call — open since this page's first draft — is settled: **Option A**, the narrowest of three proposed tests. A non-SVPG source needs an explicit, checkable Cagan endorsement (a Foreword, a named spot on SVPG's own recommended-reading list) to earn a `wiki/sources/` card, concept page, or entity page; being cited, agreed with, or the acknowledged inspiration for an SVPG piece's format isn't enough. Applied consistently: Horowitz's *Good Product Manager/Bad Product Manager* stays un-ingested in `raw/` permanently, and the `[[products-over-projects-fowler]]`, `[[fake-agile]]`, and `[[story-mapping]]` wikilinks are now closed as deliberate non-targets rather than left open. Teresa Torres's *Continuous Discovery Habits* (Cagan wrote the Foreword) remains the wiki's one standing exception and the template for any future source that clears the bar. The rule itself now lives in `CLAUDE.md` §2, so future ingests don't relitigate it.
+
 ## Where this stands — open tensions, not yet resolved
 - **Moore-vs-Cagan sequencing** (above) — an operational default exists, but it's explicitly a judgment call, not a settled fact. Revisit if a newer primary source directly addresses the tension.
 - **EMPOWERED is ~90% un-ingested at the raw-text level** (flagged 2026-07-12) — not a correction, but the wiki's largest known gap between what it could ground and what it currently does. Everything from EMPOWERED Ch 9 onward is reachable only indirectly.
-- **The Good Product Manager/Bad Product Manager judgment call** — a non-SVPG classic (Ben Horowitz/a16z) sits in `raw/`, deliberately not yet ingested, because including it changes the wiki's root-source discipline in a way that needs an explicit decision, not a default full-build.
 - **Design Thinking's problem-framing techniques are under-addressed** (flagged on [[pom-vs-lean-and-design-thinking]]) — the wiki's critique currently engages the Double Diamond's structure but not empathy mapping, HMW reframing, or other Design Thinking mechanics directly, for lack of a primary SVPG source that does.
 
 ## Related

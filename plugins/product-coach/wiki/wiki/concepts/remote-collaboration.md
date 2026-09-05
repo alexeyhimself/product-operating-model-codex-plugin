@@ -4,10 +4,10 @@ type: concept
 aliases: [remote-collaboration, remote-product-work, collocation-vs-remote, always-on-technique]
 status: drafting
 tags: [remote, collaboration, collocation, discovery, trust, meetings, always-on]
-sources: ["[[2025-02-20-idiodi-hickman-coaching-remote-collaboration]]", "[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]"]
+sources: ["[[2025-02-20-idiodi-hickman-coaching-remote-collaboration]]", "[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]", "[[2025-05-05-cagan-inspired-in-the-generative-ai-era]]"]
 related: ["[[cross-functional-partnering]]", "[[team-collaboration-health]]", "[[team-topology]]", "[[trust-over-control]]", "[[psychological-safety]]", "[[coaching-mindset]]", "[[ai-and-product-teams]]"]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-05
 ---
 
 # Remote Collaboration
@@ -15,7 +15,7 @@ updated: 2026-08-29
 > How empowered product teams do the collaborative half of their work — problem-solving, discovery, decision-making — when they aren't in the same room.
 
 ## Why it matters
-SVPG's historical default has been collocation. *INSPIRED* (both editions) pushed hard for it; the magic of a designer-PM-engineer trio sitting side-by-side is real and hard to replicate remotely. But most product organizations are now remote or hybrid — pandemic-driven, then talent-driven (you cannot hire the best people if you require them to live in Seattle or San Francisco). Remote work is fine for **delivery**; it's **discovery** it damages, because discovery is inherently collaborative and collaboration depends on trust ([[marty-cagan|Cagan]] on [[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams|Product Therapy Ep 20]]). Getting remote collaboration right is what determines whether a distributed team is a product team or a delivery team-in-disguise.
+SVPG's historical default has been collocation. *INSPIRED* (both editions) pushed hard for it; the magic of a designer-PM-engineer trio sitting side-by-side is real and hard to replicate remotely. But most product organizations are now remote or hybrid — pandemic-driven, then talent-driven (you cannot hire the best people if you require them to live in Seattle or San Francisco). Remote work is fine for **delivery**; it's **discovery** it damages, because discovery is inherently collaborative and collaboration depends on trust ([[marty-cagan|Cagan]] on [[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams|Product Therapy Ep 20]]). Getting remote collaboration right is what determines whether a distributed team is a product team or a delivery team-in-disguise. Cagan makes the same point in writing, a stronger and more specific claim than Ep 20's version: remote work's effect is **role-dependent** (sales, customer success, CEOs, engineers, PMs, and designers are affected very differently — most commentary fails to distinguish this), and it's specifically why "so many leading product model companies are pushing for a return to the office" for discovery and innovation work ([[2025-05-05-cagan-inspired-in-the-generative-ai-era|INSPIRED in the Generative AI Era]]).
 
 ## How it works
 **The rules of proximity** ([[lea-hickman|Hickman]] on [[2025-02-20-idiodi-hickman-coaching-remote-collaboration|Product Therapy Ep 15]]): you optimize proximity for the biggest *gap*.
@@ -76,3 +76,4 @@ When coaching a remote team that reports friction, first probe for the false-tru
 ## Sources
 - [[2025-02-20-idiodi-hickman-coaching-remote-collaboration]] — **primary root** ([[lea-hickman|Hickman]] · Product Therapy Ep 15)
 - [[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]] — Ep 20's remote-work-and-AI section
+- [[2025-05-05-cagan-inspired-in-the-generative-ai-era]] — supporting; the role-dependent framing and the return-to-office-for-discovery observation, from Cagan's 2025 INSPIRED preface.

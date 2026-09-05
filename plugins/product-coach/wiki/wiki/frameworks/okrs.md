@@ -7,7 +7,7 @@ tags: [framework, okrs, team-objectives, outcomes, empowerment]
 sources: ["[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[transformed]]", "[[inspired]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]"]
 related: ["[[team-objectives]]", "[[outcomes-over-output]]", "[[the-point-is-outcomes]]", "[[product-strategy]]", "[[product-leadership]]", "[[empowered-product-teams]]", "[[high-integrity-commitments]]", "[[placing-bets]]", "[[google-product-model]]"]
 created: 2026-07-04
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # OKRs
@@ -139,6 +139,29 @@ OKRs are the vehicle for [[outcomes-over-output|outcomes over output]], and [[20
 - **Skipping weekly management** — the quiet death of most OKR programs.
 - **Vague problems / measuring the wrong things** — no executive can define "provide integrated platforms"; pick clear problems and true outcome measures ([[2025-03-17-cagan-castro-outcomes-are-hard|Outcomes Are Hard]]).
 
+## Metrics run amok, and objectives that belong to a team (Jones, 2024)
+
+Two additions from [[2024-08-04-jones-empowered-vs-feature-teams-peter-yang|*Real Talk about Empowered vs. Feature Product Teams*]], prompted by the interviewer's account of PMs at Meta measured on hitting a quarterly metric target — and making bad trade-offs to hit it (*"I'm just going to put a big banner on the feed to get users in so I can meet my target"*).
+
+**The KR is a proxy, and the O is the thing.** Jones does not defend the practice, but he does locate the error:
+
+> *"OKRs by themselves are not going to solve things. You've got the measurable quantitative metric, the KR — but there's always the **O**. The objective, stated in prose: this is what we're trying to do and why it's important. By the way, this KR is just a proxy, and we might actually put another proxy in there. And we certainly don't want to craft the KRs in a way that people can game and artificially drive the metric — you've lost the plot again."*
+
+**Objectives belong to the cross-functional team, not to functional roles.** SVPG advocates the outcome being **shared** by the whole team rather than split — the PM owns this metric, engineering owns those. Jones's argument is behavioural, not fair-shares:
+
+> *"That actually **compels** people to collaborate. There's now an economic incentive for people to be working together, because they're all responsible for the same outcome. Imagine you're an engineer on a team like that, you see the team barrelling toward something, and you're suspicious — 'is that really going to move this? Have we done enough discovery, enough experimentation, before we spend a lot of resources?' When you put those OKRs on the collective team, those conversations start to happen. When you don't — when each person is responsible for their own thing — they're not talking. There's no **need** to talk."*
+
+He can still imagine a team collectively gaming a metric; the point is that functional metrics guarantee the conversation never happens at all.
+
+**An OKR lockup is usually a strategy symptom.** Jones's diagnosis of the quarterly alignment ritual — rooms of PMs reconciling dependencies for hours — is that it is *"usually a sign that leadership hasn't done a very good job of setting product strategy or setting product vision. When you have a top-down idea of where things are ultimately going, it's easier to get the OKRs rationalised with that. When it isn't there, everybody's just in the weeds mucking around trying to get things to line up in a way that makes sense."* See [[product-strategy]] and [[strategic-context]].
+
+**What a leader owes a team along with the objective** ([[christian-idiodi|Idiodi]], [[2023-05-30-idiodi-building-strong-product-cultures-product-unfiltered]]) — three things, plus a fourth that is usually missing:
+
+1. **What** the problem is.
+2. **Why** it is a potent problem to solve right now. *"If I just tell you go make more revenue, you're not really empowered."* His worked version: customer satisfaction matters because satisfied customers stay longer, longer tenure means more lifetime value, and here is the arithmetic.
+3. **How success will be measured** — NPS, survey, LTV, engagement, adoption, success rate; name it.
+4. **The constraints and health metrics you must not damage while pursuing it.** His reductio: told to increase customer satisfaction, a team could buy every customer a boat, and it *would* work. The reason they cannot is a constraint — maintain existing profit — and if leadership does not state it, the team is guessing. *"You're actively driving a key metric while keeping your eye on health metrics, balancing metrics."*
+
 ## In your context
 _Field note placeholder — do your key results describe outcomes or deliverables? Do the targets come from the team or from leadership? Is there a weekly check-in? Are you sure the technique isn't running on top of a feature-team culture?_
 
@@ -166,3 +189,6 @@ _Field note placeholder — do your key results describe outcomes or deliverable
 - [[transformed]] — root source; team objectives / outcomes in the product model.
 - [[2016-02-09-cagan-when-performance-is-measured-by-results]] — origin story: HP's MBO training, the Patton motivation quote, the "measured by results" tagline, and the MBO → Intel → OKR lineage.
 - [[inspired]] Chs 27 + 28 + 29 + 30 — **primary (book-length)** OKR canon. Ch 27 (Product Objectives overview) the HP → Intel → Google lineage + two founding principles (Patton motivation + HP "measured by results"). Ch 28 (The OKR Technique) the 10 critical points + transparency + role split (senior mgmt → org OKRs · heads of product+tech → team OKRs · teams propose KRs). Ch 29 (Product Team Objectives) the cascade-up rule + why functional-department OKRs undermine cross-functional product teams. Ch 30 (Product Objectives @ Scale) leadership assigns teams to org objectives · platform-team dependencies · the reconciliation process · delivery managers tracking dependencies · BU-level rollup. Deep-read in the INSPIRED 2nd-ed close-the-gaps pass (2026-07-12).
+
+- [[2024-08-04-jones-empowered-vs-feature-teams-peter-yang]] — Jones (Aug 2024); the KR-as-proxy correction, shared team objectives as a collaboration mechanism, and the OKR-lockup-as-strategy-symptom diagnosis.
+- [[2023-05-30-idiodi-building-strong-product-cultures-product-unfiltered]] — Idiodi (May 2023); the what/why/how-measured triad plus explicit constraints and health metrics.

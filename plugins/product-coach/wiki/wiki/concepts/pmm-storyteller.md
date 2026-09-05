@@ -112,11 +112,11 @@ _Agent prompt: does your messaging pass CAST — Clear · Authentic · Simple ·
 ## Related
 - [[product-marketing]] — the competency this is a fundamental of.
 - The other three fundamentals: [[pmm-ambassador]] · [[pmm-strategist]] · [[pmm-evangelist]].
-- **Positioning + Messaging deep-dives:** [[loved|LOVED]] Chs 21–24 (Part Four) — Discover Your Position · CAST guide · Netflix/Zendesk case studies · category create-vs-redefine. Not yet ingested (LOVED Pass 3 planned).
-- **The One-Sheet Messaging Canvas** ([[loved|LOVED]] Ch 25) — the practical artifact for messaging. Future page.
+- **Positioning + Messaging deep-dives:** [[loved|LOVED]] Chs 21–24 (Part Four — Storyteller: Clarity and Authenticity) — Discover Your Position · CAST guide · Netflix/Zendesk case studies · category create-vs-redefine. Deep-read in LOVED Pass 3b (2026-07-12); grounded new pages [[positioning]] (Chs 21 + 24) and [[messaging]] (Chs 22 + 23) — see the *Deep pass — Part Four* section of [[loved]].
+- **The One-Sheet Messaging Canvas** ([[loved|LOVED]] Ch 25) — the practical artifact for messaging; now grounded on the [[one-sheet-messaging-canvas]] page (LOVED Pass 3b, 2026-07-12).
 
 ## Sources
 - [[loved]] Ch 5 — root source; the positioning/messaging distinction; Use Formulas as Input Not Output; the Looker/RJMetrics worked example; **CAST**; the Tendency to Be Overly Precise; SEO discipline; Positioning = Your Actions + Others' + the dark-funnel framing; The Long Game. Deep-read in LOVED Pass 1 (2026-07-12).
-- [[loved]] Chs 21–25 (Part Four) — Storyteller deep-dives; not yet ingested (LOVED Pass 3 planned).
+- [[loved]] Chs 21–25 (Part Four — Storyteller: Clarity and Authenticity) — deep-read in LOVED Pass 3b (2026-07-12); grounded new pages [[positioning]] (Chs 21 + 24), [[messaging]] (Chs 22 + 23), [[one-sheet-messaging-canvas]] (Ch 25) — see the *Deep pass — Part Four* section of [[loved]].
 - [[transformed]] Ch 23 — the PM-side view lists **messaging + positioning** as one of the eight PM ↔ PMM collaboration areas.
 - [[martina-lauchengco]] — author.

@@ -11,7 +11,7 @@ source_url: https://www.svpg.com/transformation-defined/
 date: 2022-05-31
 related: ["[[jon-moore]]", "[[svpg]]", "[[transformed]]", "[[transformation]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2022-09-18-moore-the-transformation-series]]"]
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-09-05
 ---
 
 # Moore — Transformation Defined
@@ -25,7 +25,8 @@ updated: 2026-06-21
 - concepts: [[transformation]] (root canon), [[product-delivery]] (the *Build* dimension), [[product-discovery]] (the *Solve* dimension), [[product-strategy]] (the *Decide* dimension), [[empowered-product-teams]], [[feature-teams-vs-product-teams]]
 - diagnostics: [[model-maturity]] (three-dimension scoring frame)
 - entities: [[jon-moore]] (author), [[svpg]] (publisher)
-- related linked references: [[transformed]] (book this article previews), [[2022-09-18-moore-the-transformation-series|the Transformation Series index]], [[pilot-teams]], [[fake-agile]]
+- related linked references: [[transformed]] (book this article previews), [[2022-09-18-moore-the-transformation-series|the Transformation Series index]], [[pilot-teams]]
+- `[[fake-agile]]` — **closed as a deliberate non-target, 2026-09-05** (ingest-plan Batch 8, non-SVPG boundary decision, Option A — see `CLAUDE.md` §2). Steve Denning's Forbes "fake Agile" piece is a phrase the wiki references, not a body of thought it needs — Cagan never endorsed it. No source or entity page will be built; attribute the real-vs-fake-Agile distinction to SVPG's own articles ([[2025-01-28-cagan-the-product-model-and-agile]], [[2018-06-30-cagan-revenge-of-the-pmo]]).
 
 ## Notes for the coach
 - **Cite this as the *root* of the three-dimensions framing** — the three Sep-2022 Moore articles are the deep-dives. Prior wiki framing attributed the framework to those three articles; this article is where Moore first names it.

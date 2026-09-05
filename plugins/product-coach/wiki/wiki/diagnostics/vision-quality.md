@@ -5,10 +5,10 @@ aliases: [vision-quality, product-vision-diagnostic, vision-health]
 status: drafting
 tags: [diagnostic, product-vision, product-leadership, strategic-context]
 assesses: Whether an organization's product vision is actually doing its job — inspiring and orienting teams over a multi-year horizon — or is a slogan, a roadmap in disguise, or absent entirely.
-sources: ["[[product-vision]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[empowered]]", "[[transformed]]"]
-related: ["[[product-vision]]", "[[product-leadership]]", "[[product-strategy]]", "[[leadership-readiness]]", "[[missionaries-vs-mercenaries]]", "[[strategic-context]]"]
+sources: ["[[product-vision]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[2024-01-02-cagan-power-of-visiontypes]]", "[[empowered]]", "[[transformed]]"]
+related: ["[[product-vision]]", "[[visiontype]]", "[[product-leadership]]", "[[product-strategy]]", "[[leadership-readiness]]", "[[missionaries-vs-mercenaries]]", "[[strategic-context]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Vision Quality — Diagnostic
@@ -43,7 +43,7 @@ Vision is what makes [[missionaries-vs-mercenaries|missionaries]] instead of mer
 | **1** | **Absent or roadmap-as-vision** | No stated multi-year vision, or "the vision" is really just the current roadmap restated. Teams have no shared destination beyond this quarter. |
 | **2** | **Slogan vision** | A vision exists and sounds inspiring, but doesn't say *how* customers' lives improve — no one can act differently because of it. Often unowned below the CEO. |
 | **3** | **Working vision** | Concrete, customer-improving, 2–5 year horizon (5–10 for hardware), owned by the head of product with real CEO buy-in. Most teams can restate it accurately. Hasn't changed materially in over a year absent a genuine pivot. |
-| **4** | **Missionary-generating vision** | Above, plus it's visibly a recruiting and retention force — people cite it as why they joined and stayed — and it survives leadership turnover because it's genuinely shared, not one person's pet phrase. |
+| **4** | **Missionary-generating vision** | Above, plus it's visibly a recruiting and retention force — people cite it as why they joined and stayed — and it survives leadership turnover because it's genuinely shared, not one person's pet phrase. Often backed by a concrete **[[visiontype]]** (a rendering, storyboard, or demo), not just a written statement. |
 
 ## Socratic questions
 Ask one at a time. Listen — don't lead.
@@ -58,7 +58,7 @@ Ask one at a time. Listen — don't lead.
 A vision 2–5 years out (5–10 for device companies), stated in terms of how customers' lives improve, owned by the head of product with genuine CEO buy-in, unchanged for a year or more absent a real pivot, and restated consistently — with the *how*, not just the *what* — by people well below the leadership team who wrote it.
 
 ## Interventions & experiments
-- **If at Level 1 (absent/roadmap-as-vision):** this is a leadership gap, not a team gap — see [[leadership-readiness]]. A [[product-coach|product leadership coach]] or a facilitated 1–2 day offsite with the right 5–15 people (CEO, heads of product/tech/design/marketing/sales, strong ICs), informed by written narratives on the nine crafting factors, is Cagan's own prescription. Don't let a single person draft it alone and announce it.
+- **If at Level 1 (absent/roadmap-as-vision):** this is a leadership gap, not a team gap — see [[leadership-readiness]]. A [[product-coach|product leadership coach]] or a facilitated 1–2 day offsite with the right 5–15 people (CEO, heads of product/tech/design/marketing/sales, strong ICs), informed by written narratives on the nine crafting factors, is Cagan's own prescription. Don't let a single person draft it alone and announce it. Once direction exists, consider whether a **[[visiontype|visiontype]]** — a concrete prototype of the future, not just a written statement — would make the vision easier to rally around.
 - **If at Level 2 (slogan vision):** rewrite for concreteness, not inspiration — force the *how*. If the current vision can't answer "how does this improve a customer's life, specifically," it needs another pass before it's worth evangelizing further.
 - **If at Level 3:** the risk is under-evangelizing — vision that's right but rarely repeated fades from teams' daily framing. Build it into onboarding, all-hands, and 1:1s as a matter of habit ([[product-leadership|evangelism is never "done"]]).
 - **If at Level 4:** the risk is leadership succession — a vision this good is often tied to the person who articulated it. Deliberately test whether other leaders can carry and evangelize it, not just the originator.
@@ -68,13 +68,14 @@ A vision 2–5 years out (5–10 for device companies), stated in terms of how c
 [[2025-05-29-idiodi-moore-coaching-vision|Ep 21 (Moore)]] adds the crispest single test for whether a vision is actually strong: **the CFO test.** The finance team gets excited about it. The head of corporate affairs stomps up and down excited about the next 5 years. Every non-product function feels drawn in. Product/tech teams tend to grok vision naturally (their day-job is imagining futures) — non-product functions are the real test. A vision that lights up only PMs is a *product-team artifact*, not a company vision. Moore's practical validation method behind it: **deep-then-broad** — go deep with a small set of customers per target geography to understand problems, draw tentative conclusions, then go broad to validate. Result: when the CFO asks *"why these problems?"*, you can say *"I have quant and I can prove they're critical"* — which is what got Trainline's vision through the CFO conversation. Moore also names the crucial time-horizon compression under GenAI: many companies now ask for **12–18 month visions** rather than 3–5 year, because tech is changing too fast for a 5-year commit. Both defaults are correct — pick based on the company's tech-change velocity.
 
 ## Related
-- concepts: [[product-vision]], [[product-strategy]], [[strategic-context]], [[missionaries-vs-mercenaries]]
+- concepts: [[product-vision]], [[visiontype]], [[product-strategy]], [[strategic-context]], [[missionaries-vs-mercenaries]]
 - competencies: [[product-leadership]]
 - diagnostics: [[leadership-readiness]], [[product-strategy-quality]], [[model-maturity]]
 
 ## Sources
 - [[product-vision]] — the concept page this diagnostic formalizes into a rubric.
 - [[2020-08-10-cagan-product-vision-faq]] — root source; timeframe, scope, ownership, the nine crafting factors, refresh cadence, the "abandoned too soon" failure mode, the empty-vision anti-patterns.
+- [[2024-01-02-cagan-power-of-visiontypes]] — the visiontype as a Level-4 signal; see [[visiontype]].
 - [[2025-05-29-idiodi-moore-coaching-vision]] — Product Therapy Ep 21; the CFO test, the three core ingredients, the deep-then-broad validation method, the time-horizon compression under GenAI.
 - [[empowered]] — Ch 3; the North Star framing; the vision as "the single most powerful recruiting tool for strong product people."
 - [[transformed]] — root source; vision in the empowered model (Ch 13).

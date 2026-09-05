@@ -7,7 +7,7 @@ tags: [product-marketing, positioning, storytelling, category, market-position]
 sources: ["[[loved]]", "[[martina-lauchengco]]"]
 related: ["[[product-marketing]]", "[[pmm-storyteller]]", "[[messaging]]", "[[one-sheet-messaging-canvas]]", "[[technology-adoption-life-cycle]]", "[[loved]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Positioning
@@ -104,6 +104,26 @@ Ch 24's closing: *"The earlier in a product's life you are, the more you must te
 
 *"The more mature you are, the more understood your product and category is. Product messaging can be more aspirational in mature categories. It's equally important to focus on building toward a longer-term position that redraws the goalposts of your category and leans them toward your company's vision."*
 
+## Positioning is the sum of what you do, not what you say (Lauchengco, 2022)
+
+The distinction [[martina-lauchengco|Lauchengco]] draws most sharply in [[2022-08-20-lauchengco-designing-products-that-are-loved-language-of-leadership|*Language of Leadership* #021]], because positioning and [[messaging]] are used interchangeably and are not the same thing:
+
+**Why they used to be the same.** In the early days of software there were perhaps ten companies in a category and one store could stock all of them. Positioning *was* a positioning statement — a one-time artefact. You said the thing, and the thing was true.
+
+**Why they no longer are.** Five and a half million apps; a single software category with as many entrants as the planet has cities. In that density your position cannot be carried by a sentence. It is **the sum of everything you do**: what you bundle, at what price, who you affiliate with, when you show up, what you sponsor.
+
+Her worked example is YouTube TV: someone decided the position was *the things you actually care about, at a fraction of the cable bill*; that the initial beachhead was sports fans; that the money would therefore go disproportionately into sponsoring and advertising around live sports, even ahead of what user acquisition alone justified — because occupying that space in the market mattered more. **All of that is the positioning.** The words were the smallest part of it.
+
+## The say-do gap — and its limit (Lauchengco)
+
+Lauchengco's term (she teaches it) for the distance between what people say they believe and what they actually do. Her instruction to teams: **bias toward observed action** — product data, clicks, anything that captures behaviour rather than self-report.
+
+Then the qualification, which is the part worth keeping:
+
+> *"You might look at actions and clicks and it says of options A, B or C, C is absolutely preferred, unequivocally. It doesn't mean C is the answer. It might mean C was preferred based on A, B and C — the options that they saw."*
+
+Revealed preference tells you which of the options *you showed* won. If C wins but C does not move you toward the position you need to hold in 6–12 months, the move is to ship a **variation** of C and go do the market-education work — with influencers and analysts, so it is not only you carrying the message. Data resolves the local question; positioning is the non-local one. A useful counterweight to naive data-driven prioritisation, and a companion to [[product-discovery]]'s distinction between what people say and what they do.
+
 ## Anti-patterns & misunderstandings
 - **Announcing your positioning as a marketing event.** Positioning is earned across every interaction, over time.
 - **Trying to create a category before the industry is moving with you.** Loudcloud in 2000. Wait for confirmation from competition, adoption, pundits, data.
@@ -127,3 +147,6 @@ _Agent prompt: what "You are here" marker in your customers' minds are you ancho
 - [[loved]] Ch 21 — root source for Discover Your Position; the Brendan/RSA opening; Microsoft Office integrated-suite worked example; positioning-vs-messaging distinction; iterative positioning discovery. Deep-read in LOVED Pass 3b (2026-07-12).
 - [[loved]] Ch 24 — the timing balancing act; Microsoft Office Internet-ready vs Loudcloud cloud-in-2000; *"competition isn't a crowd, it's confirmation"*; Table 24.1 create-new vs redefine-existing; leveraging PM/sales/search.
 - [[martina-lauchengco]] — author.
+
+- [[2022-08-20-lauchengco-designing-products-that-are-loved-language-of-leadership]] — Lauchengco (Aug 2022); positioning-as-sum-of-actions, the YouTube TV example, and the say-do gap with its limit.
+- [[2022-04-27-lauchengco-loved-lean-product-meetup]] — Lauchengco, Lean Product Meetup (Apr 2022); the Microsoft Word repositioning as the worked case of positioning carrying a release the product alone would not have.

@@ -7,7 +7,7 @@ tags: [product-marketing, product-management, partnership, cross-functional, tri
 sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]"]
 related: ["[[product-marketing]]", "[[product-manager]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[cross-functional-partnering]]", "[[stakeholder-relationship-health]]", "[[loved]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # PMM ↔ PM Partnership
@@ -102,3 +102,20 @@ _Agent prompt: is your PMM embedded with the product squad or attached at a dist
 - [[loved]] Ch 8 — root source; Word-for-the-Mac opening; the *"quad"* framing; the PMM-side view of the partnership; the 7 healthy-partnership indicators; the ratio question (1:2.5 avg); the 5 alignment patterns; the 3 anti-patterns; the weekly/bimonthly/quarterly cadence. Deep-read in LOVED Pass 2 (2026-07-12).
 - [[transformed]] Ch 23 — the PM-side view; complementary primary.
 - [[martina-lauchengco]] — author.
+
+## The yin-and-yang description (Lauchengco, 2022)
+
+Asked how the PM/PMM relationship actually works day to day at an early-stage company ([[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id|RED-ID]]), [[martina-lauchengco|Lauchengco]]'s answer:
+
+At early stage, someone wears the hat whether or not they hold the title — *"if you do not do foundational product marketing, it's just so much harder"* to succeed in market, and there is a large gap between companies that have that foundation and those that build first and figure out how to talk about it afterwards.
+
+When both roles exist, they are **collaborative generalists — two sides of one coin.** The same highly variable signal arrives (some market, some product, some customer); the product side interprets it as *what should we build*, the product-marketing side as *what should our market actions be* — press, an event, a change in how we talk about this, a campaign against this audience. **At minimum they meet weekly** to compare what each has heard and decide what's next. As a company matures and product marketing specialises by market, vertical or segment, the relationship becomes less dynamic on the product side and more expressive on the market side.
+
+**The asymmetric responsibility, which is the part for product people:**
+
+> *"If you feel like your product marketer isn't able to be your equal partner, the **product team** is the one that has the most potential to influence that person getting there."*
+
+What gives a product marketer organisational credibility is depth of product knowledge — the *why* behind the features and why this is a superior way of solving the problem — because that *why* is what they carry to sales, to analysts, to the market. Investing in it *"pays massive dividends."*
+
+## Sources (addition)
+- [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id]] — Lauchengco (May 2022); the yin-and-yang description, the weekly cadence, and the product team's responsibility for its PMM's depth.

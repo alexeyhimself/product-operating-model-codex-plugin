@@ -4,7 +4,7 @@ type: overview
 aliases: [recommended-library, recommended-reading, recommended-resources, what-should-i-read]
 status: drafting
 tags: [resources, recommendations, books, videos, reading-list]
-sources: ["[[transformed]]", "[[svpg-product-operating-model-introduction]]", "[[svpg-cagan-on-principles-dalio]]"]
+sources: ["[[transformed]]", "[[svpg-product-operating-model-introduction]]", "[[svpg-cagan-on-principles-dalio]]", "[[2024-05-14-cagan-book-discussion-guide]]"]
 related: ["[[overview]]", "[[svpg]]", "[[marty-cagan]]", "[[loved]]", "[[product-marketing]]"]
 created: 2026-06-15
 updated: 2026-07-04
@@ -22,6 +22,7 @@ updated: 2026-07-04
 
 ### Foundations — the Product Operating Model itself
 - **[[transformed|TRANSFORMED]]** — Cagan, Hickman, Idiodi, Jones, Moore. The model end-to-end; the root of the [[overview|20 first principles]]. → [book](https://www.svpg.com/books/transformed-moving-to-the-product-operating-model/)
+- **Reading order** ([[2024-05-14-cagan-book-discussion-guide|Cagan's own recommendation]]): the four SVPG books are stand-alone and can be read in any order, but for people who ask — start with *TRANSFORMED* for the model overview, then branch by role/interest into *[[inspired|INSPIRED]]* (PMs and product teams), *[[empowered|EMPOWERED]]* (product leaders), or *[[loved|LOVED]]* (product marketing). A discussion-question guide for reading groups on all four books is available at the same source.
 - 🎥 **Video — The Product Operating Model (overview)**, SVPG → [youtube](https://www.youtube.com/watch?v=Tj7uKMT9Ih4)
 - 📄 SVPG, *The Product Operating Model: An Introduction* → [svpg.com](https://www.svpg.com/the-product-operating-model-an-introduction/) · *TRANSFORMED Article Series* → [svpg.com](https://www.svpg.com/transformation-series/)
 

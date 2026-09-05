@@ -4,10 +4,10 @@ type: concept
 aliases: [team-topology, topology, product-org-design]
 status: drafting
 tags: [team-topology, org-design, product-leadership, empowerment]
-sources: ["[[transformed]]", "[[empowered]]", "[[inspired]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2021-03-23-cagan-internal-data-products-designing-for-analytics]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-08-07-idiodi-cagan-coaching-team-topology]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[inspired]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2021-03-23-cagan-internal-data-products-designing-for-analytics]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-08-07-idiodi-cagan-coaching-team-topology]]", "[[2025-04-18-cagan-team-autonomy-and-ai]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]", "[[2023-11-28-cagan-transformed-faq]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]"]
 related: ["[[product-leadership]]", "[[empowered-product-teams]]", "[[product-strategy]]", "[[product-vision]]", "[[the-product-team-trio]]", "[[data-product-management]]", "[[google-product-model]]", "[[okrs]]", "[[team-objectives]]", "[[psychological-safety]]", "[[ai-and-product-teams]]", "[[team-collaboration-health]]"]
 created: 2026-06-20
-updated: 2026-08-29
+updated: 2026-09-05
 ---
 
 # Team Topology
@@ -31,6 +31,16 @@ updated: 2026-08-29
 - **Pool-allocation by another name** — teams that look durable on paper but are reshuffled per quarter.
 - **Team scope larger than the team can own** — too many domains; no team can become expert in any.
 - **Team scope smaller than the problem** — the team owns half a workflow; the other half is "someone else's team."
+
+## Empowerment vs autonomy
+[[2025-04-18-cagan-team-autonomy-and-ai|Cagan]] draws a distinction the wiki previously only used informally (as a topology symptom, in the Ep 25 "three signs" section below) without ever formally defining. The underlying frustration — depending on other teams to get anything meaningful done — is already named in [[2023-06-09-cagan-preparing-for-the-future|Preparing For The Future]] (2023) §2, but that article doesn't yet split it into two named concepts:
+
+- **Empowerment** — the team's ability to discover the best solution to the problem it's been asked to solve. Coming from a feature team handed a prioritized roadmap, this alone is a big step up in responsibility.
+- **Autonomy** — the team's ability to build, test, and deploy that solution **without depending on other product teams or entities** — meaning it has the necessary skills, tools, data, and access.
+
+**The gap, verbatim:** "In most companies beyond very small startups, a product team may have empowerment, but they don't have full autonomy." A team can be genuinely empowered and still chronically frustrated — a distinct failure mode from never being empowered at all. Root causes: legacy systems, older team topologies, cognitive-load limits, and specialized languages/technologies not every engineer knows. The common complaint — "getting something built takes weeks longer than it would otherwise" — is an autonomy problem, not an empowerment problem.
+
+**Why AI changes this.** Most attention on GenAI coding tools goes to generating new code; the more profound effect here is on **navigating and safely changing very large, often undocumented legacy codebases** — an on-call engineer fixing another team's code over a weekend, or reversing years of accumulated technical debt without the months-or-years cost of reverse-engineering it by hand. The result isn't just faster discovery and delivery — it's **more autonomy** and less of the cross-team-dependency frustration that empowerment alone doesn't fix.
 
 ## Facing, enabling, and platform teams
 A non-startup has many product teams — often hundreds — kept aligned by [[product-leadership]], [[product-vision]], and [[product-strategy]]. Three kinds ([[2021-03-23-cagan-internal-data-products-designing-for-analytics|canon]], [[2024-06-24-cagan-pm-and-experimentation-testing-insights|canon]]):
@@ -89,7 +99,7 @@ The critical context = (1) the overall product vision + (2) the specific busines
 
 **Naming credit.** SVPG had no name for this concept until Skelton & Pais's *Team Topologies* book (DevOps origin). Cagan reached out and asked to use the name — they agreed. **Two complementary perspectives:** the book optimizes for **throughput/flow** (bottom-up, DevOps); SVPG optimizes for **outcomes** (top-down, empowered teams). Both worth reading.
 
-**Topology ≠ org structure.** Org structure = reporting relationships (engineers report to eng managers, designers to design managers — the functional model is most common). Topology = *who is on each product team and what each product team is responsible for.* Same org structure can produce many different topologies. This distinction is Cagan's crispest statement to date; use it to close down definitional debates.
+**Topology ≠ org structure.** Org structure = reporting relationships (engineers report to eng managers, designers to design managers — the functional model is most common). Topology = *who is on each product team and what each product team is responsible for.* Same org structure can produce many different topologies. This distinction is Cagan's crispest statement to date; use it to close down definitional debates. **See [[org-design-models]]** for the org-structure side of this distinction in full — the GM/Functional/Hybrid models this page deliberately does not cover.
 
 **Cognitive load** (Cagan credits the *Team Topologies* book for surfacing this well). *"How much can you really fit in your head at one time when you're working on a specific problem?"* Thousands of business rules, millions of lines of code, layers of tech stack, APIs, SDKs — teams get lost in details. Under-discussed because it's a *squishy* factor that varies person-to-person.
 
@@ -125,11 +135,35 @@ The critical context = (1) the overall product vision + (2) the specific busines
 ## The future shape of teams (AI era)
 Two shifts Cagan flags ([[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto|Modern CTO]]): the **average number of engineers per team is going down** (smaller teams communicate better — "a four is really easy"), while the **scope of each team is going up** (GenAI raises engineers' cognitive capacity, so a team can own more end-to-end and suffer fewer painful cross-team dependencies — the most common complaint of even good empowered teams). The open question is whether companies use this to do *more* (pursue the vision faster) or the *same with fewer people*.
 
+**Root and mechanism.** [[2023-06-09-cagan-preparing-for-the-future|Preparing For The Future]] (Jun 2023) is the actual earliest origin of this claim — three years ahead of the Modern CTO talk and 22 months ahead of [[2025-04-18-cagan-team-autonomy-and-ai|Team Autonomy and AI]] — and it's also where Cagan first poses the more-vs-fewer-people question itself, explicitly hedged: *"There's no law that says this will continue to happen, but I believe it will. Although... it's never a smooth transition. There are always casualties."* [[2025-04-18-cagan-team-autonomy-and-ai|Team Autonomy and AI]] stays primary for the mechanism the 2023 article doesn't yet name — specifically **legacy-code navigability** (see the empowerment-vs-autonomy section above) — and for formally naming and splitting the empowerment-vs-autonomy distinction. Cite the 2023 article for the earliest framing of *why* topology changes and of the open question itself; cite the 2025 article as primary for the mechanism; the Modern CTO podcast deepens *what it looks like day to day*.
+
+**Checked against this question and ruled out — not resolving.** [[2026-07-23-cagan-the-ai-productivity-paradox|The AI Productivity Paradox]] (Jul 2026) and [[2026-08-10-cagan-a-fresh-definition-of-the-product-role|A Fresh Definition of The Product Role]] (Aug 2026) — the two most plausible later written follow-ups by date — were checked against this open question during the Sep-2026 ingest and neither resolves it. The Productivity Paradox is about *outcome quality* (whether AI speed converts to results), an axis orthogonal to headcount; Fresh Definition is about defining the product role via Benedict Evans's framing, unrelated to team sizing. **The open question stands, unresolved as of this ingest** — do not cite either article as an answer.
+
+## Topology is orthogonal to org design — and stakeholders navigate it through leadership
+[[2023-11-28-cagan-transformed-faq|Transformed FAQ]]: adopting the product model does not, in most cases, require reorganizing — the model is largely orthogonal to organizational design. The fuller treatment (GM / Functional / Hybrid org-structure models, and why they're a different axis from topology) lives on [[org-design-models]], rooted in [[2024-07-30-cagan-the-product-model-and-org-design|The Product Model and Org Design]] (ingested in Batch 6, concurrently with this batch) — this page already cross-links it above under "Topology ≠ org structure." From the outside, [[2025-12-01-jones-cagan-stakeholders-and-the-product-model|Jones & Cagan's stakeholder-facing article]] adds the practical corollary: when multiple product teams contribute to one offering, a stakeholder's primary contact is usually product leadership, who route to a specific PM as needed — a stakeholder does not need to track the topology itself to work effectively with it.
+
+## Five ways to cut teams, and the tell-tales of a wrong cut (Jones, 2024)
+
+[[chris-jones|Jones]] in [[2024-11-02-jones-from-features-to-outcomes-khodor|*From Features to Outcomes*]], asked directly whether to organise around KPIs, technologies or problems. His answer starts by refusing the premise that you pick *one*: a company almost always employs several, in pockets.
+
+**The cuts:**
+1. **Technology layer** — mobile, web, backend, a model-building team. Comfortable (engineers together, same reporting line), and the one most orgs default to.
+2. **Actor in the ecosystem** — a retailer splitting merchants vs. online shoppers vs. in-store shoppers.
+3. **A facet of the journey / experience.**
+4. **Vertical industry** — serving financial services differently from manufacturing or media.
+5. **Go-to-market motion** — direct-sales portfolio vs. self-service SMB.
+
+**On organising a team around a KPI, Jones is explicitly unenthusiastic** — growth teams specifically. They cut across many other teams, generate dependencies, and lose broader context. His preference: let the KPI show up **in the problems allocated to teams** ("for this quarter, growth is the most important thing for you") rather than in the org chart. The exception he grants: if a KPI genuinely needs deep focus over a long period, homing it in a team may be right.
+
+**Two tell-tales that the topology is wrong:**
+- **Drowning in dependencies.** Cross-team collaboration never goes to zero, but if enormous time and energy goes into getting six teams to collaborate, redraw the boundaries.
+- **Charters so thin that nobody owns anything.** Lots of small teams each holding a tiny piece, disconnected from any impact — *"you're really not in a position where you're creating this sense of empowerment through ownership of something."* See [[sense-of-ownership]].
+
 ## In your context
 _Field note placeholder — pick a product team. Can it ship a meaningful end-to-end change without depending on another team? If no, who designed that dependency, and is it intentional?_
 
 ## Related
-- [[product-leadership]], [[empowered-product-teams]], [[product-strategy]], [[product-vision]], [[the-product-team-trio]]
+- [[product-leadership]], [[empowered-product-teams]], [[product-strategy]], [[product-vision]], [[the-product-team-trio]], [[org-design-models]]
 - Note: the book *[[transformed|TRANSFORMED]]* references Matthew Skelton & Manuel Pais's *Team Topologies* (2019) for the deeper treatment — useful further reading.
 
 ## Sources
@@ -143,4 +177,12 @@ _Field note placeholder — pick a product team. Can it ship a meaningful end-to
 - [[2025-12-19-cagan-lieberich-product-model-at-google]] — broadcast problems; multiple teams on one problem at planet scale; backs [[google-product-model]].
 - [[2020-03-04-cagan-team-objectives-collaboration]] — shared vs common objectives; swarms; the product-attribution problem.
 - [[2025-08-07-idiodi-cagan-coaching-team-topology]] — Product Therapy Ep 25 (Cagan); the most complete podcast-form teaching to date. Topology-vs-org-structure distinction, cognitive load, three signs of a topology problem, co-ownership by Head of Product + Head of Eng, durable teams, CPE, AI-teams-as-mobile-teams-replayed, redundancy good-vs-bad.
+- [[2025-04-18-cagan-team-autonomy-and-ai]] — **primary root** for the empowerment-vs-autonomy distinction and for the AI-improves-topology claim (re-rooted from the 2026-06-04 podcast, which stays as supporting/deepening). The legacy-codebase-navigability mechanism.
 - [[inspired]] Ch 20 — **primary (book-length)**; the **9 principles for structuring product teams** (investment strategy · minimize dependencies · ownership+autonomy · maximize leverage · vision+strategy · team size · architecture · user/customer · business) + *"Structure is a moving target"* meta-principle + the **Autonomy @ Scale** treatment (8 factors for weighing autonomy vs leverage; the two critical context inputs — product vision + team-specific business objectives). Deep-read in the INSPIRED 2nd-ed close-the-gaps pass (2026-07-12).
+- [[2023-06-09-cagan-preparing-for-the-future]] — **primary root** for the earliest cognitive-load/team-scope/fewer-teams claim and for the open more-vs-fewer-people question itself (hedged, unresolved even by its own author). Predates [[2025-04-18-cagan-team-autonomy-and-ai]] by 22 months.
+- [[2026-07-23-cagan-the-ai-productivity-paradox]] — checked against the open question above; doesn't resolve it (different axis — outcome quality, not headcount).
+- [[2026-08-10-cagan-a-fresh-definition-of-the-product-role]] — checked against the open question above; doesn't resolve it (unrelated topic — the product role's definition).
+- [[2023-11-28-cagan-transformed-faq]] — supporting; the product model is orthogonal to org design; see [[org-design-models]] (Batch 6) for the fuller treatment.
+- [[2025-12-01-jones-cagan-stakeholders-and-the-product-model]] — supporting; the stakeholder's-eye view of navigating a multi-team topology through product leadership.
+
+- [[2024-11-02-jones-from-features-to-outcomes-khodor]] — Jones (Nov 2024); the five cuts, the scepticism about KPI-shaped teams, and the two tell-tales of a wrong topology.

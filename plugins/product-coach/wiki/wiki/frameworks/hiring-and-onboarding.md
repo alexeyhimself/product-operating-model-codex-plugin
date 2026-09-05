@@ -7,7 +7,7 @@ tags: [framework, hiring, onboarding, coaching, potential]
 sources: ["[[empowered]]", "[[transformed]]", "[[inspired]]", "[[loved]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2025-01-23-idiodi-jones-coaching-employee-onboarding]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]"]
 related: ["[[product-manager]]", "[[product-coach]]", "[[product-leadership]]", "[[product-marketing]]", "[[leading-product-marketing]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[product-sense]]", "[[2007-09-11-cagan-recruiting-product-managers]]"]
 created: 2026-07-04
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Hiring & Onboarding Product People
@@ -121,3 +121,22 @@ See [[leading-product-marketing]] for the fuller Ch 27 skill-by-skill hiring rub
 - [[loved]] Ch 27 — **primary (book-length)** for PMM hiring; the three-candidate framing (curious · communicator · collaborator); the signature "great marketing company" interview question + breadcrumbing; the entry-level 1-in-10 / director-level 1-in-3 hit-rate calibration. Ch 28 grounds career staging (early / mid / senior); see [[leading-product-marketing]] for the full treatment. Deep-read in LOVED Pass 3c (2026-07-12).
 - [[2025-01-23-idiodi-jones-coaching-employee-onboarding]] — **primary** for Idiodi's New-Employee Boot Camp; the full two-week structure, milestones, and public-win discipline.
 - [[2024-05-31-idiodi-hickman-coaching-trust]] — supporting; Hickman's public attribution of the boot-camp origin to Idiodi, ~8+ years before the podcast; the new-hire trust asymmetry.
+
+## Idiodi's trust-acceleration technique
+
+From [[2023-12-21-idiodi-essence-of-product-management-lennys|Lenny's Podcast]], and worth having on this page because it is an *onboarding* move disguised as a relationship move. [[christian-idiodi|Idiodi]] calls it an "emotional-intelligence black belt" technique — see [[emotional-intelligence]].
+
+**The problem it solves.** A new hire's competence is unknown, so the organisation will **test** them — and in most companies it does that publicly, in a meeting, with a question in front of an audience. Get it wrong and trust is lost before it was ever built.
+
+**The move.** Take the new person to the loudest, most influential, most trusted person in the company and say: *I just hired them, they're excellent, and they know nothing about this business or how we work. I'd love for you to teach them some things.* If that person protests they are too busy: *they'll just sit in the meetings you're already in, quietly, for a week — no work for you.*
+
+**Why it works, in four moves:**
+1. **You borrow that person's trust.** Being seen with them changes how the organisation reads the newcomer.
+2. **A relationship forms whether or not anyone intended it** — it is not possible to sit next to someone for a week without asking where they are from.
+3. **The teacher becomes partly accountable for the outcome.** Two months later they cannot say *"Lenny doesn't do anything"* without indicting their own teaching. *"They will prep you, because it makes them look bad if you're not competent."*
+4. **The newcomer sees the real dynamics** — who defers to whom, where decisions actually get made — and gets introduced onward by the one person whose introductions carry.
+
+The individual-contributor version of the same idea, for someone who has no manager doing this for them: pick the most influential person you can find and ask them to teach you; if they have no time, offer to help them instead. *"You're either going to teach me, or I'm going to help you."* What you are learning is not just the domain — it is **what their influence is actually made of**, which is almost always competence in the customer or the business.
+
+## Sources (addition)
+- [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Idiodi (Dec 2023).

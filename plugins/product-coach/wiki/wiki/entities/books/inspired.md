@@ -9,9 +9,9 @@ author: Marty Cagan
 year: 2017
 edition: 2nd (2018 by Wiley; 1st edition 2008)
 source_url: https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love/
-related: ["[[marty-cagan]]", "[[svpg]]", "[[transformed]]", "[[empowered]]", "[[loved]]", "[[product-manager]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[opportunity-assessment]]", "[[product-principles]]", "[[reference-customer-program]]"]
+related: ["[[marty-cagan]]", "[[svpg]]", "[[transformed]]", "[[empowered]]", "[[loved]]", "[[product-manager]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[opportunity-assessment]]", "[[product-principles]]", "[[reference-customer-program]]", "[[2025-05-05-cagan-inspired-in-the-generative-ai-era]]"]
 created: 2026-06-14
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # INSPIRED
@@ -20,9 +20,11 @@ updated: 2026-07-12
 
 ## Editions
 
+**⚠️ Flagged discrepancy, not resolved.** Cagan's own 2025 preface ([[2025-05-05-cagan-inspired-in-the-generative-ai-era|INSPIRED in the Generative AI Era]]) states *"the first edition was published in 2007."* The Editions table below records **2008**, from the SVPG Press edition attribution used at the original ingest. The wiki carries both rather than silently picking one — flagging per CLAUDE.md rather than quietly overwriting a previously-recorded fact with a later one of uncertain precedence (a preface written from memory nearly two decades later vs. an edition-page attribution).
+
 | Ed. | Year | Notes |
 |---|---|---|
-| **1st** | **2008** | Original *SVPG Press* edition. **Three risks** (Feasibility, Usability, Value — viability absent, Ch 21). Contains chapters Cagan later reframed: Ch 14 *Product Council* (retired in favor of empowered teams + [[partnering-with-executives|executive partnership]]), Ch 9 *Deputy Product Managers* (superseded by trio + [[hiring-and-onboarding|hire-for-potential]]), Ch 20 *Minimal Product* (MVP-lineage language later criticized), Ch 17 *Personas* (later downweighted). Canon-consistent chapters: Chs 8, 11, 12, 13, 15. |
+| **1st** | **2008** (Cagan's 2025 preface says 2007 — see flag above) | Original *SVPG Press* edition. **Three risks** (Feasibility, Usability, Value — viability absent, Ch 21). Contains chapters Cagan later reframed: Ch 14 *Product Council* (retired in favor of empowered teams + [[partnering-with-executives|executive partnership]]), Ch 9 *Deputy Product Managers* (superseded by trio + [[hiring-and-onboarding|hire-for-potential]]), Ch 20 *Minimal Product* (MVP-lineage language later criticized), Ch 17 *Personas* (later downweighted). Canon-consistent chapters: Chs 8, 11, 12, 13, 15. |
 | **2nd** | **2017** | Widely-read modern version. **Four risks** established (value / usability / feasibility / viability). The version most contributions above cite. |
 | **3rd** | **2018** | Minor update. |
 | **4th** | **2024** | Current edition. |
@@ -31,6 +33,11 @@ updated: 2026-07-12
 
 ## Where it sits in the SVPG series
 INSPIRED is the **first volume** of what the SVPG canon now treats as a four-book arc: **[[inspired|INSPIRED]] → [[empowered|EMPOWERED]] → [[loved|LOVED]] → [[transformed|TRANSFORMED]]**. INSPIRED focuses on the **product manager and the product team**; EMPOWERED on the **product leaders**; LOVED on **product marketing**; TRANSFORMED on **moving to the model**. TRANSFORMED refines and codifies material that first appeared here (INSPIRED introduced the four discovery questions and Cagan's PM job description; TRANSFORMED restates them inside a formal 20-principle spine). Where INSPIRED is the origin of an idea, cite it as **primary/root** alongside TRANSFORMED.
+
+**Root citation for this framing.** This four-book-arc description is [[2025-05-05-cagan-inspired-in-the-generative-ai-era|Cagan's own account]], written for the 2nd audio edition's new preface (May 2025): EMPOWERED (2020, with Jones) elaborates INSPIRED's "Product @ Scale" section; LOVED (2022, Lauchengco) elaborates the go-to-market side of product/market fit; TRANSFORMED (2024) elaborates "Transformation Techniques," adding case studies beyond Silicon Valley. Before this ingest the wiki stated this arc without a citable source — it now has one.
+
+## The book in the generative-AI era
+[[2025-05-05-cagan-inspired-in-the-generative-ai-era|Cagan's 2025 preface]] is explicitly a **reaffirmation, not a revision** — the book's principles are presented as holding up unchanged. Two things have changed since the 2nd edition (2017), neither altering the canon here: **remote work** (now permanent and role-dependent; discovery is the casualty, which is why "many leading product model companies are pushing for a return to the office" — see [[remote-collaboration]]) and **generative AI** (two dimensions: AI-powered products carry elevated risk, per [[2024-04-16-cagan-ai-product-management|AI Product Management]]; and GenAI tools speed discovery and delivery for the whole trio — see [[ai-and-product-teams]]).
 
 ## What it covers
 The work of the modern product manager and cross-functional product team — the "right people, right product, right process, right culture." Audience: product managers, aspiring PMs, and the design/engineering peers they work with. Cagan explicitly targets **technology-powered products and services**, and treats every technology-powered company (retailer, media co, bank, healthcare) as a tech company.
@@ -149,3 +156,4 @@ Ideas grounded in INSPIRED are attributed inline to specific chapters (Ch 6 / Ch
 - [[marty-cagan]] — author; SVPG founder.
 - Series: [[empowered]] → [[loved]] → [[transformed]].
 - Grounded in this book: [[product-manager]], [[the-four-big-risks]], [[product-discovery]], [[prototypes]], [[missionaries-vs-mercenaries]], [[pilot-teams]], [[opportunity-assessment]], [[delivery-manager]], [[time-to-money]], [[minimize-waste]], [[feature-team-vs-empowered-team]].
+- [[2025-05-05-cagan-inspired-in-the-generative-ai-era]] — the 2nd audio edition preface; root citation for the four-book-series framing above; reaffirms the book's principles for the generative-AI era (see "The book in the generative-AI era" above).

@@ -8,7 +8,7 @@ role: The competency of leading a product-marketing organization — org design,
 sources: ["[[loved]]", "[[martina-lauchengco]]"]
 related: ["[[product-marketing]]", "[[hiring-and-onboarding]]", "[[product-leadership]]", "[[pmm-pm-partnership]]", "[[pmm-marketing-partnership]]", "[[pmm-sales-partnership]]", "[[product-marketing-by-stage]]", "[[loved]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Leading Product Marketing
@@ -161,6 +161,22 @@ Lauchengco's essay — the widely-read blog embedded in Ch 28 — she was the di
 
 Lauchengco's practical closing: *"If you find yourself butting up against a title ceiling, ask for brutally honest feedback from people who want to see you succeed. Then forge a plan with a peer, coach, mentor, or manager."*
 
+## Where product marketing should report (Lauchengco, and it isn't dogma)
+
+Asked live in [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id|*Rethink Marketing for Tech Products*]] whether the function should sit under product or under marketing, [[martina-lauchengco|Lauchengco]] refuses the general answer and gives a decision rule instead:
+
+> *"It should always have a reporting structure. The vast majority of companies have it report into marketing. But my advice in general is: have it report into the function or leader that **knows how to make product marketing successful**."*
+
+**The failure case she names:** it sits in marketing, where it usually does, but that leader treats product marketing as **launch manager, collateral producer, sales-tool producer**. Then *"it's not going to be fully powered — ship it, put it wherever it can be a full-powered force."*
+
+**The political-capital argument, which is the useful part.** In a very technical company the CPO may simply have more credibility than the CMO. Put the function where it will be armed with political capital and where the product teams will read its presence as a signal that this matters — *"whereas it's easier, if it's over in marketing, to just say: oh, it's them, it's over there, it's other."* At early stages especially: *"this is one where there doesn't have to be dogma in place — figure out where it can be successful and put it there."*
+
+**And the corollary aimed at product leaders**, which the wiki should not let slide past:
+
+> *"If you feel like your product marketer isn't able to be your equal partner, **the product team is the one that has the most potential to influence that person getting there**."*
+
+What makes a product marketer credible organisationally is depth of product knowledge — why these features, why this is a superior way of solving the problem — because that *why* is what they carry to every go-to-market arm. Investing in that depth *"pays massive dividends."* See [[pmm-pm-partnership]].
+
 ## In your context
 _Agent prompt: does PMM here report to product or marketing — and does that structure match Ch 26's factors? Which of the Aristotle 5 factors is weakest on your PMM team today? Which of the 4 Director-to-VP gaps is closest to what's showing up in your senior PMM career conversations?_
 
@@ -176,3 +192,5 @@ _Agent prompt: does PMM here report to product or marketing — and does that st
 - [[loved]] Ch 27 — root source for hiring PMM talent; the three-candidate framing; the assessment moves per Ch 7 skill; the signature "great marketing company" question + breadcrumbing.
 - [[loved]] Ch 28 — root source for career guidance; the three-stage arc; the "I'm a Great Director of Marketing" essay + the 4 Director-to-VP shifts.
 - [[martina-lauchengco]] — author.
+
+- [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id]] — Lauchengco, RED-ID (May 2022); the reporting-line decision rule, the political-capital argument, and the product team's responsibility for its PMM's depth.

@@ -11,7 +11,7 @@ source_url: https://www.svpg.com/product-vision-faq/
 date: 2020-08-10
 related: ["[[marty-cagan]]", "[[svpg]]", "[[product-vision]]", "[[focus]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-05
 ---
 
 # Cagan — Product Vision FAQ
@@ -25,7 +25,7 @@ updated: 2026-06-20
 - concepts: [[product-vision]] (timeframe, scope, ownership, the offsite process, the 9 factors that inform a vision, vision pivot vs. discovery pivot)
 - principles: [[focus]] (vision as north star), [[powered-by-insights]] (insight inputs to the vision)
 - entities: [[marty-cagan]]
-- related linked references (not yet pages): `[[visiontype]]`, `[[vision-pivot]]`, `[[product-vision-vs-mission]]`
+- related linked references: `[[visiontype]]` — **resolved 2026-09-05**, see [[visiontype]] (root: [[2024-01-02-cagan-power-of-visiontypes]]). `[[vision-pivot]]`, `[[product-vision-vs-mission]]` — still open; checked against the new Visiontypes article (2026-09-05), which does not cover either topic. Both remain pending a dedicated source rather than being built from this card's own prose.
 
 ## Notes for the coach
 - **Canonical timeframes:** software companies 2–5 years; device companies 5–10 years. Common mistake: a 1-year "vision" that is really a roadmap.

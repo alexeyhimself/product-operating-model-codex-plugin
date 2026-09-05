@@ -4,7 +4,7 @@ type: framework
 aliases: [it-to-product-organization, moving-from-it-to-product, it-transformation, ten-steps-to-product-organization]
 status: drafting
 tags: [framework, transformation, it, legacy-org, ten-steps]
-sources: ["[[transformed]]", "[[empowered]]", "[[2008-07-07-cagan-moving-from-it-to-product-organization]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2008-07-07-cagan-moving-from-it-to-product-organization]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]", "[[2024-07-09-cagan-the-product-model-in-traditional-it]]"]
 related: ["[[transformation]]", "[[pilot-teams]]", "[[product-manager]]", "[[product-designer]]", "[[engineers]]", "[[delivery-manager]]", "[[feature-teams-vs-product-teams]]"]
 created: 2026-06-21
 updated: 2026-06-21
@@ -76,6 +76,7 @@ The 2008 article predates much of today's vocabulary. Read alongside:
 - [[2023-09-12-cagan-who-is-product-operating-model-for]] — the same underlying insight stated 15 years later: tech-company-ness is about *how* you power your business, not *what* you sell.
 - [[delivery-manager]] — the modern reframing of "project manager" Cagan recommends in step 2.
 - [[the-product-team-trio]] — the modern crystallization of PM + designer + engineer responsibility split.
+- [[2024-07-09-cagan-the-product-model-in-traditional-it|The Product Model in Traditional IT]] (2024) — a narrower, later question than this page's: not "how do we fully convert to a product org," but "how much of the model applies to a unit that stays IT?" Names a mechanical fit test (does the team have the levers to impact outcomes?) and three friction areas — funding, staffing, governance models built for predictability rather than outcomes. See [[where-the-model-applies]] for the fuller synthesis across IT, Government, and Outsourcing.
 
 ## Example
 *Field note placeholder — does your org separate customer-facing software from internal IT, with different leadership chains and processes? Which of the 10 steps haven't happened yet?*
@@ -85,6 +86,7 @@ The 2008 article predates much of today's vocabulary. Read alongside:
 - competencies: [[product-manager]], [[product-designer]], [[engineers]], [[delivery-manager]], [[product-leadership]]
 - frameworks: [[pilot-teams]], [[high-integrity-commitments]]
 - diagnostics: [[model-maturity]], [[transformation-readiness]], [[leadership-readiness]]
+- synthesis: [[where-the-model-applies]]
 
 ## Sources
 - [[2008-07-07-cagan-moving-from-it-to-product-organization]] — the canonical 10-step framework.
@@ -92,3 +94,4 @@ The 2008 article predates much of today's vocabulary. Read alongside:
 - [[2013-12-30-cagan-epic-waste]] — the economic case for making the move.
 - [[transformed]] — root source.
 - [[empowered]] Ch 2 — **primary (book-length)**; the CIO/CTO reporting-line question as "much more significant impediment to transformation than most companies realize"; Boeing/Tesla/Pixar/Disney worked examples for cost-center vs profit-center technology mindset. Deep-read in EMPOWERED Pass 1 (2026-07-12).
+- [[2024-07-09-cagan-the-product-model-in-traditional-it]] — the 2024 fit-test companion to this 2008 framework; funding/staffing/governance friction; nomenclature translation.

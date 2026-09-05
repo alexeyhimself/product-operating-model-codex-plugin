@@ -5,7 +5,7 @@ aliases: [google-product-model, product-model-at-google]
 status: drafting
 tags: [case-study, google, okrs, tech-lead-manager, group-product-manager, experts-lead-experts, scale]
 org: "[[google]]"
-sources: ["[[2025-12-19-cagan-lieberich-product-model-at-google]]"]
+sources: ["[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2025-01-14-cagan-tests-of-the-product-model]]"]
 related: ["[[google]]", "[[product-strategy]]", "[[team-topology]]", "[[product-discovery]]", "[[product-delivery]]", "[[product-leadership]]", "[[engineers]]", "[[product-manager]]", "[[missionaries-vs-mercenaries]]", "[[okrs]]", "[[data-product-management]]"]
 created: 2026-07-04
 updated: 2026-07-04
@@ -37,7 +37,7 @@ Google was **one of the earliest product-model companies**. The challenge this c
 - **[[product-leadership|Leaders]]: "experts lead experts."** The **Tech Lead Manager (TLM)** (hands-on TL who also manages a few engineers) and **Group Product Manager (GPM)** (highly leveraged PM / small-team lead) are the management units. Because managers are technically competent, no separate layer of "coordinators" is needed. This is the concrete meaning of **"empowered teams don't require *less* management; they require *better* management."** GPMs and their reports are "true [[missionaries-vs-mercenaries|missionaries]]" who earned their positions through years of product success.
 
 ## Outcome / the AI-era test
-Cagan's "true test" of a product-model company is delivering results over time through disruption. Google navigated **Desktop → Mobile** ("Mobile First," emerging stronger), then chose **"AI First" (2016)**. It invented the **transformer** (2017, *Attention Is All You Need*) underlying today's LLMs; Gemini (as of writing) benchmarks with the frontier and has 650M+ MAU. "The product model has continued to deliver real business results for Google for more than 25 years."
+Cagan's "true test" of a product-model company is delivering results over time through disruption. Google navigated **Desktop → Mobile** ("Mobile First," emerging stronger), then chose **"AI First" (2016)**. A separate, dedicated Cagan article on industry-wide disruption gives Google an explicit congratulatory callout on this point: he had long believed Google had more potential than it was showing — because AdWords alone let it keep growing without needing to innovate elsewhere — but the generative-AI wave "seem[s] to be once again bringing out the best in Google's people" ([[2025-01-14-cagan-tests-of-the-product-model|canon]]; see [[disruption-response]]). It invented the **transformer** (2017, *Attention Is All You Need*) underlying today's LLMs; Gemini (as of writing) benchmarks with the frontier and has 650M+ MAU. "The product model has continued to deliver real business results for Google for more than 25 years."
 
 ## What it illustrates
 - concepts: [[product-strategy]] (leaders pick hard problems; broadcast) · [[team-topology]] (multiple teams on one problem) · [[product-discovery]] (continuous experimentation; dogfooding; beta; evidence over hierarchy) · [[product-delivery]] (planet scale; teams own architecture) · [[missionaries-vs-mercenaries]] · [[data-product-management]]
@@ -50,4 +50,5 @@ Cagan's "true test" of a product-model company is delivering results over time t
 
 ## Sources
 - [[2025-12-19-cagan-lieberich-product-model-at-google]] — the canonical account (Cagan & Elias Lieberich, ex-Google); the model at Google across strategy, discovery, delivery, outcomes, and competencies.
+- [[2025-01-14-cagan-tests-of-the-product-model]] — supporting; Cagan's specific congratulatory callout to Google's generative-AI-era innovation.
 - Supporting: [[how-google-works]] — Schmidt & Rosenberg on empowering "smart creatives" (the article's recommended reading).

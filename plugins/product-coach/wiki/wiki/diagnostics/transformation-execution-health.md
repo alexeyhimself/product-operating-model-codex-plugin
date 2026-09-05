@@ -5,10 +5,10 @@ aliases: [transformation-execution-health, pilot-execution-health, execution-ant
 status: drafting
 tags: [diagnostic, transformation, pilot-teams, anti-patterns, execution, org-level]
 assesses: Whether a transformation (or its pilot teams) already underway is actually executing well — installing new titles without adopting new competencies, letting a pilot calcify into a sacred golden child, or cycling through the loop of transformation failure — as opposed to whether the org is ready to start (see [[transformation-readiness]]) or where it sits on the model overall (see [[model-maturity]]).
-sources: ["[[2025-12-11-idiodi-bufrem-coaching-pilot-teams]]", "[[2026-02-19-idiodi-hickman-coaching-transformations]]", "[[2026-03-19-idiodi-castenfors-coaching-transformation-anti-patterns]]", "[[pilot-teams]]", "[[transformation-anti-patterns]]"]
+sources: ["[[2025-12-11-idiodi-bufrem-coaching-pilot-teams]]", "[[2026-02-19-idiodi-hickman-coaching-transformations]]", "[[2026-03-19-idiodi-castenfors-coaching-transformation-anti-patterns]]", "[[pilot-teams]]", "[[transformation-anti-patterns]]", "[[2024-02-27-hickman-transformation-theater]]"]
 related: ["[[transformation]]", "[[transformation-anti-patterns]]", "[[pilot-teams]]", "[[transformation-readiness]]", "[[model-maturity]]", "[[product-management-theater]]", "[[strategic-context]]"]
 created: 2026-08-31
-updated: 2026-08-31
+updated: 2026-09-05
 ---
 
 # Transformation Execution Health — Diagnostic
@@ -39,6 +39,7 @@ Announcing a transformation and having leadership "fully behind it" changes noth
 - **Sacred golden child** — every hard problem gets routed to the one team that's working, instead of the rest of the org learning from it.
 - **Autonomy handed out before coaching** — "we're empowered, we can do whatever we want" → chaos → leaders abort back to micromanagement → the [[transformation-anti-patterns#the-loop-of-transformation-failure|loop of transformation failure]] restarts.
 - **Product-management theater** — Product Owners relabeled Product Managers with no change in skill, coaching, or decision rights ([[product-management-theater]]).
+- **Title theater** — the same relabeling pattern applied org-wide (business analysts → PMs, graphic designers → product designers, engineers → tech leads), named in SVPG's own written canon as one of seven forms of [[transformation#transformation-theater-the-wider-taxonomy|transformation theater]] ([[2024-02-27-hickman-transformation-theater|Hickman]]).
 - **Transformation-in-a-bubble** — product and tech have changed; sales, marketing, customer service, HR, legal, and finance were never brought along, and are now surprised: *"where's my road map? What happened to my feature?"*
 
 ## Rubric
@@ -82,4 +83,5 @@ Pilots that show all three of Bufrem's positive signs, running on an island that
 - [[2026-03-19-idiodi-castenfors-coaching-transformation-anti-patterns]] — Product Therapy Ep 38; the loop of transformation failure; the air sandwich; the 17-North-Stars problem; autonomy-too-soon; transformation-in-a-bubble; the golden rule of naming anti-patterns as they appear.
 - [[pilot-teams]] — the framework this diagnostic checks pilots against.
 - [[transformation-anti-patterns]] — the wiki's canonical named catalog; this diagnostic operationalizes a subset of it into a rubric.
+- [[2024-02-27-hickman-transformation-theater]] — SVPG's own written taxonomy; roots the **Title Theater** red flag added above.
 - [[transformed]] — root source.

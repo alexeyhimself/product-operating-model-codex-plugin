@@ -7,7 +7,7 @@ tags: [concept, roadmap, outcomes, transitional, okrs]
 sources: ["[[transformed]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2009-01-07-cagan-product-roadmaps]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]"]
 related: ["[[product-strategy]]", "[[product-vision]]", "[[team-objectives]]", "[[outcomes-over-output]]", "[[empowered-product-teams]]", "[[high-integrity-commitments]]"]
 created: 2026-06-21
-updated: 2026-08-31
+updated: 2026-09-05
 ---
 
 # Outcome-Based Roadmap
@@ -30,6 +30,20 @@ The outcome-based roadmap is the bridge: it preserves the *communication surface
 ## Why it's transitional
 Cagan and Moore are explicit: this is a **bridge state**, not the destination ([[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve|Moore]]). The destination is a directly-communicated **product strategy + team objectives + occasional high-integrity commitments** — the "roadmap" frame eventually dissolves as the organization gets comfortable working in problems and outcomes. But for orgs in transition, the outcome-based roadmap is genuinely useful: it lets the team operate the new way while the rest of the company adjusts.
 
+## The "candidate" device (Jones)
+
+A small, portable vocabulary move from [[2024-11-02-jones-from-features-to-outcomes-khodor|Jones]], for the stakeholder who does not trust an outcomes-only roadmap and wants to see that *something* is being considered:
+
+> *"Rather than talk about features on a roadmap, I always prefer to use the word **candidate** — this is something under consideration. We haven't done the full discovery on it."*
+
+Put **several** candidates against an outcome, with the implication stated out loud: we probably will not choose all of them, and we may not choose any. It makes an outcome tangible for people who are uncomfortable dealing purely in outcomes, without converting the roadmap back into a commitment to build. Jones flags it as his own habit rather than an SVPG position — *"I don't know if all of my partners agree with this."*
+
+Alongside it, his honest framing of the roadmap problem, worth keeping as a counter to purism:
+
+> *"We can't just say all roadmaps are bad and blow them up and dates don't matter anymore because we're agile. That's crazy — you certainly can't do that at scale."*
+
+Roadmaps do two real jobs (working on the most important things first; giving the rest of the business enough predictability to synchronise). The problem is that they are *prescriptive enough* to set a trajectory toward output — and once a date is the thing people care about, [[product-discovery|discovery]] becomes a nuisance that eats delivery time. The model's answer is not "no dates" but **being judicious about which things get them** — see [[high-integrity-commitments]] — and doing some discovery *before* committing.
+
 ## Anti-patterns & misunderstandings
 - **Outcome-shaped roadmap, feature-shaped reality.** The roadmap entries say "improve activation," but in the team's planning the items are features. The roadmap is theater.
 - **Treating the outcome-based roadmap as the strategy.** A list of outcomes is not a strategy — strategy is *which* problems and *why now* ([[product-strategy-quality|canon]]).
@@ -51,3 +65,5 @@ _Field note placeholder — does your roadmap entries describe **outcomes** the 
 - [[2009-01-07-cagan-product-roadmaps]] — the critique of feature-roadmaps and the early framing of a good roadmap.
 - [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]] — the Decide dimension; outcome-based roadmap as a transitional step toward direct strategy/objectives communication.
 - [[transformed]] — root source.
+
+- [[2024-11-02-jones-from-features-to-outcomes-khodor]] — Jones (Nov 2024); the "candidate" device and the honest defence of what roadmaps are actually for.

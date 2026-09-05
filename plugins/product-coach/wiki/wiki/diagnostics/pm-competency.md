@@ -5,7 +5,7 @@ aliases: [pm-competency, pm-skills-assessment, pm-gap-analysis, product-manager-
 status: drafting
 tags: [diagnostic, pm-competency, assessment, gap-analysis]
 assesses: A product manager's competence across the people / process / product skill pillars, relative to what this team and company require.
-sources: ["[[empowered]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]"]
+sources: ["[[empowered]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2021-06-10-cagan-the-cspo-pathology]]"]
 related: ["[[product-manager]]", "[[coaching-the-pm]]", "[[coaching-mindset]]", "[[product-coaching]]", "[[product-coach]]", "[[the-four-big-risks]]", "[[marty-cagan]]"]
 created: 2026-06-20
 updated: 2026-07-12
@@ -80,7 +80,7 @@ A PM who is the team's acknowledged expert on customer, data, domain, business, 
 
 ## Interventions & experiments
 - **Large gaps in product knowledge:** run the [[coaching-the-pm|coaching plan]]'s onboarding moves — customer visits (≥15), business-model canvas, friend in finance, dogfooding.
-- **Process gaps:** read *[[inspired|INSPIRED]]*, then scenario drills on the [[the-four-big-risks|four risks]]; CSPO only for product-owner mechanics.
+- **Process gaps:** read *[[inspired|INSPIRED]]*, then scenario drills on the [[the-four-big-risks|four risks]]; CSPO only for product-owner mechanics — see [[2021-06-10-cagan-the-cspo-pathology|The CSPO Pathology]] for why the certification is fine as PO-mechanics training and disastrous as PM training.
 - **People gaps:** observe real trio + stakeholder interactions and debrief privately; the narrative tool and a presentation-skills class for evangelism.
 - **In all cases:** weekly one-on-ones to review progress; top-3 focus; re-rate and advance. Full per-skill detail on [[coaching-the-pm]].
 

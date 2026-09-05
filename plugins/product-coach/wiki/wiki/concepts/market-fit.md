@@ -7,7 +7,7 @@ tags: [product-marketing, market-fit, discovery, viability, product-market-fit]
 sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]"]
 related: ["[[product-marketing]]", "[[pmm-ambassador]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[assumption-testing]]", "[[loved]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Market Fit
@@ -103,6 +103,16 @@ Three practical mechanics:
 
 Lauchengco's closing: *"If you're a product manager or a product marketer thinking 'we need to do more to probe market fit,' you're right. Both roles don't tend to do enough and need the insights to do their jobs well."*
 
+## A countable definition (Idiodi)
+
+Most of this page treats market fit qualitatively. [[christian-idiodi|Idiodi]] offers a threshold you can actually check ([[2023-12-21-idiodi-essence-of-product-management-lennys|Lenny's Podcast]]):
+
+> **Product-market fit is when you have 6–8 (B2B) or 15–25 (B2C) target customers who have used the solution and are willing to put their reputation on the line to recommend it.**
+
+Two things make this more than a rule of thumb. First, it is **falsifiable early** — if you cannot recruit enough people who have the problem, that is the answer, and it arrives before you build anything. Second, it forces the [[the-four-big-risks|value risk]] to be settled by behaviour rather than by a satisfaction score: *"just because somebody can use your product doesn't mean that they will buy it… what people say is often different from what they do."* Idiodi is explicit that he has seen teams call value proven because 300 users scored a test 90%.
+
+The mechanism is [[technology-adoption-life-cycle|Geoffrey Moore's adoption curve]], which he cites by name: most people will not be first, but will move if enough people *who look like them* already have. The full mechanics are on [[reference-customer-program]].
+
 ## Anti-patterns & misunderstandings
 - **Assuming initial beachhead = product-market fit.** Growth stalls because market fit was under-invested.
 - **Confusing product desirability with market fit.** People say a lot of things they won't do.
@@ -125,3 +135,5 @@ _Agent prompt: which of Ch 11's growth-stall symptoms is showing up for your pro
 - [[loved]] Ch 11 — root source; Word-for-lawyers opening case; the market-fit definition (*"discovering market pull"*); Value + Growth/Connection question sets; 6 discovery-technique adaptations; 3 UC Berkeley creative market tests; 4 existing-product rediscovery techniques; timeboxing; active listening. Deep-read in LOVED Pass 2 (2026-07-12).
 - [[transformed]] — the root canon on the four risks; LOVED Ch 11 grounds the "market side of PMF" phrase inside viability.
 - [[martina-lauchengco]] — author.
+
+- [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Idiodi (Dec 2023); the countable reference-customer definition of product-market fit.

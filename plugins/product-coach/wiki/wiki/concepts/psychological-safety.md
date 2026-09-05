@@ -7,7 +7,7 @@ tags: [psychological-safety, trust, teams, coaching, leadership, culture]
 sources: ["[[transformed]]", "[[2025-06-12-idiodi-leto-coaching-psychological-safety]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]", "[[2025-02-20-idiodi-hickman-coaching-remote-collaboration]]"]
 related: ["[[trust-over-control]]", "[[coaching-mindset]]", "[[team-collaboration-health]]", "[[cross-functional-partnering]]", "[[remote-collaboration]]", "[[kate-leto]]", "[[overcoming-objections]]"]
 created: 2026-08-29
-updated: 2026-08-31
+updated: 2026-09-05
 ---
 
 # Psychological Safety
@@ -77,3 +77,12 @@ When coaching a leader whose teams are silent, always start with the leader's ow
 - [[2025-06-12-idiodi-leto-coaching-psychological-safety]] — primary root ([[kate-leto|Leto]] · Product Therapy Ep 22)
 - [[2024-05-31-idiodi-hickman-coaching-trust]] — the four dimensions of trust (competence · character · caring · communication) as its dyadic partner
 - [[2025-02-20-idiodi-hickman-coaching-remote-collaboration]] — false-trust trap in remote settings
+
+## Relationship to emotional intelligence
+
+[[kate-leto|Leto]]'s two *Product Therapy* appearances are the pair: [[2025-06-12-idiodi-leto-coaching-psychological-safety|psychological safety]] (this page, Jun 2025) and [[2025-03-20-idiodi-leto-coaching-emotional-intelligence|emotional intelligence]] (Mar 2025, three months earlier). They are related and mutually reinforcing but **not the same thing**, and the wiki keeps them apart deliberately:
+
+- **[[emotional-intelligence]] is an individual capability** — self-awareness, self-management, social awareness, relationship management. Developable, coachable, slow.
+- **Psychological safety is a property of a team** — whether people believe they can speak up here.
+
+High-EQ leadership tends to *produce* psychological safety, which is why the two get conflated. The mechanism Leto names in the EQ episode is the direct one: **emotions are contagious**. A leader who "flips their lid" and does not repair it teaches the room that this is what is acceptable, and it spreads outward into the culture. Her position is that the outburst matters less than the response to it.

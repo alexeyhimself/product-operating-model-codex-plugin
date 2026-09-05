@@ -72,7 +72,7 @@ updated: 2026-08-30
 - **The "#1 fan" tension preserved (verbatim):** *"I am still the number one fan of human product coaching, but I think those of us that serve as human product coaches need to focus on where we can have the greatest impact, which is with the product leaders, and embrace the model-as-product-coach for the millions of product creators out there."*
 
 ### The zero-to-one problem for new product creators (§ a specific Cagan retraction)
-- In his earlier [A Vision For Product Teams](https://www.svpg.com/a-vision-for-product-teams/), Cagan worried that experienced product creators would thrive but newcomers would find *"entry was blocked because the bar was too high for anyone that didn't already possess the necessary experience."*
+- In his earlier [[2025-02-25-cagan-a-vision-for-product-teams|A Vision For Product Teams]], Cagan worried that experienced product creators would thrive but newcomers would find *"entry was blocked because the bar was too high for anyone that didn't already possess the necessary experience."*
 - **The correction (verbatim):** *"Today I'm happy to say that I think I was wrong about that. I didn't envision that the models would be able to get good enough, fast enough, that they could help to dramatically accelerate the learning curve for aspiring product creators and product leaders."*
 - Impact spans PMs, product designers, **and especially engineers.** With continuous coaching, *"you can progress dramatically faster than when you depended on your weekly 1:1 for your coaching."*
 

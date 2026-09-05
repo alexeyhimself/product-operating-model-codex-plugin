@@ -5,10 +5,10 @@ aliases: [stakeholder-relationship-health, stakeholder-health, viability-relatio
 status: drafting
 tags: [diagnostic, stakeholders, viability, evangelism, product-manager, narrative, trust]
 assesses: Whether the PM (and product leadership) has the trust-based, knowledge-grounded relationships with stakeholders that make business viability actually solvable — or whether the org has slipped into stakeholder-driven roadmaps and design-by-committee.
-sources: ["[[transformed]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]", "[[2016-05-03-cagan-product-success]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2010-08-16-cagan-top-10-reasons-for-weak-product]]", "[[2024-09-26-idiodi-hickman-coaching-stakeholder-collaboration]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]"]
+sources: ["[[transformed]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]", "[[2016-05-03-cagan-product-success]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2010-08-16-cagan-top-10-reasons-for-weak-product]]", "[[2024-09-26-idiodi-hickman-coaching-stakeholder-collaboration]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]", "[[2023-10-05-cagan-transformation-fail]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]"]
 related: ["[[product-manager]]", "[[product-leadership]]", "[[the-four-big-risks]]", "[[empowered-with-problems-to-solve]]", "[[focus]]", "[[feature-team-vs-empowered-team]]", "[[product-strategy-quality]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-05
 ---
 
 # Stakeholder Relationship Health — Diagnostic
@@ -36,6 +36,7 @@ Stakeholder dynamics determine which of two failure modes a team falls into when
 **Red flag:**
 - Stakeholders bypass the team entirely — go directly to engineers.
 - The "roadmap" is a "fair" allocation of engineering capacity across business units (the peanut-butter pattern).
+- Product leaders treat empowerment as a power transfer *from* stakeholders rather than a move to collaboration — humoring them instead of partnering with them ([[2024-02-27-hickman-transformation-theater|Hickman's "Stakeholder Collaboration Theater"]]).
 - Big features arrive as fait accompli from quarterly business reviews.
 - PM is regarded as a project manager / "herder of cats" ([[2019-08-29-cagan-product-vs-feature-teams|canon]]).
 - Stakeholders publicly blame the team for outcomes the team was never empowered to influence ([[2019-08-29-cagan-product-vs-feature-teams|canon]]).
@@ -82,6 +83,20 @@ Two coaching moves from Ep 8 worth naming:
 
 **PRFAQ / anticipate-the-objections** (from Ep 2, restated here for scope) is the stakeholder-facing tactic: *"if you literally write out the objection just like you think the executive would say it, and then think hard about the right answer, and show that back — they'll say 'Christian actually listened to me, and I feel like the solution respects those constraints.'"* This is the concrete mechanism for moving a specific stakeholder from Level-2 to Level-3.
 
+## The stakeholder-facing brief — Jones & Cagan, Dec 2025
+Everything above takes the product manager's or product leader's point of view: how *they* earn stakeholder trust. [[2025-12-01-jones-cagan-stakeholders-and-the-product-model|Stakeholders and the Product Model]] is the wiki's first source written the other way round — a practical brief handed directly to a stakeholder (sales, legal, finance, HR, any function reliant on the product organization but not part of it) explaining what changes about how *they* should engage. It doesn't conflict with anything above; it's the companion half of the same relationship.
+
+**The three foundations of effective collaboration, from the stakeholder's side:**
+1. **Sharing business context.** The stakeholder's most important contribution is the constraints only they know — go-to-market considerations, regulations, financials, partnerships — so the product team can find a solution that actually works for that part of the business.
+2. **Framing requests as problems to solve, with a definition of success.** Not features and dates handed down — a problem, who it's for, and how success will be measured. Ideas are still welcome; they're just framed as input the team investigates rather than a mandate.
+3. **Providing direct access to customers, users, and data.** Access-control concerns (privacy, governance) should be solved with tooling and authorization, not by blocking the access outright — the product team cannot discover or validate a solution without it.
+
+**Prototypes replace documents as the artifact stakeholders should expect.** Instead of a slow, document-heavy process, stakeholders should see frequent prototypes of proposed solutions *before* anything is built — the concrete way a product team demonstrates it understood the business constraints, while changes are still cheap to make. The same prototypes get tested with users for usability and value, and with engineers for feasibility.
+
+**Two framework citations, now doubly sourced.** The article gives [[keep-the-lights-on|keep-the-lights-on]] work (business reporting, compliance changes, critical fixes) and [[high-integrity-commitments|high-integrity commitments]] (a trustworthy date, used sparingly, earned with some discovery first) their stakeholder-facing definitions — consistent with, and now cross-linked from, both pages' existing PM-facing treatment.
+
+**Navigating multiple product teams.** When several teams contribute to one offering (the [[team-topology|team topology]]), the article tells stakeholders their primary contact is usually product leadership, who route to a specific PM as needed — not every team individually.
+
 ## What "healthy" looks like (Ch 25 → partnership hub)
 *[[transformed|TRANSFORMED]]* Ch 25 (Partnering with Stakeholders) is Cagan's clearest positive statement of the healthy state this diagnostic scores against: **empowered teams as collaborative partners with stakeholders (no longer subservient, still dependent)**; the PM engaging directly with each relevant stakeholder to learn constraints; **showing the prototype before building** when a proposed solution might impact a stakeholder; transparency (stakeholders welcome in user testing, prototype reviews, product data). *"Sometimes, getting a solution that works not only for customers, but also for multiple stakeholders — each with different needs — may require many iterations to identify a solution that solves for all parties. Further, the solution that solves for all parties may end up being something that none of the stakeholders had imagined was possible."* Ch 25 also names two anti-patterns central to this diagnostic: **committees don't innovate** (Level-1 design-by-committee root cause); and **expecting stakeholders to trust a PM who hasn't done the work** — *"is not only unrealistic, but also unwise."* Product leadership owes stakeholders a competent PM. The full Part VI framing sits on [[cross-functional-partnering]].
 
@@ -102,3 +117,4 @@ Two coaching moves from Ep 8 worth naming:
 - [[transformed]] — root source.
 - [[2024-09-26-idiodi-hickman-coaching-stakeholder-collaboration]] — *Product Therapy* Ep 8 with Hickman; the voice-vs-vote definition, the stop-sign-vs-yield-sign investigation, one-on-ones over group meetings, and the Rule of Improv.
 - [[2024-04-15-idiodi-cagan-coaching-mindset]] — *Product Therapy* Ep 2 with Cagan; the PRFAQ / anticipate-the-objections tactic detailed.
+- [[2025-12-01-jones-cagan-stakeholders-and-the-product-model]] — Jones & Cagan, Dec 2025; the stakeholder-facing brief: the three foundations of collaboration, prototypes-before-build, and the stakeholder-side framing of keep-the-lights-on, high-integrity commitments, and team topology.

@@ -11,7 +11,7 @@ source_url: https://www.youtube.com/watch?v=9N4ZgNaWvI0
 date: 2024-03-10
 related: ["[[marty-cagan]]", "[[product-management-theater]]", "[[feature-teams-vs-product-teams]]", "[[product-manager]]", "[[product-leadership]]", "[[time-to-money]]", "[[transformed]]", "[[overview]]"]
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-09-05
 ---
 
 # Cagan — Product Management Theater (Lenny's Podcast)
@@ -19,7 +19,7 @@ updated: 2026-07-03
 > **Citation:** Marty Cagan, interviewed by Lenny Rachitsky · Lenny's Podcast · YouTube, 2024-03-10 (the *TRANSFORMED* launch interview) — [watch the original](https://www.youtube.com/watch?v=9N4ZgNaWvI0). Slim provenance card; the transcript is **not reproduced** here.
 
 ## Role
-**Primary (SVPG canon).** The most complete public statement of the **product-management-theater** thesis, plus the origin story and intent of *[[transformed|TRANSFORMED]]*. (Transcript carries sponsor ad-reads mid-flow — ignore.)
+**Primary (SVPG canon).** The most complete *spoken* statement of the **product-management-theater** thesis, plus the origin story and intent of *[[transformed|TRANSFORMED]]*. (Transcript carries sponsor ad-reads mid-flow — ignore.) The term itself was coined in writing six weeks earlier in [[2024-01-30-cagan-product-management-theater|Cagan's root article]], which this episode elaborates on at length rather than originates.
 
 ## What it backs
 - concepts: [[product-management-theater]] (root video), [[feature-teams-vs-product-teams]], [[time-to-money]] ("time to money > time to market"), [[missionaries-vs-mercenaries]]

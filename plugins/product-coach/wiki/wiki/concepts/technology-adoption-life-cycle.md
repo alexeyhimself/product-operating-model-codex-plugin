@@ -4,7 +4,7 @@ type: concept
 aliases: [technology-adoption-life-cycle, adoption-curve, technology-adoption-curve, adoption-life-cycle, innovation-adoption-life-cycle]
 status: drafting
 tags: [product-marketing, adoption, segmentation, gtm-strategy, iphone]
-sources: ["[[loved]]", "[[martina-lauchengco]]"]
+sources: ["[[loved]]", "[[martina-lauchengco]]", "[[2025-06-16-cagan-disruption-and-denial]]"]
 related: ["[[product-marketing]]", "[[pmm-strategist]]", "[[market-fit]]", "[[pmm-ambassador]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-07-12
@@ -97,6 +97,9 @@ By year 10, the **iPhone X** (killing the home button) + the Apple Watch signale
 
 **The generalizable question:** *"If the iPhone is one of the most successful products of all time — with a marketing budget to match — think about how long it will take your product to get through its adoption life cycle."*
 
+## A historical case of reading the curve early
+[[2025-06-16-cagan-disruption-and-denial|Cagan's Netscape-era recollection]] gives the curve a real historical anchor beyond LOVED's own examples: salesforce.com is cited as a company that saw the real opportunity of a new enabling technology (cloud-delivered software, in the mid-1990s/2000s) well before most customers understood or trusted it, then rode the adoption curve as customer understanding caught up — the same pattern Cagan says he now watches for with generative AI.
+
 ## Anti-patterns & misunderstandings
 - **Believing you're further along the curve than you are** — the #1 mistake.
 - **Assuming initial customer segments set you up for the next stage.** They usually don't — the online-backup case.
@@ -115,3 +118,4 @@ _Agent prompt: which adoption segment are your current customers actually in? Ar
 ## Sources
 - [[loved]] Ch 15 — root source; the online-backup senior-citizen trap; the 5-segment curve mechanics; Superhuman's precise early-adopter definition; the overgeneralized-segment trap; the Palo Alto vs startup CISO example; the iPhone decade-long walkthrough. Deep-read in LOVED Pass 3a (2026-07-12).
 - [[martina-lauchengco]] — author.
+- [[2025-06-16-cagan-disruption-and-denial]] — supporting; the salesforce.com historical example of reading the adoption curve early.

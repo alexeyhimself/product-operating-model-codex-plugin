@@ -4,10 +4,10 @@ type: concept
 aliases: [transformation, product-transformation, transformation-to-the-product-model, moving-to-the-product-operating-model, change-management, organizational-change]
 status: drafting
 tags: [transformation, three-dimensions, product-operating-model, pilot-teams]
-sources: ["[[transformed]]", "[[empowered]]", "[[2022-05-31-moore-transformation-defined]]", "[[2022-09-18-moore-the-transformation-series]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2023-02-20-cagan-transformed-announcement]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]", "[[2023-10-31-cagan-transformed-just-product]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]"]
-related: ["[[overview]]", "[[empowered-product-teams]]", "[[feature-teams-vs-product-teams]]", "[[pilot-teams]]", "[[transformation-politics]]", "[[transformation-as-a-project]]", "[[model-maturity]]", "[[product-coaching]]", "[[product-leadership]]", "[[lea-hickman]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-05-31-moore-transformation-defined]]", "[[2022-09-18-moore-the-transformation-series]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2023-02-20-cagan-transformed-announcement]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]", "[[2023-10-31-cagan-transformed-just-product]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2024-02-27-hickman-transformation-theater]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]", "[[2023-10-05-cagan-transformation-fail]]", "[[2024-11-12-cagan-winning-hearts-and-minds]]"]
+related: ["[[overview]]", "[[empowered-product-teams]]", "[[feature-teams-vs-product-teams]]", "[[pilot-teams]]", "[[transformation-politics]]", "[[transformation-as-a-project]]", "[[model-maturity]]", "[[product-coaching]]", "[[product-leadership]]", "[[lea-hickman]]", "[[product-management-theater]]", "[[transformation-anti-patterns]]"]
 created: 2026-06-21
-updated: 2026-08-29
+updated: 2026-09-05
 ---
 
 # Transformation
@@ -137,6 +137,35 @@ The whole arc is Cagan's illustration of what happens when a transformation is (
 
 Every transformation eventually requires a withdrawal — a launch that fails (see [[datasite-transformation]] for the Datasite One story), a customer complaint, a delivery miss. The organizations that survive those moments are the ones that made **deposits ahead of time** — trust between sales and product built through visible learning, human connection outside the business area (Cullen's habit of hosting sales leaders at his home; his predecessor Todd hosting every sales leader at his childhood Cleveland home 3 weeks after Cullen joined), and small consistent wins that accumulated *before* the withdrawal was needed. **Transformations without accumulated culture-bank deposits fail at their first setback**, because they had no reserve to draw down.
 
+## Winning hearts and minds — earning stakeholder trust ([[2024-11-12-cagan-winning-hearts-and-minds|Cagan, 2024]])
+The positive-pattern companion to [[transformation-as-a-project|Transformation as a Project]] (the anti-pattern of running a transformation like a big project) — the framing originated with SVPG Partner [[christian-idiodi|Christian Idiodi]] in conversation with Cagan, who has used it in senior-leadership discussions since. **A successful transformation is a race to win the hearts and minds of the executive team and stakeholders before they lose confidence.** Most senior leaders won't extend trust in advance as a matter of course — they protect company assets and take calculated risk, not blank checks.
+
+Seven behaviors that earn it:
+1. **Product leaders staff and coach capable teams** — "you will be judged by your stakeholders and senior executives by your weakest people."
+2. **Product managers who understand business, data, and customers** — not retitled feature-team PMs or POs.
+3. **Product teams solve problems in ways customers love *and* that work for the business** — solving only for the customer while ignoring real business constraints (legal, compliance, sales, finance) is its own failure mode.
+4. **Consistent delivery on [[high-integrity-commitments|high-integrity commitments]]** — most engineering orgs carry a history of missed dates; rebuilding that trust takes sustained performance, not one good sprint.
+5. **Real, measurable business outcomes** — not activity. Nobody expects every team to hit it out of the park every quarter, but consistent positive progress is the bar.
+6. **Fast, competent response to customer issues** — instrumentation and monitoring in place *before* customers notice, not after.
+7. **Understanding the obligation to keep the lights on** — unglamorous, non-innovative work that stakeholders will notice if the team seems not to understand or care about it.
+
+## The litmus test — "what can you do now that you couldn't do before?"
+
+Both *TRANSFORMED* co-authors, independently, in the video corpus, converge on the same test for whether a transformation is real. It is worth stating as the wiki's default question, because it is answerable and cannot be faked with an artefact.
+
+**Cagan**, opening [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo|ProductTank Oslo]]:
+
+> *"Whenever anybody tells me 'we've transformed', I want to ask: what could you do now that you couldn't do before? Isn't that the point of this stuff?"*
+
+He notes that the pandemic served as an unplanned proof point — some companies that claimed transformation did not survive it, and others not only saved themselves but grew substantially. His worked positive answer is [[guardian-eyewitness|the Guardian's *eyewitness* app]]: a 200-year-old newspaper building a new app on an unreleased device in seven weeks, which he observes even Google or Amazon would struggle to do.
+
+**Jones**, asked in [[2024-04-03-jones-moving-to-the-product-operating-model-product-people|*Moving to a Product Operating Model*]] how to measure a transformation, gives a two-part answer:
+
+1. **Your ordinary business outcomes** — and whether you can even *attribute* them to the product organisation. In most pre-transformation companies the honest answer is that nobody knows: technology is expensive and what it returns is unclear. So the start of a transformation is when you finally establish that baseline.
+2. **The qualitative half:** *"what are you capable of doing now that you weren't capable of doing before?"* — usually an innovation that came from no stakeholder and no top-down request. His worked answer is [[john-deere-smart-industrial|John Deere]]: an engineer, watching a farmer through a tractor camera, inventing machine-learning-targeted herbicide spraying.
+
+There is no clean transformation metric — no LTV or TCO equivalent. These two questions are what the canon offers instead, and they are more useful than they look, because a company that cannot answer the second one has usually only changed its vocabulary.
+
 ## Anti-patterns
 - **[[transformation-as-a-project|Transformation as a project]]** — manage the transformation in the very mode you're trying to leave.
 - **Checkbox transformation** — squads, OKRs, "discovery" rituals adopted without competencies, strategy, or empowerment ([[model-maturity|Level 2]]).
@@ -144,19 +173,33 @@ Every transformation eventually requires a withdrawal — a launch that fails (s
 - **"We're not a tech company"** — Cagan's [[2023-09-12-cagan-who-is-product-operating-model-for|reframe]] dissolves this.
 - **Process people / scaling with process** — SAFe-style scaling without people development (per Moore's [[2022-09-18-moore-the-transformation-series|series index]]; the underlying articles are not yet ingested).
 - **Skipping politics** — the transformation succeeds or fails on stakeholder/executive hearts and minds; ignoring this dimension is fatal ([[transformation-politics]]).
-- **Hiring a management consultancy to do it for you** — McKinsey / Accenture / Bain "have never worked in the product model; they don't know what good looks like." Millions spent, "three years later still where they started." The company has to build the skills in-house; **coaching beats consulting** ([[2025-04-21-cagan-design-a-product-like-steve-jobs|Cagan]]).
+- **Hiring a management consultancy to do it for you** — named as far back as 2023 ([[2023-10-05-cagan-transformation-fail|Transformation Fail]]'s root cause #10, "Looking For Love In All The Wrong Places": guidance too often comes from consultancies or Agile coaches who "had never actually built products"), restated more sharply two years later: McKinsey / Accenture / Bain "have never worked in the product model; they don't know what good looks like." Millions spent, "three years later still where they started." The company has to build the skills in-house; **coaching beats consulting** ([[2025-04-21-cagan-design-a-product-like-steve-jobs|Cagan]]).
 - **"Agile = transformation"** — moving to Agile only addresses the *easiest* of the three dimensions (how you build); companies that equated the two "got almost nothing, sometimes worse" ([[2024-04-14-cagan-escape-the-project-trap-agile-theatre|agile theater]]).
-- **Transformation theater** — labels and rituals change, competencies don't; the transformation sibling of [[product-management-theater|PM theater]] ([[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction|Cagan's "transformation theater"]]).
+- **Transformation theater** — labels and rituals change, competencies don't; see the full taxonomy below.
+
+## Transformation theater — the wider taxonomy
+[[2024-02-27-hickman-transformation-theater|Hickman's 2024 article]] is the wiki's **root source** for "transformation theater," re-rooted here from [[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction|a Cagan talk]] that used the same phrase a month later without originating it. Written as the third piece in a series that opened with [[product-management-theater|Cagan's Product Management Theater and Product Leadership Theater]] articles, it widens the lens from the PM/leader roles to the transformation effort itself and names **seven** distinct forms — most of these are "going through the motions" failures: activity survives, substance doesn't.
+
+1. **Transformation theater (top-level)** — focusing on transformation *activity* (new training, certifications, reorgs, ceremonies, tools) instead of transformation *results*; the irony that a shift meant to move the org from output to outcomes hides behind its own output. Change fatigue from a history of prior "transformation" initiatives makes this worse — people wait it out, expecting this one to pass too.
+2. **Title Theater** — titles and job descriptions change (product owner/business analyst → product manager, graphic designer → product designer, engineer → tech lead) while the same people do the same work. Fatal without people who can accurately assess real skill and coach toward it — the same **installation, not adoption** failure [[transformation-anti-patterns|Hickman names independently on the anti-patterns page]].
+3. **Innovation Theater** — standing up a dedicated "innovation team" so the rest of the org can stop trying; rarely reaches customers because the team that discovers a solution must also be the team that delivers it. Idiodi's later, sharper version of the same diagnostic: *"when a company says 'we have an innovation team,' that literally means my product team is not innovating"* (see [[product-myths]]).
+4. **Discovery Theater** — continuing to design and build every idea while calling it discovery. The tell isn't activity, it's the discard rate: a team should be discarding roughly half its ideas, not shipping all of them (see [[discovery-health]]'s Level 2 "discovery theater" rubric row for the coaching-diagnostic form of this same pattern).
+5. **Agile Theater** — an army of Agile coaches, roles, and ceremonies with no resulting empowerment or release-frequency change ("Fake Agile"). The wiki's fuller treatment, including the sharper "waterfall with a marketing name of agile" line, comes from a later talk — see [[pom-vs-agile-and-safe]].
+6. **Strategy Theater** — "peanut butter" resource allocation to stakeholders, dressed up as strategy. Theater, not merely an absence of strategy, because it performs the vocabulary of strategic prioritization while avoiding the hard part: leaders willing to say no. The phrase itself is attributed to the earlier [[2023-10-05-cagan-transformation-fail|Transformation Fail (2023)]] article; see [[product-strategy]].
+7. **Stakeholder Collaboration Theater** — treating the shift to empowered teams as a transfer of power *from* stakeholders rather than a move to genuine collaboration; product leaders end up ignoring stakeholders, or humoring them, instead of partnering with them (see [[stakeholder-relationship-health]]).
+
+**The cost, named explicitly:** transformation theater's most damaging consequence is losing your *best* people — the ones who stayed hoping the transformation was real, built the new skills, and then leave for a company that already works the way they were promised. **The framing that matters for coaching:** none of these forms are usually intentional; people follow the path of least resistance (avoiding change), and naming the pattern out loud is itself the intervention.
 
 ## In your context
 _Field note placeholder — which of the three dimensions is your org currently moving on, if any? Are you running pilot teams or running a transformation project? Who is the product leader, and have they worked in the product model before?_
 
 ## Related
-- concepts: [[overview]], [[empowered-product-teams]], [[feature-teams-vs-product-teams]], [[outcome-based-roadmap]], [[transformation-politics]], [[transformation-as-a-project]], [[the-need-for-speed]]
+- concepts: [[overview]], [[empowered-product-teams]], [[feature-teams-vs-product-teams]], [[outcome-based-roadmap]], [[transformation-politics]], [[transformation-as-a-project]], [[the-need-for-speed]], [[product-management-theater]], [[transformation-anti-patterns]], [[product-strategy]], [[product-myths]], [[org-design-models]]
+- synthesis: [[where-the-model-applies]], [[pom-vs-agile-and-safe]]
 - frameworks: [[pilot-teams]], [[it-to-product-organization]], [[high-integrity-commitments]]
-- diagnostics: [[model-maturity]], [[transformation-readiness]], [[leadership-readiness]], [[stakeholder-relationship-health]]
+- diagnostics: [[model-maturity]], [[transformation-readiness]], [[leadership-readiness]], [[stakeholder-relationship-health]], [[discovery-health]], [[transformation-execution-health]]
 - competencies: [[product-leadership]], [[product-coach]], [[the-product-team-trio]]
-- entities: [[transformed]], [[marty-cagan]], [[jon-moore]], [[svpg]]
+- entities: [[transformed]], [[marty-cagan]], [[jon-moore]], [[lea-hickman]], [[svpg]]
 
 ## Sources
 - [[2022-05-31-moore-transformation-defined]] — the root of the three-dimensions framing.
@@ -172,5 +215,11 @@ _Field note placeholder — which of the three dimensions is your org currently 
 - [[2024-05-21-cagan-moving-to-the-product-operating-model-industry]] · [[2023-10-31-cagan-transformed-just-product]] — the canonical POM-overview talks (3 dimensions + 4 competencies + 5 concepts); Atlassian as the term's origin.
 - [[2024-04-14-cagan-escape-the-project-trap-agile-theatre]] — agile addresses only one (the easiest) of the three dimensions.
 - [[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]] — the ten keys to successful transformation (with [[lea-hickman|Hickman]]); cost-center vs profit-center; fund teams for quarters; The Guardian.
-- [[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]] — "transformation theater"; fund-teams-for-quarters as a transition technique.
+- [[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]] — fund-teams-for-quarters as a transition technique. (No longer cited for "transformation theater" — see re-rooting below.)
+- [[2024-02-27-hickman-transformation-theater]] — **root** for "transformation theater" and its seven named forms (Title / Innovation / Discovery / Agile / Strategy / Stakeholder Collaboration Theater); re-rooted from the talk above, which used the phrase a month later.
+- [[2023-10-05-cagan-transformation-fail]] — the ten root causes of failed transformations; also re-roots the "hiring a management consultancy" anti-pattern above (root cause #10, predates the 2025 talk by 18 months).
+- [[2024-11-12-cagan-winning-hearts-and-minds]] — the seven-behavior trust-earning pattern above; positive-pattern companion to [[transformation-as-a-project]].
 - [[transformed]] — root source.
+
+- [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan (Apr 2022); the litmus test, the pandemic as proof point, and the full two-list failure taxonomy (see [[transformation-anti-patterns]]).
+- [[2024-04-03-jones-moving-to-the-product-operating-model-product-people]] — Jones (Apr 2024); the two-part measurement answer and the [[john-deere-smart-industrial|John Deere]] example.

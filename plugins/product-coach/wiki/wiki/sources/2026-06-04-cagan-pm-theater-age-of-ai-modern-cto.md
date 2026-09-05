@@ -22,7 +22,7 @@ updated: 2026-07-03
 **Primary (SVPG canon).** The product-management-theater thesis told to a CTO / engineering-leader audience, with the AI angle: GenAI is simultaneously exposing the theater and making it easier to perform.
 
 ## What it backs
-- concepts: [[product-management-theater]] (the three models; "more garbage shipped than ever"), [[feature-teams-vs-product-teams]], [[empowered-engineers]] (Bill Campbell attribution), [[team-topology]] (future shape of teams), [[build-to-learn-vs-build-to-earn]], [[the-need-for-speed]]
+- concepts: [[product-management-theater]] (the three models; "more garbage shipped than ever"), [[feature-teams-vs-product-teams]], [[empowered-engineers]] (Bill Campbell attribution), [[team-topology]] (future shape of teams), [[build-to-learn-vs-build-to-earn]] (supporting — re-rooted 2026-09-05 to [[2026-04-16-cagan-build-to-learn-vs-build-to-earn|the Apr 2026 article]]), [[the-need-for-speed]]
 - concepts: [[model-as-product-coach]] (AI as personal coach, prompting for the product model)
 - frameworks: [[pilot-teams]] ("using the product model to move to the product model")
 

@@ -8,7 +8,7 @@ role: Partner, Silicon Valley Product Group; author of LOVED
 org: "[[svpg]]"
 related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[loved]]", "[[product-marketing]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[transformed]]", "[[feedback]]"]
 created: 2026-07-04
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # Martina Lauchengco
@@ -45,6 +45,26 @@ Lauchengco appears on 4 episodes of the *Product Therapy* podcast (Batch 1 · Ep
 
 ## Notes
 - **Not brand/field/performance marketing.** Product marketing is about market fit, positioning, go-to-market, and channel enablement — see [[product-marketing]] and the market side of [[time-to-money|product-market fit]].
+
+## Talks & interviews ingested (2022 — the *LOVED* launch year)
+
+Three sources from the four months around *LOVED*'s April 2022 release. The prepared material in the first two overlaps heavily; the value is in what each adds.
+
+- [[2022-04-27-lauchengco-loved-lean-product-meetup]] — Lean Product Meetup (Dan Olsen), talk given 2022-04-19, **one week after the book shipped**. The canonical spoken walkthrough of the four fundamentals — [[pmm-ambassador|ambassador]] · [[pmm-strategist|strategist]] · [[pmm-storyteller|storyteller]] · [[pmm-evangelist|evangelist]] — with the go-to-market canvas walked row by row.
+- [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id]] — RED-ID, Tel Aviv (May 2022). Same talk, **much better Q&A**: where product marketing should report, how PM and PMM actually split the work, and what to do when marketing says it cannot sell the roadmap. Also the clearest statement of the **when → why → what → how** inversion.
+- [[2022-08-20-lauchengco-designing-products-that-are-loved-language-of-leadership]] — *Language of Leadership* #021 (Aug 2022). The conceptual-distinctions episode: **positioning ≠ messaging**, the **say-do gap** and its limit, and go-to-market shaping the product rather than only following it.
+
+## The stories she reaches for
+
+- **Microsoft Word, the halved release.** Universal edict to sim-ship with the next version of Windows; development time halved; feature count halved — in an era when the number of features on the box *was* the perceived value. A keystroke study of 200 users showed ~75% of all actions fell into four basic categories, and the enhancements were in those categories. Repositioned as *improving how people actually use a word processor*; became the best-reviewed and most commercially successful version of Word to that point. **The wiki's clearest evidence that positioning can carry a release the product alone would not.** They also deliberately ditched PowerPoint — at Microsoft — and drew the graph live on a whiteboard.
+- **Word for Mac and word count.** A performance dog they could not fully fix. But *word count* is the one feature the press uses all day every day, and was their bellwether for performance — so they dedicated an engineer to it and made it the fastest word count on any platform. The press noticed and reported that performance had been addressed. Her canonical [[pmm-evangelist|evangelism]] example.
+- **Looker vs. RJ Metrics.** Two analytics companies, same moment, same buyer. The short benefit-shaped line versus the specific technical one that tells you *why to believe it*. Mediocre outcome versus a multi-billion-dollar one — and RJ Metrics' CEO's own line about building a better horse-drawn carriage while Looker built the Model T.
+- **[[workiva|Workiva]] / Web Filings multi-screen support.** The customer-success team's persistence against a product team's must-haves; the "nice to have" turned out to be the most-talked-about thing in the release. Her [[pmm-ambassador|ambassador]] example.
+- **Splunk Trust.** Fezzes and capes for the deepest product nerds — scaled evangelism, because you cannot educate a technical market yourself.
+
+## Notes
+
+She is married to [[chris-jones|Chris Jones]], her fellow SVPG partner — she mentions it in the RED-ID Q&A while telling a story on him: he would say a release date was set because *the work was done*, and she would answer *"that's never a reason — where's the market thinking?"* A useful disclosure when both are cited on the same page, and a good illustration that market timing is a habit rather than an aptitude.
 
 ## Related
 - [[svpg]], [[loved]], [[product-marketing]], [[marty-cagan]]

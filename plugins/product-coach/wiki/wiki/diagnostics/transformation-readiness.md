@@ -5,7 +5,7 @@ aliases: [transformation-readiness, ready-to-transform, transformation-prep]
 status: drafting
 tags: [diagnostic, transformation, readiness, change-management, pilot-teams]
 assesses: An organization's readiness to begin (or restart) a transformation to the Product Operating Model — leadership posture, coaching access, stakeholder alignment, pilot-team viability, communications cadence, and avoidance of named anti-patterns.
-sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2022-05-31-moore-transformation-defined]]", "[[2023-02-20-cagan-transformed-announcement]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]"]
+sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2022-05-31-moore-transformation-defined]]", "[[2023-02-20-cagan-transformed-announcement]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2025-01-21-cagan-fredell-ma-and-the-product-model]]"]
 related: ["[[transformation]]", "[[transformation-politics]]", "[[transformation-as-a-project]]", "[[pilot-teams]]", "[[model-maturity]]", "[[leadership-readiness]]", "[[stakeholder-relationship-health]]", "[[product-leadership]]"]
 created: 2026-06-21
 updated: 2026-06-21
@@ -22,7 +22,7 @@ updated: 2026-06-21
 Each is a yes/no/partial question; collectively they place the org on the rubric.
 
 ### 1. Scope clarity
-Has the org accepted that the product model applies to it? Cagan's heuristic ([[2023-09-12-cagan-who-is-product-operating-model-for|canon]]): *if you have engineers building technology that powers your business, the model applies.* **Red flag:** "we're not a tech company" framing or "digital vs. non-digital product" framing.
+Has the org accepted that the product model applies to it? Cagan's heuristic ([[2023-09-12-cagan-who-is-product-operating-model-for|canon]]): *if you have engineers building technology that powers your business, the model applies.* **Red flag:** "we're not a tech company" framing or "digital vs. non-digital product" framing. See [[where-the-model-applies]] for the fuller fit test across Traditional IT, Government, and Outsourcing contexts specifically.
 
 ### 2. Leadership readiness
 Does the **product leader** have first-hand product-model experience? If not, is there a [[types-of-product-coaching|product leadership coach]] retained or being recruited? Cagan: "product leaders really are the key to successful transformation" ([[2024-11-21-cagan-transformation-politics|canon]]). **Red flag:** transformation announced before the product leader question is answered. See also [[leadership-readiness]].
@@ -70,6 +70,9 @@ The assessment structure (used across [[transformation-readiness]] and [[model-m
 
 This wiki's [[transformation-readiness]] (below) and [[model-maturity]] rubrics build on Ch 29's structure but score the org differently — readiness on *preconditions to start*, maturity on *current state*.
 
+## Applying this before an acquisition ([[2025-01-21-cagan-fredell-ma-and-the-product-model|M&A and the Product Model]])
+The same readiness question applies when the org under assessment is an acquisition target rather than your own company: does the target have the product-organization capability to keep creating product going forward, not just the products it has already shipped? [[2025-01-21-cagan-fredell-ma-and-the-product-model|Cagan and Fredell's M&A article]] frames this as due diligence using the same four-category assessment this page and [[model-maturity]] already formalize (build/deploy cadence, team type and ownership, how problems are solved, how investment is decided) — applied to the target, with a named failure mode to watch for post-close: an innovative acquired company's culture and best people buckling under the acquirer's weight rather than spreading outward as hoped.
+
 ## Rubric
 | Level | Name | What it looks like |
 |---|---|---|
@@ -108,6 +111,7 @@ A Level-3+ posture: experienced product leader (or strong coach engaged), 1–3 
 - competencies: [[product-leadership]], [[product-coach]], [[the-product-team-trio]]
 - frameworks: [[pilot-teams]], [[it-to-product-organization]], [[high-integrity-commitments]]
 - diagnostics: [[model-maturity]] (current state), [[leadership-readiness]], [[stakeholder-relationship-health]]
+- synthesis: [[where-the-model-applies]]
 
 ## Sources
 - [[2024-11-21-cagan-transformation-politics]] — political readiness; the 8th dimension (internal evangelism); 1–3 year horizon.
@@ -116,4 +120,5 @@ A Level-3+ posture: experienced product leader (or strong coach engaged), 1–3 
 - [[2023-02-20-cagan-transformed-announcement]] — the case-study finding that successful transformations are rare; case-study lineage.
 - [[2026-02-04-cagan-product-coaching-and-ai]] — coaching as the supply-constrained precondition.
 - [[2023-09-12-cagan-who-is-product-operating-model-for]] — scope clarity, the first readiness lens.
+- [[2025-01-21-cagan-fredell-ma-and-the-product-model]] — applying this diagnostic as M&A due diligence on an acquisition target.
 - [[transformed]] — root source.

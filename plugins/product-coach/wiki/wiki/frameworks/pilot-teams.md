@@ -4,7 +4,7 @@ type: framework
 aliases: [pilot-teams, pilot-team, transformation-pilot, product-pilot]
 status: drafting
 tags: [framework, transformation, pilot, risk-mitigation, change-management]
-sources: ["[[transformed]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2022-05-31-moore-transformation-defined]]"]
+sources: ["[[transformed]]", "[[2016-11-03-jones-pilot-teams]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2022-05-31-moore-transformation-defined]]", "[[2025-07-14-cagan-the-politics-of-pilot-teams]]"]
 related: ["[[transformation]]", "[[transformation-politics]]", "[[transformation-as-a-project]]", "[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[product-leadership]]", "[[model-maturity]]", "[[transformation-execution-health]]"]
 created: 2026-06-21
 updated: 2026-08-31
@@ -12,7 +12,10 @@ updated: 2026-08-31
 
 # Pilot Teams
 
-> The canonical SVPG technique for transforming to the product model: instead of a company-wide rollout, pick a small number of teams, set them up the new way, and let them produce a visible business outcome. **Risk-mitigation tool, political tool, and proof-of-concept all at once** ([[2024-10-29-cagan-transformation-as-a-project|Cagan]] · [[2024-11-21-cagan-transformation-politics|Cagan]]).
+> The canonical SVPG technique for transforming to the product model: instead of a company-wide rollout, pick a small number of teams, set them up the new way, and let them produce a visible business outcome. **Risk-mitigation tool, political tool, and proof-of-concept all at once** ([[2016-11-03-jones-pilot-teams|Jones]] · [[2024-10-29-cagan-transformation-as-a-project|Cagan]] · [[2024-11-21-cagan-transformation-politics|Cagan]]).
+
+## Lineage
+[[2016-11-03-jones-pilot-teams|Chris Jones's 2016 article]] is the **origin** of pilot teams as SVPG canon and the piece both later Cagan articles cite. Jones's four selection criteria — **People** (right skills, right mindset, *enthusiastic* about the change), **Location** (physically co-located, in 2016 terms; the durable point is *close cross-functional collaboration*), **Charter** (scope framed in **business outcomes** not features), **Autonomy** (dependencies minimized so the pilot tests the model, not the surrounding org) — plus the "one-to-two-quarter run, **insulated from legacy processes**" cadence, are the *method*. [[2024-11-21-cagan-transformation-politics|Cagan's 2024 political-selection checklist]] (ambition-ceiling / manager-support / tech-debt / skills) is a **refinement** on the People-and-Charter criteria for high-stakes transformations — not a replacement. Use Jones for the mechanics; add Cagan when the political weather demands it. [[2025-07-14-cagan-the-politics-of-pilot-teams|Cagan's dedicated 2025 written article]] is now the wiki's **primary root** for the staffing and problem-scoping mechanics below — re-rooted from the looser, chronologically-earlier Ep 14 podcast treatment, consistent with the wiki's standing article-over-podcast convention. Ep 14 stays as supporting for its own distinct contribution: the four-check political-selection vocabulary and the Trainline/Moore worked example.
 
 ## When to use it
 - Your org is starting (or restarting) a transformation to the product model.
@@ -64,6 +67,9 @@ Pilot teams are the **political mechanism** of transformation. They:
 ## The Datasite One near-fail (Product Therapy Ep 24 · Cullen · Fredell)
 [[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite|Ep 24 (Cullen + Fredell)]] surfaces what happens when a first pilot *misses* its ambition ceiling — the Datasite One M&A platform's first customer deal in Ireland went badly ("nowhere effing near ready"). The recovery: 3-day company offsite → October launch. The lesson is not that pilots should be less ambitious — it's that the **culture bank** (see [[transformation]]) has to be full enough to survive a pilot failure. First pilots that "just fail without recovery" are usually pilots where the trust deposits weren't in place ahead of time.
 
+## Scaling beyond the pilot — each business unit is its own transformation ([[2025-07-14-cagan-the-politics-of-pilot-teams|Cagan, 2025]])
+If the first pilot succeeds, the natural next request is a company-wide rollout. Cagan's 2025 article adds a point not previously on this page: in a large company, **treat each business unit as essentially its own transformation** — and run pilot teams for each. This is especially true when the business units are the product of earlier acquisitions, where trust, culture, and credibility do not automatically transfer across the acquisition boundary. One successful pilot in one part of the company does not automatically buy trust in another.
+
 ## Example
 *Field note placeholder — does your org have running pilot teams? Who picked them? What outcome are they pursuing, and how is it measured? Is there a coach available to them?*
 
@@ -80,4 +86,5 @@ Pilot teams are the **political mechanism** of transformation. They:
 - [[2025-02-06-idiodi-cagan-coaching-transformation-politics]] — Product Therapy Ep 14; the four-check political-selection criteria + the Trainline pilot in Cagan's voice.
 - [[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]] — Product Therapy Ep 24; the Datasite One near-fail and culture-bank recovery.
 - [[transformed]] — root source.
-- _Not yet ingested:_ SVPG's dedicated *Pilot Teams* article (referenced from both Cagan articles) — added to backlog.
+- [[2016-11-03-jones-pilot-teams]] — **the origin article** ([[chris-jones|Jones]], SVPG, 2016); the four selection criteria (People / Location / Charter / Autonomy); one-to-two-quarter cadence; "insulate from legacy processes"; the adoption-lifecycle framing and small-'a' agile applied to org change. The article Cagan references in both [[2024-10-29-cagan-transformation-as-a-project|Transformation as a Project]] and [[2024-11-21-cagan-transformation-politics|Transformation Politics]] as the SVPG canon.
+- [[2025-07-14-cagan-the-politics-of-pilot-teams]] — **primary root** for the staffing and problem-scoping sections above (re-rooted from Ep 14); the "impressive but not impossible" problem-scoping test; the each-business-unit-is-its-own-transformation scaling point.

@@ -26,6 +26,8 @@ updated: 2026-08-29
 ## Works
 - Product Therapy podcast — one episode:
   - [[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite|Ep 24 — Coaching Transformation: Inside Datasite's Radical Transformation]] (July 2025) · with [[doug-cullen|Doug Cullen]], co-primary inside-out narrative of the [[datasite-transformation|Datasite transformation]].
+- SVPG article — one co-authorship:
+  - [[2025-01-21-cagan-fredell-ma-and-the-product-model|M&A and the Product Model]] (Jan 2025) · co-authored with [[marty-cagan|Cagan]]; the wiki's primary source on applying the product model as an M&A due-diligence lens. See [[where-the-model-applies]].
 
 ## Related
 - [[datasite-transformation]] — the transformation Fredell led

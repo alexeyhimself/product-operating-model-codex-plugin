@@ -5,10 +5,10 @@ aliases: [discovery-health, product-discovery-health, discovery-diagnostic]
 status: drafting
 tags: [diagnostic, discovery, four-risks, prototypes, validation]
 assesses: Whether a team's product discovery practice is actually addressing the four big risks fast and cheaply — or is theater dressed in agile vocabulary.
-sources: ["[[transformed]]", "[[2009-10-12-cagan-product-discovery-plan]]", "[[2012-10-24-cagan-continuous-discovery]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[2009-08-23-cagan-the-two-week-rule]]", "[[2012-08-21-cagan-time-boxing-product-discovery]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[2009-09-08-cagan-product-discovery-vs-product-optimization]]", "[[2013-11-23-cagan-product-discovery-in-established-companies]]", "[[2012-11-01-cagan-assessing-customer-impact]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]"]
+sources: ["[[transformed]]", "[[2009-10-12-cagan-product-discovery-plan]]", "[[2012-10-24-cagan-continuous-discovery]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[2009-08-23-cagan-the-two-week-rule]]", "[[2012-08-21-cagan-time-boxing-product-discovery]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[2009-09-08-cagan-product-discovery-vs-product-optimization]]", "[[2013-11-23-cagan-product-discovery-in-established-companies]]", "[[2012-11-01-cagan-assessing-customer-impact]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2024-02-27-hickman-transformation-theater]]"]
 related: ["[[product-discovery]]", "[[the-four-big-risks]]", "[[minimize-waste]]", "[[assess-product-risks]]", "[[embrace-rapid-experimentation]]", "[[test-ideas-responsibly]]", "[[empowered-engineers]]", "[[the-product-team-trio]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-05
 ---
 
 # Discovery Health — Diagnostic
@@ -45,7 +45,7 @@ Discovery is the principal mechanism by which the product operating model produc
 | Level | Name | What it looks like |
 |---|---|---|
 | **1** | **No discovery** | Spec → build → ship. Customers see ideas only after launch. Either no real product manager, or PM is a backlog administrator. Engineers brought in to estimate. Most "MVPs" are real shipped products. |
-| **2** | **Discovery theater** | "We do dual-track" — but discovery means PM + designer producing wireframes that get handed off; engineers absent; long discovery phases serializing into delivery. Customers seen monthly at best. Some prototype work, mostly low-fi user testing. |
+| **2** | **Discovery theater** | "We do dual-track" — but discovery means PM + designer producing wireframes that get handed off; engineers absent; long discovery phases serializing into delivery. Customers seen monthly at best. Some prototype work, mostly low-fi user testing. Hickman names the same pattern in writing as Discovery Theater ([[2024-02-27-hickman-transformation-theater|canon]]): the tell is the discard rate, not the activity — a team should discard roughly half its ideas, not ship all of them. |
 | **3** | **Continuous discovery** | Trio collaborates daily; many small tests per week; iterations measured in hours/days. Two-week rule respected. Opportunity backlog feeds discovery; product backlog feeds delivery. The vast majority of discovery time is solution work. Customer-impact assessment used before launches. |
 | **4** | **Exemplary** | Above + engineers are first source of just-now-possible ideas; team is famed across the org for cheap, decisive answers to risky questions; live-data prototypes and progressive rollouts are routine; every PM and engineer can name the last user they spoke to *this week*. |
 

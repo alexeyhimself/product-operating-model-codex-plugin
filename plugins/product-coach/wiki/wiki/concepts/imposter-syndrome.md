@@ -7,7 +7,7 @@ tags: [coaching, mindset, imposter-syndrome, vulnerability, product-manager, pro
 sources: ["[[2024-07-25-idiodi-jones-coaching-imposter-syndrome]]", "[[empowered]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]"]
 related: ["[[coaching-mindset]]", "[[coaching-agency]]", "[[coaching-the-pm]]", "[[trust-over-control]]", "[[product-sense]]", "[[product-strategy]]", "[[product-leadership]]", "[[christian-idiodi]]", "[[chris-jones]]"]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-05
 ---
 
 # Imposter Syndrome
@@ -60,3 +60,20 @@ _Agent prompt: for the person you're coaching, is the fear signaling real prepar
 - [[2024-07-25-idiodi-jones-coaching-imposter-syndrome]] — **primary root**; Jones's coaching stories + Idiodi's coaching moves.
 - [[empowered]] Ch 7 (The Coaching Mindset) — supporting; Principle 3 (*Beware Your Own Insecurities*) is the leader-facing companion.
 - [[2019-03-11-cagan-coaching-tools-the-narrative]] — supporting; the written-narrative is the specific coaching tool Jones was given.
+
+## Jones's plainest version (PMDojo, 2024)
+
+Alongside the *Product Therapy* Ep 6 material above, [[chris-jones|Jones]] gives an unguarded personal account in [[2024-04-05-jones-product-power-play-pmdojo]]:
+
+> *"Especially early in my career, a lot of what drove me was **fear** more than anything else — a lot of anxiety, a lot of imposter syndrome. As I've gotten older, and especially as I've been a manager at varying levels, I've just learned that everybody has that to some degree."*
+
+His advice to his younger self is not a technique but a permission: **do not be afraid to reveal a lack of knowledge or a point of view**, even in a job where you are supposed to have one — just be clear when you ask that you do not have it *yet*. *"People are generally, for the most part, more flattered than anything else that you're asking them for their input."*
+
+And the closing framing, which is the useful one for a coach:
+
+> *"There's a little bit of liberation in there. Everybody has it. Even your manager has it. **Even — especially — the most confident-seeming person in your organization.** They've just come up with a bold way of coping with it."*
+
+The device he pairs with it is **"what would you do?" rather than "what should I do?"** — you still get the input, you stay allowed to be vulnerable and undecided, and the decision stays yours. See [[coaching-up]] and [[decision-making]].
+
+## Sources (addition)
+- [[2024-04-05-jones-product-power-play-pmdojo]] — Jones (Apr 2024).

@@ -27,5 +27,8 @@ One of the seven product coaches Cagan personally profiles in Ch 34. Represents 
 ## Themes (per Ch 34)
 *"Creating space for talented teams to build great experiences for their users"* — cross-capability collaboration that produces solutions no individual would have reached alone. As a coach: applies real-world product leadership + transformation experience to help leaders and teams move to the product model, user-centered.
 
+## Works
+- [[2024-08-07-cagan-langer-the-product-model-in-government|The Product Model in Government]] (Aug 2024) — co-authored with [[marty-cagan|Cagan]]; the wiki's primary source on applying the product model in mission-driven, non-profit-seeking public-sector organizations. See [[where-the-model-applies]].
+
 ## Related
-- [[product-coach]] · [[product-coaching]] · [[transformed]]
+- [[product-coach]] · [[product-coaching]] · [[transformed]] · [[where-the-model-applies]]

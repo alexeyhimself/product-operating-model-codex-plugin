@@ -16,7 +16,9 @@ One page per concrete technique or framework the model uses. These are the "how-
 - [[reference-customer-program]] — 6–8 target-market customers as development partners → reference customers at launch (INSPIRED Ch 15 → TRANSFORMED Ch 23).
 - [[product-discovery-techniques]] — the hub/catalog of Cagan's discovery techniques (INSPIRED Part IV, 2nd ed 2017): framing → planning → ideation → prototyping → testing → transformation.
 
-**Still suggested (not yet built):** `story-mapping`, `customer-interviews`, `product-vision-narrative`, `the-product-strategy-process`, `working-backwards`.
+**Still suggested (not yet built):** `customer-interviews`, `product-vision-narrative`, `the-product-strategy-process`, `working-backwards`.
+
+`story-mapping` was on this list; it's now a **deliberate non-target**, closed 2026-09-05 per the non-SVPG boundary decision (`CLAUDE.md` §2, ingest-plan Batch 8) — Jeff Patton's own book was never Cagan-endorsed. The technique itself is still taught, on [[product-discovery-techniques]].
 
 Use the [`framework`](../../templates/framework.md) template.
 

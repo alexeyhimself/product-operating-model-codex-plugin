@@ -4,10 +4,10 @@ type: concept
 aliases: [product-judgment, doing-your-homework, product-intuition]
 status: drafting
 tags: [product-sense, judgment, onboarding, product-manager, coaching, discovery]
-sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]"]
+sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]"]
 related: ["[[founder-style-leadership]]", "[[product-manager]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[powered-by-insights]]", "[[the-four-big-risks]]", "[[amazon-prime]]"]
 created: 2026-07-03
-updated: 2026-07-04
+updated: 2026-09-05
 ---
 
 # Product Sense
@@ -49,6 +49,21 @@ Ep 3's Cagan quote: *"the domain expertise is a double-edged sword — on one le
 ## Building product sense through biographies (Idiodi)
 An Idiodi coaching move worth naming: read biographies of great decision-makers not for the timeline, but for *how they made critical hard decisions under uncertainty* — the inputs they used, the trade-offs they navigated. Idiodi's specific list: Lincoln (David Herbert Donald); Steve Jobs (Isaacson); [[build-tony-fadell|*Build*]] (Fadell). The learning target is decision-making calibration, not domain facts.
 
+## Product sense as creative judgment, not just analysis
+[[2024-09-26-cagan-is-product-art-or-science|A shorter, more personal Cagan essay]] — prompted by Rick Rubin's *The Creative Act* — adds a framing worth holding alongside the homework-based account above: product creators (PMs, designers, engineers) share more with artists than a purely scientific account of product sense suggests. Both are fundamentally *creators*; both move through a "discovery" phase of open experimentation before "craft" hardens the work into final form. The difference is the goal, not the process — artists create primarily for self-expression, product creators create to deliver value to a business. Worth naming explicitly when someone treats product judgment as pure analysis: the muscle being built is closer to craft than to formula.
+
+## Product sense as cultivated, not gifted (Idiodi, *Product Momentum*)
+
+[[christian-idiodi|Idiodi]]'s most operational statement of the idea, in [[2024-06-25-idiodi-product-sense-product-momentum|*On Product Sense: Integrating Data and Intuition*]]:
+
+Product sense sits **downstream of deep knowledge** — of the customer, the business, the industry, the data, and the product itself. It is the point at which someone has taken enough inputs, often enough, that their judgment starts to be trusted without justification each time. *"The people that have this sense have actually practised this for a very long time."*
+
+His analogy: *"in any sport, when in doubt they give it to their superstar."* Not because the star is gifted, but because they have the highest historical rate of turning a decision into a good outcome — a rate built out of reps, including failures.
+
+**The organisational stake, put in the CFO's language.** Idiodi frames it as a spend question: a product team burning through roughly $65,000 a two-week sprint is a decision you would never make casually in your own household. The best companies trust that decision to one person *because that person demonstrably knows more about the customer and the business than anyone else in the room* — which is what product management is **for**. This is the same argument as the "Bob test" he gives in [[2023-12-21-idiodi-essence-of-product-management-lennys]], costed.
+
+**The AI test.** *"If it's only about the data and the inputs, then ChatGPT should have the best product sense — we should just check with it for all of the decisions we make."* Idiodi's answer is that no volume of data automatically resolves what is **right for these humans, at this time, in this context**; the interpretation is the human contribution, and it stays one. See [[ai-and-product-teams]] and [[emotional-intelligence]] — he treats self-awareness as a prerequisite, because a PM's biases, fears and frustrations are inputs to their "intuition" whether or not they notice.
+
 ## Anti-patterns & misunderstandings
 - **"Product sense is innate."** Cagan: never been true — it's an excuse. It's learned by doing the homework.
 - **Domain dogma masquerading as domain expertise** (Shreyas Doshi) — knowing "how it's always been done" is not the same as real domain judgment; distinguish law from lore.
@@ -70,3 +85,6 @@ _Field note: how deliberately do your PMs build product sense in their first 90 
 - [[2020-02-22-cagan-product-strategy-the-missing-link]] — leaders as a "learning distribution machine"; product sense as connecting the dots.
 - [[2024-03-26-cagan-russell-product-model-at-amazon]] — STLs' strong product sense as the key to Amazon's success; backs [[amazon-prime]].
 - [[2024-05-02-idiodi-cagan-coaching-product-sense]] — *Product Therapy* Ep 3 with Cagan; the humility/curiosity/empathy triad; domain-as-double-edged-sword; the "biographies for decision-making" coaching move; Idiodi's $26M-losing origin story.
+- [[2024-09-26-cagan-is-product-art-or-science]] — supporting; product sense as creative judgment; the artist/product-creator "discovery and craft" parallel via Rick Rubin.
+
+- [[2024-06-25-idiodi-product-sense-product-momentum]] — Idiodi, *Product Momentum* ep. 142 (Jun 2024); product sense as cultivated judgment, the superstar analogy, the sprint-cost framing, and the ChatGPT test.

@@ -38,11 +38,12 @@ Diagnostics are scoped — a single PM, a single team, the org as a whole. Match
 | **Whole org** | "where are we against the product model overall?" | [[model-maturity]] |
 | **Whole org, before transforming** | "are we even ready to start a transformation?" | [[transformation-readiness]] |
 | **Whole org, transformation underway** | "is our transformation or pilot actually executing well?" | [[transformation-execution-health]] |
+| **Whole org, when hit by disruption** | "how did we — or how are we — actually responding to a real disruptive event (a pandemic, generative AI, the next one)?" | [[disruption-response]] |
 | **The AI-as-coach setup itself** | "is my project-files-and-instructions setup aligned with Cagan's prescription?" | [[model-as-coach-readiness]] |
 
 When unsure of scope, default to **[[model-maturity]]** (org-level, broadest) or **[[feature-team-vs-empowered-team]]** (team-level, most actionable). For pre-transformation conversations, **[[transformation-readiness]]** asks the preconditions question before anything else.
 
-## The 16 built diagnostics
+## The 17 built diagnostics
 *Ordered from most specific scope to broadest.*
 
 - **[[pm-competency]]** — a single product manager's skill across people / process / product. Cagan's PM Assessment: rate each of 13 skills on importance vs. capability; coach the top-three weighted gaps.
@@ -60,6 +61,7 @@ When unsure of scope, default to **[[model-maturity]]** (org-level, broadest) or
 - **[[model-maturity]]** — whole-org rollup against the three transformation dimensions (build / solve / decide). Project model → checkbox transformation → operating in the model → exemplary.
 - **[[transformation-readiness]]** — eight readiness lenses to apply **before** starting (or restarting) a transformation. Distinct from [[model-maturity]] (current state vs. preconditions to changing it).
 - **[[transformation-execution-health]]** — once a transformation or pilot is running, is it executing well or drifting into a named anti-pattern (pilot theater, installation-not-adoption, the loop of transformation failure)?
+- **[[disruption-response]]** — how the org actually behaved (or is behaving) when hit by a real disruptive event, sudden or foreseeable — product-model adaptation or project-model denial and scramble. Distinct from [[model-maturity]] (steady-state) — this one scores observed behavior under an actual test.
 - **[[model-as-coach-readiness]]** — is your AI-as-product-coach setup aligned with Cagan's prescription (product-not-project framing, coach stance, strategic context, critique-seeking)?
 
 ## What a good diagnostic does

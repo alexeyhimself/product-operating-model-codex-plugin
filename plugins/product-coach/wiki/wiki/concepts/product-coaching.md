@@ -4,7 +4,7 @@ type: concept
 aliases: [product-coaching, coaching, pm-coaching]
 status: drafting
 tags: [coaching, learning, leadership, culture, core-concept]
-sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[transformed]]", "[[empowered]]", "[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-04-23-cagan-discovery-strategy-empowered-teams-product-faculty]]", "[[2023-01-16-cagan-master-class-context-not-control]]"]
+sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[transformed]]", "[[empowered]]", "[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-04-23-cagan-discovery-strategy-empowered-teams-product-faculty]]", "[[2023-01-16-cagan-master-class-context-not-control]]", "[[2024-06-25-cagan-transformation-regrets]]"]
 related: ["[[model-as-product-coach]]", "[[product-coach]]", "[[types-of-product-coaching]]", "[[coaching-vs-contracting]]", "[[coaching-mindset]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[trust-over-control]]", "[[product-culture]]", "[[principles-over-process]]", "[[marty-cagan]]", "[[svpg]]", "[[overview]]", "[[model-as-coach-readiness]]", "[[founder-style-leadership]]", "[[bill-campbell]]"]
 created: 2026-06-14
 updated: 2026-08-30
@@ -51,6 +51,14 @@ Cagan ([[2023-01-11-cagan-becoming-a-product-coach|Becoming a Product Coach]], 2
 - **Coaching the wrong model.** Coaching toward the project model and calling it product — see [[product-management-theater]].
 - **Single-session coaching.** Treating coaching as one-shot Q&A rather than an ongoing relationship to develop product sense over months.
 
+## Coaching regrets — lessons from the front lines ([[2024-06-25-cagan-transformation-regrets|Cagan, 2024]])
+Cagan's own first-person account of what he's gotten wrong across 20+ years of coaching transformations — a coach's failure modes, distinct from an org's transformation failure modes covered elsewhere. Five regrets, useful as a self-check for any coach (human or model):
+1. **Not being tough enough** — hoping a real problem wasn't serious enough to derail the transformation, for lack of the experience/evidence to know otherwise.
+2. **Being too tough** — overwhelming a product leader with the full scope of what's needed before they've had time to process it.
+3. **Agreeing to just provide PM training** — "product managers don't create products; product teams do." Training PMs alone, without designers, engineers, and leaders also changing how they work, "just isn't enough" — even though it's the single most common request. **Coaching implication:** when a company asks for "just PM training," the honest response is to explain why that alone won't produce the outcome they want, not to take the easier, narrower engagement.
+4. **When the company won't make tough calls** — regret at not naming avoidance in the moment, even though the decision to act on it is ultimately the company's, not the coach's.
+5. **When the product leader is the real problem** — the hardest case: coaching someone who may not believe the changes apply to them, where coaching itself depends on a trust that hasn't been established yet.
+
 ## Where leaders still need humans
 Per [[2026-02-04-cagan-product-coaching-and-ai|Cagan, Feb 2026]]: SVPG is concentrating its human-coach network on **product leaders**, especially during transformation. The problems at that level are people problems — relationships, power dynamics, transformation politics — and the strategic context (vision, strategy, team topology, team objectives) has to be built with humans before model-as-coach is fully useful below.
 
@@ -79,4 +87,5 @@ _Field note placeholder — who coaches you today? Manager, external coach, mode
 - [[2026-04-14-cagan-ai-product-coaching-women-in-product]] — why coaching fails (never worked this way; span of control); the tipping point; the ~100-coach network as "a drop in the bucket."
 - [[2020-04-23-cagan-discovery-strategy-empowered-teams-product-faculty]] — "not who they hire — they coach you."
 - [[2023-01-16-cagan-master-class-context-not-control]] — challenge to the coaching community; context-not-control.
+- [[2024-06-25-cagan-transformation-regrets]] — Cagan's own coaching regrets: the five failure modes above.
 - **The *Product Therapy* podcast (2024–), 13 episodes ingested** — the wiki's canonical corpus for the behavioral half of coaching. Episode index on [[christian-idiodi]]; the individual episodes are the primary sources for [[coaching-agency]], [[coaching-mindset]], [[trust-over-control]], [[product-sense]], [[imposter-syndrome]], [[product-ethics]], [[feedback]], [[stakeholder-relationship-health]], [[product-career-development]], [[product-marketing]], [[time-management]], [[founder-style-leadership]], and [[hiring-and-onboarding]].

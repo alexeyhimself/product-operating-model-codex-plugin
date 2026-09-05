@@ -8,7 +8,7 @@ role: Partner, Silicon Valley Product Group; TRANSFORMED co-author; host of the 
 org: "[[svpg]]"
 related: ["[[svpg]]", "[[marty-cagan]]", "[[transformed]]", "[[product-coaching]]", "[[jon-moore]]", "[[chris-jones]]", "[[lea-hickman]]", "[[martina-lauchengco]]", "[[coaching-agency]]", "[[coaching-mindset]]", "[[hiring-and-onboarding]]"]
 created: 2026-07-04
-updated: 2026-08-29
+updated: 2026-09-05
 ---
 
 # Christian Idiodi
@@ -62,6 +62,29 @@ Idiodi hosts SVPG's *Product Therapy* podcast, each episode with a rotating SVPG
 - **Coaching as care work.** Idiodi's throughline across the *Product Therapy* corpus: coaching is not a set of frameworks or techniques; it is a caring relationship built on trust, one-on-one, over time. The behavioral topics (agency, imposter syndrome, feedback, ethics) are as important as the technical ones (discovery, strategy) and are systematically under-taught in the industry.
 - **Trust as the ultimate product hack.** Public teaching alignment across the podcast, the [[trust-over-control]] principle, and the [[stakeholder-relationship-health]] diagnostic.
 - **Not therapy.** Every episode carries an explicit disclaimer that neither Idiodi nor his guests are mental health professionals; the podcast routes serious mental-health concerns to [findahelpline.com](https://findahelpline.com/).
+
+## Long-form interviews ingested (2023–2024)
+
+Three outside-the-podcast appearances, which together carry the material that is distinctively *his* rather than SVPG's collectively:
+
+- [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Lenny's Podcast (Dec 2023). **The most substantial single Idiodi source in the wiki.** Reference customers as the one technique he would keep, with numbers (6–8 B2B / 15–25 B2C); the **Bob test**; the trust-acceleration technique; *promote people to do the job, not to learn the job*; practice arenas.
+- [[2024-06-25-idiodi-product-sense-product-momentum]] — *Product Momentum* ep. 142 (Jun 2024). Product sense as cultivated judgment; **human skills, not soft skills**; the ChatGPT test.
+- [[2023-05-30-idiodi-building-strong-product-cultures-product-unfiltered]] — *Product Unfiltered* (May 2023), pre-*TRANSFORMED*. **Product culture ≠ company culture**; the doctor analogy; what a leader owes a team alongside an objective.
+
+Plus, on the podcast: [[2025-03-20-idiodi-leto-coaching-emotional-intelligence]] with [[kate-leto|Kate Leto]] — root source for [[emotional-intelligence]].
+
+## Signature phrases, and where they turn up
+
+- **"If you know, you will care."** Idiodi's, and the one [[chris-jones|Chris Jones]] has adopted and credits to him by name in two separate 2024 interviews. Don't try to make a PM care — send them to meet twenty or thirty customers, and the caring (and the opinions, and the ownership) follow. See [[coaching-the-pm]].
+- **"All problems are people problems."** Already recorded on this page; Cagan quotes it back at him from the ProductTank Oslo stage.
+- **"A certificate of appreciation."** His name for whatever a customer gives back when you have solved their problem well enough — revenue, engagement, loyalty, a reference. *"That's the real essence of this job."*
+- **"You don't get mastery by avoidance."**
+
+## Biography (from the interviews)
+
+Nigerian background; left home at 12 for a gifted-and-talented boarding school *"in the middle of the jungle"*, eight miles from anything, no potable water or electricity — which he names as the most formative period of his life. Was pre-med, and started in door-to-door sales while waiting to begin medical school; holds a patent, filed at 21, on impulse-based selling. Entered product **by winning his company's internal idea competition twice** — a ~$1M prize and a mandate to build the business the first time, after which the CEO simply handed him the innovation budget. Then, by his own account, roughly 15 consecutive failures — because the first time he had been curious and assumption-free, and afterwards he was making decisions from a conference room. That is the failure sequence that sent him looking for repeatable technique. Says he has built ~200 products and *"tries to build a new product every year from scratch"*; recent ones are in Africa (WorkNigeria).
+
+**Africa work:** the Innovate Africa Foundation, the Inspire Africa Conference (1,000 attendees from 31 countries at the first), and an angel fund aimed at helping African startups reach product-market fit without taking institutional money too early. His framing of the problem there: an ecosystem where *"people make a lot of money **on** a problem rather than **from solving** it"* — generators instead of power, bigger cars instead of roads. Context for the person, not model canon.
 
 ## Related
 - [[svpg]], [[transformed]], [[marty-cagan]]

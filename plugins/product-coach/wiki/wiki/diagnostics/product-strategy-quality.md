@@ -5,10 +5,10 @@ aliases: [product-strategy-quality, strategy-health, strategy-diagnostic]
 status: drafting
 tags: [diagnostic, strategy, focus, insights, vision, okrs]
 assesses: Whether an organization actually has a product strategy — focused, insight-driven, converted to team objectives, and actively managed — or is running a stakeholder-driven roadmap that calls itself strategy.
-sources: ["[[transformed]]", "[[2020-02-17-cagan-product-strategy-overview]]", "[[2020-02-18-cagan-product-strategy-focus]]", "[[2020-02-19-cagan-product-strategy-insights]]", "[[2020-02-20-cagan-product-strategy-actions]]", "[[2020-02-21-cagan-product-strategy-management]]", "[[2016-07-16-cagan-vision-vs-strategy]]", "[[2008-06-29-cagan-product-strategy-in-an-agile-world]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2017-07-14-cagan-analyzing-product-strategy]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2020-01-09-cagan-coaching-strategic-context]]"]
+sources: ["[[transformed]]", "[[2020-02-17-cagan-product-strategy-overview]]", "[[2020-02-18-cagan-product-strategy-focus]]", "[[2020-02-19-cagan-product-strategy-insights]]", "[[2020-02-20-cagan-product-strategy-actions]]", "[[2020-02-21-cagan-product-strategy-management]]", "[[2016-07-16-cagan-vision-vs-strategy]]", "[[2008-06-29-cagan-product-strategy-in-an-agile-world]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2017-07-14-cagan-analyzing-product-strategy]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2023-10-05-cagan-transformation-fail]]"]
 related: ["[[product-strategy]]", "[[principles-of-product-strategy]]", "[[focus]]", "[[powered-by-insights]]", "[[transparency]]", "[[placing-bets]]", "[[product-vision]]", "[[team-objectives]]", "[[product-leadership]]"]
 created: 2026-06-20
-updated: 2026-08-31
+updated: 2026-09-05
 ---
 
 # Product Strategy Quality — Diagnostic
@@ -40,7 +40,7 @@ Empowered teams need [[2020-01-09-cagan-coaching-strategic-context|strategic con
 - Strategy outsourced to a management consultancy with no follow-through ([[2020-02-19-cagan-product-strategy-insights|canon: rarely relevant; rarely owned]]).
 - Founder/CEO is the only strategist; no leadership team can articulate strategy independently.
 - No vision at all, or a vision that hasn't been updated in years and feels stale.
-- "[Peanut-butter strategy"](https://www.svpg.com/transformation-fail/) — capacity smeared evenly across stakeholders rather than concentrated on a few bets.
+- "Peanut-butter strategy" ([[2023-10-05-cagan-transformation-fail|Cagan, "Transformation Fail" 2023]] — the article that coins the phrase) — capacity smeared evenly across stakeholders rather than concentrated on a few bets.
 
 ## Rubric
 | Level | Name | What it looks like |

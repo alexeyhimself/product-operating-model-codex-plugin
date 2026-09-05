@@ -7,7 +7,7 @@ tags: [product-marketing, go-to-market, canvas, planning, gtm-strategy, alignmen
 sources: ["[[loved]]", "[[martina-lauchengco]]"]
 related: ["[[product-marketing]]", "[[pmm-strategist]]", "[[pmm-pm-partnership]]", "[[pmm-marketing-partnership]]", "[[pmm-sales-partnership]]", "[[technology-adoption-life-cycle]]", "[[brand-lever]]", "[[pricing-lever]]", "[[loved]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-05
 ---
 
 # The One-Sheet Product Go-to-Market Canvas
@@ -118,6 +118,25 @@ Ch 19's boundary: *"One thing it's not is a complete marketing plan."* The canva
 - **Quarterly PMM–PM–marketing–sales working sessions.**
 - **Kickoff for a new product** heading to market.
 
+## The when → why → what → how inversion
+
+The single most portable idea in [[martina-lauchengco|Lauchengco]]'s 2022 talks, and the thing the canvas exists to force. Stated most clearly in [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id|*Rethink Marketing for Tech Products*]]:
+
+**What teams normally do:** *what* are we doing → *how* will we do it → *why* → and *when* it will be released. Product teams arrive at "when" because the work is finished.
+
+**The market-forward inversion:** **when → why → what → how.**
+
+> *"**When** you do something determines whether or not there is market wind at your back, or whether it's relevant to your customers. When is the most important thing in grounding something and having market meaning."*
+> Then **why** — market leadership? pipeline? community? — because the why shapes the **what**: the same content becomes a book giveaway if the goal is community and a gated teaser ebook if the goal is pipeline. *"And then last comes the how. This is the number one thing I see teams consistently getting wrong: they have inverted this."*
+
+**Her worked example** is a Peloton ride: Harry Styles releases an album; an Alley-and-Emma duo ride drops against it on a Friday; five days later it has 110,000+ participants, against the tens of thousands a popular instructor's ride normally accumulates over *months*. Same instructor, same product — the difference is that the **when** was chosen and everything else was arranged behind it.
+
+**Her domestic version of the failure**, told on herself and on [[chris-jones|Chris Jones]], her husband and an SVPG partner: he would say a release date was set because *the work was done*. *"I'm like, that's never a reason. Where's the market thinking?"* A useful reminder that market timing is unnatural even for excellent product people, and that this is a habit, not an aptitude.
+
+**What the canvas does with it, and the claim worth testing:** put time across the top, **the customer's world and the outside environment in the first swimlane**, product milestones second. Lauchengco: *"I have never seen a team go through this exercise and not change some of how their roadmap thinking after they've done just the top two rows."* The edge pieces of the jigsaw go in first — time, the customer's world, the marketing strategies — and you fill in from the outside in.
+
+**And it answers the standing "we can't sell that roadmap" fight.** When marketing sees a roadmap of admin tools, settings and backend work and says there is nothing to sell, the answer is not to arbitrate who wins. Product marketing should have a seat at product planning *whatever the cadence*, and the canvas is the artefact that surfaces the mismatch **before anyone is committed** — including the immovable market objects (an analyst briefing cycle, a Gartner MQ window, a conference) that genuinely should influence sequencing. See [[pmm-pm-partnership]].
+
 ## Anti-patterns & misunderstandings
 - **Bandwidth's original state — PMM in tactics/tools mode without strategic frame.** The canvas is the fix.
 - **Start-here-now planning.** Focus only on the immediate quarter; canvas peters out. Fix: start with year-end + work backward.
@@ -138,3 +157,6 @@ _Agent prompt: does your team have a shared one-page GTM canvas? Who owns it? Wh
 ## Sources
 - [[loved]] Ch 19 — root source; Bandwidth opening + first-hour output; the puzzle metaphor; the 4-swim-lane structure; the 6-step recipe; SWOT gut check; Table 19.1 company-first vs customer-first; boundary vs full marketing plan. Deep-read in LOVED Pass 3a (2026-07-12).
 - [[martina-lauchengco]] — author.
+
+- [[2022-05-27-lauchengco-rethink-marketing-for-tech-products-red-id]] — Lauchengco, RED-ID (May 2022); the when→why→what→how inversion, the Peloton example, and the canvas as the answer to the "we can't sell that roadmap" standoff.
+- [[2022-04-27-lauchengco-loved-lean-product-meetup]] — Lauchengco, Lean Product Meetup (Apr 2022); the row-by-row walkthrough of the canvas and the edge-pieces-first rule.
