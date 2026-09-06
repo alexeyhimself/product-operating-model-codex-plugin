@@ -4,10 +4,10 @@ type: concept
 aliases: [product-culture, culture]
 status: drafting
 tags: [product-culture, core-concept]
-sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]"]
+sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]"]
 related: ["[[principles-over-process]]", "[[trust-over-control]]", "[[innovation-over-predictability]]", "[[learning-over-failure]]", "[[empowered-product-teams]]", "[[outcomes-over-output]]", "[[time-to-money]]", "[[feature-teams-vs-product-teams]]", "[[overview]]"]
 created: 2026-06-14
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Product Culture
@@ -44,6 +44,14 @@ His worked example is [[amazon|Amazon]]: *"a fantastic product culture… probab
 - **Leadership owes the team:** staffing and coaching; [[strategic-context|context]] (a clear [[product-vision|vision]], a real [[product-strategy|strategy]], a [[team-topology|topology]] with clear ownership); and [[team-objectives|objectives]] to go and deliver.
 - **The team owes leadership:** experimentation, customer-centricity, use of data, working *with* stakeholders rather than around them — and collaborating as one across product, design and engineering rather than in sequential handoffs.
 
+## Hickman's compact definition (2017)
+
+[[lea-hickman|Hickman]]'s earliest wiki-attested public formulation, from her Mind the Product London 2017 keynote ([[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]):
+
+> *"Product culture is more than the sum of its parts, it is a combination of the right people, the right process, all focused on the right outcomes."*
+
+The same talk states categorically what later canon puts more mildly: **no organisation can establish a strong product culture without the [[outcomes-over-output|output→outcomes]] shift.** *"Directing product teams with tasks"* — the [[feature-teams-vs-product-teams|feature-team]] posture — cannot coexist with product culture. Business-vs-product-goals tension gets flagged there as *"toxic if not the exception"*; the fix Hickman recommends is **rules of engagement** with stakeholders, established early and iterated (the 2017 precursor to what later becomes **voice vs. vote** on [[stakeholder-relationship-health]] — see [[2024-09-26-idiodi-hickman-coaching-stakeholder-collaboration|Ep 8]]).
+
 ## Anti-patterns & misunderstandings
 - "Transformation" as a reorg only — new boxes, same control-and-predictability culture.
 - Process and predictability treated as the highest virtues; failure punished, so experimentation dies.
@@ -63,3 +71,4 @@ _Field note placeholder — which culture principle is most absent in your org t
 - [[2024-03-21-huryn-product-model-first-principles-part-2]] — supporting explainer; Four Product Culture Principles.
 
 - [[2023-05-30-idiodi-building-strong-product-cultures-product-unfiltered]] — Idiodi, *Product Unfiltered* (May 2023); the product-culture/company-culture distinction, the Amazon example, and the erosion mechanism.
+- [[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]] — Hickman, Mind the Product London (Nov 2017); the *right people + right process + right outcomes* compact definition; the categorical output→outcomes statement; business-vs-product-goals tension as the toxin, rules of engagement as the antidote.

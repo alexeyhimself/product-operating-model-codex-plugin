@@ -4,10 +4,10 @@ type: framework
 aliases: [reference-customer-program, reference-customers, customer-discovery-program, charter-user-program, customer-advisory-board, customer-council, voice-of-the-customer]
 status: drafting
 tags: [framework, discovery, product-marketing, sales, reference-customers, go-to-market]
-sources: ["[[transformed]]", "[[inspired]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]", "[[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup]]"]
 related: ["[[product-marketing]]", "[[cross-functional-partnering]]", "[[product-discovery]]", "[[product-manager]]", "[[stakeholder-relationship-health]]", "[[overcoming-objections]]", "[[amazon-prime]]", "[[trainline-transformation]]", "[[datasite-transformation]]"]
 created: 2026-07-12
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Reference Customer Program
@@ -104,5 +104,7 @@ _Field note placeholder — for a live product effort: do you have 6–8 named t
 - [[transformed]] — Ch 23 "Partnering with Product Marketing" is the modern canon: the program renamed to the **Customer Discovery Program**, situated as one of the eight PM ↔ PMM collaboration areas.
 - [[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]] — the *reference-customer program* named as a discovery style alongside continuous discovery and dual-track.
 
+- [[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]] — Idiodi, Lean Product Meetup (Aug 2020). **The earliest wiki-attested Idiodi long-form on this technique**, three-plus years before the Lenny's Podcast card below. Framed as *the enhanced* discovery technique — the one to reach for under time pressure — with the seven-item failure taxonomy for why other discovery efforts stall; the same 6–8 B2B / 25 B2C numbers, the same "all references must want the same thing" constraint, and the full Snagajob → Starbucks → McDonald's → Macy's → LAX worked story (the LAX airport counter-example — the technique also tells you *who your customer is not*).
+- [[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup]] — Idiodi & Olsen fireside (Aug 2020, supporting). The recruiting-funnel number (~50 candidates to end at 6–8); pricing discovery — whatever you charge references becomes your market price; the Apple back-end / in-store-technician example for platform teams (the platform-variant case Idiodi did not have time for in the main talk).
 - [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Idiodi, Lenny's Podcast (Dec 2023). The B2B 6–8 / B2C 15–25 thresholds as a product-market-fit definition; references as reputational commitment; the all-25-must-want-the-same-thing constraint; marketing copy taken verbatim; the Snagajob/Starbucks/McDonald's worked story (told as his own career work, not as an SVPG case study).
 - [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan (Apr 2022); reference customers named from the stage as the fix for sales-driven product, citing *INSPIRED* Ch 39.

@@ -5,10 +5,10 @@ aliases: [engineers, tech-lead, engineering, empowered-engineer]
 status: drafting
 tags: [competency, engineers, tech-lead, trio, feasibility, delivery, innovation]
 role: The members of the product team accountable for feasibility risk and product delivery; the single most important source of innovation in a strong product company. The Tech Lead is the engineer in the trio.
-sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]", "[[2025-09-17-cagan-forward-deployed-engineers]]", "[[2024-05-21-cagan-good-product-people]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]", "[[2025-09-17-cagan-forward-deployed-engineers]]", "[[2024-05-21-cagan-good-product-people]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]", "[[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup]]"]
 related: ["[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[empowered-engineers]]", "[[product-delivery]]", "[[the-four-big-risks]]", "[[missionaries-vs-mercenaries]]", "[[delivery-manager]]", "[[forward-deployed-engineers]]"]
 created: 2026-06-20
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Engineers (and the Tech Lead)
@@ -78,6 +78,18 @@ Concretely: actively collaborating, looking at and weighing in on prototypes, ju
 **Jones's answer to "why should a tech lead care about discovery?"** is not a fairness argument, it is a value argument: *"we're not getting the full value out of our engineers if we use them the way you just described."* Engineers know what is technically possible **right now** in ways nobody else does — which is why, in the best companies, they are often the real engine of ideation. The traditional split (*product owns the what and the why, engineering owns the how*) is precisely what forecloses that.
 
 The clearest demonstration in the wiki is [[john-deere-smart-industrial|John Deere]]: an engineer watching farmers through a tractor camera, who had the machine-learning insight nobody had asked for. See also [[empowered-engineers]] and [[2020-04-20-cagan-the-most-important-thing]].
+
+## The non-tech-lead engineer's 30-minute discovery slot — a number (Idiodi, 2020)
+
+Jones's 20–25% covers the tech lead. [[christian-idiodi|Idiodi]] answers the companion question — *what about the rest of the engineers* — on the [[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup|fireside chat after his Enhanced Product Discovery talk]] (Aug 2020):
+
+> *"Spend 30 minutes a day in discovery. What are they doing? They are playing with prototypes… of what's coming next quarter, not next week. They are asking themselves two questions: is there a better way to do this, and is there anything that brings me concern? That's it."*
+
+Two operational features of the number matter:
+- It is *next-quarter*, not next-sprint — the point is to catch a better idea or a concern *before* the delivery date exists, so there is still time for the answer to change what gets built.
+- It is *daily and small* — Idiodi's diagnostic bite: *"If 30 minutes for your engineers every day makes them miss your implementation magical deadline so much, you have a different cultural problem."*
+
+Cite alongside Jones's 20–25% figure when a team argues the trio cannot spare non-lead engineering time for discovery. See [[reference-customer-program]] for the same talk's larger technique context.
 
 ## Common failure modes
 - **Sprint-planning surprise** — engineers first see ideas as Jira tickets at sprint planning. The diagnostic above.

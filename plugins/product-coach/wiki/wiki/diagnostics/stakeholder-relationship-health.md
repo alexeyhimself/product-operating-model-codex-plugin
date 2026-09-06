@@ -5,10 +5,10 @@ aliases: [stakeholder-relationship-health, stakeholder-health, viability-relatio
 status: drafting
 tags: [diagnostic, stakeholders, viability, evangelism, product-manager, narrative, trust]
 assesses: Whether the PM (and product leadership) has the trust-based, knowledge-grounded relationships with stakeholders that make business viability actually solvable — or whether the org has slipped into stakeholder-driven roadmaps and design-by-committee.
-sources: ["[[transformed]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]", "[[2016-05-03-cagan-product-success]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2010-08-16-cagan-top-10-reasons-for-weak-product]]", "[[2024-09-26-idiodi-hickman-coaching-stakeholder-collaboration]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]", "[[2023-10-05-cagan-transformation-fail]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]"]
+sources: ["[[transformed]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]", "[[2016-05-03-cagan-product-success]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2010-08-16-cagan-top-10-reasons-for-weak-product]]", "[[2024-09-26-idiodi-hickman-coaching-stakeholder-collaboration]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]", "[[2023-10-05-cagan-transformation-fail]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]"]
 related: ["[[product-manager]]", "[[product-leadership]]", "[[the-four-big-risks]]", "[[empowered-with-problems-to-solve]]", "[[focus]]", "[[feature-team-vs-empowered-team]]", "[[product-strategy-quality]]"]
 created: 2026-06-20
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Stakeholder Relationship Health — Diagnostic
@@ -69,6 +69,10 @@ The PM is the company's acknowledged expert on customers, data, and product, *an
 
 ## When a specific stakeholder is objecting
 When a specific constituency is publicly resisting the model (CEO, board, LOB, sales leader, CFO, CIO, CMO, CS leader, PMO director, or internal), use [[overcoming-objections]] as the coaching companion — Cagan devotes an entire Part of *[[transformed|TRANSFORMED]]* (Chs 36–46) to per-constituency objection patterns and SVPG's responses. Rebuilding a Level-1 → Level-3 relationship almost always requires an objection-handling conversation first, before the mojo moves or written-narrative discipline will land.
+
+## Rules of engagement — Hickman, 2017 (the earliest precursor)
+
+[[lea-hickman|Hickman]] at Mind the Product London 2017 ([[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]) diagnoses **chronic business-goals-vs-product-goals tension** as *toxic if not the exception* — from CEOs directing features to sales asking for hard delivery dates — and prescribes the earliest wiki-attested form of the fix: **rules of engagement**, collaboratively defined *with* stakeholders, established early, and *"constantly revisited and iterated, as with anything good product people do."* All product managers, and especially product leaders, must make this part of their role. The 2024 voice-vs-vote language below is the mature, categorical version of the same discipline — Hickman's own, seven years later.
 
 ## Voice vs vote — *Product Therapy* Ep 8 (Idiodi + Hickman)
 [[2024-09-26-idiodi-hickman-coaching-stakeholder-collaboration|Ep 8]] gives the wiki its cleanest **definition of a stakeholder**: someone with a **vote**, not just a **voice**. A vote = **veto power** — they can say no and the product does not ship (CEO, chief legal, head of sales, CFO in relevant scopes; whoever's job it is to protect a specific class of company asset). A voice = influence without a vote — worth hearing, but not diagnostic of ownership. This definition matters because it stops the *"everybody is a stakeholder"* spiral where a PM tries to please half the company.

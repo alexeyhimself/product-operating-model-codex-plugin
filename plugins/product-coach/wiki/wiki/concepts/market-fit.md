@@ -4,10 +4,10 @@ type: concept
 aliases: [market-fit, market-pull, market-side-of-pmf, market-side-of-product-market-fit]
 status: drafting
 tags: [product-marketing, market-fit, discovery, viability, product-market-fit]
-sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]"]
+sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]"]
 related: ["[[product-marketing]]", "[[pmm-ambassador]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[assumption-testing]]", "[[loved]]"]
 created: 2026-07-12
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Market Fit
@@ -105,7 +105,7 @@ Lauchengco's closing: *"If you're a product manager or a product marketer thinki
 
 ## A countable definition (Idiodi)
 
-Most of this page treats market fit qualitatively. [[christian-idiodi|Idiodi]] offers a threshold you can actually check ([[2023-12-21-idiodi-essence-of-product-management-lennys|Lenny's Podcast]]):
+Most of this page treats market fit qualitatively. [[christian-idiodi|Idiodi]] offers a threshold you can actually check — first stated at length in [[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup|*Knowing What You Can't Know*]] (Lean Product Meetup, Aug 2020) and restated with the same numbers on [[2023-12-21-idiodi-essence-of-product-management-lennys|Lenny's Podcast]] three years later:
 
 > **Product-market fit is when you have 6–8 (B2B) or 15–25 (B2C) target customers who have used the solution and are willing to put their reputation on the line to recommend it.**
 
@@ -137,3 +137,4 @@ _Agent prompt: which of Ch 11's growth-stall symptoms is showing up for your pro
 - [[martina-lauchengco]] — author.
 
 - [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Idiodi (Dec 2023); the countable reference-customer definition of product-market fit.
+- [[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]] — Idiodi (Aug 2020); **the earliest wiki-attested statement** of the same countable definition — *"the smallest product that meets the needs of these six or twenty-five is what I build in production"* — three-plus years before the Lenny's podcast card above.

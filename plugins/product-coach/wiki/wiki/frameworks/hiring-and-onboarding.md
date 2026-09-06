@@ -4,10 +4,10 @@ type: framework
 aliases: [hiring-and-onboarding, hiring-product-managers, onboarding, first-product-hire]
 status: drafting
 tags: [framework, hiring, onboarding, coaching, potential]
-sources: ["[[empowered]]", "[[transformed]]", "[[inspired]]", "[[loved]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2025-01-23-idiodi-jones-coaching-employee-onboarding]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]"]
+sources: ["[[empowered]]", "[[transformed]]", "[[inspired]]", "[[loved]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2025-01-23-idiodi-jones-coaching-employee-onboarding]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]"]
 related: ["[[product-manager]]", "[[product-coach]]", "[[product-leadership]]", "[[product-marketing]]", "[[leading-product-marketing]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[product-sense]]", "[[2007-09-11-cagan-recruiting-product-managers]]"]
 created: 2026-07-04
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Hiring & Onboarding Product People
@@ -29,6 +29,13 @@ Both models work — experienced hires and raw potential — but they're differe
 - **Potential:** bet on innate traits — strong work ethic, curiosity, persistence, and (early Google's phrase) "very smart people who know how to get things done." A good test: have they shown they can learn **two or more** functions of a business (eng, design, sales, marketing, product)?
 
 **Prerequisite for hiring juniors:** a manager/director whose explicit job is to coach and develop them. The most scalable model (Google, Apple, Amazon, Microsoft) is built on exactly this. Cagan is not a fan of take-home "tests" — he's "never found one that's any good." A high technical bar is really about a candidate's willingness to **learn and apply new enabling technologies**, not about coding ([[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri|canon]]).
+
+**Hickman's three-trait bar** (Mind the Product London 2017 · [[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]). Hired for *personality and soft skills ahead of technical skills* — *"you can learn a skill, but some of the factors that make a good product manager are inherent within a personality."* The three traits she filters on, and the reasons she gives:
+- **Intellectual curiosity** — beyond academia and content: curiosity about *yourself*.
+- **Natural collaboration** — *"if you are more concerned about being right than being open, you will struggle to be a product manager."*
+- **Grit** — passion and perseverance; without it *"you'll be soon lost and moving on."*
+
+This is the earliest wiki-attested operational filter for what Cagan's *hire for potential* looks like at the interview desk.
 
 ## Domain expertise vs domain dogma
 Hire for **product skill and learn the domain** — don't over-index on domain experience. Shreyas Doshi's distinction (which Cagan endorses): the risk is confusing **domain knowledge** with **domain dogma** — people who "know it by the way they learned it early in their career and don't question how things work." Most industry-disrupting innovation comes from teams *without* deep domain baggage (buy-now-pay-later did not come from credit-card companies). For genuinely deep domains, keep a **chief domain expert** (a physician, a tax expert) every team can consult ([[2022-12-07-cagan-product-lessons-jobs-musk-20vc|canon]]; [[2023-05-17-cagan-10-misconceptions-startups-productx|canon]]). See [[product-sense]].
@@ -140,3 +147,4 @@ The individual-contributor version of the same idea, for someone who has no mana
 
 ## Sources (addition)
 - [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Idiodi (Dec 2023).
+- [[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]] — Hickman, Mind the Product London (Nov 2017); the three-trait PM hiring bar — intellectual curiosity, natural collaboration, grit.

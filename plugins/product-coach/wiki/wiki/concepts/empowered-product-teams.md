@@ -4,10 +4,10 @@ type: concept
 aliases: [empowered-team, empowered-product-team, product-team]
 status: drafting
 tags: [product-team, empowerment, core-concept]
-sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2018-10-31-cagan-empowered-product-teams]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2016-05-03-cagan-product-success]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2020-02-24-cagan-team-objectives-overview]]", "[[inspired]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2018-10-31-cagan-empowered-product-teams]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2016-05-03-cagan-product-success]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2020-02-24-cagan-team-objectives-overview]]", "[[inspired]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]"]
 related: ["[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[sense-of-ownership]]", "[[collaboration]]", "[[the-product-team-trio]]", "[[feature-teams-vs-product-teams]]", "[[missionaries-vs-mercenaries]]", "[[empowered-engineers]]", "[[overview]]", "[[feature-team-vs-empowered-team]]", "[[outcome-vs-output-orientation]]", "[[model-maturity]]", "[[spotify-discover-weekly]]", "[[okrs]]", "[[team-objectives]]"]
 created: 2026-06-14
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Empowered Product Teams

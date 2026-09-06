@@ -4,10 +4,10 @@ type: concept
 aliases: [four-big-risks, product-risks, value-usability-feasibility-viability]
 status: drafting
 tags: [product-discovery, risk, core-concept]
-sources: ["[[transformed]]", "[[inspired]]", "[[2017-12-05-cagan-the-four-big-risks]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf]]", "[[2025-09-29-cagan-future-of-product-management-producttank-sydney]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[continuous-discovery-habits]]", "[[2024-04-16-cagan-ai-product-management]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2017-12-05-cagan-the-four-big-risks]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf]]", "[[2025-09-29-cagan-future-of-product-management-producttank-sydney]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[continuous-discovery-habits]]", "[[2024-04-16-cagan-ai-product-management]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]"]
 related: ["[[assess-product-risks]]", "[[product-discovery]]", "[[product-manager]]", "[[product-designer]]", "[[engineers]]", "[[the-product-team-trio]]", "[[overview]]", "[[build-to-learn-vs-build-to-earn]]", "[[spotify-discover-weekly]]", "[[amazon-prime]]", "[[product-ethics]]", "[[assumption-testing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]", "[[ai-and-product-teams]]", "[[intelligent-products]]"]
 created: 2026-06-14
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # The Four Big Risks

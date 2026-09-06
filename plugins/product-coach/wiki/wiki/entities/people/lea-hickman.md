@@ -8,7 +8,7 @@ role: Partner, Silicon Valley Product Group; TRANSFORMED co-author
 org: "[[svpg]]"
 related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[transformed]]", "[[transformation]]", "[[transformation-readiness]]", "[[model-maturity]]", "[[trust-over-control]]", "[[stakeholder-relationship-health]]", "[[coaching-up]]", "[[outcome-based-roadmap]]", "[[high-integrity-commitments]]", "[[strategy-jumpstart]]"]
 created: 2026-07-04
-updated: 2026-08-31
+updated: 2026-09-06
 ---
 
 # Lea Hickman
@@ -19,6 +19,11 @@ updated: 2026-08-31
 Root author (with Cagan) of the **ten keys to successful transformation**. In [[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri|Getting Leadership Up to Speed]], Cagan says: "Lea and I wrote an article together called *Keys to Successful Transformation* — we went through all the companies that tried to transform, [found] the small subset that succeeded, and came up with ten things that made the difference," the first being **CEO responsibility**. Her Adobe experience is one of the lived transformation case studies behind [[transformed|TRANSFORMED]].
 
 **The transformation she led (now confirmed and detailed):** *TRANSFORMED* Part IX is Hickman's first-person account of the **[[adobe-creative-cloud-transformation|Creative Suite → Creative Cloud]] transformation** at Adobe (2007–2014). Appointed head of product management for Creative Cloud after a senior-leadership offsite revealed misaligned visions across product categories. Worked with CEO Shantanu Narayen, CFO Mark Garrett, CTO Kevin Lynch, SVPs David Wadhwani and Johnny Loiacono, and head of engineering Kevin Stewart. Authored the **Marissa visiontype** — the aspirational day-in-the-life narrative that aligned executives, board, employees, and customers. Result: 6M → 26M customers, $2B → $11.5B revenue, market cap $13B → $269B. Cagan calls it *"one of the most financially successful transformations in industry history."*
+
+## Her own talks and writing (outside *Product Therapy*)
+
+- [[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]] — **Hickman's earliest wiki-attested own talk**: *Transforming to a Product Culture*, Mind the Product London 2017 (write-up by James Gadsby Peet). Her compact definition of product culture (*right people + right process + right outcomes*), the categorical **output→outcomes** statement, business-vs-product-goals tension as toxin, **rules of engagement** with stakeholders as antidote (the 2017 precursor to what she later formalises as voice-vs-vote on [[stakeholder-relationship-health]]), and her three-trait PM hiring bar — **intellectual curiosity · natural collaboration · grit** — the earliest wiki-attested operational filter for *hire for potential*.
+- [[2024-02-27-hickman-transformation-theater]] — Hickman's own SVPG article coining *Transformation Theater* as the seven-form taxonomy on [[transformation]].
 
 ## *Product Therapy* podcast — co-host with [[christian-idiodi|Idiodi]] (2024–)
 Hickman appears on 6 episodes of the *Product Therapy* podcast (Batch 1 · Eps 4, 8; Batch 2 · Eps 15, 18; Batch 3 · Eps 27, 32, 37, 42 — four episode cards, two of which cross-reference each other):

@@ -6,10 +6,10 @@ status: mature
 tags: [product-team, outcomes, roadmaps, first-principles]
 group: product-team
 order: 2
-sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]"]
+sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]"]
 related: ["[[empowered-with-problems-to-solve]]", "[[team-objectives]]", "[[innovation-over-predictability]]", "[[time-to-money]]", "[[principles-of-product-teams]]", "[[okrs]]", "[[the-point-is-outcomes]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-06-14
-updated: 2026-08-31
+updated: 2026-09-06
 ---
 
 # Outcomes over Output
@@ -69,3 +69,4 @@ Assign trios **product outcomes**. Leading > lagging: Torres's Sonja Martin / ta
 - [[continuous-discovery-habits]] — [[teresa-torres|Torres]] Ch 3 (the business-vs-product-vs-traction taxonomy, leading vs lagging, two-way negotiation of the outcome, Sonja Martin/tails.com example). The wiki's Torres-outcomes nuance is corrected here: *"change in human behavior"* is Josh Seiden's phrasing (Ch 3 epigraph), not Torres's own definition; Torres's operational definition of a product outcome is *"a metric the trio can influence"* — closer to Cagan's usage than the wiki previously implied.
 - [[2016-02-09-cagan-when-performance-is-measured-by-results]] — the earliest-dated plain-language statement of this principle, via HP's MBO tagline; the historical root that predates the 2020 Team Objectives series.
 - [[2026-07-23-cagan-the-ai-productivity-paradox]] — the AI-era demonstration of the principle's stakes: output acceleration without outcome improvement, and why the gap between product-model and project-model companies is widening under AI.
+- [[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]] — Hickman, Mind the Product London (Nov 2017); the earliest wiki-attested categorical statement — *directing product teams with tasks* is incompatible with a strong product culture; the switch to *making the team investigate solutions to goals* is *the* critical shift, no exceptions.

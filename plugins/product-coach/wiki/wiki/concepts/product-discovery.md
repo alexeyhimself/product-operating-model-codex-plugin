@@ -4,10 +4,10 @@ type: concept
 aliases: [product-discovery, discovery]
 status: drafting
 tags: [product-discovery, core-concept]
-sources: ["[[transformed]]", "[[inspired]]", "[[2007-09-25-cagan-product-discovery]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2009-10-12-cagan-product-discovery-plan]]", "[[2012-10-24-cagan-continuous-discovery]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[2009-08-23-cagan-the-two-week-rule]]", "[[2012-08-21-cagan-time-boxing-product-discovery]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[2009-09-08-cagan-product-discovery-vs-product-optimization]]", "[[2013-11-23-cagan-product-discovery-in-established-companies]]", "[[2012-11-01-cagan-assessing-customer-impact]]", "[[2010-10-14-cagan-requirements-are-not]]", "[[2013-03-17-cagan-the-inconvenient-truth-about-product]]", "[[2006-12-13-cagan-assessing-product-opportunities]]", "[[2011-02-20-cagan-product-discovery-with-live-data-prototypes]]", "[[2007-02-23-cagan-great-products-by-design]]", "[[2009-07-06-cagan-your-business-plan-is-wrong]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[continuous-discovery-habits]]", "[[2025-08-19-cagan-build-vs-buy-in-the-age-of-ai]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2007-09-25-cagan-product-discovery]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2009-10-12-cagan-product-discovery-plan]]", "[[2012-10-24-cagan-continuous-discovery]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[2009-08-23-cagan-the-two-week-rule]]", "[[2012-08-21-cagan-time-boxing-product-discovery]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[2009-09-08-cagan-product-discovery-vs-product-optimization]]", "[[2013-11-23-cagan-product-discovery-in-established-companies]]", "[[2012-11-01-cagan-assessing-customer-impact]]", "[[2010-10-14-cagan-requirements-are-not]]", "[[2013-03-17-cagan-the-inconvenient-truth-about-product]]", "[[2006-12-13-cagan-assessing-product-opportunities]]", "[[2011-02-20-cagan-product-discovery-with-live-data-prototypes]]", "[[2007-02-23-cagan-great-products-by-design]]", "[[2009-07-06-cagan-your-business-plan-is-wrong]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[continuous-discovery-habits]]", "[[2025-08-19-cagan-build-vs-buy-in-the-age-of-ai]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]", "[[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup]]"]
 related: ["[[the-four-big-risks]]", "[[minimize-waste]]", "[[embrace-rapid-experimentation]]", "[[product-delivery]]", "[[time-to-money]]", "[[empowered-engineers]]", "[[the-product-team-trio]]", "[[overview]]", "[[discovery-health]]", "[[prototypes]]", "[[build-to-learn-vs-build-to-earn]]", "[[spotify-discover-weekly]]", "[[amazon-prime]]", "[[google-product-model]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[assumption-testing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]", "[[continuous-discovery]]"]
 created: 2026-06-14
-updated: 2026-07-12
+updated: 2026-09-06
 ---
 
 # Product Discovery
@@ -67,6 +67,20 @@ Three SVPG company case studies show discovery in practice:
 - "Agile learning by delivering": treating the sprint backlog as the place to find out if ideas work ([[minimize-waste]] violation).
 - Skipping discovery and treating a validated backlog as just "whatever the PM wrote down."
 
+## Idiodi's seven failure modes for modern discovery
+
+From [[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup|*Knowing What You Can't Know*]] (Lean Product Meetup, 2020). Idiodi's diagnostic checklist for *why* most teams' discovery struggles — worth carrying because it names failure modes the book canon addresses only in passing:
+
+1. **Confirmation-based discovery** — used to prove you were right, not to find the answer.
+2. **Over-processed discovery** — so ceremonial it no longer feels natural.
+3. **Partial discovery** — PM and design in the room, no engineering.
+4. **One-dimensional discovery** — a single technique used for every question.
+5. **Big-bang discovery** — one long phase, then thrown over the wall.
+6. **Waterfall discovery + agile delivery** — discovering a specification, then sprinting it out.
+7. **Outsourced discovery** — handed to another group or agency. *"I'm not a fan of outsourced delivery, so I'm definitely not a fan of outsourced discovery."*
+
+Idiodi's three preconditions before the fix (an [[reference-customer-program|enhanced discovery technique]] like the reference-customer program) is even worth trying: **[[strategic-context|strategic context]]**, an **[[empowered-product-teams|empowered team]]**, and **who is in the room** — design and engineering involved from problem-framing through solution, with no handoffs.
+
 ## In your context
 _Field note placeholder — do your teams test risky ideas before building, or discover failure in production?_
 
@@ -94,3 +108,5 @@ _Field note placeholder — do your teams test risky ideas before building, or d
 - [[2024-03-26-cagan-russell-product-model-at-amazon]] — Prime: meaningful experimentation on value/viability risk; backs [[amazon-prime]].
 - [[2025-12-19-cagan-lieberich-product-model-at-google]] — continuous experimentation, dogfooding, beta, evidence over hierarchy; backs [[google-product-model]].
 - [[continuous-discovery-habits]] — [[teresa-torres|Torres]] (2021, Cagan-endorsed via Foreword). Ch 1 (the four-clause definition of continuous discovery); Chs 2, 6–7 ([[opportunity-solution-tree]] as the structure); Ch 5 ([[continuous-interviewing]] as the keystone habit); Chs 9–10 ([[assumption-testing]] to unlock 10–20 iterations per week — Torres cites Cagan's INSPIRED for the cadence target). Torres's book is the industry's most-used how-to for the discovery discipline this page describes.
+- [[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]] — Idiodi, Lean Product Meetup (Aug 2020); the seven-item failure taxonomy above, the three preconditions, and the reference-customer program as *the* enhanced technique under time pressure.
+- [[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup]] — Idiodi & Olsen fireside (Aug 2020, supporting); the ≤1 hour/day-in-delivery ceiling for PMs and 30-min/day discovery slot for engineers as operational numbers.

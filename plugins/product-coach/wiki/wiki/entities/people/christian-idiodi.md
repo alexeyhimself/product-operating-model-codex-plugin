@@ -8,7 +8,7 @@ role: Partner, Silicon Valley Product Group; TRANSFORMED co-author; host of the 
 org: "[[svpg]]"
 related: ["[[svpg]]", "[[marty-cagan]]", "[[transformed]]", "[[product-coaching]]", "[[jon-moore]]", "[[chris-jones]]", "[[lea-hickman]]", "[[martina-lauchengco]]", "[[coaching-agency]]", "[[coaching-mindset]]", "[[hiring-and-onboarding]]"]
 created: 2026-07-04
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Christian Idiodi
@@ -63,10 +63,12 @@ Idiodi hosts SVPG's *Product Therapy* podcast, each episode with a rotating SVPG
 - **Trust as the ultimate product hack.** Public teaching alignment across the podcast, the [[trust-over-control]] principle, and the [[stakeholder-relationship-health]] diagnostic.
 - **Not therapy.** Every episode carries an explicit disclaimer that neither Idiodi nor his guests are mental health professionals; the podcast routes serious mental-health concerns to [findahelpline.com](https://findahelpline.com/).
 
-## Long-form interviews ingested (2023–2024)
+## Long-form talks & interviews ingested (2020–2024)
 
-Three outside-the-podcast appearances, which together carry the material that is distinctively *his* rather than SVPG's collectively:
+Five outside-the-podcast appearances, which together carry the material that is distinctively *his* rather than SVPG's collectively (chronological):
 
+- [[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]] — Lean Product Meetup (Aug 2020). *Knowing What You Can't Know: Enhanced Product Discovery* — **the earliest Idiodi long-form on reference customers**, three-plus years before the Lenny's card below, with the seven-item failure taxonomy for why most discovery struggles and the three preconditions (strategic context · empowered team · design + engineering in the room). Anchors [[reference-customer-program]], [[product-discovery]], [[the-four-big-risks]], [[market-fit]].
+- [[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup]] — Lean Product Meetup fireside/Q&A with Dan Olsen (Aug 2020, supporting). The MVP-as-prototype clarification; the ≤1 hour/day-in-delivery ceiling for PMs; the **30-minute-per-day** discovery slot for non-tech-lead engineers (the operational number cited on [[engineers]]); pricing discovered *with* the reference customers.
 - [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Lenny's Podcast (Dec 2023). **The most substantial single Idiodi source in the wiki.** Reference customers as the one technique he would keep, with numbers (6–8 B2B / 15–25 B2C); the **Bob test**; the trust-acceleration technique; *promote people to do the job, not to learn the job*; practice arenas.
 - [[2024-06-25-idiodi-product-sense-product-momentum]] — *Product Momentum* ep. 142 (Jun 2024). Product sense as cultivated judgment; **human skills, not soft skills**; the ChatGPT test.
 - [[2023-05-30-idiodi-building-strong-product-cultures-product-unfiltered]] — *Product Unfiltered* (May 2023), pre-*TRANSFORMED*. **Product culture ≠ company culture**; the doctor analogy; what a leader owes a team alongside an objective.
