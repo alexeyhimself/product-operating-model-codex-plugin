@@ -4,10 +4,10 @@ type: framework
 aliases: [prototype, prototype-types, four-prototypes, user-prototype, live-data-prototype, feasibility-prototype]
 status: drafting
 tags: [discovery, prototypes, build-to-learn, risks]
-sources: ["[[inspired]]", "[[2020-08-05-cagan-minimum-viable-product-for-platforms]]", "[[2024-01-12-cagan-understanding-product-management-and-agile-design-better]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]", "[[2026-04-28-cagan-build-to-learn-faq]]"]
+sources: ["[[inspired]]", "[[2014-02-23-cagan-flavors-of-prototypes]]", "[[2020-08-05-cagan-minimum-viable-product-for-platforms]]", "[[2024-01-12-cagan-understanding-product-management-and-agile-design-better]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]", "[[2026-04-28-cagan-build-to-learn-faq]]"]
 related: ["[[product-discovery]]", "[[build-to-learn-vs-build-to-earn]]", "[[the-four-big-risks]]", "[[high-integrity-commitments]]", "[[opportunity-assessment]]"]
 created: 2026-07-03
-updated: 2026-09-05
+updated: 2026-09-06
 ---
 
 # Prototypes
@@ -18,14 +18,16 @@ updated: 2026-09-05
 Whenever you face a real risk — value, usability, feasibility, or viability — and don't yet have evidence. Cagan's rule for engineers: **never give a date (a [[high-integrity-commitments|high-integrity commitment]]) without first doing a feasibility prototype** ([[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps|Talking Roadmaps]]). Match the prototype type to the risk you're testing.
 
 ## The four types
-Cagan's taxonomy ([[2020-08-05-cagan-minimum-viable-product-for-platforms|MVP for Platforms]], corroborated in [[2024-01-12-cagan-understanding-product-management-and-agile-design-better|Design Better]]):
+Cagan's taxonomy, first assembled in one place in [[2014-02-23-cagan-flavors-of-prototypes|Flavors of Prototypes]] (2014) — **root**, re-rooted here 2026-09-06 from [[2020-08-05-cagan-minimum-viable-product-for-platforms|MVP for Platforms]] (2020), which restates and modernizes the same four types six years later; further corroborated in [[2024-01-12-cagan-understanding-product-management-and-agile-design-better|Design Better]]:
 
-1. **Low-fidelity (user) prototype** — a simulation; essentially a wireframe. Fake, does nothing. Good for early workflow/comprehension tests. Primarily tests **usability** (and early **value**).
-2. **High-fidelity (user) prototype** — a simulation that *looks* like the real product (designed, realistic-but-fake data). Great for learning; you can't send live traffic to it. Tests **usability** and **value**.
-3. **Live-data prototype** — just enough real code to hit real data sources and (optionally) take real traffic. A fraction of the work of production. The workhorse for **value** (do people actually use/buy it, measured in real data).
-4. **Feasibility prototype** — engineer-built, to answer "can we do this / how, and by when?" Most common for technical/performance risk (e.g., can we return results fast enough on real data). Tests **feasibility**; the prerequisite for an honest date.
+1. **Low-fidelity (user) prototype** — a simulation; essentially a wireframe. Fake, does nothing. Good for early workflow/comprehension tests. Primarily tests **usability** (and early **value**). Cagan's 2014 example tool: Balsamiq.
+2. **High-fidelity (user) prototype** — a simulation that *looks* like the real product (designed, realistic-but-fake data). Great for learning; you can't send live traffic to it. Tests **usability** and **value** — Cagan's own favorite use is not confirming people like it, but learning *why they don't*: no single test subject gives the answer, but each one is another piece of the puzzle.
+3. **Live-data prototype** — just enough real code to hit real data sources and (optionally) take real traffic. A fraction of the work of production. The workhorse for **value** (do people actually use/buy it, measured in real data). Normally tested via A/B test, though opt-in or invite-only also work.
+4. **Feasibility prototype** — engineer-built, to answer "can we do this / how, and by when?" Most common for technical/performance risk (e.g., can we return results fast enough on real data). Tests **feasibility**; the prerequisite for an honest date. May be throwaway, or may become leverageable production code.
 
-("User prototype" + "hybrid prototype" are the same four grouped differently in [[2024-01-12-cagan-understanding-product-management-and-agile-design-better|Design Better]].)
+Plus **hybrids** — most commonly, a prototype that accesses live data sources without sending live traffic: not meant to *prove* anything (that's the live-data prototype's job), but useful for learning about relevance and quality (search, recommendations) by observing and discussing results with users. ("User prototype" + "hybrid prototype" are the same four/five grouped differently in [[2024-01-12-cagan-understanding-product-management-and-agile-design-better|Design Better]].)
+
+**The failure mode the 2014 article names directly:** people narrow "prototype" to whichever type they were first exposed to, then default to it even when it's the wrong tool for the risk at hand — using a high-fidelity user prototype when the real question is feasibility, or vice versa. Strong teams are skilled with all of them, not just a favorite.
 
 ## Fidelity — how realistic does it need to be?
 "Just enough fidelity" is the common advice — but per [[2025-09-12-cagan-the-purpose-of-prototypes|Cagan]], that's overly simplistic on its own: **what counts as "just enough" depends on which risk you're testing and who you're testing it with**, not a single fixed bar. Three dimensions of fidelity:
@@ -59,7 +61,8 @@ _Field note placeholder — pick a current risk and choose the prototype type th
 
 ## Sources
 - [[inspired]] — Chs 20–22 are the book-form origin of the *prototype-as-primary-artifact* discipline: **Ch 20 "Minimal Product"** proposes the high-fidelity prototype with the **minimal functionality** to meet business objectives, validated with users before committing engineers; **Ch 21 "Product Validation"** names the three validations (feasibility / usability / value); **Ch 22 "Prototype Testing"** covers how to run the tests. **Lineage note — MVP framing (1st ed, 2008):** Ch 20's *minimal product* language is the 2008 form of what the industry came to call MVP. Cagan has since spent years criticizing how MVP is misused — most notably [[2020-08-05-cagan-minimum-viable-product-for-platforms|"Minimum Viable Product for Platforms"]] (2020) — because teams routinely ship the MVP as *the product* instead of using it as a build-to-learn artifact. The modern SVPG canon replaces "MVP" with **prototypes** (four types, build-to-learn) and reserves *the actual product* for build-to-earn ([[build-to-learn-vs-build-to-earn]]). When citing Ch 20, use `[[inspired]] Ch 20 (1st ed, 2008)` and flag the MVP-superseded-by-prototypes lineage.
-- [[2020-08-05-cagan-minimum-viable-product-for-platforms]] — root video for the four types + the platform nuance; Cagan's mature critique of MVP framing.
+- [[2014-02-23-cagan-flavors-of-prototypes]] — **root** for the four-types taxonomy (feasibility · low-fidelity user · high-fidelity user · live-data, plus hybrids); the wrong-tool-for-the-risk failure mode; re-rooted here from MVP for Platforms 2026-09-06, resolving the flag on [[2025-09-12-cagan-the-purpose-of-prototypes|The Purpose of Prototypes]].
+- [[2020-08-05-cagan-minimum-viable-product-for-platforms]] — supporting; restates the four types six years later for a platform/API audience + the platform nuance; Cagan's mature critique of MVP framing.
 - [[2024-01-12-cagan-understanding-product-management-and-agile-design-better]] — corroborates the four types (user, feasibility, live-data, hybrid).
 - [[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]] — never commit a date without a feasibility prototype.
 - [[2025-09-12-cagan-the-purpose-of-prototypes]] — the fidelity framework (visual / behavioral / data); "just enough fidelity" as risk-dependent; the Tom Kelley "prototype as spec" quote; the gen-AI cost shift for live-data prototypes.
