@@ -4,10 +4,10 @@ type: concept
 aliases: [governance, mission-locked-companies, corporate-governance, incorruptible]
 status: drafting
 tags: [governance, product-leadership, strategic-context, culture]
-sources: ["[[2026-07-01-cagan-great-products-bad-companies]]"]
+sources: ["[[2026-07-01-cagan-great-products-bad-companies]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]"]
 related: ["[[product-leadership]]", "[[strategic-context]]", "[[product-culture]]", "[[marty-cagan]]"]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-09-11
 ---
 
 # Governance and Mission-Locked Companies
@@ -28,6 +28,9 @@ Cagan's argument, borrowed from Ries's *Incorruptible*, is that this outcome is 
 ### Where this sits relative to strategic context
 Governance isn't one of the six elements of [[strategic-context|strategic context]] as the wiki currently defines them (mission, scorecard, objectives, vision, strategy, principles) — it's a layer *underneath* strategic context, determining who ultimately gets to set and change it. A product leader coaching an org toward the [[product-operating-model|product model]] is implicitly betting on the durability of the leadership team's mission commitment; governance structure is what that bet actually rests on.
 
+### Update — from "a big mistake" to active coaching (Cagan, Sep 2026)
+Cagan returns to governance in [[2026-09-11-cagan-strong-opinions-loosely-held|*Strong Opinions, Loosely Held*]] as #8 of his ten biggest regrets, and the stance has **hardened from confession to prescription**. The Jul 2026 framing (above) was largely diagnostic — he'd "written about this problem" but "really didn't think there was much we could do about it," so he "viewed these product teams as unfortunate victims." The Sep 2026 article closes that gap: *"Today I coach product leaders to take a more proactive role in working with the CEO to ensure that the company has a governance structure and corporate culture durable enough to succeed on the product vision."* He re-cites Eric Ries's *Incorruptible* as the book that "tackles this problem head on." So the coach's move is no longer just *"know your governance structure"* — it's *"help your CEO build one that can survive success."* Note the boundary still holds: this is Cagan **endorsing and relaying** Ries's work, not originating a governance framework (see the anti-pattern below).
+
 ## Anti-patterns & misunderstandings
 - **Treating this as purely a founder/board problem, irrelevant to product people.** Cagan's explicit point to the contrary: understanding your company's governance affects your day-to-day life as a product person, because it determines whether the culture that attracted you can be protected.
 - **Confusing this with ordinary board oversight or normal accountability.** The pattern Cagan names is specifically about predatory replacement over short-term financial optics, not legitimate governance or performance accountability.
@@ -42,3 +45,4 @@ _Field note placeholder — do you know your own company's governance structure?
 
 ## Sources
 - [[2026-07-01-cagan-great-products-bad-companies]] — **primary root** for the whole concept; Eric Ries's *Incorruptible* cited within it as external, non-SVPG canon by plain hyperlink (Batch 8's Part 4 decision on non-SVPG sourcing is still pending — no dedicated entity page created for Ries here).
+- [[2026-09-11-cagan-strong-opinions-loosely-held]] — supporting; #8 of Cagan's ten regrets. Escalates the stance from "may have been a big mistake" / "product teams as victims" to **actively coaching product leaders to work with the CEO on a durable governance structure and culture**; re-cites *Incorruptible*. Backs the "Update" section above.

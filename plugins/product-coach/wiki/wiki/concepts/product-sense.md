@@ -4,10 +4,10 @@ type: concept
 aliases: [product-judgment, doing-your-homework, product-intuition]
 status: drafting
 tags: [product-sense, judgment, onboarding, product-manager, coaching, discovery]
-sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]"]
+sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]"]
 related: ["[[founder-style-leadership]]", "[[product-manager]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[powered-by-insights]]", "[[the-four-big-risks]]", "[[amazon-prime]]"]
 created: 2026-07-03
-updated: 2026-09-05
+updated: 2026-09-11
 ---
 
 # Product Sense
@@ -64,8 +64,15 @@ His analogy: *"in any sport, when in doubt they give it to their superstar."* No
 
 **The AI test.** *"If it's only about the data and the inputs, then ChatGPT should have the best product sense — we should just check with it for all of the decisions we make."* Idiodi's answer is that no volume of data automatically resolves what is **right for these humans, at this time, in this context**; the interpretation is the human contribution, and it stays one. See [[ai-and-product-teams]] and [[emotional-intelligence]] — he treats self-awareness as a prerequisite, because a PM's biases, fears and frustrations are inputs to their "intuition" whether or not they notice.
 
+## Thinking is the point — and process is how people avoid it (Cagan, 2026)
+Cagan's [[2026-09-11-cagan-strong-opinions-loosely-held|*Strong Opinions, Loosely Held*]] retrospective makes product sense the hinge of two of his ten biggest regrets, and states the underlying claim more bluntly than anywhere else in the canon:
+
+- **#10 Thinking.** *"Fundamentally, good product work is about thinking, and I simply did not appreciate the lengths people would go to in order to avoid thinking."* The avoidance shows up as a craving for process, frameworks and predictability — and he says structuring INSPIRED as "people, process, product" inadvertently fed that hunger. *"Process all too often really is used as a substitute for thinking."* His explicit regret: *"I should have called out thinking, and the necessary foundation of product sense, much more loudly and clearly."* The AI-era worry is the same failure in new clothing — LLMs used as an *alternative* to thinking rather than a thought partner (the antidote is [[model-as-product-coach|the model as coach/thought-partner]], not the model as answer-vending-machine).
+- **#4 Humility.** He names the "CEO of the product" message as his own anti-example — *"not exactly a message of humility"* — and reframes humility operationally as *"knowing what you can't know, and admitting what you don't know."* This is the same trait the Ep 3 triad below puts first; the 2026 article escalates it from a product-sense *enabler* to a **root cause of failed products** when absent: "when you believe you know the answer but you don't." It applies to discovery (hold every experiment with an open mind; treat being wrong as rapid learning, not personal failure) and to executives/stakeholders (a true spirit of collaboration on hard problems).
+
 ## Anti-patterns & misunderstandings
 - **"Product sense is innate."** Cagan: never been true — it's an excuse. It's learned by doing the homework.
+- **Process / frameworks / predictability as a substitute for thinking** (Cagan 2026, #10) — the tell is a team reaching for a template or a heavier process when the real gap is that nobody has done the thinking (or the homework that feeds it).
 - **Domain dogma masquerading as domain expertise** (Shreyas Doshi) — knowing "how it's always been done" is not the same as real domain judgment; distinguish law from lore.
 - **Skipping onboarding** because you came from a famous company. You still don't know *this* company.
 - **Filtering feedback.** Leaders should not insulate PMs from customer/stakeholder feedback; product sense comes from direct contact.
@@ -88,3 +95,4 @@ _Field note: how deliberately do your PMs build product sense in their first 90 
 - [[2024-09-26-cagan-is-product-art-or-science]] — supporting; product sense as creative judgment; the artist/product-creator "discovery and craft" parallel via Rick Rubin.
 
 - [[2024-06-25-idiodi-product-sense-product-momentum]] — Idiodi, *Product Momentum* ep. 142 (Jun 2024); product sense as cultivated judgment, the superstar analogy, the sprint-cost framing, and the ChatGPT test.
+- [[2026-09-11-cagan-strong-opinions-loosely-held]] — Cagan, Sep 2026; #10 "thinking" (process as a substitute for thinking; product sense as its neglected foundation; the LLM-as-alternative-to-thinking worry) and #4 "humility" (the "CEO of the product" self-critique; humility as root cause of failed products when absent). Backs the "Thinking is the point" section.

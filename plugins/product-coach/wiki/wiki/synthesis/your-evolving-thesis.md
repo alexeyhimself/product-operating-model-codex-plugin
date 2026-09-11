@@ -7,7 +7,7 @@ tags: [synthesis, meta, corrections, lineage]
 sources: []
 related: ["[[the-four-big-risks]]", "[[transformation]]", "[[transformation-politics]]", "[[outcomes-over-output]]", "[[the-point-is-outcomes]]", "[[strategic-context]]", "[[overview]]", "[[jeff-patton]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-12
-updated: 2026-09-05
+updated: 2026-09-11
 ---
 
 # The Wiki's Evolving Thesis
@@ -37,6 +37,8 @@ The wiki's understanding of the product operating model hasn't been a flat accum
 
 **Product-leader-driven product management, and the Apple story completing itself (2026-07-12).** Apple's page told an open question for months — Cagan's 2015 piece asked how Apple would re-establish product competency after Jobs, without answering it. A newly-found 2023 article closed the loop directly: Apple's answer was product-leader-driven product management, not individual-contributor PMs. Not a correction so much as a story the wiki had been carrying half-finished, completed once the missing article was found sitting un-ingested in `raw/`.
 
+**Cagan grades his own work — the ten regrets (2026-09-11, first-party).** The most direct source this page has ever had: in [[2026-09-11-cagan-strong-opinions-loosely-held|*Strong Opinions, Loosely Held*]] Cagan himself answers *"what did you used to argue was true that you no longer believe?"* by naming **the ten biggest things he's learned since INSPIRED's 1st edition (2008) that represent a significant change from what he had publicly argued.** Critically, this is not a correction the *wiki* caught by reading a primary source — it's Cagan's own retrospective, and it independently confirms several threads already on this page and elsewhere: **business viability was understated** (the three→four risks lineage on [[the-four-big-risks]], now with Cagan calling it his "most serious mistake"); **INSPIRED's "people, process, product" structure fed process-as-substitute-for-thinking** and **omitted product leadership** (both already flagged as [[inspired]] lineage/supersession notes); and the desire for **predictability** is more deeply rooted than he appreciated (see [[innovation-over-predictability]]). It also *reweights emphasis* toward things the wiki holds but Cagan says he under-stressed: **humility** as the enabling trait of [[product-sense]], the neglected **churn "why?"** and **solution-over-problem discovery** (both on [[product-discovery]]), **politics** ([[transformation-politics]]) and **corporate governance** ([[governance-and-mission-locked-companies]] — escalated from "may have been a mistake" to active coaching). Two emphases are genuinely fresh: the churn "why" (#3) and **competition as a "full-contact blood sport"** (#9), the latter a deliberately un-genteel corrective to *"solving problems in ways customers love, yet work for the business"* — captured but not yet given its own page. The lesson this models for the wiki: when a source *is itself* a lineage document, integrate it as first-party confirmation of tracked corrections, not as a new framework — every one of the ten sharpens emphasis on existing canon rather than overturning it. The through-line of Cagan's own conclusion is the wiki's too: AI *raises* the relevance of the model's principles, strategy, and discovery craft rather than dating them.
+
 **The non-SVPG boundary, resolved (2026-09-05, ingest-plan Batch 8, Aleksei's call).** The Good Product Manager/Bad Product Manager judgment call — open since this page's first draft — is settled: **Option A**, the narrowest of three proposed tests. A non-SVPG source needs an explicit, checkable Cagan endorsement (a Foreword, a named spot on SVPG's own recommended-reading list) to earn a `wiki/sources/` card, concept page, or entity page; being cited, agreed with, or the acknowledged inspiration for an SVPG piece's format isn't enough. Applied consistently: Horowitz's *Good Product Manager/Bad Product Manager* stays un-ingested in `raw/` permanently, and the `[[products-over-projects-fowler]]`, `[[fake-agile]]`, and `[[story-mapping]]` wikilinks are now closed as deliberate non-targets rather than left open. Teresa Torres's *Continuous Discovery Habits* (Cagan wrote the Foreword) remains the wiki's one standing exception and the template for any future source that clears the bar. The rule itself now lives in `CLAUDE.md` §2, so future ingests don't relitigate it.
 
 ## Where this stands — open tensions, not yet resolved
@@ -45,6 +47,8 @@ The wiki's understanding of the product operating model hasn't been a flat accum
 - **Design Thinking's problem-framing techniques are under-addressed** (flagged on [[pom-vs-lean-and-design-thinking]]) — the wiki's critique currently engages the Double Diamond's structure but not empathy mapping, HMW reframing, or other Design Thinking mechanics directly, for lack of a primary SVPG source that does.
 
 ## Related
+- [[2026-09-11-cagan-strong-opinions-loosely-held]] — Cagan's own first-party retrospective; the ten regrets thread above.
+- [[inspired]] — the book this page's newest thread grades; its lineage/supersession notes are the counterpart to Cagan's own list.
 - [[the-four-big-risks]] — the risks lineage.
 - [[transformation]], [[transformation-politics]] — the Moore-vs-Cagan sequencing tension.
 - [[outcomes-over-output]], [[the-point-is-outcomes]] — the Torres correction and the patient-debt discipline.
@@ -52,4 +56,5 @@ The wiki's understanding of the product operating model hasn't been a flat accum
 - [[jeff-patton]] — the Patton/Patton disambiguation.
 
 ## Sources
-- _(none — this page is wiki-voice, synthesizing corrections already documented and cited on the pages it links to. See each linked page's own Sources section for the underlying primary citations.)_
+- Mostly **wiki-voice** — synthesizing corrections already documented and cited on the pages it links to; see each linked page's own Sources section for the underlying primary citations.
+- [[2026-09-11-cagan-strong-opinions-loosely-held]] — the one **first-party primary** this page cites directly: Cagan's own retrospective list of ten things he'd argue differently since INSPIRED (2008). Backs the "Cagan grades his own work" thread.

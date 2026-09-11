@@ -9,9 +9,9 @@ author: Marty Cagan
 year: 2017
 edition: 2nd (2018 by Wiley; 1st edition 2008)
 source_url: https://www.svpg.com/books/inspired-how-to-create-tech-products-customers-love/
-related: ["[[marty-cagan]]", "[[svpg]]", "[[transformed]]", "[[empowered]]", "[[loved]]", "[[product-manager]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[opportunity-assessment]]", "[[product-principles]]", "[[reference-customer-program]]", "[[2025-05-05-cagan-inspired-in-the-generative-ai-era]]"]
+related: ["[[marty-cagan]]", "[[svpg]]", "[[transformed]]", "[[empowered]]", "[[loved]]", "[[product-manager]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[opportunity-assessment]]", "[[product-principles]]", "[[reference-customer-program]]", "[[2025-05-05-cagan-inspired-in-the-generative-ai-era]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]", "[[your-evolving-thesis]]"]
 created: 2026-06-14
-updated: 2026-09-05
+updated: 2026-09-11
 ---
 
 # INSPIRED
@@ -38,6 +38,14 @@ INSPIRED is the **first volume** of what the SVPG canon now treats as a four-boo
 
 ## The book in the generative-AI era
 [[2025-05-05-cagan-inspired-in-the-generative-ai-era|Cagan's 2025 preface]] is explicitly a **reaffirmation, not a revision** — the book's principles are presented as holding up unchanged. Two things have changed since the 2nd edition (2017), neither altering the canon here: **remote work** (now permanent and role-dependent; discovery is the casualty, which is why "many leading product model companies are pushing for a return to the office" — see [[remote-collaboration]]) and **generative AI** (two dimensions: AI-powered products carry elevated risk, per [[2024-04-16-cagan-ai-product-management|AI Product Management]]; and GenAI tools speed discovery and delivery for the whole trio — see [[ai-and-product-teams]]).
+
+## Cagan's own retrospective self-critique (2026)
+In [[2026-09-11-cagan-strong-opinions-loosely-held|*Strong Opinions, Loosely Held*]] (Sep 2026) Cagan explicitly **draws the line at INSPIRED's 1st edition (2008)** and lists the ten biggest things he's learned since that "represent a significant change from what I had publicly argued." Three of the ten are direct self-critiques of *this book's* choices, and they line up exactly with lineage/supersession notes already recorded below:
+- **Business viability was understated** (#1) — "In the first edition, the product risks were only value, usability, and feasibility, and viability was buried under feasibility." Confirms the **three→four risks** lineage on [[the-four-big-risks]], now in his own words as his "most serious mistake." (Note his 2026 phrasing — "buried under feasibility" — vs. the Ch 21 reading below, which finds viability simply *absent* as a named validation; both describe the same 1st-ed gap.)
+- **Product leadership was omitted** (#7) — "INSPIRED focused on those teams, with very little on the role of product leaders … my mistake was not realizing the consequences." Companies thought standing up empowered teams was enough; "empowered product teams don't require *less* management, they require *better* management." [[empowered|EMPOWERED]] (2020) was the attempt to close the gap. Reinforces the Ch 14 "Retired proposal" and Ch 16–18 leadership notes below.
+- **The "people, process, product" structure fed process-worship** (#10) — "I inadvertently fed that hunger by structuring INSPIRED as 'people, process, and product.' Big mistake." Process "all too often really is used as a substitute for thinking"; he should have called out **thinking** and its foundation, [[product-sense|product sense]], far more loudly.
+
+Treat this as **first-party confirmation that reweights emphasis**, not as a repudiation of the book — Cagan's same article concludes the content "has never been more relevant." See [[your-evolving-thesis]] for the full ten-regrets thread.
 
 ## What it covers
 The work of the modern product manager and cross-functional product team — the "right people, right product, right process, right culture." Audience: product managers, aspiring PMs, and the design/engineering peers they work with. Cagan explicitly targets **technology-powered products and services**, and treats every technology-powered company (retailer, media co, bank, healthcare) as a tech company.
@@ -157,3 +165,4 @@ Ideas grounded in INSPIRED are attributed inline to specific chapters (Ch 6 / Ch
 - Series: [[empowered]] → [[loved]] → [[transformed]].
 - Grounded in this book: [[product-manager]], [[the-four-big-risks]], [[product-discovery]], [[prototypes]], [[missionaries-vs-mercenaries]], [[pilot-teams]], [[opportunity-assessment]], [[delivery-manager]], [[time-to-money]], [[minimize-waste]], [[feature-team-vs-empowered-team]].
 - [[2025-05-05-cagan-inspired-in-the-generative-ai-era]] — the 2nd audio edition preface; root citation for the four-book-series framing above; reaffirms the book's principles for the generative-AI era (see "The book in the generative-AI era" above).
+- [[2026-09-11-cagan-strong-opinions-loosely-held]] — Cagan's Sep 2026 retrospective; the first-party self-critique of INSPIRED's choices (viability buried #1, leadership omitted #7, "people/process/product" structure #10). See the "Cagan's own retrospective self-critique" section above and [[your-evolving-thesis]].

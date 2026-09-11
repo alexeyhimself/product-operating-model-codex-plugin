@@ -4,15 +4,17 @@ type: concept
 aliases: [transformation-politics, politics-of-transformation, hearts-and-minds]
 status: drafting
 tags: [concept, transformation, politics, stakeholders, executives, change-management]
-sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]"]
+sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]"]
 related: ["[[transformation]]", "[[pilot-teams]]", "[[product-leadership]]", "[[product-manager]]", "[[stakeholder-relationship-health]]", "[[leadership-readiness]]"]
 created: 2026-06-21
-updated: 2026-08-29
+updated: 2026-09-11
 ---
 
 # Transformation Politics
 
 > Every transformation is a people change at scale, and every people change is political. Cagan (channeling Christian Idiodi): **"every problem is a people problem."** In every successful transformation, leaders were aware of and intentional about the political challenges; they did not avoid them ([[2024-11-21-cagan-transformation-politics|canon]]).
+
+**Cagan's 2026 admission that this page's subject was a long blind spot.** In [[2026-09-11-cagan-strong-opinions-loosely-held|*Strong Opinions, Loosely Held*]] (#6) Cagan names ignoring politics as one of his ten biggest regrets: *"I tried to ignore the importance of politics, hoping that strong product work would be enough to carry the day. That was naive."* He notes people rarely call it politics — they say "stakeholder management, executive briefings, or organizational alignment" — but the underlying power structures are "a consequence of limited resources, competing objectives, insecurities and personal ambitions," part of the fabric of nearly every company (worst at larger ones). His tell of how far the correction has gone: *"Most of my content in the past three years has been either about dealing with politics, or understanding the impact of AI"* — which is exactly why this page and its sibling [[cross-functional-partnering]] exist.
 
 ## Why it matters
 A transformation to the product model **redistributes decision rights** — from stakeholders (who used to fill the roadmap) to product teams (who now choose solutions). It changes who is consulted, who is accountable, and who is judged for results. Without explicit political work, transformations stall at [[model-maturity|Level 2 — checkbox transformation]] because the new structures don't have the trust they need to operate.
@@ -106,3 +108,4 @@ Together: use Part VI as the coaching target, Part X as the coaching companion w
 - [[2025-04-17-idiodi-hickman-coaching-change-management]] — Product Therapy Ep 18 (Hickman); the middle-management-resistance layer and the training → coaching shift.
 - [[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]] — Product Therapy Ep 24 (Cullen · Fredell); trust-building tactics from the Datasite transformation.
 - [[transformed]] — root source.
+- [[2026-09-11-cagan-strong-opinions-loosely-held]] — supporting; #6 of Cagan's ten regrets: ignoring politics was "naive," it hides behind "stakeholder management / alignment," and most of his content in the past three years is about politics or AI. First-party confirmation of why this page exists.
