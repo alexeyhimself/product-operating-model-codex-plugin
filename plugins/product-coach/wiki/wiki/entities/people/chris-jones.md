@@ -22,7 +22,7 @@ Primary source for the modern product designer role. Cagan-quoted observation th
 - [[2016-08-30-jones-the-product-designer-role]] — the modern product designer ([link](https://www.svpg.com/the-product-designer-role/)).
 
 ## *Product Therapy* podcast — co-host with [[christian-idiodi|Idiodi]] (2024–)
-Chris Jones appears on 5 episodes of the *Product Therapy* podcast (Batch 1 · Eps 6, 11, 13; Batch 2 · Eps 17, 23):
+Chris Jones appears on 6 episodes of the *Product Therapy* podcast (Batch 1 · Eps 6, 11, 13; Batch 2 · Eps 17, 23; Batch 3 · Ep 36):
 
 **Batch 1:**
 - [[2024-07-25-idiodi-jones-coaching-imposter-syndrome]] — Ep 6; the canonical Jones story of learning strategy through the *"definitive point of view in prose"* coaching move; healthy-vs-paralyzing dose framing; the *"sign up for six before you do one"* hack. Primary source for [[imposter-syndrome]].
@@ -32,6 +32,9 @@ Chris Jones appears on 5 episodes of the *Product Therapy* podcast (Batch 1 · E
 **Batch 2:**
 - [[2025-04-03-idiodi-jones-coaching-product-myths-part-1]] — Ep 17; the first half of Jones's misconceptions pack. Myths 1–4: *product decides the what / engineering decides the how* (engineers have the best ideas; RACI harms) · *design is downstream* (design is discovery; ~2 dozen prototypes/week) · *hire PMs on domain expertise* (Shreyas Doshi: **domain knowledge − domain dogma**; Jones's security-startup outsider story) · *give customers what they ask for* (Bezos's both-directions rule; the Walkman focus-group say/do gap; **"specials"** with high escalation bar for sales-driven features). Primary root for [[product-myths]].
 - [[2025-06-26-idiodi-jones-coaching-product-myths-part-2]] — Ep 23; the second half. Myths 5–9: *discovery gives the answer* (discovery is not a formula; right-size; **grinding metal** as a coaching flag) · *iterate a solution until it succeeds* (running against a clock; *"we have an innovation team"* diagnostic) · *PMs need product owners* (**inside game vs outside game** — must live in a single skull; PO has no career path in a serious product company) · *if you build it they will come* (GTM is part of the product solution; PLG vs sales-led are different products) · *PM is the CEO of their product* (Idiodi's *"opposite of Spider-Man"* — great responsibility, no power). Co-primary root for [[product-myths]].
+
+**Batch 3:**
+- [[2026-01-22-idiodi-jones-coaching-stakeholders]] — Ep 36; Jones's rare direct treatment of **stakeholders** — the other half of "empowered teams." The operating-model incentives that manufacture the animosity; the three signs of a healthy stakeholder relationship; the *because-I-said-so* diagnosis and its three root causes; funding **teams and outcomes** instead of projects; an objection-by-objection playbook. Backs [[stakeholder-relationship-health]] and [[cross-functional-partnering]].
 
 ## Talks & interviews ingested (2024)
 

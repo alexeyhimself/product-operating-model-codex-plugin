@@ -28,7 +28,7 @@ updated: 2026-06-21
 - [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]] — the *Decide* dimension; vision → strategy → team objectives ([link](https://www.svpg.com/changing-how-you-decide-which-problems-to-solve/)).
 
 ## *Product Therapy* podcast — co-host with [[christian-idiodi|Idiodi]] (2024–)
-Moore appears on 3 episodes of the *Product Therapy* podcast (Batch 1 · Eps 5, 9; Batch 2 · Ep 21):
+Moore appears on 4 episodes of the *Product Therapy* podcast (Batch 1 · Eps 5, 9; Batch 2 · Ep 21; Batch 3 · Ep 30):
 
 **Batch 1:**
 - [[2024-06-27-idiodi-moore-coaching-ethics]] — Ep 5; the ethics-as-fifth-risk framing; the China Communications-launch story on psychological safety; *"good ethics is good business"*; diversity as upstream of ethics. Primary source for [[product-ethics]].
@@ -36,6 +36,9 @@ Moore appears on 3 episodes of the *Product Therapy* podcast (Batch 1 · Eps 5, 
 
 **Batch 2:**
 - [[2025-05-29-idiodi-moore-coaching-vision]] — Ep 21; the wiki's most complete podcast-form teaching on product vision. **Mission = why · vision = what over 3–5 years · strategy = how · roadmap = when/what.** The three core ingredients (validated problems + reflects corporate strategy + glimpse of money). **The CFO test** as the true test of a strong vision. Moore's Trainline **deep-then-broad validation method** (deep with small set of customers per geography, then broad validation). Time-horizon compression under GenAI (12–18 month visions now common). Enrichment source for [[product-vision]], [[vision-quality]], [[trainline-transformation]], [[kaiser-permanente-get-care-now]] (Get Care Now case).
+
+**Batch 3:**
+- [[2025-10-16-idiodi-moore-coaching-team-objectives]] — Ep 30; Idiodi + Moore on **team objectives** — what they really are, why most companies get OKRs wrong, moving from outputs to outcomes, leadership's role in creating context, setting problem-based objectives. ⚠️ **Partial capture only** — the raw transcript held just the intro, description and timestamps, so the substantive grounding on [[team-objectives]] and [[okrs]] still comes from the SVPG *Team Objectives* article series, not this card.
 
 ## Notes
 - **Co-credit:** Chris Jones is credited at the bottom of the *Transformation Defined* article for help with the series.

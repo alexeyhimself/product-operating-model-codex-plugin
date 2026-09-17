@@ -29,7 +29,7 @@ Lauchengco's LOVED opens by grounding her PMM point of view in specific worked-e
 She's profiled by name in *[[inspired|INSPIRED]]* (Ch 40 — *Profile: Martina Lauchengco of Microsoft*) as one of Cagan's six PMs illustrating the role.
 
 ## *Product Therapy* podcast — co-host with [[christian-idiodi|Idiodi]] (2024–)
-Lauchengco appears on 4 episodes of the *Product Therapy* podcast (Batch 1 · Eps 7, 10; Batch 2 · Eps 16, 19):
+Lauchengco appears on 5 episodes of the *Product Therapy* podcast (Batch 1 · Eps 7, 10; Batch 2 · Eps 16, 19; Batch 3 · Ep 41):
 
 **Batch 1:**
 - [[2024-08-29-idiodi-lauchengco-coaching-feedback]] — Ep 7; the SHARED-style three-step feedback frame (context → your experience → ask their experience); the two phrases *"I'm curious if…"* and *"have we considered…"*; the *"email is the worst place on the planet for feedback"* rule; feedback-as-coaching-in-a-moment. Primary source for [[feedback]].
@@ -38,6 +38,9 @@ Lauchengco appears on 4 episodes of the *Product Therapy* podcast (Batch 1 · Ep
 **Batch 2:**
 - [[2025-03-06-idiodi-lauchengco-coaching-startups]] — Ep 16; the wiki's canonical teaching on **product in startups**. Ideas are dime-a-dozen; **market-product fit** (not the reverse); the 9–10x adoption bar (Andreessen/Horowitz, cited); great-founder traits — *"do they run into breaches when they see a gap?"*; co-founder rule 100%; opportunistic first-hire (Davey Crockett rule); *"invest in the people, not the idea."* Primary root for [[product-in-startups]].
 - [[2025-05-01-idiodi-lauchengco-coaching-decision-making]] — Ep 19; the wiki's canonical teaching on team-and-PM-level **decision making**. Garbage-can theory of decisions (relative to point in time); high-integrity decisions; **data-informed vs data-driven**; the *"2s tell you what's broken; the 10s just pat you on the back"* rule; gut feel as informed intuition; Amazon one-way/two-way doors; never delegate to AI. Primary root for [[decision-making]].
+
+**Batch 3:**
+- [[2026-06-18-idiodi-lauchengco-product-marketing-in-the-ai-era]] — Ep 41; the wiki's canonical Lauchengco statement on **product marketing in the AI era**. The foundational definition unchanged, the velocity flipped: **go-to-market is the new bottleneck**, not product building. **Ephemeral assets on a stable spine**; PMM as **judge and jury** of what gets elevated into a launch; **AEO / GEO** (Answer/Generative Engine Optimization) as a new positioning surface — *"models don't get technology wrong, so you must give them the technical depth"*; **AI slop** as polished-but-generic output and the *tone swizzle* that makes messaging ownable; the Gong-vs-Outreach differentiation case; *"great product marketing is what you take away, not what you add"* (Michelangelo's David). Backs [[product-marketing-by-stage]], [[messaging]], [[positioning]].
 
 ## Talks / sources referencing her
 - [[2022-03-07-cagan-product-ops-dan-olsen]] — Cagan on why a strong PM needs a product-marketing partner; the "product-marketing rebranding" ops model.
