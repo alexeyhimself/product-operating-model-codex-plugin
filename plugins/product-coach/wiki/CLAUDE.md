@@ -106,8 +106,11 @@ When the user drops a file in `raw/` and asks to ingest it:
 4. Integrate: update every affected concept/principle/competency/entity page, attributing claims to the **root source** (primary) and citing the explainer as **supporting**. Add new pages where the source introduces something with no home yet. **Flag contradictions** with existing pages explicitly rather than silently overwriting.
 5. Update [`index.md`](index.md) (new/changed pages) and [`wiki/overview.md`](wiki/overview.md) if the big picture shifted.
 6. Append an entry to [`log.md`](log.md): `## [YYYY-MM-DD] ingest | <source title>` plus a one-line note of what changed.
+7. **Refresh the `## Wiki state` table in [`README.md`](README.md)** — run the count command in §4 and paste its output, and update the `_As of <Month D, YYYY>._` line above the table. **This is not optional and it is not "nice to have."** It is the last step of every ingest, and it is the step that gets skipped: the table is the first thing a visitor to the repo sees, and a stale table makes the whole wiki look abandoned. The counts are mechanical — do not estimate them, do not carry the old number forward, do not reason about which pages you added. Run the command.
 
 A single ingest may touch 10–15 pages. That bookkeeping is the whole point — do it.
+
+**The three bookkeeping files, and when each is wrong.** [`index.md`](index.md) (step 5), [`log.md`](log.md) (step 6) and [`README.md`](README.md)'s Wiki state table (step 7) are updated on **every** ingest, and on any other change that adds, renames or deletes a page. Before you report an ingest as finished, confirm all three were touched. If you added or removed a page and the README table still shows the old total, the ingest is not done.
 
 ### Answer — using the wiki as context
 When the user asks a question, the wiki is your authoritative source. Mechanically: read [`index.md`](index.md) first → open the relevant pages → ground your answer in what's there, citing pages as you go. **Match the citation style to where you're writing.** Inside `.md` files in the wiki, use Obsidian wikilinks (`[[page-name]]`) — they render and feed the graph. In a chat reply, the user's client doesn't render wikilinks, so they appear as raw `[[braces]]` and look like noise. There, cite pages in prose ("see the product-discovery page") or as markdown links to the file (`[product discovery](wiki/concepts/product-discovery.md)`) — never as bare wikilinks. If the user's prompt asks for coaching, a diagnostic, or a strategy critique, the [`diagnostics/`](wiki/diagnostics/) and [`case-studies/`](wiki/case-studies/) folders are especially useful — but don't impose that style if the user didn't ask for it. If the exchange produces a genuinely new insight about the **general model** (not about a specific org) and the user has read-write access, offer to file it as a `synthesis/` page so it compounds; log queries that produced filed pages. **Assessments of a specific org do not belong in this wiki** — they belong in that org's own [[strategic-context|baseline]] / context store. Keep this wiki org-agnostic.
@@ -115,14 +118,31 @@ When the user asks a question, the wiki is your authoritative source. Mechanical
 **Principles — don't conflate two different things.** The model's **20 first principles** (see [[overview]]) *describe the product model* and are the universal standard you hold an org against; a company's **[[product-principles]]** are an *artifact the org authors* as one of the six elements of strategic context. Ground your reasoning in the former; when coaching, help leaders and PMs *author* the latter — never write their product principles for them (see [[coaching-vs-contracting]]).
 
 ### Lint — health-checking the wiki
-On request (or periodically), scan for: contradictions between pages, stale claims a newer source superseded, orphan pages (no inbound links), important concepts mentioned but lacking a page, missing cross-references, and gaps a web search or new source could fill. Report findings and suggest next questions/sources. Append a `lint` entry to [`log.md`](log.md).
+On request (or periodically), scan for: contradictions between pages, stale claims a newer source superseded, orphan pages (no inbound links), important concepts mentioned but lacking a page, missing cross-references, gaps a web search or new source could fill, **a stale `## Wiki state` table in [`README.md`](README.md)** (re-run the §4 count command and compare), and **derived lists that have drifted from the source cards they summarize** — entity-page works/episode lists are the known offender: a batch ingest updates the concept pages and `wiki/sources/INDEX.md` but silently leaves an existing entity page's list at its old high-water mark. Spot-check by comparing each entity page's list against `ls wiki/sources/ | grep <name>`. Report findings and suggest next questions/sources. Append a `lint` entry to [`log.md`](log.md).
 
 ---
 
-## 4. index.md and log.md
+## 4. index.md, log.md, and the README Wiki state table
+
+Three files carry the wiki's bookkeeping. All three are updated on every ingest, and on any change that adds, renames or deletes a page.
 
 - **`index.md`** is content-oriented: a catalog of every page by category, each with a one-line summary. Update it on every ingest and whenever you add/rename a page. Read it first when answering — it's how you find relevant pages without RAG.
 - **`log.md`** is chronological and append-only. One entry per ingest / notable query / lint, each starting `## [YYYY-MM-DD] <type> | <title>` so `grep "^## \[" log.md | tail -5` works.
+- **`README.md` → `## Wiki state`** is the repo's public-facing scoreboard — the first thing a visitor sees. It goes stale silently, because nothing breaks when it does. **Regenerate it; never hand-edit the numbers.**
+
+### Regenerating the Wiki state table
+
+The counts are **mechanical and reproducible**. Two definitions, both load-bearing:
+- **Sources ingested** — every `.md` in `wiki/sources/` **except** `README.md` and `INDEX.md`.
+- **Total wiki pages** — every `.md` anywhere under `wiki/` **except** folder `README.md` files. This one **does** include `wiki/sources/INDEX.md` and `wiki/diagnostics.md` (the diagnostics hub page), so don't "correct" it downward.
+
+Run this from the repo root and paste the output straight into the table body:
+
+```bash
+c(){ find "$1" -maxdepth 1 -name '*.md' ! -name 'README.md' ! -name 'INDEX.md' | wc -l | tr -d ' '; }; printf '| Sources ingested | %s |\n| Concepts | %s |\n| Frameworks | %s |\n| People | %s |\n| Books | %s |\n| **Total wiki pages** | **%s** |\n' "$(c wiki/sources)" "$(c wiki/concepts)" "$(c wiki/frameworks)" "$(c wiki/entities/people)" "$(c wiki/entities/books)" "$(find wiki -name '*.md' ! -name 'README.md' | wc -l | tr -d ' ')"
+```
+
+Then update the `_As of <Month D, YYYY>._` line directly above the table to the ingest date. If a count went **down**, stop and find out why before committing — pages should not disappear.
 
 ---
 
