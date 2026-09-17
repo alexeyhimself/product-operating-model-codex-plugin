@@ -4,10 +4,10 @@ type: concept
 aliases: [agency, sense-of-agency, self-efficacy, coaching-agency, product-agency, ambition, agency-vs-ambition]
 status: drafting
 tags: [coaching, agency, mindset, empowered-teams, missionaries-vs-mercenaries, product-manager, self-efficacy]
-sources: ["[[2024-03-29-idiodi-cagan-coaching-agency]]", "[[2024-02-13-cagan-product-leadership-theater]]", "[[empowered]]", "[[transformed]]", "[[2024-03-28-cagan-worrisome-trends-product-people]]", "[[2025-07-02-cagan-agency-vs-ambition]]", "[[2023-11-28-cagan-transformed-faq]]"]
+sources: ["[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]", "[[2024-03-29-idiodi-cagan-coaching-agency]]", "[[2024-02-13-cagan-product-leadership-theater]]", "[[empowered]]", "[[transformed]]", "[[2024-03-28-cagan-worrisome-trends-product-people]]", "[[2025-07-02-cagan-agency-vs-ambition]]", "[[2023-11-28-cagan-transformed-faq]]"]
 related: ["[[coaching-mindset]]", "[[missionaries-vs-mercenaries]]", "[[empowered-product-teams]]", "[[feature-team-vs-empowered-team]]", "[[trust-over-control]]", "[[product-management-theater]]", "[[coaching-the-pm]]", "[[christian-idiodi]]"]
 created: 2026-08-29
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Coaching Agency
@@ -48,10 +48,31 @@ Idiodi's leadership version of the same claim: *"it's very hard for people to ca
 ## An individual contributor's agency is real, not rhetorical
 [[2023-11-28-cagan-transformed-faq|Transformed FAQ]] answers a version of the low-agency story directly: no, an individual contributor cannot single-handedly transform a company — but an IC "has more ability to impact her work environment than most people realize." Up-leveling her own skills from a feature-team PM to an empowered-team PM is itself an act of agency, and it's not unusual for that to lead to recognition or promotion; from a product-leader seat, the ability to impact the broader company grows further still. Worth citing directly against the "I can't do anything until leadership changes" version of low agency.
 
+## Bright spots — and the cost to the person who is one (Torres, Ep 44)
+
+[[teresa-torres|Torres]] on [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]] (Sep 2026) gives the clearest statement in the corpus of what agency *costs*, and of a change strategy built entirely on it.
+
+**The strategy: reach high-agency individuals and let bright spots propagate.**
+
+> *"I've really come around to: organizational context doesn't support good thinking. It's actually why I don't want to work at the organizational level. It takes a remarkably exceptional person on the axis of agency to do discovery well in an organization… unless it's supported up and down that organization, the only people who are going to change are the super-high-agency bought-in people. And so I don't have to work at the organizational level to reach those individuals. I actually think the best way to change an organization — whether it's discovery or AI adoption — is to create **bright spots** that show an organization what it looks like to work that way."*
+
+This is the individual-level analogue of [[pilot-teams|pilot teams]]: a demonstration that this way of working is possible *here*, with these constraints, is worth more than an argument that it works elsewhere. Torres and SVPG differ on where to start (she works the individual, SVPG works the CEO and the pilot team) but not on the mechanism — see [[transformation]].
+
+**The cost, named rather than glossed.** Idiodi surfaces the standard objection — *"I can never succeed if the environment is not right"* — and Torres does not wave it away:
+
+> *"The one thing I want to acknowledge is that this puts an enormous burden on the individual, and I don't think we talk about that enough. It is incredibly hard to be the change maker, to constantly have agency, to be swimming upstream."*
+
+Followed immediately by the counterweight: *"I will also say it is way more fun. Like just way more fun. No human on earth wants to just do what they're told to do. We all want to have agency and be able to make decisions. It's just scary."*
+
+**The privilege caveat — required context for any "just be a beginner" advice.** Torres pre-empts the misuse of her own story: *"I think I'm in a position a lot of people aren't in, in the sense that I can risk everything… If I had a bunch of kids and three mortgages and lived in Silicon Valley where life is extremely expensive, I think I'd be a little more scared… If this has an existential impact for you, it's really hard to have agency, it's really hard to embrace change, it's really hard to just say 'I'm going to be a beginner.'"* Her deliberately softened takeaway: *"we've never had this much access to new skill development. Never before. So the takeaway is — what do you want to do that is uniquely you, that you've been afraid to do? And you don't have to do it at work."*
+
+**The prescription stays small.** *"There's a reason why we talk about continuous improvement. Take teeny tiny steps… Pick one teeny tiny thing to do and then keep going."* Same stance as *[[continuous-discovery-habits|CDH]]* Ch 14, now applied to AI adoption as well as discovery.
+
 ## Anti-patterns & misunderstandings
 - **"Empowered" = told to be empowered.** Structural empowerment without agency development just moves the frustration inward — the person now feels responsible for outcomes they don't believe they can influence. Empowerment must be earned in both directions.
 - **Treating low agency as attitude.** Frame it as attitude and you get defensiveness; frame it as one of the three root causes (want / worth / fear) and you get somewhere.
 - **Coaching agency in a group setting.** Teams are groups of individuals — agency is coached one person at a time.
+- **Prescribing agency without acknowledging the stakes.** Torres's caveat, Ep 44 — telling someone under existential job pressure to "just be a beginner again" reads as advice from a safer chair. Name the asymmetry first; then find the smallest step that fits their actual risk tolerance, at work or outside it.
 - **Ignoring the environment.** Sometimes low agency is well-earned: leaders punish risk, or make decisions from an ivory tower. The coaching move is still individual, but the org-level fix is on the leadership side.
 
 ## In your context
@@ -76,3 +97,4 @@ _Agent prompt: name the individuals on this team whose agency has visibly droppe
 - [[2024-03-28-cagan-worrisome-trends-product-people]] — supporting; Cagan's parallel diagnosis of the same *trapped-in-a-feature-team* frustration.
 - [[2025-07-02-cagan-agency-vs-ambition]] — introduces ambition as agency's own prerequisite; the "predominant model" reframing and the Federer anecdote defending why studying the best companies still matters.
 - [[2023-11-28-cagan-transformed-faq]] — supporting; the direct answer that an individual contributor's agency is real, with a concrete promotion pathway.
+- [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 ([[teresa-torres|Torres]] with Idiodi), Sep 2026; bright spots as the change strategy, the burden on the individual change maker, the privilege caveat, and *pick one teeny tiny thing*.

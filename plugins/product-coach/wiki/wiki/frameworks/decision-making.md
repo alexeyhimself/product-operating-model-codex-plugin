@@ -4,10 +4,10 @@ type: framework
 aliases: [decision-making, high-integrity-decisions, one-way-two-way-doors, data-informed-decisions]
 status: drafting
 tags: [decision-making, integrity, data-informed, empowerment, coaching, ai, prioritization]
-sources: ["[[2025-05-01-idiodi-lauchengco-coaching-decision-making]]", "[[2020-01-09-cagan-coaching-strategic-context]]"]
-related: ["[[empowered-product-teams]]", "[[partnering-with-executives]]", "[[product-strategy]]", "[[trust-over-control]]", "[[high-integrity-commitments]]", "[[founder-style-leadership]]"]
+sources: ["[[2025-05-01-idiodi-lauchengco-coaching-decision-making]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+related: ["[[empowered-product-teams]]", "[[partnering-with-executives]]", "[[product-strategy]]", "[[trust-over-control]]", "[[high-integrity-commitments]]", "[[founder-style-leadership]]", "[[product-sense]]", "[[ai-and-product-teams]]", "[[teresa-torres]]"]
 created: 2026-08-29
-updated: 2026-08-29
+updated: 2026-09-18
 ---
 
 # Decision Making
@@ -63,6 +63,17 @@ When someone brings you a decision for evaluation, ask:
 - **Inputs:** the decision to be made; the goals + relative weights; what data / evidence is available (and what isn't); which stakeholders have voice vs vote; time pressure.
 - **Outputs:** a decision; a reasoning trail others can respect (even when they disagree); commitment (per "disagree and commit"); a check on whether this was one-way or two-way.
 
+## Decision quality was the bottleneck all along (Torres & Idiodi, Ep 44)
+
+The framing that makes this framework central rather than adjacent, from [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]] (Sep 2026). Idiodi: *"have we spent the last 20 years trying to reduce the cost of delivery, only to discover that the real bottleneck is decision quality all along?"* [[teresa-torres|Torres]] agrees, and states the stronger version:
+
+> *"For me, product is about decision-making. My whole career as a coach I've focused a lot on good decision-making, critical thinking, problem solving — this to me is the heart of product… And I don't think AI has changed any of that."*
+
+Two consequences worth carrying into coaching:
+
+- **Cheap building raises the value of deciding well, it does not lower it.** *"At the end of the day, somebody has to make a choice on if this is good for our customers and works for our business."* The constraint moved; it did not disappear. This is the decision-side reading of [[2026-07-23-cagan-the-ai-productivity-paradox|Cagan's AI productivity paradox]] and of *more is not better* (see [[ai-and-product-teams]]).
+- **Judgment is critical thinking, exercised at the intersection of [[the-four-big-risks|the risks]].** Torres and Idiodi converge on this explicitly on air — what makes someone good is the capacity to *"hold that complexity and still navigate complex decisions."* See [[product-sense]] for the taste-vs-judgment distinction that follows from it.
+
 ## Pitfalls
 - **Waiting for perfect information.** In most cases the information you need to move never fully arrives.
 - **Chasing rational frameworks in irrational-actor environments.** Lauchengco's own Andreessen-Horowitz reminder: even the best-argued analysis loses to founder rejection.
@@ -71,6 +82,7 @@ When someone brings you a decision for evaluation, ask:
 - **Agentic AI over-delegation.** Micro-decisions inside a proven strategy (which segment gets which campaign) are delegatable. Strategic decisions (positioning, 6-month market direction) are not.
 - **Substituting prioritization frameworks for strategy calls.** RICE/ICE without a strategy is a way to defer the real call.
 - **Senior-leader blind spots.** *"The more senior you are, the more your blind spots have impact and the less visible they are to you."* Get a coach; you're already underutilising them.
+- **Mistaking a faster build cycle for a better decision.** More options generated, more prototypes shipped, same unexamined call underneath. Torres's version: *"I asked my AI to come up with a thousand ideas and it came up with a thousand ideas" — "why didn't you ask it for 10,000?"*
 - **The easier-obvious-choice reflex.** Am I making the easier choice here? = the first blind-spot check.
 
 ## Example
@@ -88,3 +100,4 @@ A PM inherits a stakeholder request to build a feature they think is wrong for t
 ## Sources
 - [[2025-05-01-idiodi-lauchengco-coaching-decision-making]] — **primary root** ([[martina-lauchengco|Lauchengco]] · Product Therapy Ep 19)
 - [[2020-01-09-cagan-coaching-strategic-context]] — the guardrails-and-context framing for how strategy enables decisions
+- [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 ([[teresa-torres|Torres]] with Idiodi), Sep 2026; *product is decision-making*, the twenty-years-wrong-bottleneck framing, judgment ≈ critical thinking at the intersection of the risks

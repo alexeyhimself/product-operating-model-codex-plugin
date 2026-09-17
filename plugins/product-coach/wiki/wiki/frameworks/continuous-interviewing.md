@@ -3,11 +3,11 @@ title: Continuous Interviewing
 type: framework
 aliases: [continuous-interviewing, weekly-customer-interviews, story-based-interviewing, torres-interviewing]
 status: drafting
-tags: [framework, discovery, interviewing, customer-research, keystone-habit, torres]
-sources: ["[[continuous-discovery-habits]]", "[[teresa-torres]]"]
-related: ["[[product-discovery]]", "[[product-discovery-techniques]]", "[[opportunity-solution-tree]]", "[[assumption-testing]]", "[[reference-customer-program]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]", "[[embrace-rapid-experimentation]]", "[[the-four-big-risks]]"]
+tags: [framework, discovery, interviewing, customer-research, keystone-habit, torres, ai, synthetic-users, digital-twins]
+sources: ["[[continuous-discovery-habits]]", "[[teresa-torres]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+related: ["[[product-discovery]]", "[[product-discovery-techniques]]", "[[opportunity-solution-tree]]", "[[assumption-testing]]", "[[reference-customer-program]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]", "[[embrace-rapid-experimentation]]", "[[the-four-big-risks]]", "[[ai-evals]]", "[[ai-and-product-teams]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # Continuous Interviewing
@@ -76,6 +76,43 @@ Most teams generate too many **research questions** ("what do our customers care
 - **One customer, one conclusion.** Torres — Simply Business team (Ch 12) — heard *"late payments"* in interview after interview and prioritized it — but assumption tests showed customers didn't want a third party to help. Interviews surface candidates; the OST and assumption tests validate.
 - **Skipping the story-drawing.** The drawing is what lets the team compare stories across interviews to find distinct branches (Ch 6).
 
+## The AI era — what Torres changed her mind about (Ep 44, Sep 2026)
+
+Torres's [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]] is the wiki's canonical update to this framework. Her starting position was refusal — *"I don't want to advocate for anything that gives you an excuse not to think"* — and what moved her was evidence, not enthusiasm. The technique above is unchanged; what follows is what AI adds, and where the wall is.
+
+### What "customer interview" actually means in practice
+The strongest datum in the SVPG corpus on this question, and it is not encouraging. Building the AI services for **Vistaly** (transcript → interview snapshot → generated [[opportunity-solution-tree|OST]]), Torres has now read interview transcripts from **hundreds of teams**:
+
+> *"We use this one word 'customer interview' to mean a lot of different things. I'm seeing story-based interviews — that's the style of interviewing I teach. I'm seeing general interviews where people pepper the customer with all sorts of random questions. I'm seeing sales demos. I'm seeing stakeholder meetings — there's no customer in the room. I'm seeing interviews where they're just asked for their usability preferences… It's all over the place."*
+
+Her conclusion, after nine years of formal curriculum and with Indi Young's, Steve Portigal's and Rob Fitzpatrick's material freely available: *"we have plenty of resources on how to conduct a good customer interview, and we're not doing it."* **Coaching use:** when a team says they already talk to customers, don't accept the claim — ask what the last three conversations actually *were*. Most will fail the [[continuous-discovery-habits|CDH]] Ch 1 four-clause test on the first or second clause.
+
+### The case for an AI interviewer — and its hard limit
+Torres is open to AI conducting interviews, for a reason that is a criticism of humans rather than praise of models:
+
+> *"An AI probably would be more consistently good than a human. And there's a reason for this: the human has a dog in the fight. They have an idea they are in love with and they're trying to get feedback from a customer, and they don't do that objectively."*
+
+The limit is firm and must travel with the claim: *"I don't love it as a replacement for product teams actually interviewing customers themselves… an AI can talk to you about that, and I can learn a lot from that transcript, but I'm going to lose something in that human-to-human interaction."* Her preferred use is **pedagogical** — *"a good AI interviewer can model what a good interview looks like, so that you might learn how to do a better interview."* This preserves the second clause of the operational definition (*by the team building the product*) rather than quietly voiding it: the AI raises the floor on interview quality; it does not perform the empathy transfer the trio needs.
+
+### Synthetic users vs digital twins vs synthetic data — three different things
+Keep these separate; Torres separates them deliberately.
+
+| | What it is | Torres's verdict |
+|---|---|---|
+| **Synthetic users** (common form) | An LLM producing **population-level** trends — *"think about this like an election poll. We're not learning about an individual voter."* | The version she rejects. It reproduces the generalization problem she built interview snapshots to avoid. |
+| **Digital twins** | An **individual** profile built from a 400-question survey — or, in a good version, a 90-minute interview — then used to predict how *that person* would react. | *"A much more interesting approach. But even in this approach, it is not yet predictive of humans. It still doesn't work."* Conditionally welcome: *"if it helps us better understand our individual customers, I'm all for it."* |
+| **Synthetic data** | Generated data used to **evaluate an AI product** in place of production traces. | A different thing entirely — an [[ai-evals|evals]] input, with its own problems. Not a discovery shortcut. |
+
+The principle underneath the distinction is the one that produced the interview snapshot in the first place: *"it's really important that product teams not lose sight of the individuals we're building for. I don't love design personas — design personas turn individuals into abstract generalizations. I introduced interview snapshots because I want you to remember every human you talk to is unique."*
+
+### Synthesis: helped by AI, but only when the AI is steered
+Transcription and the permanent record are unambiguous wins — *"I no longer have to think about how to get a transcript. I have a permanent record of what my customer said."* Synthesis is where Torres is most careful. She taught it from 2011 and formally from 2017, and *"Claude learned way faster than any human that I've taught"* — but the out-of-the-box failure is specific: **the opportunities come out too generic.** *"It's not specific enough. We get really high-level generalized opportunities. The problem is that I need to understand your context — where you are, what you're doing, why — in order to solve your problem for you."*
+
+Her bet is not that foundation labs will fix this, but that **an opinionated expertise layer on top of the model** will: *"we're going to see very opinionated software on how to do synthesis well. That's what's going to raise the floor — not just dumping things into NotebookLM."* Idiodi's parallel: an LLM told *"I am a product manager working in the product model"* answers markedly differently from one told only *"I am a product manager"* — the [[strategic-context|context layer]] is the difference. See [[model-as-product-coach]] for the same mechanism applied to coaching.
+
+### The boundary
+Torres's single non-negotiable, stated as such: *"Keep talking to your customers. Even if you're using AI interviewers, even if it can now synthesize all that customer feedback you've been ignoring for decades because it was just too much volume — it's not enough. You need firsthand exposure to your customer. Full stop."*
+
 ## Compared to Cagan's SVPG discovery canon
 - **Aligned:** Cagan's Ch 41 *Customer Interviews* in [[inspired|INSPIRED]] shares the cadence (2–3 hours/week), trio presence, and the *"turn into a horrible conversationalist"* discipline (parallel to Torres's Ch 5 excavation technique). Cagan and Torres agree the trio does the interviews, not a research team.
 - **Torres's addition:** the *keystone habit* framing (Duhigg); the story-based interview *technique* worked out to the level of specific prompts and drawings; the *interview snapshot* artifact; the direct-questions-are-broken evidence base (Gazzaniga, Kahneman).
@@ -90,3 +127,4 @@ Most teams generate too many **research questions** ("what do our customers care
 ## Sources
 - [[continuous-discovery-habits]] — root source; Ch 1 (definition), Ch 5 (technique in detail — story-based interviewing, excavation, interview snapshot), Ch 6 (using interviews to structure the opportunity space), Ch 14 (keystone-habit framing). Author: [[teresa-torres]].
 - [[inspired]] — Ch 41 (Cagan's SVPG version of customer interviewing; the four key questions per interview; 2–3 hours/week cadence).
+- [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 (Torres with Idiodi), Sep 2026; the AI-era section above — what interviews actually look like across hundreds of teams, the AI-interviewer case and its limit, synthetic users vs digital twins vs synthetic data, steered synthesis, and the firsthand-exposure boundary.

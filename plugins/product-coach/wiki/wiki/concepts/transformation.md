@@ -4,10 +4,10 @@ type: concept
 aliases: [transformation, product-transformation, transformation-to-the-product-model, moving-to-the-product-operating-model, change-management, organizational-change]
 status: drafting
 tags: [transformation, three-dimensions, product-operating-model, pilot-teams]
-sources: ["[[transformed]]", "[[empowered]]", "[[2022-05-31-moore-transformation-defined]]", "[[2022-09-18-moore-the-transformation-series]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2023-02-20-cagan-transformed-announcement]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]", "[[2023-10-31-cagan-transformed-just-product]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2024-02-27-hickman-transformation-theater]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]", "[[2023-10-05-cagan-transformation-fail]]", "[[2024-11-12-cagan-winning-hearts-and-minds]]", "[[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]]", "[[2021-10-28-cagan-process-people]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-05-31-moore-transformation-defined]]", "[[2022-09-18-moore-the-transformation-series]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2023-02-20-cagan-transformed-announcement]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2023-09-12-cagan-who-is-product-operating-model-for]]", "[[2013-12-30-cagan-epic-waste]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]", "[[2023-10-31-cagan-transformed-just-product]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]]", "[[2024-02-27-hickman-transformation-theater]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]", "[[2023-10-05-cagan-transformation-fail]]", "[[2024-11-12-cagan-winning-hearts-and-minds]]", "[[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]]", "[[2021-10-28-cagan-process-people]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
 related: ["[[overview]]", "[[empowered-product-teams]]", "[[feature-teams-vs-product-teams]]", "[[pilot-teams]]", "[[transformation-politics]]", "[[transformation-as-a-project]]", "[[model-maturity]]", "[[product-coaching]]", "[[product-leadership]]", "[[lea-hickman]]", "[[product-management-theater]]", "[[transformation-anti-patterns]]"]
 created: 2026-06-21
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Transformation
@@ -166,6 +166,33 @@ He notes that the pandemic served as an unplanned proof point — some companies
 
 There is no clean transformation metric — no LTV or TCO equivalent. These two questions are what the canon offers instead, and they are more useful than they look, because a company that cannot answer the second one has usually only changed its vocabulary.
 
+## Most companies will not transform — and that has always been the canon
+
+A prediction worth stating plainly, because it is easy to mistake for cynicism or for a challenge to the model, and it is neither. **SVPG's own position has always been that most transformations fail**; the newer AI-era voices restate it rather than contradict it.
+
+**Cagan, [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo|ProductTank Oslo]] (2022), in his opening minute:**
+> *"It's no secret that most transformations fail. There are some that do succeed, but the truth is a lot of things have to go right to succeed — and a lot of the things are outside of your control. They're more like the CEO's. Most of this talk honestly is for CEOs."*
+
+And in the Q&A, the other half: *"most companies, if they don't transform, they are in trouble — I don't know if it's this year or 10 years from now."* The written form of the same claim is [[corporate-courage|Key #10, corporate courage]] (*[[transformed|TRANSFORMED]]* Ch 48): *"we know many more senior leaders who don't have the courage and aren't willing to do what it takes."*
+
+**[[teresa-torres|Torres]], [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]] (Sep 2026), arriving at the same place from the AI side:**
+> *"I've really internalized William Bridges's message that **individuals change, not organizations**… We're already seeing that individual productivity does not necessarily lead to organizational benefit… I don't think people becoming AI-native will lead to AI-native organizations. I think we're going to see what we've always seen. We're not going to see companies transform — we're going to see AI-native companies replace traditional companies. It's going to be very rare that a traditional company will actually transform."*
+
+She names [[2026-07-23-cagan-the-ai-productivity-paradox|Cagan's AI productivity paradox]] on air as the mechanism, and adds the demand-side reason it persists: **customers expect better, and companies deliver more.** Until an org internalizes that *more is not better*, individual AI fluency aggregates into nothing.
+
+### Where they actually differ: the intervention point, not the diagnosis
+Both say the failure rate is high and the causes are structural and above the team. They bet differently on where an outsider has leverage:
+
+| | SVPG / Cagan | Torres |
+|---|---|---|
+| **Works at** | The CEO and the org — *"most of this talk is for CEOs"*; [[pilot-teams]], [[keys-to-successful-transformation|the ten keys]], coaching the coaches | The individual — *"it's actually why I don't want to work at the organizational level"* |
+| **Mechanism** | Executive commitment + [[corporate-courage|courage]] + a pilot that proves it here | **Bright spots** — reach high-agency individuals, let the demonstration propagate |
+| **Failure mode acknowledged** | Leaders who sponsor without paying the costs | *"Unless it's supported up and down the organization, the only people who change are the super-high-agency bought-in people"* |
+
+These are complementary, not competing: a pilot team *is* a bright spot with executive air cover, and Torres's high-agency individual is who staffs it. The wiki does not pick — but note the asymmetry Torres names honestly, which the SVPG framing tends to leave implicit: **it costs the individual a great deal to be the bright spot.** See [[coaching-agency]].
+
+**Coaching use.** When a leader asks *"will this work here?"*, the honest answer is the canon's own: probably not, unless you do the specific things on [[keys-to-successful-transformation|the ten keys]] — and the litmus test below is how you will know. Do not soften it. The alternative to the hard version of this message is transformation theater (see the taxonomy above, and [[transformation-anti-patterns]]).
+
 ## Anti-patterns
 - **[[transformation-as-a-project|Transformation as a project]]** — manage the transformation in the very mode you're trying to leave.
 - **Checkbox transformation** — squads, OKRs, "discovery" rituals adopted without competencies, strategy, or empowerment ([[model-maturity|Level 2]]).
@@ -221,6 +248,7 @@ _Field note placeholder — which of the three dimensions is your org currently 
 - [[2024-11-12-cagan-winning-hearts-and-minds]] — the seven-behavior trust-earning pattern above; positive-pattern companion to [[transformation-as-a-project]].
 - [[transformed]] — root source.
 
-- [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan (Apr 2022); the litmus test, the pandemic as proof point, and the full two-list failure taxonomy (see [[transformation-anti-patterns]]); also restates "scaling with process vs. with leaders" for the process-people anti-pattern above, with the SAFe-coach anecdote.
+- [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 ([[teresa-torres|Torres]] with Idiodi), Sep 2026; *individuals change, not organizations* (William Bridges); AI-native companies replacing rather than transforming traditional ones; bright spots as the alternative intervention point; *expect better, not more*. **Converging evidence for the Oslo/Ch-48 position, not a counter-argument** — see the section above.
+- [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan (Apr 2022); the litmus test, the pandemic as proof point, the *"most transformations fail … most of this talk is for CEOs"* opening, and the full two-list failure taxonomy (see [[transformation-anti-patterns]]); also restates "scaling with process vs. with leaders" for the process-people anti-pattern above, with the SAFe-coach anecdote.
 - [[2021-10-28-cagan-process-people]] — root source for the "process people / scaling with process" anti-pattern above; full treatment on [[process-people]].
 - [[2024-04-03-jones-moving-to-the-product-operating-model-product-people]] — Jones (Apr 2024); the two-part measurement answer and the [[john-deere-smart-industrial|John Deere]] example.

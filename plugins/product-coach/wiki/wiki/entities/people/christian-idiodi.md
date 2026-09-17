@@ -8,7 +8,7 @@ role: Partner, Silicon Valley Product Group; TRANSFORMED co-author; host of the 
 org: "[[svpg]]"
 related: ["[[svpg]]", "[[marty-cagan]]", "[[transformed]]", "[[product-coaching]]", "[[jon-moore]]", "[[chris-jones]]", "[[lea-hickman]]", "[[martina-lauchengco]]", "[[coaching-agency]]", "[[coaching-mindset]]", "[[hiring-and-onboarding]]"]
 created: 2026-07-04
-updated: 2026-09-06
+updated: 2026-09-18
 ---
 
 # Christian Idiodi
@@ -24,7 +24,10 @@ A named SVPG partner in the coaching-and-transformation canon, and the wiki's pr
 Two-week structured onboarding, in cohorts, run by the hiring leader personally. Origins: at least ~8 years before 2024 (per [[lea-hickman|Lea Hickman]]'s attribution on *Product Therapy* Ep 4 and Ep 13). Public SVPG write-up: [New Employee Bootcamp](https://www.svpg.com/new-employee-bootcamp/). Week 1 = individual (trust between leader and hire; personal delivery of strategic context; a **stakeholder-buddy** assignment; the manager's *user manual*); Week 2 = team (bring the real team in for a safe discovery-sprint-style practice before "game time"). Milestones anchor the story the new hire tells at day-1-end, week-1-end, and the first paycheck. See [[hiring-and-onboarding]] for the full framework and [[2025-01-23-idiodi-jones-coaching-employee-onboarding]] for the primary source.
 
 ## Works — the *Product Therapy* podcast (2024–)
-Idiodi hosts SVPG's *Product Therapy* podcast, each episode with a rotating SVPG partner or invited external expert. The 25 episodes below (Batch 1 · Eps 1–13 + Batch 2 · Eps 14–25) are the ones the wiki has grounding on:
+Idiodi hosts SVPG's *Product Therapy* podcast, each episode with a rotating SVPG partner or invited external expert. The 25 episodes enumerated below are Batch 1 (Eps 1–13) and Batch 2 (Eps 14–25). **This list is not current** — the wiki now carries source cards through **Ep 44** (Sep 2026); see [`wiki/sources/`](../../sources/) for Eps 26–44, each named `YYYY-MM-DD-idiodi-<guest>-<topic>`. Backfilling them into this list is an open hygiene item.
+
+**Most recent:** [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|Ep 44 · Discovery In The AI Era]] (with **[[teresa-torres|Teresa Torres]]**, Sep 2026) — her first appearance on the show; raise-the-floor/raise-the-ceiling; what "customer interview" actually means across hundreds of teams; the AI-interviewer case and its limit; synthetic users vs digital twins; evals as acceptance criteria; the traces ethics problem; bright spots and the cost of being one. Roots [[ai-evals]].
+
 
 **Batch 1 (2024-03 → 2025-01) — the behavioral half of the corpus:**
 - [[2024-03-29-idiodi-cagan-coaching-agency|Ep 1 · Coaching Agency]] (with [[marty-cagan|Cagan]]) — the [[coaching-agency|agency]] framing coined.
@@ -91,9 +94,9 @@ Nigerian background; left home at 12 for a gifted-and-talented boarding school *
 ## Related
 - [[svpg]], [[transformed]], [[marty-cagan]]
 - co-hosts across the podcast: [[chris-jones]], [[lea-hickman]], [[jon-moore]], [[martina-lauchengco]]
-- external Product Therapy guests: [[kate-leto]] (Ep 22), [[doug-cullen]] + [[thomas-fredell]] (Ep 24 · his Datasite peers)
+- external Product Therapy guests: [[kate-leto]] (Ep 22), [[doug-cullen]] + [[thomas-fredell]] (Ep 24 · his Datasite peers), [[teresa-torres]] (Ep 44)
 - concepts he grounds: [[coaching-agency]], [[coaching-mindset]], [[trust-over-control]], [[product-sense]], [[imposter-syndrome]], [[product-ethics]], [[founder-style-leadership]], [[psychological-safety]], [[remote-collaboration]], [[ai-and-product-teams]], [[product-in-startups]], [[transformation-politics]]
-- frameworks he grounds: [[hiring-and-onboarding]] (his signature), [[feedback]], [[time-management]], [[product-career-development]], [[decision-making]]
+- frameworks he grounds: [[hiring-and-onboarding]] (his signature), [[feedback]], [[time-management]], [[product-career-development]], [[decision-making]], [[continuous-interviewing]] (Ep 44, as interviewer)
 - synthesis he grounds: [[product-myths]]
 - diagnostics he grounds: [[stakeholder-relationship-health]]
 - case studies he was part of: [[datasite-transformation]] (his own pre-SVPG transformation experience — carried across TRANSFORMED Part VII + Ep 24)

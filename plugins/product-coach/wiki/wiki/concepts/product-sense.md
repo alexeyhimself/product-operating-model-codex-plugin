@@ -4,10 +4,10 @@ type: concept
 aliases: [product-judgment, doing-your-homework, product-intuition]
 status: drafting
 tags: [product-sense, judgment, onboarding, product-manager, coaching, discovery]
-sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]"]
-related: ["[[founder-style-leadership]]", "[[product-manager]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[powered-by-insights]]", "[[the-four-big-risks]]", "[[amazon-prime]]"]
+sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+related: ["[[founder-style-leadership]]", "[[product-manager]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[powered-by-insights]]", "[[the-four-big-risks]]", "[[amazon-prime]]", "[[teresa-torres]]", "[[decision-making]]", "[[ai-and-product-teams]]"]
 created: 2026-07-03
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 # Product Sense
@@ -64,6 +64,20 @@ His analogy: *"in any sport, when in doubt they give it to their superstar."* No
 
 **The AI test.** *"If it's only about the data and the inputs, then ChatGPT should have the best product sense — we should just check with it for all of the decisions we make."* Idiodi's answer is that no volume of data automatically resolves what is **right for these humans, at this time, in this context**; the interpretation is the human contribution, and it stays one. See [[ai-and-product-teams]] and [[emotional-intelligence]] — he treats self-awareness as a prerequisite, because a PM's biases, fears and frustrations are inputs to their "intuition" whether or not they notice.
 
+## Judgment is not taste, and taste is not aesthetics (Torres, Ep 44)
+
+The industry's 2025–26 vocabulary shift — from *product sense* to *taste* — smuggles in a narrower idea, and [[teresa-torres|Torres]] names the problem directly on [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]]:
+
+> *"What I don't like about the taste framing is I've literally heard big names in the industry say 'I will build my taste by looking at beautiful products.' … Okay, that is **aesthetics**. That is **one dimension** of this."*
+
+Her expansion of what judgment actually has to answer: *"does it meet a need I actually have and care about? Does it fully satisfy that need? Does it do it in a delightful way?"* — value, sufficiency, and delight, in that order, with aesthetics as one input to the third. And the correction that follows, which is the line worth handing to a designer or a founder defending a personal preference:
+
+> *"Your customer's aesthetics matter more than your aesthetics."*
+
+**Judgment ≈ critical thinking.** Torres and Idiodi converge on this explicitly (*"we could say judgment is critical thinking — those are very analogous"*), which lines up with Cagan's #10 regret below: the thing being exercised is **thinking**, and taste-as-exposure is a way of appearing to build it without doing it. The wiki treats *product sense*, *judgment*, *product taste* and *design sense* as names for overlapping regions of the same earned capability — but **aesthetic exposure alone builds none of them**.
+
+**Where judgment is actually exercised: the intersection.** Torres's example is *Dark Sky* — genuinely loved, not viable on its own, sold to Apple and shut down (*"and Apple's weather app is not a lovable product"*). Idiodi's framing of the same tension: *"making customers love your product is actually not as hard in its own right… but doing it in a way that feels like you just bought them a new car while making money at the same time is a hard balance."* Hence the venn diagrams — judgment is the capacity to *"hold that complexity and still navigate complex decisions"* across [[the-four-big-risks|the risks]] at once. Torres's conclusion: *"AI hasn't changed any of that."* See [[decision-making]].
+
 ## Thinking is the point — and process is how people avoid it (Cagan, 2026)
 Cagan's [[2026-09-11-cagan-strong-opinions-loosely-held|*Strong Opinions, Loosely Held*]] retrospective makes product sense the hinge of two of his ten biggest regrets, and states the underlying claim more bluntly than anywhere else in the canon:
 
@@ -72,6 +86,8 @@ Cagan's [[2026-09-11-cagan-strong-opinions-loosely-held|*Strong Opinions, Loosel
 
 ## Anti-patterns & misunderstandings
 - **"Product sense is innate."** Cagan: never been true — it's an excuse. It's learned by doing the homework.
+- **Building "taste" by looking at beautiful things** (Torres, Ep 44) — that builds aesthetic exposure, not judgment. The tell: someone who can rank designs but cannot say what need a product meets or whether it meets it fully.
+- **Substituting your aesthetics for the customer's.**
 - **Process / frameworks / predictability as a substitute for thinking** (Cagan 2026, #10) — the tell is a team reaching for a template or a heavier process when the real gap is that nobody has done the thinking (or the homework that feeds it).
 - **Domain dogma masquerading as domain expertise** (Shreyas Doshi) — knowing "how it's always been done" is not the same as real domain judgment; distinguish law from lore.
 - **Skipping onboarding** because you came from a famous company. You still don't know *this* company.
@@ -95,4 +111,5 @@ _Field note: how deliberately do your PMs build product sense in their first 90 
 - [[2024-09-26-cagan-is-product-art-or-science]] — supporting; product sense as creative judgment; the artist/product-creator "discovery and craft" parallel via Rick Rubin.
 
 - [[2024-06-25-idiodi-product-sense-product-momentum]] — Idiodi, *Product Momentum* ep. 142 (Jun 2024); product sense as cultivated judgment, the superstar analogy, the sprint-cost framing, and the ChatGPT test.
+- [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 (Torres with Idiodi), Sep 2026; the judgment/taste/aesthetics distinction, *"your customer's aesthetics matter more than yours,"* judgment ≈ critical thinking, and the Dark Sky example. Backs the section above.
 - [[2026-09-11-cagan-strong-opinions-loosely-held]] — Cagan, Sep 2026; #10 "thinking" (process as a substitute for thinking; product sense as its neglected foundation; the LLM-as-alternative-to-thinking worry) and #4 "humility" (the "CEO of the product" self-critique; humility as root cause of failed products when absent). Backs the "Thinking is the point" section.

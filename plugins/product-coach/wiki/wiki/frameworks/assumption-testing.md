@@ -3,11 +3,11 @@ title: Assumption Testing
 type: framework
 aliases: [assumption-testing, testing-assumptions, torres-assumption-testing, leap-of-faith-assumptions]
 status: drafting
-tags: [framework, discovery, testing, assumptions, experimentation, torres]
-sources: ["[[continuous-discovery-habits]]", "[[teresa-torres]]", "[[inspired]]"]
-related: ["[[product-discovery]]", "[[product-discovery-techniques]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[the-four-big-risks]]", "[[embrace-rapid-experimentation]]", "[[prototypes]]", "[[minimize-waste]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
+tags: [framework, discovery, testing, assumptions, experimentation, torres, ai]
+sources: ["[[continuous-discovery-habits]]", "[[teresa-torres]]", "[[inspired]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+related: ["[[product-discovery]]", "[[product-discovery-techniques]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[the-four-big-risks]]", "[[embrace-rapid-experimentation]]", "[[prototypes]]", "[[minimize-waste]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]", "[[ai-and-product-teams]]", "[[prototypes]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # Assumption Testing
@@ -95,6 +95,7 @@ Product teams aren't scientists (Ch 10 sidebar *"A Quick Word on Science"*) — 
 - **Testing with the wrong audience.** Recruit from the target market who experiences the target opportunity.
 - **Designing for less than the best-case scenario.** If you can't clear the low bar, you have your answer; if you clear it, you expand.
 - **Testing whole ideas.** The whole point of this framework is that assumption-level tests are faster than idea-level tests.
+- **Letting cheap AI prototypes pull you back into idea-level testing** — the framework's newest failure mode, named by Torres on [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]] (Sep 2026). When a working interactive prototype takes under an hour to generate, testing "the whole idea" stops feeling expensive, so teams quietly revert to it. Torres's instruction is explicit: *"Do use AI for building good interactive prototypes. But don't let it pull you back into testing the whole idea at a time. Still surface assumptions, test individual assumptions. That's what's going to allow you to move fast."* The economics changed; the **information** argument did not — a passing whole-idea test still tells you nothing about *which* assumption carried it, and a failing one tells you nothing about which one broke.
 - **Skipping the "what will we do if this fails?" conversation.** Success criteria without a failure plan invites confirmation bias.
 - **Confusing signal with proof.** A passing small test doesn't mean the assumption is true — it means the assumption is *more known* and we can move on to the next-riskiest assumption.
 
@@ -116,3 +117,4 @@ _Field note prompt for the coach: pick an idea the team is currently arguing abo
 ## Sources
 - [[continuous-discovery-habits]] — root source; Ch 9 (identifying assumptions — five categories, story-mapping, assumption map), Ch 10 (running the tests — simulate/evaluate, specific-number success criteria, unmoderated + one-question, false positives/negatives, the "we're not scientists" stance). Ch 9 epigraph attributes the *"10–20 iterations per week"* target to [[inspired]] (Cagan).
 - [[inspired]] — Chs 50–56 (Cagan's SVPG technique catalog Torres's framework selects among); Ch 33 (ethics as a separate risk — the pre-modern framing Torres 2021 preserves).
+- [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 (Torres with Idiodi), Sep 2026; the cheap-prototype relapse into idea-level testing, and Torres's restatement that assumption-level testing is what preserves speed.

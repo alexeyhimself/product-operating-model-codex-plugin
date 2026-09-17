@@ -4,10 +4,10 @@ type: concept
 aliases: [corporate-courage, courage-to-transform, executive-courage, courage]
 status: drafting
 tags: [concept, transformation, leadership, executives, ceo, culture, courage]
-sources: ["[[transformed]]", "[[2010-08-16-cagan-top-10-reasons-for-weak-product]]", "[[2016-05-03-cagan-product-success]]"]
+sources: ["[[transformed]]", "[[2010-08-16-cagan-top-10-reasons-for-weak-product]]", "[[2016-05-03-cagan-product-success]]", "[[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
 related: ["[[transformation]]", "[[transformation-politics]]", "[[transformation-readiness]]", "[[keys-to-successful-transformation]]", "[[product-leadership]]", "[[transformation-as-a-project]]", "[[model-maturity]]", "[[the-need-for-speed]]", "[[strategic-context]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-18
 ---
 
 # Corporate Courage
@@ -25,6 +25,10 @@ Cagan's Ch 48 line: *"every case of successful transformation we know of require
 Courage sits alongside [[keys-to-successful-transformation|Key #1 (CEO active support)]] as the pair of leadership-disposition keys — but they are not the same thing. **CEO active support** is a *commitment* (the top of the org has decided to transform). **Corporate courage** is the *willingness to actually pay the costs of that commitment* — political capital, incumbent stakeholder relationships, quarterly forecast risk, personal reputation, and the reality that transformation *"takes anywhere from six months to two years"* (Ch 48 intro to Part VIII).
 
 Cagan's counter-observation is stark: *"We know many more senior leaders who don't have the courage and aren't willing to do what it takes to help their company not just survive, but thrive."*
+
+**The same claim, spoken, two years before the book.** At [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo|ProductTank Oslo]] (2022) Cagan opens with *"it's no secret that most transformations fail… a lot of the things are outside of your control. They're more like the CEO's. Most of this talk honestly is for CEOs."* His two failure lists there are organized by *who causes it*, and the harder list is the external one — which is what courage is the answer to.
+
+**And the AI-era restatement.** [[teresa-torres|Torres]] on [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]] (2026) reaches the same conclusion from a different direction — *"individuals change, not organizations"*, and *"we're going to see AI-native companies replace traditional companies; it's going to be very rare that a traditional company will actually transform."* Read alongside Key #10, this is not a new pessimism: it is what the absence of corporate courage looks like when a step-change in enabling technology raises the stakes. See [[transformation]] for how the two positions fit together, and [[coaching-agency]] for what Torres proposes instead.
 
 ## How it shows up (and how it doesn't)
 
@@ -67,9 +71,12 @@ _When was the last time a senior leader in your org made a decision that visibly
 - competencies: [[product-leadership]]
 - diagnostics: [[transformation-readiness]] (missing courage = red flag on Lens 8 patience + Lens 2 leadership readiness), [[model-maturity]] (Level-1 → Level-3 requires it explicitly), [[leadership-readiness]]
 - case studies: [[datasite-transformation]], [[adobe-creative-cloud-transformation]] — both are canonical examples of the specific decisions courage produces
+- concepts: [[coaching-agency]] — Torres's bright-spots alternative when the courage is absent
 - entities: [[lea-hickman]] · [[christian-idiodi]] · [[jon-moore]] — the three book-authors who describe their transformation from the leader's side
 
 ## Sources
 - [[transformed]] Ch 48 (Keys to Successful Transformation), Key #10 — Cagan's naming of the concept, the "leap of faith" line, the counter-observation about leaders who lack it.
 - [[2010-08-16-cagan-top-10-reasons-for-weak-product]] — "Lack of Corporate Courage" as the ninth of Cagan's ten reasons for weak product. Predates the *TRANSFORMED* keys but names the same concept.
 - [[2016-05-03-cagan-product-success]] — the parallel "ten keys to success" list, which the wiki has previously scored via [[model-maturity]].
+- [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan (Apr 2022); the spoken form of the same claim two years before the book — *"most transformations fail… most of this talk honestly is for CEOs."*
+- [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 ([[teresa-torres|Torres]] with Idiodi), Sep 2026; the AI-era restatement (*individuals change, not organizations*; AI-native companies replacing rather than transforming). Converging evidence, not a counter-position.

@@ -3,11 +3,11 @@ title: AI and Product Teams
 type: concept
 aliases: [ai-and-product-teams, ai-impact-on-product-teams, genai-and-product]
 status: drafting
-tags: [ai, gen-ai, product-teams, tech-lead, empowered-teams, product-discovery, product-delivery, product-strategy]
-sources: ["[[2025-02-25-cagan-a-vision-for-product-teams]]", "[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2024-04-16-cagan-ai-product-management]]", "[[2024-12-30-cagan-ai-product-management-2-years-in]]", "[[2025-03-24-cagan-baxley-product-design-and-ai]]", "[[2025-04-18-cagan-team-autonomy-and-ai]]", "[[2025-06-09-cagan-creating-intelligent-products]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2025-05-28-cagan-the-era-of-the-product-creator]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]"]
-related: ["[[product-discovery]]", "[[product-delivery]]", "[[empowered-engineers]]", "[[product-designer]]", "[[product-manager]]", "[[product-leadership]]", "[[team-topology]]", "[[the-four-big-risks]]", "[[remote-collaboration]]", "[[intelligent-products]]", "[[build-vs-buy-and-vibe-coding]]", "[[outcomes-over-output]]", "[[model-as-product-coach]]"]
+tags: [ai, gen-ai, product-teams, tech-lead, empowered-teams, product-discovery, product-delivery, product-strategy, ai-evals, feasibility]
+sources: ["[[2025-02-25-cagan-a-vision-for-product-teams]]", "[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2024-04-16-cagan-ai-product-management]]", "[[2024-12-30-cagan-ai-product-management-2-years-in]]", "[[2025-03-24-cagan-baxley-product-design-and-ai]]", "[[2025-04-18-cagan-team-autonomy-and-ai]]", "[[2025-06-09-cagan-creating-intelligent-products]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2025-05-28-cagan-the-era-of-the-product-creator]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+related: ["[[product-discovery]]", "[[product-delivery]]", "[[empowered-engineers]]", "[[product-designer]]", "[[product-manager]]", "[[product-leadership]]", "[[team-topology]]", "[[the-four-big-risks]]", "[[remote-collaboration]]", "[[intelligent-products]]", "[[build-vs-buy-and-vibe-coding]]", "[[outcomes-over-output]]", "[[model-as-product-coach]]", "[[ai-evals]]", "[[continuous-interviewing]]", "[[teresa-torres]]"]
 created: 2026-08-29
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # AI and Product Teams
@@ -60,12 +60,26 @@ See [[the-four-big-risks]] for the full elevated-risk discussion, risk by risk.
 
 **Remote work + AI — Cagan's cautiously optimistic bet.** Pre-GenAI, remote worked fine for delivery but hurt discovery (discovery = collaborative → depends on trust → harder over Zoom). Collaboration tools were "incredibly primitive." Cagan's hope: GenAI-powered tools/agents display "empathy" (not real, but they can behave that way), can be instructed to tease out the *necessary friction* that discovery requires. If it works — a bet Cagan flags explicitly — remote teams could get healthy discovery collaboration through agents and keep the remote-hiring benefits. See [[remote-collaboration]].
 
+## The Torres checkpoint — floor, ceiling, and what AI teams actually look like (Ep 44, Sep 2026)
+
+[[teresa-torres|Torres]] on [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]] adds the first substantial **non-Cagan** voice to this cluster, from the position of someone who spent 15 months actually building and shipping AI products. Four things she contributes that the Cagan corpus does not already cover:
+
+**Raise the floor, raise the ceiling.** The framing she credits with changing her mind: *"for people that adopt AI in different skills, the impact it had for novices was it raised the floor. And the impact it had for experts was it raised the ceiling."* (She relays this as a research finding without naming the study — cite it as her framing.) The operational consequence she draws is not about capability but about **time**: *"[discovery] requires hard cognitive thinking effort, which we already know humans don't have time for in the workplace. I don't want to say people aren't capable of it — the organizational environment, the system of business, doesn't give us time to do this well."* Floor-raising is therefore a response to an **organizational** constraint, not an individual one. This is a sharper diagnosis than "teams should do more discovery," and it is the same structural claim [[corporate-courage]] makes about leaders.
+
+**Feasibility risk is rising again.** *"I think feasibility is becoming more important again."* Her analogy is to prior step-functions — web 2.0 required learning Ajax, mobile required the SDKs and separate Android/iOS teams before the roles merged — but with a difference: *"there's whole new skills around getting reliable outputs from non-deterministic systems."* This complements rather than contradicts Cagan's [[2024-04-16-cagan-ai-product-management|Apr-2024 per-risk breakdown]] (where feasibility is the risk AI most *relieves* for conventional software); the distinction is **building AI products** vs **building products with AI**. See [[ai-evals]] and [[intelligent-products]].
+
+**Role lines blur on teams that actually ship.** *"For teams that are successfully getting a product to market, they're not worrying about who plays what role. I'm seeing product managers and designers learn how to write enough code to do evals — because to do evals well requires domain expertise that your engineers may not have. I'm seeing data scientists partner with designers. I'm seeing engineers get involved on the business side… It doesn't matter what your title is. It matters if you're curious, if you want to build something, if you have a builder mindset."* Note the direction of travel: this is the trio's collaboration model intensifying, not dissolving into role-free chaos — and the *reason* PMs pick up code is domain expertise, not headcount.
+
+**Individual productivity does not aggregate into organizational benefit.** Torres names [[2026-07-23-cagan-the-ai-productivity-paradox|Cagan's AI productivity paradox]] on air and extends it: *"we're already seeing that individual productivity does not necessarily lead to organizational benefit… I don't think people becoming AI-native will lead to AI-native organizations."* Her explanation is the demand side: **customers expect better, and companies deliver more.** Idiodi: *"it's a bar-raising moment, because your customers expect better all of a sudden."* Torres: *"they don't expect more, they expect better. But most companies are delivering more. And I think that's a really important distinction."* The organizational consequence she draws is on [[transformation]].
+
 ## Anti-patterns & misunderstandings
 - **"Delivery teams and feature teams are safe — they're just doing more delivery."** They are the *first* target. Cagan's warning to European product owners: *"delivery is about to get sideswiped by the biggest tsunami of technology ever."*
 - **Using GenAI as a substitute for thinking.** The worst products in history at scale — cheap and fast to create.
 - **Using GenAI as an amplifier of thinking.** Better products than ever — the two futures are already visible in different companies.
 - **Adding a fourth "ML specialist" to the trio.** Wrong for AI *applications* (per Cagan Ep 20); the tech lead absorbs the role. Correct only for AI *infrastructure* teams.
 - **"We'll add AI to our roadmap next quarter."** Wrong verb, wrong scope. AI is a foundational technology change; it reshapes what the team *is*, not what the team ships next.
+- **Shipping *more* because you can, when customers wanted *better*.** Torres, Ep 44 — the demand-side version of the productivity paradox. Velocity spent on volume is velocity wasted.
+- **Treating evals as an engineering concern.** See [[ai-evals]] — defining what "good" means is a cross-functional product judgment; only the implementation is engineering.
 - **Building AI features to hide behind ("we're AI-powered").** Short-term positioning that dies the moment competitors have GenAI at a marketing level (Cagan: *"in just months, everybody will have GenAI at a marketing level"*).
 
 ## In your context
@@ -83,6 +97,8 @@ When coaching a product leader in mid-2025 or later, use Cagan's Ep 20 as the cr
 - [[remote-collaboration]] — Cagan's AI-tools-restore-discovery-friction bet
 - [[market-fit]] — startup explosion + feature parity baseline
 - [[intelligent-products]] — the probabilistic-vs-deterministic concept underneath the feasibility-risk discussion
+- [[ai-evals]] — defining what "good" means for a non-deterministic product
+- [[continuous-interviewing]] — the discovery-tactics side of the same Ep 44 material
 
 ## Sources
 - [[2024-04-16-cagan-ai-product-management]] — **primary root** for the per-risk breakdown (feasibility/usability/value/viability under AI); Apr 2024, a year ahead of the podcast-form statement below.
@@ -98,6 +114,7 @@ When coaching a product leader in mid-2025 or later, use Cagan's Ep 20 as the cr
 - [[2026-02-04-cagan-product-coaching-and-ai]] — supporting (Feb 2026 talk form)
 - [[2026-04-14-cagan-ai-product-coaching-women-in-product]] — supporting (Apr 2026 talk form)
 - [[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]] — supporting (Jun 2026 talk form; the PM-theater intersection; also deepens the topology claim rooted above)
+- [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 (Torres with Idiodi), Sep 2026; the first non-Cagan checkpoint in this cluster. Floor/ceiling; the organizational-time diagnosis; feasibility rising for AI products; role lines blurring; expect-better-not-more. Roots [[ai-evals]].
 - External references from Ep 20 show notes: Tim O'Reilly, *"The End of Programming as We Know It"*; Chip Huyen, *AI Engineering* — flagged on [[recommended-library]]
 
 ## The EQ argument — what is left when AI does the IQ work

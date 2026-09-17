@@ -9,9 +9,9 @@ author: Marty Cagan
 medium: talk
 source_url: https://www.youtube.com/watch?v=X94m-DAgmlE
 date: 2022-04-13
-related: ["[[transformation]]", "[[transformation-anti-patterns]]", "[[process-people]]", "[[empowered-product-teams]]", "[[guardian-eyewitness]]", "[[the-guardian]]", "[[product-coaching]]", "[[pom-vs-agile-and-safe]]", "[[keep-the-lights-on]]", "[[reference-customer-program]]", "[[product-manager]]", "[[marty-cagan]]"]
+related: ["[[transformation]]", "[[transformation-anti-patterns]]", "[[process-people]]", "[[empowered-product-teams]]", "[[guardian-eyewitness]]", "[[the-guardian]]", "[[product-coaching]]", "[[pom-vs-agile-and-safe]]", "[[keep-the-lights-on]]", "[[reference-customer-program]]", "[[product-manager]]", "[[marty-cagan]]", "[[corporate-courage]]"]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Cagan — Common Transformation Pitfalls (ProductTank Oslo)
@@ -30,6 +30,7 @@ updated: 2026-09-05
 - entities: [[the-guardian]], [[marty-cagan]]
 
 ## Notes for the coach
+- **The opening two minutes are load-bearing, and often overlooked.** Before either list, Cagan states the failure rate and where the causes sit: *"It's no secret that most transformations fail… a lot of the things are outside of your control. They're more like the CEO's. **Most of this talk honestly is for CEOs.**"* With the pandemic as unplanned proof point — *"there are many companies that are no longer with us"* — and, in the Q&A, the other half: *"most companies, if they don't transform, they are in trouble — I don't know if it's this year or 10 years from now."* This is the **spoken form of [[corporate-courage|Key #10]]**, two years before *TRANSFORMED*, and the wiki's anchor for why later voices predicting that most companies won't transform (e.g. [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|Torres, Ep 44, 2026]]) are **restating SVPG canon, not disputing it**. See [[transformation]].
 - **The external list is the point.** Cagan is explicit that these are mostly outside a product person's control and that *"most of this talk is for CEOs"*: command-and-control addiction · a designated Chief Digital Officer as the CEO's way of not dealing with it · hiring McKinsey/Bain/BCG for board cover · sales-driven product · marketing-driven product · CFO project-based funding · predictability addiction · **reporting to a CIO (cost centre) rather than a CTO (profit centre)** · outsourced engineering · overwhelming tech debt.
 - **The internal list:** the desire for process (Europe called out by name) · inadequate product managers / the product-owner title · engineers who "just want to code" · tools that smuggle in a process · too much keep-the-lights-on work · too many initiatives · too much tech debt · too much pressure · more work · outcomes are hard.
 - **Useful counterweight:** empowered teams are *more* pressure and *more* stress than feature teams, by design — and some people rationally opt out. Cagan says this plainly here in a way the books soften.
