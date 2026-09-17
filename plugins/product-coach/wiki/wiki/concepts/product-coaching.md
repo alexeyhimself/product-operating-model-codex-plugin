@@ -4,10 +4,10 @@ type: concept
 aliases: [product-coaching, coaching, pm-coaching]
 status: drafting
 tags: [coaching, learning, leadership, culture, core-concept]
-sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[transformed]]", "[[empowered]]", "[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-04-23-cagan-discovery-strategy-empowered-teams-product-faculty]]", "[[2023-01-16-cagan-master-class-context-not-control]]", "[[2024-06-25-cagan-transformation-regrets]]"]
+sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[transformed]]", "[[empowered]]", "[[2023-01-11-cagan-becoming-a-product-coach]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-04-23-cagan-discovery-strategy-empowered-teams-product-faculty]]", "[[2023-01-16-cagan-master-class-context-not-control]]", "[[2024-06-25-cagan-transformation-regrets]]", "[[2025-11-20-idiodi-the-real-risk-of-ai-in-product]]"]
 related: ["[[model-as-product-coach]]", "[[product-coach]]", "[[types-of-product-coaching]]", "[[coaching-vs-contracting]]", "[[coaching-mindset]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[trust-over-control]]", "[[product-culture]]", "[[principles-over-process]]", "[[marty-cagan]]", "[[svpg]]", "[[overview]]", "[[model-as-coach-readiness]]", "[[founder-style-leadership]]", "[[bill-campbell]]"]
 created: 2026-06-14
-updated: 2026-08-30
+updated: 2026-09-18
 ---
 
 # Product Coaching
@@ -45,6 +45,15 @@ Ch 7 (The Coaching Mindset) is the *why* behind the mechanic. See [[coaching-min
 
 ## Types of coaching, and the experience prerequisite
 Cagan ([[2023-01-11-cagan-becoming-a-product-coach|Becoming a Product Coach]], 2023) sees three primary [[types-of-product-coaching|types]] by altitude — **discovery** (product teams), **product leadership** (heads of product/eng), and **transformation** (the CEO) — across three client segments (startup / scaleup / enterprise). His hard prerequisite for *any* coach: real, relevant product experience. "I do not see how a person can be an effective product coach without actual, relevant product experience" — facilitation skills help only on top of that foundation. This is why [[model-as-product-coach|model-as-coach]] leans on strong project files (this wiki) and explicit instruction to prioritize the [[overview|product model]]. The role itself: [[product-coach]].
+
+## "Knowing what good feels like" — and the beginner problem (Idiodi)
+Two techniques from [[2025-11-20-idiodi-the-real-risk-of-ai-in-product|Idiodi, Nov 2025]] that answer a question the canon otherwise leaves implicit: *how does someone who has never been coached know whether they are coaching?*
+
+**Practice is calibration, not just repetition.** *"People say, why are you doing this exercise? Sometimes practice is not just about building new muscle — **it's about knowing what good feels like.**"* And the diagnostic that follows from it: *"when I practice coaching with somebody and they say 'this felt very safe' — so if somebody's not feeling the way you felt right now, **they are not getting coaching.**"* A felt standard, not a checklist — which matters because the failure mode is a manager running the ritual of a 1:1 with none of the effect. See [[psychological-safety]].
+
+**The non-dominant-hand exercise — for coaching executives into a beginner's posture.** Idiodi has leaders write on paper with their non-dominant hand. *"Doing the right thing means having the courage or willingness to **do it poorly at first**… You're going to realize the handwriting. It's like: that is what we're doing here. It's okay. It's not going to feel easy. We're shifting our culture from writing with this hand to writing with this hand. It's going to be ugly. You're going to learn new muscles. You have to practice."*
+
+Paired with a reframe that removes the ego threat: *"I am not teaching you how to be a leader — you've grown in this company, you're probably good. But to be a **product** leader is new muscle. It's like: I am the best basketball player in the world. I say, **but we're playing football.** Different rules, different strategies, different things."* Use both when an executive's resistance is really about being seen not to know — see [[transformation]] for why that is the usual cause, and [[coaching-agency]] for the cost of being the person who changes first.
 
 ## Anti-patterns
 - **No coaching at all.** Managers as approvers and status-checkers, not coaches. The default in the project model.
@@ -89,3 +98,4 @@ _Field note placeholder — who coaches you today? Manager, external coach, mode
 - [[2023-01-16-cagan-master-class-context-not-control]] — challenge to the coaching community; context-not-control.
 - [[2024-06-25-cagan-transformation-regrets]] — Cagan's own coaching regrets: the five failure modes above.
 - **The *Product Therapy* podcast (2024–), 44 episodes ingested** — the wiki's canonical corpus for the behavioral half of coaching. Full episode index on [[christian-idiodi]]; the individual episodes are the primary sources for [[coaching-agency]], [[coaching-mindset]], [[trust-over-control]], [[product-sense]], [[imposter-syndrome]], [[product-ethics]], [[feedback]], [[stakeholder-relationship-health]], [[product-career-development]], [[product-marketing]], [[time-management]], [[founder-style-leadership]], and [[hiring-and-onboarding]].
+- [[2025-11-20-idiodi-the-real-risk-of-ai-in-product]] — Idiodi (Nov 2025); *"practice is about knowing what good feels like"* and the felt-safety diagnostic; the **non-dominant-hand exercise** and the basketball-vs-football reframe for coaching executives.

@@ -4,10 +4,10 @@ type: concept
 aliases: [strategic-context, strategic-context-baseline, org-baseline, your-org-baseline, six-elements-of-strategic-context, command-intent]
 status: drafting
 tags: [strategic-context, leadership, empowerment, org-baseline, ai-agents, core-concept]
-sources: ["[[empowered]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2026-02-04-cagan-product-coaching-and-ai]]"]
+sources: ["[[empowered]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]"]
 related: ["[[product-leadership]]", "[[product-vision]]", "[[product-strategy]]", "[[team-topology]]", "[[team-objectives]]", "[[product-principles]]", "[[model-as-product-coach]]", "[[empowered-product-teams]]", "[[coaching-vs-contracting]]"]
 created: 2026-07-05
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # Strategic Context
@@ -44,6 +44,17 @@ When an agent acts for an organization (coaching PMs, running research, critiqui
 - **Coach, don't contract.** Never write the org's vision, strategy, or product principles *for* them; help their leaders produce them ([[coaching-vs-contracting]]).
 - The `## In your context` prompts throughout this wiki are cues for exactly this: apply the general principle to the org's *own* baseline; don't record the org's data here.
 
+## The AI coach made this the product leader's most leveraged deliverable
+Until 2026 the argument for strategic context was that empowered teams need it to make good decisions. [[2026-07-22-cagan-olsen-how-ai-impacts-product-management|Cagan, July 2026]] adds a second, more mechanical reason: it is the **input** a [[model-as-product-coach|model-as-coach]] requires.
+
+> *"To make a good AI product coach, you need to give it as input your strategic context. You need to tell it your product vision, your product strategy, your team topology and the different objectives for the teams. **The product leader job is to create that.**"*
+
+So the artifact is *"not just necessary for their own product portfolio, but **necessary for their people to get the coaching they need**"* — which means a leader who has never written it down is now blocking two things at once, not one.
+
+**And the leverage rises as spans of control widen.** *"The span of control is changing — there's very little tolerance for small numbers of reports today… so thank goodness we have AI product coaching, because even if those managers were good at coaching, they probably wouldn't have time anymore. **The bigger the group you have to oversee, the more important the strategic context is.**"*
+
+**A related finding about *how* to supply it.** Cagan's team discovered that context alone is not enough — you must also tell the model **which school of product thinking to apply**, because foundation models are trained on all of them and cannot untangle one from another. See [[model-as-product-coach]]. This wiki is one half of that answer (the canon plus instructions); an organisation's own baseline is the other half, and it stays in that organisation's store — see below.
+
 ## Anti-patterns & misunderstandings
 - **Storing an org's baseline in this wiki.** Breaks the org-agnostic contract and pollutes the shared knowledge base.
 - **Operating without it.** An empowered team or an agent with no strategic context produces generic, ungrounded output — the [[model-as-product-coach|"no strategic context"]] failure mode.
@@ -64,3 +75,4 @@ _Agent prompt: does the org's strategic-context baseline exist, is it current, a
 - [[empowered]] — **primary (book-length)**; Ch 12 is the book's explicit "Strategic Context" chapter with six elements: **Company Mission · Company Scorecard · Company Objectives · Product Vision and Principles · Team Topology · Product Strategy** (grouped slightly differently from the article — vision+principles combined, topology added). Together with the article, this is the canonical grounding.
 - [[2020-11-19-cagan-product-leadership-is-hard]] — strategic context as a leadership responsibility, not a PM one.
 - [[2026-02-04-cagan-product-coaching-and-ai]] — strategic context as the third layer of the model-as-coach prescription.
+- [[2026-07-22-cagan-olsen-how-ai-impacts-product-management]] — Cagan (Lean Product Meetup, Jul 2026); strategic context as the **input to the AI product coach**, therefore the product leader's most leveraged deliverable; the widening-span-of-control argument.

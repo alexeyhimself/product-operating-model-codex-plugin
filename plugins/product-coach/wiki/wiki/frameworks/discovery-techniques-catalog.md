@@ -161,7 +161,7 @@ Viability is Cagan's "does the business/legal/finance/sales/marketing/ethics wor
 
 | # | Technique | Ev | Diff | Stage (Toxboe) | Cagan alignment | One-line summary |
 |---|-----------|:--:|:----:|----------------|-----------------|------------------|
-| 88 | [Provincial](https://learningloop.io/plays/provencial) | 30 | Intermediate | market·product·wtp | **Endorsed** — the [[carmax\|CarMax rollout ladder]] Cagan celebrates in [[transformed\|TRANSFORMED]] | Small → regional → national test rollout. |
+| 88 | [Provincial](https://learningloop.io/plays/provencial) | 30 | Intermediate | market·product·wtp | **Endorsed** — the [[carmax-omnichannel-pivot\|CarMax rollout ladder]] Cagan celebrates in [[transformed\|TRANSFORMED]] | Small → regional → national test rollout. |
 | 89 | [Partner & Supplier Interview](https://learningloop.io/plays/partner-supplier-interview) | 20 | Easy | product | **Endorsed** — the [[inspired\|INSPIRED]] Ch 56 viability check with delivery-side stakeholders | Interview key partners for feasibility, dependencies, real cost/lead-time. |
 
 *(Note: many of the plays in the Value section — LOI, Contract, Pre-orders, Sell the Future, Provincial, Customer Discovery Program — also produce viability evidence. Coach chooses per situation.)*

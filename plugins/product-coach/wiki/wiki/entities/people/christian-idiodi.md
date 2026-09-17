@@ -6,7 +6,7 @@ status: drafting
 tags: [person, svpg, partner, coaching, transformation, product-therapy, podcast-host]
 role: Partner, Silicon Valley Product Group; TRANSFORMED co-author; host of the *Product Therapy* podcast
 org: "[[svpg]]"
-related: ["[[svpg]]", "[[marty-cagan]]", "[[transformed]]", "[[product-coaching]]", "[[jon-moore]]", "[[chris-jones]]", "[[lea-hickman]]", "[[martina-lauchengco]]", "[[coaching-agency]]", "[[coaching-mindset]]", "[[hiring-and-onboarding]]"]
+related: ["[[svpg]]", "[[marty-cagan]]", "[[transformed]]", "[[product-coaching]]", "[[jon-moore]]", "[[chris-jones]]", "[[lea-hickman]]", "[[martina-lauchengco]]", "[[coaching-agency]]", "[[coaching-mindset]]", "[[hiring-and-onboarding]]", "[[2025-11-20-idiodi-the-real-risk-of-ai-in-product]]"]
 created: 2026-07-04
 updated: 2026-09-18
 ---
@@ -81,6 +81,30 @@ Idiodi hosts SVPG's *Product Therapy* podcast, each episode with a rotating SVPG
 ## Talks / other sources referencing him
 - [[2024-03-28-cagan-hardest-challenges-product-strategy-product-direction]] — Cagan on Idiodi's Africa product-community initiative.
 
+## Frameworks of his own ([[2025-11-20-idiodi-the-real-risk-of-ai-in-product|The Priceless Conversations, Nov 2025]])
+His fullest non-*Product Therapy* interview, and the source for two things that appear nowhere else in the corpus:
+
+- **The four buckets of product work, and the disruption-elevation law.** *"Developing products has always been these big four buckets: **deciding what to do** (strategy) · **how you do it** (discovery) · **delivering it** · **getting it to the hands of your customers**."* And: *"**typically when a big disruptive technology affects one of those buckets, it elevates the importance of the other buckets.**"* The internet disrupted distribution; AI disrupts delivery; therefore strategy and discovery take centre stage. See [[ai-and-product-teams]] — this is the wiki's preferred structural answer to *"what does AI change?"*
+- **The chef / grandmother metaphor for product sense** — his own favourite, and an argument for apprenticeship: *"my mom is in the kitchen, she doesn't use any recipe book… this is what product sense is, this is beyond the recipe"*, and *"most people learn from their parents — you're developing your cooking sense because you're spending time with them in the kitchen."* See [[product-sense]].
+- **"Context IQ" over Tech IQ**, and *"businesses don't care about people. Only people care about people."*
+- **The non-dominant-hand exercise** for coaching executives into a beginner's posture, plus the basketball-vs-football reframe. See [[product-coaching]].
+- **Why leaders fail** — *"most leaders have not experienced good leadership themselves"* — and the psychological mechanism behind hiring a consultancy for strategy. See [[product-leadership]], [[transformation]].
+- **"Business acumen will probably be the new technical skill"** — stated here in Nov 2025, and [[2026-07-22-cagan-olsen-how-ai-impacts-product-management|credited to him by name by Cagan]] eight months later.
+- **"Your products are the people under your care."**
+
+## Innovate Africa — the three waves, and the leapfrog thesis
+The same interview carries his fullest account of the Africa work. The model is a three-wave view of how technology ecosystems develop:
+
+1. **Talent drain** — *"you lose all your wonderful smart people to better jobs in North America or Europe."*
+2. **Hubs** — companies build institutions in the market, *"but if you think about what they're doing, they are still building **for the world** from India."*
+3. **Local builders solving local problems** — *"many amazing smart people saying: we can start to solve our own problems in our market for ourselves."*
+
+SVPG's aim is to **accelerate wave 3**, on three levers: **community, capital, coaching.** His diagnosis of why it does not happen on its own: *"it's not for lack of smart people… the ecosystems and the environment don't have enabling technology or access. **In our world, our biggest leverage we can bring is knowledge. There's not a Silicon Valley of Africa**"* — no local chain of exits producing entrepreneurs who then coach the next generation. Hence the leverage of a single conversation: *"one hour of a conversation with you can provide clarity, accelerate getting the best decision."*
+
+Plus the **leapfrog thesis** — an argument for why an early ecosystem can end up ahead: *"the good thing about very early environments is that you have the opportunity to start with best practices… **can we skip all the learnings of failed agile?**"* He also notes Africa is *"the youngest economy in the world"*, and prefers the opportunity framing to the deficit one: *"14 of the top 20 least developed countries are in Africa — yeah, but the top five fastest growing economies are also in Africa."*
+
+This is also the interview where he states what he counts as his own best work: not the 200-plus products, but *"the people I have coached or supported… someone that joined me as an intern 20 years ago that is now CEO of a big company."*
+
 ## Notes
 - **Coaching as care work.** Idiodi's throughline across the *Product Therapy* corpus: coaching is not a set of frameworks or techniques; it is a caring relationship built on trust, one-on-one, over time. The behavioral topics (agency, imposter syndrome, feedback, ethics) are as important as the technical ones (discovery, strategy) and are systematically under-taught in the industry.
 - **Trust as the ultimate product hack.** Public teaching alignment across the podcast, the [[trust-over-control]] principle, and the [[stakeholder-relationship-health]] diagnostic.
@@ -120,3 +144,4 @@ Nigerian background; left home at 12 for a gifted-and-talented boarding school *
 - synthesis he grounds: [[product-myths]]
 - diagnostics he grounds: [[stakeholder-relationship-health]]
 - case studies he was part of: [[datasite-transformation]] (his own pre-SVPG transformation experience — carried across TRANSFORMED Part VII + Ep 24)
+- [[2025-11-20-idiodi-the-real-risk-of-ai-in-product]] — *The Priceless Conversations* (Nov 2025); roots the four-buckets framework, the chef metaphor, context IQ, the non-dominant-hand exercise, the three-waves account of Innovate Africa, and *"your products are the people under your care."*

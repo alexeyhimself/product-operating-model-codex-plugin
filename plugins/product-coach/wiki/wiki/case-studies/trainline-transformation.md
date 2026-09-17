@@ -5,10 +5,10 @@ aliases: [trainline, trainline-transformation, trainline-kkr, trainline-super-se
 status: drafting
 tags: [case-study, transformation, innovation, europe, uk, rail, private-equity, jon-moore, empowered-engineers, product-strategy]
 org: Trainline
-sources: ["[[transformed]]", "[[2022-05-31-moore-transformation-defined]]"]
+sources: ["[[transformed]]", "[[2022-05-31-moore-transformation-defined]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]"]
 related: ["[[transformation]]", "[[transformation-politics]]", "[[jon-moore]]", "[[empowered-engineers]]", "[[product-vision]]", "[[product-strategy]]", "[[team-topology]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[product-delivery]]", "[[data-product-management]]", "[[missionaries-vs-mercenaries]]", "[[time-to-money]]", "[[amazon-prime]]", "[[datasite-transformation]]", "[[adobe-creative-cloud-transformation]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-18
 ---
 
 # Trainline — KKR-to-IPO Transformation
@@ -74,6 +74,19 @@ After the transformation, one customer complaint persisted: *"Tickets are so exp
 - Beyond rail: launched across new geographies, diversified into coach (bus).
 - *"Problems to solve had replaced features to build; strong metrics had replaced supposition. Technology was now front and center."*
 
+## Cagan's own telling (2026) — and the multi-sided-market lesson
+The page above is rooted in [[jon-moore|Moore]]'s account. On [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster|*Execute to Win*]] (Jul 2026) Cagan tells the same story from outside, adding a few operational specifics and one lesson the transformation narrative alone does not carry.
+
+**The setup and the moves.** UK rail deregulation *"about 20-plus years ago… just created this mess, as far as people couldn't figure out what train service to take to go from one city to another, what station to go to"*, so the government licensed ticket-selling and a marketplace emerged. Trainline existed but *"they were terrible at everything we're talking about — they didn't even have a mobile app for people trying to ride the trains, so very few people were using them."* Then KKR: *"the first thing they do is replace the CEO with a terrific woman from eBay. And the first thing she did was bring in a head of technology and a head of product. And the three of them took this company"* to the UK's largest IPO to date. Concretely — *"they had to pretty much start from scratch"*: engineering brought **in-house** from outsourcing *"all over Eastern Europe"*, the *"very obsolete tech stack"* replaced with a modern one, missing competencies introduced, and empowered teams given hard problems *"starting with: create a mobile app that everybody wants to use and they choose us."* Result: *"the number one rated travel app on the app store Monday to Friday"* — the commuter days; *"on the weekend, Uber is the biggest."*
+
+**The lesson Cagan draws — necessary but not sufficient.** Trainline is his standing example of a product where customer love is only the entry ticket:
+
+> *"Everybody understands that if your customers don't love it, you fail. If Trainline's riders don't use it, none of the other benefits come true — all the cool spreadsheets KKR has, they all evaporate. **However, what a lot of people don't realize is that's necessary but it's not sufficient.** You have to solve the problem in a way your customers love **but also** satisfy the needs of the rail providers, the government, the legal side, the unions. **And that is what actually makes it hard.**"*
+
+The rail providers' interest is named specifically — yield management: *"an empty seat on a train is a big investment with no revenue coming in, so they want to minimise those."* Which is why the discount mechanic works for both sides rather than being a giveaway.
+
+**And the reframe of stakeholders that follows.** *"Most people think stakeholders are these people that are kind of a pain and they just want to get past them. But people creating the products are not realising that **each of those stakeholders is there to protect some major asset in the company**"* — legal exposure, compliance, ethics, affordability, monetization, sales, marketing. *"Product is the craft of being able to come up with solutions that satisfy not just your customers but also each of these dimensions of your business."* See [[the-four-big-risks]], [[cross-functional-partnering]].
+
 ## What it illustrates
 - concepts: [[transformation]] (Moore's own three-dimensions framework in action), [[transformation-politics]] (dedicated ops team as the political mechanism with rail partners; Weekly Wins as internal evangelism), [[product-vision]] (built after research, not before), [[product-strategy]] (Super Seven insight as focus lever; mobile+conversion as strategic bets), [[empowered-engineers]] (the hack-day story is a canonical demonstration), [[team-topology]] (loosely coupled + microservices platform), [[product-discovery]] (four-risks-in-sequence on price prediction), [[data-product-management]] (data science as product platform).
 - principles: [[empowered-with-problems-to-solve]], [[focus]], [[powered-by-insights]], [[embrace-rapid-experimentation]], [[small-frequent-uncoupled-releases]], [[missionaries-vs-mercenaries]].
@@ -92,3 +105,4 @@ _When was the last time an engineer on your team proposed a solution to a chroni
 - [[transformed]] Part V — Transformation Story: Trainline (by Jon Moore). First-person account across all three dimensions.
 - [[transformed]] Ch 49 — Innovation Story: Trainline. The price-prediction discovery + rollout.
 - [[2022-05-31-moore-transformation-defined]] — Moore's canonical article on the three dimensions, with Trainline as an implicit case.
+- [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]] — Cagan (Jul 2026); Trainline in his own voice — the deregulation backstory, the KKR/CEO/head-of-tech/head-of-product sequence, in-housing engineering from Eastern Europe, the stack replacement, the #1-travel-app-Monday-to-Friday outcome, and the **necessary-but-not-sufficient** multi-sided-market lesson.

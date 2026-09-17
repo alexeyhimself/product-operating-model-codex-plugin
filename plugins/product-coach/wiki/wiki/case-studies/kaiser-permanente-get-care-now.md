@@ -6,7 +6,7 @@ status: drafting
 tags: [case-study, transformation, innovation, healthcare, regulated-industry, telehealth, pandemic-response, empowered-teams]
 org: Kaiser Permanente
 sources: ["[[transformed]]"]
-related: ["[[transformation]]", "[[empowered-product-teams]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[team-topology]]", "[[collaboration]]", "[[overcoming-objections]]", "[[almosafer]]", "[[carmax]]", "[[gympass-wellness-pivot]]"]
+related: ["[[transformation]]", "[[empowered-product-teams]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[team-topology]]", "[[collaboration]]", "[[overcoming-objections]]", "[[almosafer-istiraha-marketplace]]", "[[carmax-omnichannel-pivot]]", "[[gympass-wellness-pivot]]"]
 created: 2026-07-11
 updated: 2026-07-11
 ---

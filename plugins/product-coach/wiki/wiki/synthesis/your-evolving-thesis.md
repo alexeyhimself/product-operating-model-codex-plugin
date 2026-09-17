@@ -4,10 +4,10 @@ type: synthesis
 aliases: [your-evolving-thesis, evolving-thesis, wiki-corrections, wiki-thread]
 status: drafting
 tags: [synthesis, meta, corrections, lineage]
-sources: []
+sources: [, "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]", "[[2025-12-11-cagan-produktmenschen-podcast]]"]
 related: ["[[the-four-big-risks]]", "[[transformation]]", "[[transformation-politics]]", "[[outcomes-over-output]]", "[[the-point-is-outcomes]]", "[[strategic-context]]", "[[overview]]", "[[jeff-patton]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-12
-updated: 2026-09-11
+updated: 2026-09-18
 ---
 
 # The Wiki's Evolving Thesis
@@ -41,6 +41,17 @@ The wiki's understanding of the product operating model hasn't been a flat accum
 
 **The non-SVPG boundary, resolved (2026-09-05, ingest-plan Batch 8, Aleksei's call).** The Good Product Manager/Bad Product Manager judgment call — open since this page's first draft — is settled: **Option A**, the narrowest of three proposed tests. A non-SVPG source needs an explicit, checkable Cagan endorsement (a Foreword, a named spot on SVPG's own recommended-reading list) to earn a `wiki/sources/` card, concept page, or entity page; being cited, agreed with, or the acknowledged inspiration for an SVPG piece's format isn't enough. Applied consistently: Horowitz's *Good Product Manager/Bad Product Manager* stays un-ingested in `raw/` permanently, and the `[[products-over-projects-fowler]]`, `[[fake-agile]]`, and `[[story-mapping]]` wikilinks are now closed as deliberate non-targets rather than left open. Teresa Torres's *Continuous Discovery Habits* (Cagan wrote the Foreword) remains the wiki's one standing exception and the template for any future source that clears the bar. The rule itself now lives in `CLAUDE.md` §2, so future ingests don't relitigate it.
 
+## A second first-person reversal: "I was 180 degrees wrong" about AI
+The [[2026-09-11-cagan-strong-opinions-loosely-held|ten regrets]] above are a deliberate retrospective. Two months earlier, on [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster|*Execute to Win*]] (Jul 2026), Cagan volunteered a reversal about the present:
+
+> *"When Gen AI first came out, **I thought it would be the great equalizer** — and now finally so many companies would be able to compete with those really good companies and close the gap. **I was 180 degrees wrong on that.** What's happened is the good companies are using it to get even better and faster. The bad companies are using it to waste money even faster."*
+
+**Why it belongs in the thesis rather than only in the AI cluster.** It is the same epistemic move as the regrets — a public correction of a prediction he made loudly — and it has a stated mechanism rather than just a change of mood: *"most companies are using AI to speed up their project model, their old model. So it's just **garbage in, garbage out, faster**."* The implication for this wiki is uncomfortable and worth holding: a body of knowledge about the product model does not help an organisation that is using AI to accelerate the project model. The operating model is upstream of the tooling.
+
+**A smaller, related correction in the same period.** He also concedes the shape of the bottleneck argument he had made for years: *"it's pretty obvious now even to those that are a little dense that… **it was never the real bottleneck**"* — engineering cost and speed. [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|Torres reaches the same conclusion]] from the discovery side two months later, framed as *"have we spent the last 20 years trying to reduce the cost of delivery only to discover that the real bottleneck is decision quality all along?"*
+
+**Where *Strong Opinions* came from.** On [[2026-07-22-cagan-olsen-how-ai-impacts-product-management|Lean Product Meetup]] six days earlier, asked which of his own principles no longer serve us, Cagan declined to answer because it was his upcoming Lenny's conference talk: *"that's my talk — I promised I wouldn't give it away. But I will tell you there's quite a few things that I used to advocate very strongly for, and now I'm like, no, not so much."* That talk became the September article. Useful dating for the retrospective's genesis.
+
 ## Where this stands — open tensions, not yet resolved
 - **Moore-vs-Cagan sequencing** (above) — an operational default exists, but it's explicitly a judgment call, not a settled fact. Revisit if a newer primary source directly addresses the tension.
 - **EMPOWERED is ~90% un-ingested at the raw-text level** (flagged 2026-07-12) — not a correction, but the wiki's largest known gap between what it could ground and what it currently does. Everything from EMPOWERED Ch 9 onward is reachable only indirectly.
@@ -58,3 +69,6 @@ The wiki's understanding of the product operating model hasn't been a flat accum
 ## Sources
 - Mostly **wiki-voice** — synthesizing corrections already documented and cited on the pages it links to; see each linked page's own Sources section for the underlying primary citations.
 - [[2026-09-11-cagan-strong-opinions-loosely-held]] — the one **first-party primary** this page cites directly: Cagan's own retrospective list of ten things he'd argue differently since INSPIRED (2008). Backs the "Cagan grades his own work" thread.
+- [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]] — **the "great equalizer" recantation** and the "it was never the real bottleneck" concession (Jul 2026).
+- [[2026-07-22-cagan-olsen-how-ai-impacts-product-management]] — the on-record genesis of *Strong Opinions, Loosely Held* as his Lenny's conference talk; the developer-tools confession restated.
+- [[2025-12-11-cagan-produktmenschen-podcast]] — biographical corroboration of the viability regret: *"I didn't have a single finance class in college. Not a single one. So I realized later how that was not smart."*

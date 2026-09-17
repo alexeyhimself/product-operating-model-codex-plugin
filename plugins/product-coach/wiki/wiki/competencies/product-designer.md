@@ -5,10 +5,10 @@ aliases: [product-designer, designer, ux-designer]
 status: drafting
 tags: [competency, product-designer, trio, usability, experience]
 role: The member of the product team accountable for usability risk; owner of the holistic customer experience; the trio's prototyping and user-testing engine.
-sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2016-08-30-jones-the-product-designer-role]]", "[[2011-01-06-cagan-beyond-usability]]", "[[2007-02-23-cagan-great-products-by-design]]", "[[2025-03-24-cagan-baxley-product-design-and-ai]]", "[[2023-06-09-cagan-preparing-for-the-future]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2016-08-30-jones-the-product-designer-role]]", "[[2011-01-06-cagan-beyond-usability]]", "[[2007-02-23-cagan-great-products-by-design]]", "[[2025-03-24-cagan-baxley-product-design-and-ai]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]"]
 related: ["[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-manager]]", "[[chris-jones]]", "[[ai-and-product-teams]]"]
 created: 2026-06-20
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Product Designer
@@ -83,6 +83,17 @@ The prototype is the designer's **canvas**, not their deliverable. Jones's frami
 
 See [[prototypes]] for the fidelity taxonomy and [[2025-09-12-cagan-the-purpose-of-prototypes]] for why throwing them away is the point.
 
+## The role Cagan is most worried about — and what protects it
+Stated plainly on [[2026-07-22-cagan-olsen-how-ai-impacts-product-management|Lean Product Meetup, Jul 2026]]: *"The one I'm genuinely worried about long term is not product and not engineering — **it's design.**"* Three separate pressures, which are worth keeping separate because only two are about AI:
+
+1. **Graphic-design-only skills are exposed.** *"A lot of designers out there, even in Silicon Valley, are graphic designers. And if you're a graphic designer, it's kind of the rough equivalent of being an agile product owner — **you've got a big target on your back because the tools don't need you.**"* The protection is craft breadth: *"if you're a true product designer — good interaction design skills, service design skills — I think you're going to be in good shape."* See the five design disciplines above.
+2. **Architecture is moving to agent-facing surfaces.** Companies are shipping **headless / API-first platforms** so customers can run agents against their functionality. *"You don't really need designers so much for that, because designers are more on the human experience and now we're talking about a **programmatic** experience. There's a kind of designer called an API designer, but almost nobody has them."* Note this is a shift in *where* design is needed, not a claim that it isn't.
+3. **A cultural lag that is not AI's fault.** *"There are a lot of designers still pining for the old days — and it's not the Figma days, it's even before. They want to do a lot of research and analysis, and **they don't want to do prototypes every day**. They want to do them in a controlled environment."* Cagan's response: *"you could be so valuable here with your skill set, but you've got to open up a little bit."* This is the same cadence problem that made dual-track hard for designers a decade earlier.
+
+**What the role becomes: the best evaluator in the room.** *"Today it's a lot less relevant **who creates** the prototype. It's more about the different **lenses of evaluating** that prototype."* The designer's lens is the experience one, and it is now the scarce half — consistent with the Cagan & Baxley framing above that *"just because anyone can create a prototype doesn't mean anyone can evaluate one."* Cagan is also candid that democratised prototyping is net good for teams: *"we've never had as many designers as we want… **what we really want from the designer is their knowledge of great design**"* — previously spent partly on being the person who could drive Figma.
+
+**On Figma specifically.** *"Figma is a power tool optimized for [designers] — if you're a real designer and you want to get in there and fiddle with the pixels… the vibe-coding tools are quick and easy, but they don't give you that."* And a warning to the company: *"it's time for them to really accelerate the work on Figma Make, because it's sort of theirs to lose long term — and they might lose it."*
+
 ## Common failure modes
 - **Internal-agency mode** — recreating the external-agency model in-house: requirements come down, mocks go up. Loses every benefit of in-house design.
 - **UI-only practitioner** — treats UI as the whole job; the team has no one watching the broader UX.
@@ -113,3 +124,4 @@ _Field note placeholder — does each of your product teams have a designer who 
 - [[2023-06-09-cagan-preparing-for-the-future]] — supporting; the 2023 precursor of the visual-vs-service/interaction-design disruption prediction, 21 months ahead of the formal taxonomy above.
 
 - [[2024-11-02-jones-from-features-to-outcomes-khodor]] — Jones (Nov 2024); the dozen-prototypes-a-week calibration and the strategic-vs-downstream framing of the role.
+- [[2026-07-22-cagan-olsen-how-ai-impacts-product-management]] — **root** for the design-risk argument: graphic vs product designer, the headless/API-architecture shift, the prototype-cadence cultural lag, the evaluator reframe, and the Figma Make warning.

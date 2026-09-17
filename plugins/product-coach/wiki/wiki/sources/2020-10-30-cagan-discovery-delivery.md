@@ -11,7 +11,7 @@ source_url: https://www.svpg.com/discovery-delivery/
 date: 2020-10-30
 related: ["[[marty-cagan]]", "[[svpg]]", "[[product-discovery]]", "[[product-delivery]]", "[[empowered-product-teams]]", "[[empowered-engineers]]"]
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-09-18
 ---
 
 # Cagan — Discovery: Delivery
@@ -25,7 +25,8 @@ updated: 2026-06-20
 - concepts: [[product-discovery]] (no separate discovery team — same team), [[product-delivery]] (same team, continuously), [[empowered-product-teams]] (single durable team owns both activities), [[empowered-engineers]] (engineers stay engaged with discovery)
 - principles: [[collaboration]], [[sense-of-ownership]], [[outcomes-over-output]]
 - entities: [[marty-cagan]]
-- related linked references (not yet pages): `[[discovery-vs-delivery]]`, `[[empowered-engineers-faq]]`, `[[corporate-innovation-labs]]` (mentioned as another example of the hand-off failure mode)
+- **Now built:** the article this one hyperlinks as its own definitional reference — *Discovery **vs.** Delivery* (2015) — has its own card at [[2015-10-22-cagan-discovery-vs-delivery]]. ⚠️ **Two different articles**, five years apart and on different subjects (2015: the learn-fast-vs-release-with-confidence tension; this one, 2020: the split-team anti-pattern). Do not conflate them or their URLs (`/discovery-vs-delivery/` vs `/discovery-delivery/`).
+- related linked references (still not pages): `[[empowered-engineers-faq]]`, `[[corporate-innovation-labs]]` (mentioned as another example of the hand-off failure mode)
 
 ## Notes for the coach
 - **The anti-pattern in plain English:** one group obtains the learnings, another group executes the build. The receiving group inevitably feels like mercenaries and won't surface better alternatives. This is the same failure mode as outsourced engineering and corporate innovation labs.

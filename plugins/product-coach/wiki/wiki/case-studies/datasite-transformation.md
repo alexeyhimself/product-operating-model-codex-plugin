@@ -6,7 +6,7 @@ status: drafting
 tags: [case-study, transformation, innovation, saas, finance, m-and-a, christian-idiodi, sales-driven, disempowerment, product-strategy]
 org: Datasite (formerly Merrill Corporation)
 sources: ["[[transformed]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]"]
-related: ["[[transformation]]", "[[transformation-politics]]", "[[christian-idiodi]]", "[[doug-cullen]]", "[[thomas-fredell]]", "[[missionaries-vs-mercenaries]]", "[[feature-teams-vs-product-teams]]", "[[product-strategy]]", "[[empowered-product-teams]]", "[[focus]]", "[[empowered-engineers]]", "[[the-product-team-trio]]", "[[trainline-transformation]]", "[[adobe-creative-cloud-transformation]]", "[[cross-functional-partnering]]", "[[pilot-teams]]"]
+related: ["[[datasite]]", "[[transformation]]", "[[transformation-politics]]", "[[christian-idiodi]]", "[[doug-cullen]]", "[[thomas-fredell]]", "[[missionaries-vs-mercenaries]]", "[[feature-teams-vs-product-teams]]", "[[product-strategy]]", "[[empowered-product-teams]]", "[[focus]]", "[[empowered-engineers]]", "[[the-product-team-trio]]", "[[trainline-transformation]]", "[[adobe-creative-cloud-transformation]]", "[[cross-functional-partnering]]", "[[pilot-teams]]"]
 created: 2026-07-11
 updated: 2026-08-29
 ---

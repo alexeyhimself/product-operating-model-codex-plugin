@@ -1,12 +1,12 @@
 ---
 title: CarMax — Omnichannel Pandemic Pivot
 type: case-study
-aliases: [carmax, carmax-omnichannel, carmax-love-your-car]
+aliases: [carmax-omnichannel-pivot, carmax-omnichannel, carmax-love-your-car, carmax-pandemic-pivot]
 status: drafting
 tags: [case-study, transformation, innovation, retail, automotive, pandemic-response, empowered-teams, product-strategy]
 org: CarMax
 sources: ["[[transformed]]", "[[continuous-discovery-habits]]"]
-related: ["[[transformation]]", "[[product-strategy]]", "[[product-discovery]]", "[[product-delivery]]", "[[the-four-big-risks]]", "[[empowered-product-teams]]", "[[time-to-money]]", "[[amazon-prime]]", "[[trainline-transformation]]", "[[almosafer]]", "[[gympass-wellness-pivot]]", "[[assumption-testing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
+related: ["[[carmax]]", "[[transformation]]", "[[product-strategy]]", "[[product-discovery]]", "[[product-delivery]]", "[[the-four-big-risks]]", "[[empowered-product-teams]]", "[[time-to-money]]", "[[amazon-prime]]", "[[trainline-transformation]]", "[[almosafer-istiraha-marketplace]]", "[[gympass-wellness-pivot]]", "[[assumption-testing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-11
 updated: 2026-07-12
 ---

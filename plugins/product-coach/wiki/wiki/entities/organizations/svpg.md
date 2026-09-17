@@ -33,4 +33,4 @@ The reference standard. When this wiki says "SVPG canon," it means positions tra
 ## Related
 - people: [[marty-cagan]], [[pawel-huryn]] (external interpreter, not SVPG)
 - books: [[transformed]], [[inspired]], [[empowered]]
-- case-studies: every case study here is SVPG-published — see [[trainline-transformation]], [[datasite-transformation]], [[carmax]], [[almosafer]], [[gympass-wellness-pivot]], [[kaiser-permanente-get-care-now]], [[adobe-creative-cloud-transformation]] (*TRANSFORMED*) and [[amazon-prime]], [[spotify-discover-weekly]], [[google-product-model]], [[apple-role-of-product]] (the *Real Examples* articles)
+- case-studies: every case study here is SVPG-published — see [[trainline-transformation]], [[datasite-transformation]], [[carmax-omnichannel-pivot]], [[almosafer-istiraha-marketplace]], [[gympass-wellness-pivot]], [[kaiser-permanente-get-care-now]], [[adobe-creative-cloud-transformation]] (*TRANSFORMED*) and [[amazon-prime]], [[spotify-discover-weekly]], [[google-product-model]], [[apple-role-of-product]] (the *Real Examples* articles)

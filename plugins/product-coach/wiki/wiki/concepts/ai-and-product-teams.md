@@ -4,7 +4,7 @@ type: concept
 aliases: [ai-and-product-teams, ai-impact-on-product-teams, genai-and-product]
 status: drafting
 tags: [ai, gen-ai, product-teams, tech-lead, empowered-teams, product-discovery, product-delivery, product-strategy, ai-evals, feasibility]
-sources: ["[[2025-02-25-cagan-a-vision-for-product-teams]]", "[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2024-04-16-cagan-ai-product-management]]", "[[2024-12-30-cagan-ai-product-management-2-years-in]]", "[[2025-03-24-cagan-baxley-product-design-and-ai]]", "[[2025-04-18-cagan-team-autonomy-and-ai]]", "[[2025-06-09-cagan-creating-intelligent-products]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2025-05-28-cagan-the-era-of-the-product-creator]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+sources: ["[[2025-02-25-cagan-a-vision-for-product-teams]]", "[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2024-04-16-cagan-ai-product-management]]", "[[2024-12-30-cagan-ai-product-management-2-years-in]]", "[[2025-03-24-cagan-baxley-product-design-and-ai]]", "[[2025-04-18-cagan-team-autonomy-and-ai]]", "[[2025-06-09-cagan-creating-intelligent-products]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2025-05-28-cagan-the-era-of-the-product-creator]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]", "[[2025-11-20-idiodi-the-real-risk-of-ai-in-product]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2026-04-23-cagan-golden-era-for-product-management-udacity]]"]
 related: ["[[product-discovery]]", "[[product-delivery]]", "[[empowered-engineers]]", "[[product-designer]]", "[[product-manager]]", "[[product-leadership]]", "[[team-topology]]", "[[the-four-big-risks]]", "[[remote-collaboration]]", "[[intelligent-products]]", "[[build-vs-buy-and-vibe-coding]]", "[[outcomes-over-output]]", "[[model-as-product-coach]]", "[[ai-evals]]", "[[continuous-interviewing]]", "[[teresa-torres]]"]
 created: 2026-08-29
 updated: 2026-09-18
@@ -60,6 +60,35 @@ See [[the-four-big-risks]] for the full elevated-risk discussion, risk by risk.
 
 **Remote work + AI — Cagan's cautiously optimistic bet.** Pre-GenAI, remote worked fine for delivery but hurt discovery (discovery = collaborative → depends on trust → harder over Zoom). Collaboration tools were "incredibly primitive." Cagan's hope: GenAI-powered tools/agents display "empathy" (not real, but they can behave that way), can be instructed to tease out the *necessary friction* that discovery requires. If it works — a bet Cagan flags explicitly — remote teams could get healthy discovery collaboration through agents and keep the remote-hiring benefits. See [[remote-collaboration]].
 
+## The four buckets, and the disruption-elevation law (Idiodi)
+The most portable structural answer in the corpus to *"so what does AI actually change?"* — [[christian-idiodi|Idiodi]] on [[2025-11-20-idiodi-the-real-risk-of-ai-in-product|*The Priceless Conversations*]] (Nov 2025):
+
+> *"Developing products has always been these **big four buckets** since the history of time: one is **deciding what to do**, whether you call that strategy. The other is **how you do it**, with discovery. Then there's **delivering it** or building it. And then **getting it to the hands of your customers**."*
+
+And the law that makes it useful:
+
+> *"**Typically when a big disruptive technology affects one of those buckets, it elevates the importance of the other buckets.**"*
+
+Worked through history: the **internet disrupted bucket 4** (distribution), and the response was *"okay, we've got to build things well, we've got to decide what to do better and solve problems better — it's now easier to reach customers."* **AI disrupts bucket 3** (delivery), so *"strategy and discovery will take center stage even more than in our past, because building and delivering things will become easier."*
+
+**Why prefer this to a list of tools.** It generalises. It predicts the *next* disruption's effect without knowing what the technology is, and it explains why the answer to AI is to invest in the two buckets AI did *not* disrupt. It also sets up Idiodi's ideation point: *"someone was boasting, 'I asked GPT for 20 ideas and it gave me 20 good ideas.' I said, why did you stop at 20? Ask it for 2,000 — it will give you 2,000. **Now you can really see that your work is not the ideation, but discerning which of those ideas is good for our customers and our business right now.**"*
+
+**Context IQ, not Tech IQ.** Asked what intelligence product people now need: *"I don't think it's about Tech IQ. I think it's really about **context IQ** — organizational intelligence, emotional intelligence, knowing how to influence, how to align teams, how to navigate complexity, the politics of an organization."* The reason is a specific asymmetry: *"a deep knowledge of the customer, the industry, the business, the data, the product — **you can co-pilot all of that**. But do you know what is good for a human within this context and environment right now? Do you understand the nuances and the crazy of our business and who is approving my paycheck and the drama? Those inferences are hard to manage."* See [[emotional-intelligence]], [[product-sense]].
+
+**When every business case is world-class, politics decides.** *"Companies used to hire those big consulting firms to write a compelling business case. Imagine everybody can do it… Imagine you're a CFO thinking which project should I fund — every business case is world-class, high quality, with good data."* The differentiator moves from the artifact to the judgment and the relationships around it. See [[transformation-politics]].
+
+**What he hopes AI buys engineers — stated as a hope, not an observation.** Lower cognitive load traded *"for better thinking, not for laziness"*; and more autonomy *"because the dependencies are going to reduce — I don't need to work with 50 teams that own different components."* See [[team-topology]].
+
+## The July 2026 cluster — three deliveries of one argument
+Cagan made the same case three ways inside one week: [[2026-07-22-cagan-olsen-how-ai-impacts-product-management|Lean Product Meetup]] (recorded Jul 16), [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster|*Execute to Win*]] (published Jul 22), and [[2026-07-23-cagan-the-ai-productivity-paradox|the article]] (Jul 23). What the spoken versions add:
+
+- **"The problem was never their engineers."** *"Gen AI made delivery dramatically faster, and finally CEOs all over the world understand the problem was never their engineers. **The problem was always upstream — product management, product leadership, stakeholders, plus strategic planning.** And now that's obvious to even the sort of slowest leaders out there."* The blunter version: *"it's pretty obvious now even to those that are a little dense that… it was never the real bottleneck."* Compare [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|Torres two months later]] — same conclusion, reached from the discovery side.
+- **The recantation.** *"When Gen AI first came out, I thought it would be **the great equalizer**… **I was 180 degrees wrong on that.** The good companies are using it to get even better and faster. The bad companies are using it to waste money even faster."* Mechanism: *"most companies are using AI to speed up their project model. So it's just **garbage in, garbage out, faster**."* See [[your-evolving-thesis]].
+- **The paradox, sourced.** *"Both McKinsey — which is not very impressive — and Atlassian — which is pretty impressive — have come out and named this."*
+- **Two lines worth keeping.** *"Measuring tokens is just output. It's not saying anything about the outcomes."* And: *"I have seen AI generate **amazing answers to the wrong questions**."*
+- **An unexpected side effect.** *"People are telling me they're **rereading INSPIRED**, because now they actually get to work that way."*
+- **Trusting generated code is shipping real breakage.** *"There's a lot of really garbage getting shipped live today… they're doing post-mortems and going 'yeah, we were trusting the code.'"* The live industry question: *"what parts do you trust? What parts do you review? What parts do you still need to write yourself?"*
+
 ## The Torres checkpoint — floor, ceiling, and what AI teams actually look like (Ep 44, Sep 2026)
 
 [[teresa-torres|Torres]] on [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]] adds the first substantial **non-Cagan** voice to this cluster, from the position of someone who spent 15 months actually building and shipping AI products. Four things she contributes that the Cagan corpus does not already cover:
@@ -80,6 +109,8 @@ See [[the-four-big-risks]] for the full elevated-risk discussion, risk by risk.
 - **"We'll add AI to our roadmap next quarter."** Wrong verb, wrong scope. AI is a foundational technology change; it reshapes what the team *is*, not what the team ships next.
 - **Shipping *more* because you can, when customers wanted *better*.** Torres, Ep 44 — the demand-side version of the productivity paradox. Velocity spent on volume is velocity wasted.
 - **Treating evals as an engineering concern.** See [[ai-evals]] — defining what "good" means is a cross-functional product judgment; only the implementation is engineering.
+- **Automating your project-management job and calling it AI adoption.** Cagan's warning to feature-team PMs: you have removed the only thing the company was still paying you for. See [[product-manager]].
+- **Answering "what does AI change?" with a tool list.** Use Idiodi's four buckets instead — it generalises past this year's tools.
 - **Building AI features to hide behind ("we're AI-powered").** Short-term positioning that dies the moment competitors have GenAI at a marketing level (Cagan: *"in just months, everybody will have GenAI at a marketing level"*).
 
 ## In your context
@@ -128,3 +159,7 @@ A distinct line of argument running through three sources in the 2023–2025 cor
 **Idiodi's 2023 position** ([[2023-05-30-idiodi-building-strong-product-cultures-product-unfiltered]]), recorded here as an early datapoint rather than a current one: AI absorbs mundane and elementary tasks in every discipline and does not replace the disciplines. His example is the lawyer who uses AI to prepare basic documents, serves more clients, charges less, and delivers value sooner — against the lawyer who does not. *"Working with AI in a legal field, absolutely the future. Replacing a lawyer, I don't see it."*
 
 Treat these as the human-skills counterweight to the capability-and-productivity material; they are not in tension with it, but they answer a different question.
+- [[2025-11-20-idiodi-the-real-risk-of-ai-in-product]] — **root** for the four-buckets framework and the disruption-elevation law; context IQ; "why did you stop at 20?"; the world-class-business-case problem; the cognitive-load hope.
+- [[2026-07-22-cagan-olsen-how-ai-impacts-product-management]] — the fullest of the July-2026 cluster; "the problem was always upstream"; the paradox sourced to McKinsey and Atlassian; rereading INSPIRED; trusting generated code.
+- [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]] — **the "great equalizer" recantation**; garbage-in-garbage-out-faster; tokens are output; amazing answers to the wrong questions.
+- [[2026-04-23-cagan-golden-era-for-product-management-udacity]] — supporting (Apr 2026); "so many product people are literally not thinking"; the decision-rights belief pair.

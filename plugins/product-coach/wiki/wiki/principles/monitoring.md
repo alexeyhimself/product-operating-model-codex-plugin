@@ -31,7 +31,7 @@ Finding out about outages from customer complaints or Twitter; no alerting; degr
 
 ## Related
 - concepts: [[product-delivery]]
-- competencies: [[engineers]], [[engineering-leadership]]
+- competencies: [[engineers]], [[product-leadership|technology leadership]] — *INSPIRED* Ch 16's **Leaders of Technology Organization** (CTO / VP eng) and Ch 18 *Head of Technology* live on that page
 - diagnostics: [[delivery-health]]
 
 ## Sources

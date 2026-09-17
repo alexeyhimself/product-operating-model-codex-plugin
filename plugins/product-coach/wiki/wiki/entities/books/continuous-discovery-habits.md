@@ -83,13 +83,13 @@ Ingest pass 2026-07-12 covered all 15 chapters (sampled to depth 5 at Chs 1–3,
 | 3 | Focusing on Outcomes Over Outputs | 5 | [[outcomes-over-output]] · [[team-objectives]] |
 | 4 | Visualizing What You Know | 3 | [[continuous-interviewing]] (experience map) |
 | 5 | Continuous Interviewing | 5 | [[continuous-interviewing]] · [[product-discovery-techniques]] |
-| 6 | Mapping the Opportunity Space | 5 | [[opportunity-solution-tree]] · [[almosafer]] (Guijou/Seera opening story) |
+| 6 | Mapping the Opportunity Space | 5 | [[opportunity-solution-tree]] · [[almosafer-istiraha-marketplace]] (Guijou/Seera opening story) |
 | 7 | Prioritizing Opportunities, Not Solutions | 4 | [[opportunity-solution-tree]] · [[opportunity-assessment]] |
 | 8 | Supercharged Ideation | 4 | [[product-discovery-techniques]] |
 | 9 | Identifying Hidden Assumptions | 5 | [[assumption-testing]] · [[the-four-big-risks]] |
 | 10 | Testing Assumptions, Not Ideas | 5 | [[assumption-testing]] · [[embrace-rapid-experimentation]] |
 | 11 | Measuring Impact | 4 | [[outcomes-over-output]] (AfterCollege example) |
-| 12 | Managing the Cycles | 5 | [[carmax]] (Victoria Lawson) · [[assumption-testing]] |
+| 12 | Managing the Cycles | 5 | [[carmax-omnichannel-pivot]] (Victoria Lawson) · [[assumption-testing]] |
 | 13 | Show Your Work | 3 | [[opportunity-solution-tree]] (stakeholder-management use) |
 | 14 | Start Small, and Iterate | 3 | [[continuous-interviewing]] (keystone habit) |
 | 15 | What's Next? | 1 | (Product Talk resources — provenance only) |
@@ -98,7 +98,7 @@ Ingest pass 2026-07-12 covered all 15 chapters (sampled to depth 5 at Chs 1–3,
 - Cagan quoted directly in Ch 9 epigraph (INSPIRED — 10–20 iterations/week).
 - Ch 5 opens with the **Steve Jobs / visual voicemail** framing — the same *"customers don't know what's possible"* discipline Cagan grounds in [[product-discovery|product discovery]] and Ch 33 of [[inspired|INSPIRED]].
 - Ch 6 opening story: **Ahmed Guijou at Seera Group** with the istiraha marketplace pivot during COVID — this is [[almosafer|Almosafer]] under its parent company name. Cagan tells the same story in *TRANSFORMED* Ch 14; Torres has additional operational detail on the discovery method used.
-- Ch 12 features a **CarMax** case (Victoria Lawson, Digital Merchandising Experience team) that complements the CarMax pandemic-transformation Cagan tells in *TRANSFORMED* Ch 20 — see [[carmax]].
+- Ch 12 features a **CarMax** case (Victoria Lawson, Digital Merchandising Experience team) that complements the CarMax pandemic-transformation Cagan tells in *TRANSFORMED* Ch 20 — see [[carmax-omnichannel-pivot]].
 
 ## Why it's recommended
 On SVPG's *[[svpg-product-operating-model-introduction|Product Operating Model: An Introduction]]* reading list as the go-to how-to for the discovery principles. Cagan's Foreword: *"[if] you haven't had the good fortune to be coached by a strong leader or product coach, this book can help fill that gap and set you on the path to success."*

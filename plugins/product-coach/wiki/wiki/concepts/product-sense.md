@@ -4,7 +4,7 @@ type: concept
 aliases: [product-judgment, doing-your-homework, product-intuition]
 status: drafting
 tags: [product-sense, judgment, onboarding, product-manager, coaching, discovery]
-sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2025-11-20-idiodi-the-real-risk-of-ai-in-product]]", "[[2026-04-23-cagan-golden-era-for-product-management-udacity]]"]
 related: ["[[founder-style-leadership]]", "[[product-manager]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[powered-by-insights]]", "[[the-four-big-risks]]", "[[amazon-prime]]", "[[teresa-torres]]", "[[decision-making]]", "[[ai-and-product-teams]]"]
 created: 2026-07-03
 updated: 2026-09-18
@@ -64,6 +64,28 @@ His analogy: *"in any sport, when in doubt they give it to their superstar."* No
 
 **The AI test.** *"If it's only about the data and the inputs, then ChatGPT should have the best product sense — we should just check with it for all of the decisions we make."* Idiodi's answer is that no volume of data automatically resolves what is **right for these humans, at this time, in this context**; the interpretation is the human contribution, and it stays one. See [[ai-and-product-teams]] and [[emotional-intelligence]] — he treats self-awareness as a prerequisite, because a PM's biases, fears and frustrations are inputs to their "intuition" whether or not they notice.
 
+## Humility is the root — and Jobs is the example (Cagan, 2026)
+The sharpest statement of *why* product sense is earned rather than assumed, from [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster|*Execute to Win*]] (Jul 2026):
+
+> *"A lot of these high-powered, famous, high-valuation tech-powered companies are not necessarily known for their humility. But **it actually takes humility to do great products**, because so many leaders think that they know what needs to be built. **And that right there is the root of most of the failures.** They spend all their time and effort building something that their customers don't actually want to buy."*
+
+And the example that defuses the "but visionaries just know" objection:
+
+> *"Even Steve Jobs understood that deeply. **He didn't know what had to be built. He just knew when it wasn't good enough.**"*
+
+This is regret #4 in [[2026-09-11-cagan-strong-opinions-loosely-held|*Strong Opinions, Loosely Held*]] stated as a causal claim rather than a personal regret: absent humility, product sense never gets built, because there is no felt reason to do the homework. Cagan's own formulation of the discipline: *"you need to know what you can't know, and you need to admit what you don't know."*
+
+## The chef in the kitchen — how product sense is actually transmitted (Idiodi)
+[[christian-idiodi|Idiodi]]'s own favourite metaphor, from [[2025-11-20-idiodi-the-real-risk-of-ai-in-product|*The Priceless Conversations*]] (Nov 2025), and the wiki's best answer to *"can this be taught?"*:
+
+> *"My mom is in the kitchen. She doesn't use any recipe book. There is no step one, there's no process, no framework, no guide. She has a sense of: these are the ingredients, this is the timing, I taste the soup, it needs a little more of this. **This is what product sense is. This is beyond the recipe.**"*
+
+The half that matters most is the transmission mechanism, not the mystique:
+
+> *"Many people try to make it feel like it cannot be learned, it's a magical gift. But **you have so many grandmothers that are so good. Most people learn from their parents** — you're developing your cooking sense right now from your mom because you're spending time with them in the kitchen, looking at all their tricks. So most product sense comes from the manager, should be coached, from getting out of the building."*
+
+**Use it this way.** The metaphor is an argument for **apprenticeship and proximity**, not for talent. A PM who has never sat beside someone with product sense, never been in the room with a customer, and works only from documents is in the position of the professional chef Idiodi contrasts with his mother — the one who *"still runs to a recipe book."* The prescription is time in the kitchen: customer contact, and a coach (human or [[model-as-product-coach|model]]) who thinks out loud.
+
 ## Judgment is not taste, and taste is not aesthetics (Torres, Ep 44)
 
 The industry's 2025–26 vocabulary shift — from *product sense* to *taste* — smuggles in a narrower idea, and [[teresa-torres|Torres]] names the problem directly on [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep 44]]:
@@ -113,3 +135,6 @@ _Field note: how deliberately do your PMs build product sense in their first 90 
 - [[2024-06-25-idiodi-product-sense-product-momentum]] — Idiodi, *Product Momentum* ep. 142 (Jun 2024); product sense as cultivated judgment, the superstar analogy, the sprint-cost framing, and the ChatGPT test.
 - [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 (Torres with Idiodi), Sep 2026; the judgment/taste/aesthetics distinction, *"your customer's aesthetics matter more than yours,"* judgment ≈ critical thinking, and the Dark Sky example. Backs the section above.
 - [[2026-09-11-cagan-strong-opinions-loosely-held]] — Cagan, Sep 2026; #10 "thinking" (process as a substitute for thinking; product sense as its neglected foundation; the LLM-as-alternative-to-thinking worry) and #4 "humility" (the "CEO of the product" self-critique; humility as root cause of failed products when absent). Backs the "Thinking is the point" section.
+- [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]] — humility as **the root cause of most product failures**; the Jobs formulation ("he just knew when it wasn't good enough"); "know what you can't know, admit what you don't know."
+- [[2025-11-20-idiodi-the-real-risk-of-ai-in-product]] — **root** for the chef/grandmother metaphor and its apprenticeship argument; "your work is not the ideation, but discerning."
+- [[2026-04-23-cagan-golden-era-for-product-management-udacity]] — supporting; *"so many product people are literally not thinking — they think you just follow a process."*

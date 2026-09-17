@@ -31,7 +31,7 @@ No rollback path (so every deploy is high-stakes); impact judged by gut because 
 
 ## Related
 - concepts: [[product-delivery]]
-- competencies: [[engineers]], [[engineering-leadership]]
+- competencies: [[engineers]], [[product-leadership|technology leadership]] — *INSPIRED* Ch 16's **Leaders of Technology Organization** (CTO / VP eng) and Ch 18 *Head of Technology* live on that page
 - frameworks: [[ab-testing]]
 - diagnostics: [[delivery-health]]
 

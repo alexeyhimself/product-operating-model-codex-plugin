@@ -1,12 +1,12 @@
 ---
 title: Almosafer — Istiraha Marketplace
 type: case-study
-aliases: [almosafer, almosafer-istiraha, seera-almosafer]
+aliases: [almosafer-istiraha-marketplace, almosafer-istiraha, istiraha-marketplace]
 status: drafting
 tags: [case-study, transformation, innovation, middle-east, saudi-arabia, travel, pandemic-response, empowered-teams]
 org: Almosafer (Seera Group)
 sources: ["[[transformed]]", "[[continuous-discovery-habits]]"]
-related: ["[[transformation]]", "[[empowered-product-teams]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-strategy]]", "[[missionaries-vs-mercenaries]]", "[[product-vision]]", "[[team-topology]]", "[[time-to-money]]", "[[amazon-prime]]", "[[spotify-discover-weekly]]", "[[trainline-transformation]]", "[[gympass-wellness-pivot]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
+related: ["[[almosafer]]", "[[transformation]]", "[[empowered-product-teams]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-strategy]]", "[[missionaries-vs-mercenaries]]", "[[product-vision]]", "[[team-topology]]", "[[time-to-money]]", "[[amazon-prime]]", "[[spotify-discover-weekly]]", "[[trainline-transformation]]", "[[gympass-wellness-pivot]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-11
 updated: 2026-07-12
 ---

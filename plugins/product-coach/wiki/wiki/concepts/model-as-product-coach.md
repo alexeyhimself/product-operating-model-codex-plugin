@@ -4,10 +4,10 @@ type: concept
 aliases: [model-as-coach, ai-product-coach, foundation-model-as-coach]
 status: drafting
 tags: [coaching, ai, learning, foundation-models, core-concept]
-sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2025-02-25-cagan-a-vision-for-product-teams]]", "[[2025-05-28-cagan-the-era-of-the-product-creator]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]"]
+sources: ["[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2025-02-25-cagan-a-vision-for-product-teams]]", "[[2025-05-28-cagan-the-era-of-the-product-creator]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]"]
 related: ["[[product-coaching]]", "[[trust-over-control]]", "[[marty-cagan]]", "[[svpg]]", "[[overview]]", "[[model-as-coach-readiness]]", "[[product-sense]]", "[[build-to-learn-vs-build-to-earn]]", "[[strategic-context]]"]
 created: 2026-06-14
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Model as Product Coach
@@ -42,6 +42,27 @@ In an earlier piece ([[2025-02-25-cagan-a-vision-for-product-teams|A Vision For 
 
 **A second, milder tempering (Aug 2026) — track separately from the retraction above.** In [[2026-08-10-cagan-a-fresh-definition-of-the-product-role|A Fresh Definition of The Product Role]], Cagan revisits *The Era of the Product Creator*'s optimism about how *broadly* better tools alone would widen who becomes a strong product creator: *"That's been maybe a little bit true, but not anywhere near what I had hoped for."* This is not the same claim as the zero-to-one retraction above — that one is about whether newcomers *can learn fast enough with AI coaching* (retracted: yes they can); this one is about whether *access to better tools* was ever going to be sufficient on its own (tempered: no — the limiting factor, per analyst Benedict Evans's framing that Cagan adopts, was always whether someone thinks like a product person at all, not what tools they have). Hold both nuances at once when coaching someone through what AI coaching can and can't do for them.
 
+## The operational account — dates, calibration, and the one non-obvious finding
+[[2026-07-22-cagan-olsen-how-ai-impacts-product-management|Cagan, July 2026]] gives more implementation detail than the articles do.
+
+**The timeline, and why it turned.** *"We've been playing with that for more than two years, almost three… for the first year or two it was bordering between not very useful and funny how bad it was. But then **about nine months ago it felt like there was an inflection point.**"* Two causes, and he insists on both: *"the models got significantly better — and this is also important — **we got better at knowing how to provide the context** so that the models could help us better."* The second half is the part an org controls.
+
+**Calibration — what "good enough" means.** *"In my judgment it's **as good as a typical manager at one of the good companies**. Is it as good as one of the best coaches? No — that's still the gold standard. But it's really good."* On [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster|*Execute to Win*]] the same week: *"as good as a typical good manager playing the role, and better than most."* Quote the calibration, not a stronger claim.
+
+**A provisional claim about ramp time.** *"Pre-AI it took about three months, if you had a good manager, to get a person up to speed to be a competent product manager. Today, when somebody has a 7-by-24 AI product coach — it's still too early, but **it looks like it's going to be around about half the time**."* He flags it as too early twice; carry the hedge.
+
+### Tell the model which product model you want — the finding this wiki exists to act on
+The breakthrough was not a prompt trick but a diagnosis of why early attempts produced mush:
+
+> *"There are many schools of thought with product… and the foundation models are all trained on all this stuff, and they don't really know how to untangle one person's from another. So you'd often get really confusing coaching — it says do this, and something almost the same, do this. What we realized is **you need to tell the large language models which product model you want to use**… We didn't really understand just how pervasive the problem was until we saw that."*
+
+He also names whose material to prioritize as an example ([[teresa-torres|Torres]], [[shreyas-doshi|Doshi]]) and notes the honest converse: for someone stuck in a feature-team company whose leaders will not move, *"these are the people you should follow"* — a different set. **This is precisely what this wiki is**: a curated body of one school's canon plus instructions, supplied to the model so its coaching is coherent rather than averaged. Say so when asked why the wiki exists.
+
+**Why there is no application layer.** Cagan and [[christian-idiodi|Idiodi]] deliberately tested whether foundation models alone would suffice, because of the African markets Idiodi works in: *"there's no way they can afford these things, so we were wondering would the foundation models themselves get strong enough to be this without an application level. I think that is proven true."* Hence *"there's no extra money, there's no extra anything."*
+
+### It makes the product leader's job bigger, not smaller
+The coach is only as good as the [[strategic-context|strategic context]] it is given — *"you need to tell it your product vision, your product strategy, your team topology and the different objectives for the teams"* — and **authoring that is the product leader's job**. So the strategic context is *"not just necessary for their own product portfolio, but necessary for their people to get the coaching they need."* Compounded by a structural trend: *"the span of control is changing — there's very little tolerance for small numbers of reports today… so thank goodness we have AI product coaching, because even if those managers were good at coaching, they probably wouldn't have time anymore. **The bigger the group you have to oversee, the more important the strategic context is.**"*
+
 ## What it replaces
 A weekly 1:1 with a manager who doesn't have time, didn't grow up in the product model, or both. *And* expensive external coaching that most companies won't pay for. Cagan: an aspiring product creator "in San Francisco, or Sao Paulo, or Lagos, or anywhere else in the world with an internet connection and a connected device, now has 7×24 access to the advice and assistance of an experienced product coach, representing the aggregated learnings of some of the best minds in product." SVPG considered training a custom SVPG model and rejected it — the effort would be significant, its lifespan short given how fast foundation models improve, and philosophically *"we view the model-as-coach more like our content — we want the knowledge freely available to everyone."* The foundation models themselves are the delivery mechanism.
 
@@ -73,3 +94,5 @@ This wiki is project files for model-as-product-coach; [`CLAUDE.md`](../../CLAUD
 - [[2025-05-28-cagan-the-era-of-the-product-creator]] — the written origin of "product creator," re-rooted from this article's own earlier (Feb 2026) citation.
 - [[2026-08-10-cagan-a-fresh-definition-of-the-product-role]] — the second, milder tempering of the Era-of-the-Product-Creator optimism; Benedict Evans's tool-builders framing (via Cagan).
 - [[2025-02-25-cagan-a-vision-for-product-teams]] — the zero-to-one claim this article retracts; see the retraction section above.
+- [[2026-07-22-cagan-olsen-how-ai-impacts-product-management]] — **major deepening**; the ~3-year / 9-month timeline and its two causes, the "typical manager at a good company" calibration, the provisional ramp-time halving, the **tell-it-which-product-model** finding, the no-application-layer rationale, and strategic context as the leader's deliverable.
+- [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]] — the same nine-months-ago inflection stated for a CEO audience; "as good as a typical good manager playing the role, and better than most."

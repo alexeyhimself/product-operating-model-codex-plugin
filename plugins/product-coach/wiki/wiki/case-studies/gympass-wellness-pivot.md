@@ -6,7 +6,7 @@ status: drafting
 tags: [case-study, transformation, innovation, brazil, latin-america, fitness, wellness, pandemic-response, empowered-teams]
 org: Gympass
 sources: ["[[transformed]]"]
-related: ["[[transformation]]", "[[empowered-product-teams]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-strategy]]", "[[time-to-money]]", "[[almosafer]]", "[[carmax]]", "[[amazon-prime]]"]
+related: ["[[transformation]]", "[[empowered-product-teams]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-strategy]]", "[[time-to-money]]", "[[almosafer-istiraha-marketplace]]", "[[carmax-omnichannel-pivot]]", "[[amazon-prime]]"]
 created: 2026-07-11
 updated: 2026-07-11
 ---

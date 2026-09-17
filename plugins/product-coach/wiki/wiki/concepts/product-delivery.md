@@ -4,10 +4,10 @@ type: concept
 aliases: [product-delivery, delivery]
 status: drafting
 tags: [product-delivery, engineering, core-concept]
-sources: ["[[transformed]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2010-11-10-cagan-big-bang-releases]]", "[[2006-02-15-cagan-gentle-deployment]]", "[[2012-11-01-cagan-assessing-customer-impact]]", "[[2012-10-24-cagan-continuous-discovery]]", "[[2010-10-14-cagan-requirements-are-not]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]"]
+sources: ["[[transformed]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2010-11-10-cagan-big-bang-releases]]", "[[2006-02-15-cagan-gentle-deployment]]", "[[2012-11-01-cagan-assessing-customer-impact]]", "[[2012-10-24-cagan-continuous-discovery]]", "[[2010-10-14-cagan-requirements-are-not]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2015-10-22-cagan-discovery-vs-delivery]]"]
 related: ["[[small-frequent-uncoupled-releases]]", "[[instrumentation]]", "[[monitoring]]", "[[deployment-infrastructure]]", "[[product-discovery]]", "[[engineers]]", "[[overview]]", "[[delivery-health]]", "[[amazon-prime]]", "[[spotify-discover-weekly]]", "[[google-product-model]]"]
 created: 2026-06-14
-updated: 2026-07-04
+updated: 2026-09-18
 ---
 
 # Product Delivery
@@ -34,6 +34,17 @@ The mechanism that serves all three: **small, frequent, reliable releases.** Sma
 - [[spotify-discover-weekly|Spotify — Discover Weekly]]: early, sustained investment in **instrumentation, telemetry, monitoring, and a dedicated A/B-testing platform team**, plus [[small-frequent-uncoupled-releases|small, frequent, uncoupled releases]] — the machinery that lets empowered teams ship [[outcomes-over-output|outcomes]], not just output.
 - [[google-product-model|Google]]: "**planet scale**" infrastructure, and a cultural choice — **teams figure out their own architecture and are on the hook when it breaks.**
 
+## The bar: "release with confidence" — and the eight things it requires
+[[2015-10-22-cagan-discovery-vs-delivery|*Discovery vs. Delivery*]] (Cagan, 2015) is the canon's most checkable definition of what delivery actually owes. He reserves the word *product* for the state *"where we can actually run a business on this"*:
+
+> **scalable and performant to the degree necessary · a strong suite of regression tests · instrumented to collect the necessary analytics · internationalized and localized where appropriate · maintainable · consistent with the brand promise · and most importantly something the team can release with confidence**
+
+Two consequences the article states explicitly:
+- **"You should not have to 'release and pray.'"** *"While we never have 100% confidence"* — but the absence of confidence is a delivery defect, not a fact of life.
+- **The bar is the engineers' to set.** *"We allow our engineers to build the 'production-quality' software **as they see fit** to the point where they can release with confidence."* Useful when a PM or stakeholder tries to negotiate it down; see [[empowered-engineers]].
+
+This is also where most of the engineering effort goes — *"it's where most of the time goes when our engineers are building"* — which is the economic argument for [[product-discovery|discovery]] existing at all, and for the [[build-to-learn-vs-build-to-earn|two-standards]] distinction.
+
 ## Anti-patterns & misunderstandings
 - Treating delivery as a separate "dev team" downstream of a "product team" — breaks [[sense-of-ownership]]; same anti-pattern as a "delivery team" doing what a "discovery team" handed over ([[2020-10-30-cagan-discovery-delivery]]).
 - **Big-bang releases** — Cagan/Moore: notorious for delays of weeks/months getting back to releasable state; in many cases the product never reaches solid quality.
@@ -57,3 +68,4 @@ _Field note placeholder — how often do your teams release, and can they measur
 - [[2023-10-19-cagan-sunden-product-model-at-spotify]] — instrumentation + A/B platform team + small frequent releases; backs [[spotify-discover-weekly]].
 - [[2024-03-26-cagan-russell-product-model-at-amazon]] — the 3-month Prime build on pre-existing infrastructure; backs [[amazon-prime]].
 - [[2025-12-19-cagan-lieberich-product-model-at-google]] — planet-scale infra; teams own their architecture; backs [[google-product-model]].
+- [[2015-10-22-cagan-discovery-vs-delivery]] — Cagan (Oct 2015); the eight-item definition of product-quality, "release and pray," and the engineers' authority over the production bar.

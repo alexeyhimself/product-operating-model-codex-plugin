@@ -4,10 +4,10 @@ type: concept
 aliases: [feature-teams-vs-product-teams, feature-vs-product-teams, feature-team]
 status: drafting
 tags: [team-models, anti-pattern, empowerment, ownership]
-sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]", "[[2023-11-28-cagan-alternatives-to-product-managers]]", "[[2007-10-10-cagan-product-management-vs-project-management]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]", "[[2023-11-28-cagan-alternatives-to-product-managers]]", "[[2007-10-10-cagan-product-management-vs-project-management]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]"]
 related: ["[[empowered-product-teams]]", "[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[sense-of-ownership]]", "[[feature-team-vs-empowered-team]]", "[[product-management-theater]]"]
 created: 2026-06-20
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # Feature Teams vs Product Teams (and Project Teams)
@@ -47,6 +47,30 @@ Where the wiki uses "feature team," the mental model is a *cross-functional but 
 - **Project team tells:** engineers move every 1–3 months; teams disband after launch; nobody to call when production needs iteration; "the pool" is a real noun on slides.
 - **Both tells:** stakeholders blame the team for missed outcomes the team was never empowered to influence; output is high, outcomes are low.
 
+## SpaceX vs Boeing Starliner — the cleanest natural experiment in the corpus
+Cagan's worked comparison on [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster|*Execute to Win*]] (Jul 2026). He brackets the personalities explicitly (*"take away all the personality stuff"*) and argues only about the operating model:
+
+> *"Both SpaceX and Boeing bid and won the US government contract **at the same time, same amount**. One of them works in the product model — SpaceX — and the other one works in the old model, which is called the project model."*
+
+SpaceX beat the deadlines; when Boeing's Starliner reached the space station, *"it was so bad that NASA said you can't even bring the astronauts back on it — too likely that they will die. So who had to rescue them? SpaceX."*
+
+**Why this is worth citing as evidence rather than as an anecdote.** The usual objection to the model is that the exemplars have better people. This comparison controls for that:
+
+> *"They **both** have talented engineers. **The difference is the leadership, the cultures and the model they use to work.**"*
+
+And the visible mechanism is the [[build-to-learn-vs-build-to-earn|build-to-learn]] discipline, mistaken at the time for incompetence:
+
+> *"You may remember back in the early days of SpaceX, they were blowing up rockets left and right — **because they were all prototypes and they were learning very quickly**, as opposed to the model of very carefully documenting and doing this very formal process, and at the end finding out it wasn't even a good ship."*
+
+**Wiki synthesis, flagged as such:** the comparison also shows the *cost asymmetry* the two models produce. The project model front-loads certainty (documentation, formal process, a single expensive attempt) and discovers the truth at the end, when it is most expensive. The product model front-loads failure where failure is cheap. Same talent, same budget, same clock — opposite places in the timeline where the learning happens.
+
+⚠️ **Not built as a case-study page.** It is a single spoken source with no SVPG written treatment; it lives here as an argument, not as a [[transformation|transformation]] narrative. Revisit if a second source develops it.
+
+## What the project model quietly assumes about who owns value
+Same interview, on why blame lands in the wrong place: *"in the old model, stakeholders control product roadmaps… but in that model **the stakeholders are implicitly taking responsibility for value**. They're the ones putting the solution on the roadmap. So you can't blame the teams when it doesn't deliver the value — although they get blamed anyway."* With the arrogance underneath it named: *"they thought that because **they** thought this was a good idea, customers would too. And 'you just didn't execute on my idea the way you should have.'"*
+
+A structural consequence worth pairing with it, from [[2026-07-22-cagan-olsen-how-ai-impacts-product-management|the Lean Product Meetup talk]]: *"most feature teams only work on **usability and feasibility**, because they're given the solutions in the roadmap. But in an empowered team, it's now your job."* See [[the-four-big-risks]].
+
 ## Anti-patterns & misunderstandings
 - **"We're a product team because we use OKRs."** OKRs over a feature-team operating model produce *feature-team OKRs*: ship X features by Y date.
 - **"We have product managers, so we're product teams."** Titles without empowerment + durability are [[product-management-theater|theater]]. Cagan ([[2023-03-15-cagan-product-model-competencies]]): "many people have adopted the new titles of the product model, yet without learning the new competencies." A related framing Cagan uses in talks is **three models** — the agile *product owner* model, the *feature team* model, and the *empowered product team* model — the first two being where the theater lives ([[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto|Modern CTO]]).
@@ -72,3 +96,5 @@ _Field note placeholder — pick one of your teams. Are they given problems or f
 - [[empowered]] Ch 1 — **primary (book-length)**; the three-type framing (empowered / feature / delivery); the SAFe callout footnote. Deep-read in EMPOWERED Pass 1 (2026-07-12).
 - [[2023-11-28-cagan-alternatives-to-product-managers]] — founder/stakeholder-driven product management as the most common alternative to a dedicated PM, and "the root cause of most failed efforts."
 - [[2007-10-10-cagan-product-management-vs-project-management]] — the historical origin of the feature-team-PM-is-secretly-a-project-manager tell.
+- [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]] — **root** for the SpaceX-vs-Boeing-Starliner comparison (same contract, same money, same window, different model; "they both have talented engineers") and for stakeholders implicitly owning value in the project model.
+- [[2026-07-22-cagan-olsen-how-ai-impacts-product-management]] — feature teams work only usability and feasibility.

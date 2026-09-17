@@ -4,10 +4,10 @@ type: concept
 aliases: [build-to-learn, build-to-earn, learn-vs-earn]
 status: drafting
 tags: [discovery, delivery, prototypes, ai-tools, jeff-patton, core-concept]
-sources: ["[[2026-04-16-cagan-build-to-learn-vs-build-to-earn]]", "[[2026-04-28-cagan-build-to-learn-faq]]", "[[2025-11-07-cagan-prototypes-vs-products]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[transformed]]", "[[inspired]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]"]
+sources: ["[[2026-04-16-cagan-build-to-learn-vs-build-to-earn]]", "[[2026-04-28-cagan-build-to-learn-faq]]", "[[2025-11-07-cagan-prototypes-vs-products]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[transformed]]", "[[inspired]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2015-10-22-cagan-discovery-vs-delivery]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]"]
 related: ["[[product-discovery]]", "[[product-delivery]]", "[[prototypes]]", "[[the-four-big-risks]]", "[[time-to-money]]", "[[jeff-patton]]", "[[empowered-engineers]]", "[[product-manager]]"]
 created: 2026-07-03
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Build to Learn vs Build to Earn
@@ -38,6 +38,33 @@ You don't *have* to use different tools, but good teams usually do, because the 
 - **Figma Make** — *"clearly directional but it's not there yet but it will be there I believe. I really have a lot of admiration for that company. And if you think about it, they're perfectly positioned to do that well. If they don't do it well, somebody else will step in and take that from them."*
 
 Cagan frames the moment: *"It is a golden era for product people just because of this."* When advising on tool choice, don't over-anchor to a specific name — the class of tools matters more than any one product this year.
+
+## The 2015 ancestor — and what "product-quality" actually means
+The distinction is **eleven years older than the phrase**. [[2015-10-22-cagan-discovery-vs-delivery|*Discovery vs. Delivery*]] (Cagan, Oct 2015) frames it as two simultaneous obligations — *"we need to simultaneously learn fast **and** release with confidence"* — and gives the canon's most checkable definition of the second bar. Cagan says the confusion comes from *"a dilution of what is really meant when we call something a 'product' or 'product-quality' or 'productized'"*, and reserves the term for the state *"where we can actually run a business on this"*:
+
+> **scalable and performant to the degree necessary · a strong suite of regression tests · instrumented to collect the necessary analytics · internationalized and localized where appropriate · maintainable · consistent with the brand promise · and most importantly something the team can release with confidence**
+
+Use that list when a stakeholder argues a working prototype is "basically done." It predates vibe coding by a decade, so it cannot be dismissed as a reaction to it. Two further 2015 points worth carrying:
+- **The waste argument is the whole economic case for discovery.** *"This is where most of the time goes when our engineers are building… Doing all this work when the product manager isn't even sure this is the solution the customer wants is a recipe for big waste. So the purpose of product discovery is to make sure we have some evidence that when we ask the engineers to build production-quality software, it won't be a wasted effort."*
+- **The production bar is the engineers' call.** *"We allow our engineers to build the 'production-quality' software **as they see fit** to the point where they can release with confidence."* And *"you should not have to 'release and pray.'"*
+
+### Four names for the same distinction
+On [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster|*Execute to Win*]] (Jul 2026) Cagan lists the formulations he has used or borrowed, all describing one idea:
+
+| Source | Formulation |
+|---|---|
+| Y Combinator | *"build things that don't scale, then build things that do scale"* |
+| Cagan, as originally taught | *"first you figure out how to build the **right product**, then you figure out how to build the **product right**"* |
+| early Google | *"we fake it before we make it"* |
+| [[jeff-patton\|Jeff Patton]] | **build to learn / build to earn** — *"I got it from him like 10-plus years ago"* |
+
+### Experiment failure is not product failure
+Also from the same interview: *"about 85% of products fail in the market"* (attributed to HBR), but in good companies *"they fail constantly — they fail not in the market, in what we call product discovery… If you fail in discovery, that's not failure, that's just an experiment. There's no fail, there's just learnings. If you decide to go forward and build a product and you fail, **that's real failure** — it's very expensive, it can cause reputational risk, it could put humans at risk."* The learning-cost collapse makes the trade lopsided: the host's $27M write-off, Cagan notes, *"today you could make that same mistake for more like $2,000."*
+
+⚠️ **A numeric discrepancy to flag, not average.** The same interview says *"even before Gen AI we were doing **25 to 50 iterations per week**."* Elsewhere the wiki carries **10–20/week** (*INSPIRED*, quoted in [[continuous-discovery-habits|CDH]] Ch 9) and "10–20+ prototypes per week" below. Quote whichever source you are citing; do not blend them.
+
+### Why product managers are embarrassing themselves at build-to-earn
+[[2026-07-22-cagan-olsen-how-ai-impacts-product-management|Cagan, Jul 2026]]: *"A lot of product managers are embarrassing themselves right now, because what they're learning the hard way is that they didn't even know what was involved in building a commercial-quality product. A typical prototype has maybe half a dozen use cases; an interesting product has hundreds if not thousands."* And the challenge he puts to the vibe-coding enthusiasm — his own included: *"you won't find a bigger fan of vibe coding than me, but **show me where are all these products supposedly created by a product manager**. There's hardly anything out there, and the ones that are there are toys. And it's not because they can't — it's because it's a completely different thing."*
 
 ## Prototype vs. product — the complexity gap
 The same tools that make prototyping cheap and fast also make it *easier to confuse a prototype for something close to shippable* — a confusion Cagan aims squarely at product managers without an engineering background, who "embarrass themselves in front of their engineers" by underestimating the gap ([[2025-11-07-cagan-prototypes-vs-products|canon]]). The gap has two parts:
@@ -79,3 +106,6 @@ _Field note: do your PMs prototype and test (build to learn), or wait for design
 - [[transformed]] — background canon; discovery vs delivery as the underlying model this distinction reframes.
 - [[inspired]] — **Lineage note ([[inspired]] Ch 20, 1st ed, 2008): the "minimal product" framing.** Ch 20 "Minimal Product" is the 2008 form of what became MVP language: build the *minimal* thing that meets the business objective and validate it with users before committing engineers. Cagan later spent years criticizing how MVP got misused (shipped instead of used to learn); the modern build-to-learn vs build-to-earn split is the resolution — *prototypes* are the learning artifact, the *actual product* is what earns. Cite Ch 20 as lineage only; don't use its "minimal product" language as current canon.
 - [[2026-07-23-cagan-the-ai-productivity-paradox]] — supporting; the output-vs-outcome stakes of the build-to-learn/build-to-earn distinction under AI.
+- [[2015-10-22-cagan-discovery-vs-delivery]] — **the earliest root** (Oct 2015); the two simultaneous obligations, the eight-item product-quality definition, the waste argument, "release and pray," and the engineers' authority over the production bar. Predates the *build-to-learn / build-to-earn* phrasing by a decade.
+- [[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]] — the four-formulation lineage (Y Combinator · "right product / product right" · early Google · Patton); experiment-failure vs market-failure; $27M→$2,000; the 25–50 iterations/week figure.
+- [[2026-07-22-cagan-olsen-how-ai-impacts-product-management]] — why PMs are embarrassing themselves at build-to-earn (half-a-dozen prototype use cases vs hundreds or thousands in a product).
