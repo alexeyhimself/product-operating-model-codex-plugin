@@ -26,7 +26,7 @@ Root author (with Cagan) of the **ten keys to successful transformation**. In [[
 - [[2024-02-27-hickman-transformation-theater]] — Hickman's own SVPG article coining *Transformation Theater* as the seven-form taxonomy on [[transformation]].
 
 ## *Product Therapy* podcast — co-host with [[christian-idiodi|Idiodi]] (2024–)
-Hickman appears on 6 episodes of the *Product Therapy* podcast (Batch 1 · Eps 4, 8; Batch 2 · Eps 15, 18; Batch 3 · Eps 27, 32, 37, 42 — four episode cards, two of which cross-reference each other):
+Hickman appears on 8 episodes of the *Product Therapy* podcast (Batch 1 · Eps 4, 8; Batch 2 · Eps 15, 18; Batch 3 · Eps 27, 32, 37, 42 — four Batch-3 cards, two of which cross-reference each other). She is the most frequent co-host after Cagan:
 
 **Batch 1:**
 - [[2024-05-31-idiodi-hickman-coaching-trust]] — Ep 4; the four dimensions of trust; the new-hire trust asymmetry; the *"you can't build trust over a document"* line; the mala-Sharma-at-Adobe *"paint a picture bigger than any individual team"* frame; the public attribution of the boot-camp origin to Idiodi ~8+ years before the recording. Primary source for [[trust-over-control]]'s four-dimensions section.

@@ -97,7 +97,7 @@ Related partnering canon: [[transformed|TRANSFORMED]] Ch 26 (Partnering with Exe
 - **CEO ideas are welcome — but be explicit whether they're suggestions or edicts.** *"CEOs are often surprised to learn that what they intend as suggestions are often interpreted as edicts."* Cagan's Steve-Jobs pointer: the idea is the easy part; the real work — 90% of it, Jobs said — is validating and turning it into a product.
 - **How to know if a team is struggling.** The **written product strategy** already says what's expected and when. Quarterly business reviews with teams, or deep-dives by product leaders each quarter with a report on what's being done to help.
 - **Alignment across product / marketing / sales / service / operations = OKR-tool territory** ([[okrs]]). New product launches especially — everyone must do their part.
-- **"Board says invest more in sales, less in product."** Correct if [[product-market-fit|product-market fit]] is truly established; often wrong because companies assume PMF from headcount. KPIs to disambiguate: sales cycle length, cost to sell, trial-to-purchase conversion, churn. Until PMF is real, protect product spend.
+- **"Board says invest more in sales, less in product."** Correct if [[market-fit|product-market fit]] is truly established; often wrong because companies assume PMF from headcount. KPIs to disambiguate: sales cycle length, cost to sell, trial-to-purchase conversion, churn. Until PMF is real, protect product spend.
 
 **See also.** [[product-leadership]] (their responsibility to connect the dots), [[product-strategy]] (the written form), [[founder-style-leadership]] (Cagan's reframe of "founder mode"), [[okrs]] (the alignment mechanism), [[transformation-politics]] Dimension 8 (the drumbeat of outcomes).
 
