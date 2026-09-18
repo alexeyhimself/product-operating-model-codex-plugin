@@ -4,7 +4,7 @@ type: concept
 aliases: [data-product-management, ai-product-management, ml-product-management, platform-product-manager, data-pm]
 status: drafting
 tags: [concept, data, ai, ml, platform, team-topology]
-sources: ["[[transformed]]", "[[2021-03-23-cagan-internal-data-products-designing-for-analytics]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[empowered]]"]
+sources: ["[[transformed]]", "[[2017-09-05-jones-leveraging-data-science]]", "[[2021-03-23-cagan-internal-data-products-designing-for-analytics]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2023-05-17-cagan-10-misconceptions-startups-productx]]", "[[empowered]]"]
 related: ["[[product-manager]]", "[[team-topology]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[product-ops]]", "[[empowered-engineers]]"]
 created: 2026-07-04
 updated: 2026-07-04
@@ -19,6 +19,19 @@ Cagan untangles a persistent confusion ([[2021-03-23-cagan-internal-data-product
 
 1. **Data to make decisions** — data *analysts* who make every product team smarter (help PMs, designers, and engineers decide). This is the "force-multiplier" role, not a product team — see [[product-ops]].
 2. **Data to power products** — data *is* the product (TikTok feed, Amazon recommendations). Here a data scientist / data PM is a **full first-class member of a product team**, and the purpose is a great product experience, not helping others decide.
+
+**Jones drew the same line four years earlier**, in [[2017-09-05-jones-leveraging-data-science|*Leveraging Data Science*]] (SVPG, Sep 2017) — the earliest wiki-attested statement of the split, with different names and a different emphasis:
+
+| Jones (2017) | Cagan (2021) | What it augments |
+|---|---|---|
+| **Data science for internal insights** — tuning the product experience or the business; builds on traditional analytics, but the insights are "more often about the future than the past" (e.g. regression + clustering to segment freemium users by conversion likelihood, then tailoring experience per segment) | data to make decisions | the analytics capability |
+| **Data science for customer value** — statistical and big-data functionality that becomes "part of the actual product experience" (e.g. a personalized recommendation engine; anti-spam deep learning) | data to power products | the engineering capability |
+
+Three rules Jones attaches to the split, none of which appear in the 2021 article:
+
+- **Sequencing.** For internal insights, data science *builds on* data analytics: "If you don't have a basic data infrastructure and analysis capability in place (data warehouse, product [[instrumentation|instrumentation]], data analysts), start there before worrying about data science."
+- **Hire for the problem, not the math.** Given the "arcane nature of data science, it can be tempting to hire someone who just knows the math" — but without genuine interest in the business or product problem "you can end up with high-precision models that don't contribute useful insights or customer value." He also separates two conflated roles: the **data scientist** (builds models and their code) and the **data infrastructure engineer** (maintains storage and tooling; usually sits in site operations). And you may not need either — analysts, engineers or PMs can learn the techniques.
+- **Don't silo it.** "Resist the idea of 'data science as a service team' and promote the idea of **'data IQ'** across the whole organization" — via all-hands, write-ups, chalk talks, or embedding the expertise on cross-functional teams. This is the [[feature-teams-vs-product-teams|feature-team]] shape applied to data, and the same objection [[team-topology|topology]] raises generally.
 
 ## The "is it a product?" litmus test
 For an internal/enabling capability (A/B-testing infra, pricing, experimentation platform), the test is simple: **if it goes down, does it immediately impact your customers' experience?**
@@ -51,6 +64,7 @@ _Field note placeholder — are your data/AI efforts "data to decide" (analysts 
 - concepts: [[team-topology]], [[the-four-big-risks]], [[product-discovery]], [[empowered-engineers]]
 
 ## Sources
+- [[2017-09-05-jones-leveraging-data-science]] — Jones (2017); the earliest wiki-attested statement of the two-way split (internal-insights vs customer-value), plus the sequencing rule, the two data roles, and the "data IQ" anti-silo rule.
 - [[2021-03-23-cagan-internal-data-products-designing-for-analytics]] — data-to-decide vs data-to-power; the litmus test; facing/enabling teams; ethics.
 - [[2024-06-24-cagan-pm-and-experimentation-testing-insights]] — platform teams; the pyramid (not double-diamond); "no engineers building daily" heuristic.
 - [[2023-05-17-cagan-10-misconceptions-startups-productx]] — ML raises value/viability stakes.

@@ -4,7 +4,7 @@ type: concept
 aliases: [product-culture, culture]
 status: drafting
 tags: [product-culture, core-concept]
-sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]", "[[2022-03-10-idiodi-sling-tvs-need-for-speed]]", "[[2021-05-14-moore-lessons-from-ikea]]"]
+sources: ["[[2017-12-13-jones-learning-fast-vs-failing-fast]]", "[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]", "[[2022-03-10-idiodi-sling-tvs-need-for-speed]]", "[[2021-05-14-moore-lessons-from-ikea]]"]
 related: ["[[principles-over-process]]", "[[trust-over-control]]", "[[innovation-over-predictability]]", "[[learning-over-failure]]", "[[empowered-product-teams]]", "[[outcomes-over-output]]", "[[time-to-money]]", "[[feature-teams-vs-product-teams]]", "[[overview]]"]
 created: 2026-06-14
 updated: 2026-09-06

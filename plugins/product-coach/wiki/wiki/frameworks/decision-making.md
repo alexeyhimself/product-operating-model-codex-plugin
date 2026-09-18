@@ -4,8 +4,8 @@ type: framework
 aliases: [decision-making, high-integrity-decisions, one-way-two-way-doors, data-informed-decisions]
 status: drafting
 tags: [decision-making, integrity, data-informed, empowerment, coaching, ai, prioritization]
-sources: ["[[2025-05-01-idiodi-lauchengco-coaching-decision-making]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
-related: ["[[empowered-product-teams]]", "[[partnering-with-executives]]", "[[product-strategy]]", "[[trust-over-control]]", "[[high-integrity-commitments]]", "[[founder-style-leadership]]", "[[product-sense]]", "[[ai-and-product-teams]]", "[[teresa-torres]]"]
+sources: ["[[2019-12-30-cagan-coaching-decisions]]", "[[2019-12-27-cagan-coaching-integrity]]", "[[2025-05-01-idiodi-lauchengco-coaching-decision-making]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]", "[[2007-02-10-cagan-the-product-council]]"]
+related: ["[[empowered-product-teams]]", "[[partnering-with-executives]]", "[[product-strategy]]", "[[trust-over-control]]", "[[high-integrity-commitments]]", "[[founder-style-leadership]]", "[[product-sense]]", "[[ai-and-product-teams]]", "[[teresa-torres]]", "[[collaboration]]", "[[transparency]]", "[[coaching-the-pm]]"]
 created: 2026-08-29
 updated: 2026-09-18
 ---
@@ -16,6 +16,22 @@ updated: 2026-09-18
 
 ## When to use it
 Every time a product team, a PM, a designer, a tech lead, or a product leader needs to make a call — from *"should I take this meeting"* to *"which of these two solutions do we build"* to *"should we pivot the product strategy."* The frame below adapts across scale, from the smallest sprint call to the largest bet-the-company move.
+
+## The SVPG root — Cagan's five decision behaviors ([[2019-12-30-cagan-coaching-decisions|2019]])
+
+**Provenance note.** This page was originally built from *Product Therapy* Ep 19 (Lauchengco/Idiodi, 2025). The SVPG-canon root is six years older: Cagan's coaching-series article *Coaching – Decisions*, published three days after its deliberate companion [[2019-12-27-cagan-coaching-integrity|*Coaching – Integrity*]]. The two treatments **agree**; the 2019 article is the primary and is where the disagree-and-commit and written-narrative material actually originates.
+
+Cagan's definition of a good decision is social as well as analytical: not merely logical and data-informed, but one that *"the rest of your product team, your executives, your stakeholders and your customers can support and understand, even if they disagree."* It rests on a foundation of **integrity** — dependable commitments, acting in the company's interest, accountability for results.
+
+The five coachable behaviors:
+
+1. **Right-size the decision analysis.** Weigh [[the-four-big-risks|risk]] against *consequence* — some mistakes are recoverable in hours, some put the company at risk. Then decide how much you must learn before deciding, and whose support you need. Cagan says this is where he spends the *majority* of his coaching, because novices reliably mis-scale: they either under-estimate risk, or over-estimate it and burn discovery on things that don't matter while the risks that do go untested.
+2. **Collaboration-based decision making.** Not consensus, not voting, not benevolent dictator — the same three negations as [[collaboration]]. Defer to the tech lead on enabling technology, the designer on user experience, the PM-with-stakeholders on viability. *"The hardest decisions are usually around value, as value is a function of the whole."* He notes almost every PM he has coached struggles with which decisions she "owns" — and that the ownership framing is itself the thing to unlearn.
+3. **Resolving disagreements — by running a test.** Disagreement between a tech lead and a designer, or between a team and an executive, is *normal and healthy* in orgs with strong teams and imperfect information. The PM's actual skill is knowing when and how to run the cheapest appropriate test, usually a specific type of prototype. Do steps 2 and 3 well and *"there will be very few situations of the product manager needing to override her team or escalate."*
+4. **Transparency.** A plain note explaining the reasoning suffices for minor calls; for consequential ones Cagan wants the [[2019-03-11-cagan-coaching-tools-the-narrative|written narrative]], *especially its FAQ section* where each anticipated objection is named and addressed. He warns coaches that PMs initially resist the narrative's rigor — and that the resistance is the signal it is warranted. See [[transparency]].
+5. **Disagree and commit.** Debate hard, then commit — and commit *publicly*, even when you lost. The PM may state what her own view was; what she may not do is tell leadership she deferred to her tech lead but disagrees, or complain to her team about a leadership decision. Cagan names both as **toxic**. The constructive form: share the options considered, explain the reasoning, and say how you intend to make the decision succeed.
+
+**Why this belongs to empowerment.** In [[feature-teams-vs-product-teams|feature teams]] the meaningful decisions were already made upstream by executives and stakeholders; pushing decisions down to the team *is* the point of an empowered team. Cagan closes by noting decision-making alone can fill the [[2019-02-08-cagan-coaching-tools-the-one-on-one|weekly 1:1]].
 
 ## The framework
 [[martina-lauchengco|Lauchengco]] anchors this teaching on [[2025-05-01-idiodi-lauchengco-coaching-decision-making|Product Therapy Ep 19]] from her organizational-behavior background + Costanoa Ventures operating-partner lens. The framework has six elements:
@@ -98,6 +114,8 @@ A PM inherits a stakeholder request to build a feature they think is wrong for t
 - principles: [[minimize-waste]], [[outcomes-over-output]]
 
 ## Sources
-- [[2025-05-01-idiodi-lauchengco-coaching-decision-making]] — **primary root** ([[martina-lauchengco|Lauchengco]] · Product Therapy Ep 19)
+- [[2019-12-30-cagan-coaching-decisions]] — **primary (SVPG canon); the earliest root.** Cagan's five decision behaviors, incl. disagree-and-commit and the written narrative for consequential calls. Predates the Ep 19 material below by six years and does not contradict it.
+- [[2019-12-27-cagan-coaching-integrity]] — **primary**; the deliberate companion piece, three days earlier — integrity as the *foundation* for decision-making (dependability · company's best interests · accountability).
+- [[2025-05-01-idiodi-lauchengco-coaching-decision-making]] — **primary** ([[martina-lauchengco|Lauchengco]] · Product Therapy Ep 19); the page's original root, and the source of the six-element framework below.
 - [[2020-01-09-cagan-coaching-strategic-context]] — the guardrails-and-context framing for how strategy enables decisions
 - [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 ([[teresa-torres|Torres]] with Idiodi), Sep 2026; *product is decision-making*, the twenty-years-wrong-bottleneck framing, judgment ≈ critical thinking at the intersection of the risks

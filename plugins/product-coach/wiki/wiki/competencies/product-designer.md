@@ -5,7 +5,7 @@ aliases: [product-designer, designer, ux-designer]
 status: drafting
 tags: [competency, product-designer, trio, usability, experience]
 role: The member of the product team accountable for usability risk; owner of the holistic customer experience; the trio's prototyping and user-testing engine.
-sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2016-08-30-jones-the-product-designer-role]]", "[[2011-01-06-cagan-beyond-usability]]", "[[2007-02-23-cagan-great-products-by-design]]", "[[2025-03-24-cagan-baxley-product-design-and-ai]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2016-08-30-jones-the-product-designer-role]]", "[[2018-12-27-jones-design-in-enterprise-software-companies]]", "[[2011-01-06-cagan-beyond-usability]]", "[[2007-02-23-cagan-great-products-by-design]]", "[[2025-03-24-cagan-baxley-product-design-and-ai]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]"]
 related: ["[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[product-manager]]", "[[chris-jones]]", "[[ai-and-product-teams]]"]
 created: 2026-06-20
 updated: 2026-09-18
@@ -94,6 +94,22 @@ Stated plainly on [[2026-07-22-cagan-olsen-how-ai-impacts-product-management|Lea
 
 **On Figma specifically.** *"Figma is a power tool optimized for [designers] — if you're a real designer and you want to get in there and fiddle with the pixels… the vibe-coding tools are quick and easy, but they don't give you that."* And a warning to the company: *"it's time for them to really accelerate the work on Figma Make, because it's sort of theirs to lose long term — and they might lose it."*
 
+## The enterprise/B2B case — design reaches the *buyer* (Jones, 2018)
+
+The most common argument for underfunding design is a B2B one, and [[2018-12-27-jones-design-in-enterprise-software-companies|*Design in Enterprise Software Companies*]] exists to kill it. The excuse: in B2C user and buyer are the same person, but in B2B they differ — buyers need ROI, users need usability — so design is "a luxury that serves the end-users who will be fully served only after some degree of commercial success." Jones says this "reflects a misunderstanding of the role of product design in creating successful products," and notably does **not** argue it on the user's behalf: "My motivation for investing early in product design has as much to do with buyers as it does the users."
+
+Three mechanisms by which design reaches the buyer:
+
+1. **Design carries [[positioning|positioning]].** Enterprise deals involve many buyers and influencers talking with no salesperson present. The sale depends on customers using the concepts that frame your solution — and "in many cases it is carried by the product itself."
+2. **Design is fundamental to the core value proposition.** Against the waterfall sequence (requirements → UI → technical solution), the three are "deeply intertwined": "Often, it is a design insight that motivates a technical approach which uncovers new possibilities… In some cases, a design insight may actually motivate the core product value itself." This is the same claim as INSPIRED's *"design informs functionality as much as functionality drives design"*, argued commercially.
+3. **Design opens new paths to market.** As departments buy their own tools, "users and buyers converge" and experience expectations become B2C-like.
+
+**The worked example — Vontu.** Jones was an early PM at Vontu (later acquired by Symantec), which created the category that became **Data Loss Prevention**. They invested in design "*in order to better educate and influence the buyer*," mapping the product to the customer's existing notions of confidential data, policy, incident and remediation, and putting demos and screenshot workflows "at the center of the sales process." The result: Vontu "quickly became the solution to which all other venders were compared." One design decision — how non-compliant data was highlighted inside a transmission — "was the most frequently cited reason why a customer purchased our product," carried "huge architectural ramifications," and "was not something we could have simply added later either to our product or to its positioning." That last clause is the answer to *"we'll do design once we have traction."*
+
+**The counter-example — Slack**, named as "the Poster Child for this Go-To-Market dynamic": organic growth, minimal marketing spend, no direct sales, painless installation and short time-to-value, where "the product experience itself was a primary driver of customer adoption." Jones's warning to incumbents: "If you are not investing in design there's a good chance a new competitor is, and that competitor may be in a position to attack your market in a whole new way because of it."
+
+**The reframe to carry away:** "you should never fixate on just the user or the buyer in isolation" — think of *the customer* as "an ecosystem of interests each relating to different facets of buying, using and supporting the solution."
+
 ## Common failure modes
 - **Internal-agency mode** — recreating the external-agency model in-house: requirements come down, mocks go up. Loses every benefit of in-house design.
 - **UI-only practitioner** — treats UI as the whole job; the team has no one watching the broader UX.
@@ -119,6 +135,7 @@ _Field note placeholder — does each of your product teams have a designer who 
 - [[transformed]] — root source; the designer as owner of usability risk in an empowered team.
 - [[2023-03-15-cagan-product-model-competencies]] — Cagan's risk-ownership table (designer = usability, experience).
 - [[2016-08-30-jones-the-product-designer-role]] — the canonical role definition; the five attributes of the modern designer.
+- [[2018-12-27-jones-design-in-enterprise-software-companies]] — Jones (Dec 2018); **the enterprise/B2B case for early design investment, argued on the buyer's terms**. The three mechanisms (positioning carrier · core value proposition · new paths to market), the Vontu/DLP worked example, the Slack go-to-market counter-example, and the customer-as-ecosystem reframe.
 - [[inspired]] Ch 11 — **primary (book-length)**; the PM-facing book form of the designer role. The 5 responsibilities (product discovery · holistic UX · prototyping · user testing · interaction+visual design); the **3 Absence-of-Product-Design anti-patterns**; the internal-agency anti-pattern; the *"design informs functionality as much as functionality drives design"* framing; the **5 keys to a strong PM ↔ designer relationship**; design as competitive differentiator by product type (consumer / B2B / SMB). Deep-read in the INSPIRED 2nd-ed close-the-gaps pass (2026-07-12).
 - [[2025-03-24-cagan-baxley-product-design-and-ai]] — **primary** for the five-design-disciplines "design sense" taxonomy (service design · information architecture · interaction design · visual design · industrial design), distinct from and complementary to Jones's five attributes above; pairs "design sense" with the PM's "product sense" by name for the first time.
 - [[2023-06-09-cagan-preparing-for-the-future]] — supporting; the 2023 precursor of the visual-vs-service/interaction-design disruption prediction, 21 months ahead of the formal taxonomy above.

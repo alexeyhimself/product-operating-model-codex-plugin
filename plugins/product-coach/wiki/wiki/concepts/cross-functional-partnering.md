@@ -4,10 +4,10 @@ type: concept
 aliases: [cross-functional-partnering, partnering, partnering-with-customers-sales-marketing-finance-stakeholders-executives, partnering-hub, the-product-model-in-action]
 status: drafting
 tags: [concept, partnering, stakeholders, executives, customers, sales, finance, product-marketing, cross-functional, transformation]
-sources: ["[[transformed]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]"]
+sources: ["[[transformed]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2010-01-26-cagan-regaining-your-product-mojo]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]", "[[2023-06-21-cagan-pledge-to-stakeholders]]", "[[2020-05-15-cagan-meaningful-transformation]]"]
 related: ["[[product-manager]]", "[[product-marketing]]", "[[product-leadership]]", "[[stakeholder-relationship-health]]", "[[partnering-with-executives]]", "[[overcoming-objections]]", "[[transformation-politics]]", "[[high-integrity-commitments]]", "[[product-vision]]", "[[team-objectives]]", "[[the-four-big-risks]]", "[[loved]]", "[[martina-lauchengco]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-18
 ---
 
 # Cross-Functional Partnering
@@ -88,6 +88,10 @@ Book definition: *"someone not explicitly a member of a product team, yet who re
 - **The promise:** never build (and certainly never ship) a solution that doesn't meet critical business needs. If it happens, correct quickly + investigate recurrence.
 - **Transparency.** Stakeholders welcome to participate in user testing, view prototypes, see product data (usage + live-data test results).
 
+**Provenance — the chapter has an article-form root.** Ch 25 is a close restatement of [[2023-06-21-cagan-pledge-to-stakeholders|Pledge To Stakeholders]] (Jun 2023), which predates *TRANSFORMED* (2024). The stakeholder definition, the committees-don't-innovate line, the product-leadership-owes-you-a-competent-PM argument, the show-the-prototype-first mechanism, the never-ship-what-doesn't-work-for-the-business promise and the transparency list all originate there. Cite the article as the earlier root and the book as the canonical form — and see [[the-pledges]] for the full trilogy.
+
+One line the article carries more sharply than the chapter, worth quoting on viability: *"It is this combination of enabling technology with real customer problems and real business constraints that produces innovative products"* — the reason stakeholders can't be the ones deciding, since they aren't working directly with the enabling technology and so can't know **what's just now possible**.
+
 See also: [[stakeholder-relationship-health]] (the diagnostic).
 
 ### 6. Partnering with Executives (Ch 26)
@@ -96,7 +100,11 @@ The chapter organized around **six named elements** — the wiki names this patt
 - **What executives actually need.** *"'Please just back off and give the product teams space to do their work'… ignores the reality that executives have very real needs when it comes to running the company responsibly and effectively."*
 - **Frequent, high-quality engagement.** In the product model, teams *need* frequent executive interaction — teams depend on strategic context, and executives depend on team information. It is the **nature**, not the frequency, of the interactions that changes.
 
-Full framework page: [[partnering-with-executives]].
+⚠️ **Six in the book, seven in the article — flagging the discrepancy.** Ch 26's six named elements (Decisions · Outcomes · Disagreements · Promises · Surprises · Trust) are a close restatement of [[2023-06-28-cagan-pledge-to-executives|Pledge To Executives]] (Jun 2023) — but the article names **seven**, adding **Focus** between Promises and Surprises. The Focus section quotes Jobs ("Focus is saying no to the hundreds of other good ideas") and asks executives to hold focus "at least on a quarterly basis." Whether the book merged or dropped it is unverified here; treat the article as the fuller list and see [[focus]].
+
+The article also carries two details the chapter summary above doesn't: under **Promises**, that high-integrity commitments must be "the exception and not the rule" because making and delivering one is expensive (see [[high-integrity-commitments]]); and under **Surprises**, that the waste is symmetric — an executive who raised nothing at the prototype review but declares a serious problem post-ship is as costly as a team that built the wrong thing, and **both** trigger a post-mortem.
+
+Full framework page: [[partnering-with-executives]]. Full trilogy: [[the-pledges]].
 
 ## Cross-cutting patterns across Part VI
 

@@ -4,7 +4,7 @@ type: concept
 aliases: [strategic-context, strategic-context-baseline, org-baseline, your-org-baseline, six-elements-of-strategic-context, command-intent]
 status: drafting
 tags: [strategic-context, leadership, empowerment, org-baseline, ai-agents, core-concept]
-sources: ["[[empowered]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]"]
+sources: ["[[empowered]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2026-02-04-cagan-product-coaching-and-ai]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]", "[[2020-06-30-idiodi-new-employee-bootcamp]]", "[[2020-12-22-cagan-lead-with-context-not-control]]", "[[2015-04-06-cagan-autonomy-vs-mission]]"]
 related: ["[[product-leadership]]", "[[product-vision]]", "[[product-strategy]]", "[[team-topology]]", "[[team-objectives]]", "[[product-principles]]", "[[model-as-product-coach]]", "[[empowered-product-teams]]", "[[coaching-vs-contracting]]"]
 created: 2026-07-05
 updated: 2026-09-18
@@ -28,6 +28,17 @@ From Cagan's *[[2020-01-09-cagan-coaching-strategic-context|Coaching — Strateg
 6. **[[product-principles|Product principles]]** — the org's *own* written beliefs that guide product trade-offs.
 
 The product organization directly authors the last three (plus [[team-topology|team topology]] and the resulting [[team-objectives|team objectives]] that cascade from strategy); the first three come from the senior leadership team. Cagan's military analogy: strategic context is **"command intent"** — give a team the mission *and* the big picture, then let them find the best way (see *[[the-art-of-action]]*). At a multi-business-unit company, **each unit has its own strategic context** (e.g., Amazon's AWS vs. retail).
+
+## Why withholding it looks like bad judgment downstream
+The clearest illustration in the corpus is Reed Hastings's, retold by Cagan in [[2020-12-22-cagan-lead-with-context-not-control|Lead with Context not Control]] (Dec 2020). A manager made what Hastings considered an awful decision. He sat down and asked why — and realised the manager "had made a very reasonable decision based on the information he had." The root cause was that Hastings and his leadership team "had not shared enough of the context."
+
+This is the practical case for treating strategic context as a **leadership deliverable rather than a document**: when teams decide badly, the first place to look is what they were and weren't told. The phrase *"lead with context, not control"* is **Netflix's mantra**, not Cagan's coinage — attribute accordingly; SVPG's contribution is the application to product organizations (see [[trust-over-control]]).
+
+The same mechanism appears five years earlier in [[2015-04-06-cagan-autonomy-vs-mission|Autonomy vs. Mission]] (2015), where Cagan names the two inputs leadership controls — the [[product-vision|product vision]] and each team's [[team-objectives|business objectives]] — and the consequence of leaving either vague:
+
+> Problems arise if the leadership does not provide clarity on these two critical pieces of context. If they don't, there's a vacuum and that leads to real ambiguity over what a team can decide and what they can't.
+
+That **context vacuum** is usually what people are describing when they say a team "isn't really empowered." See [[team-autonomy]].
 
 ## Where it lives — and why not here
 Strategic context is an **org-authored artifact** and an org's **living baseline**. It must be:

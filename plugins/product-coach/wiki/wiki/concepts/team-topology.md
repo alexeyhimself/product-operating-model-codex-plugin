@@ -4,10 +4,10 @@ type: concept
 aliases: [team-topology, topology, product-org-design]
 status: drafting
 tags: [team-topology, org-design, product-leadership, empowerment]
-sources: ["[[transformed]]", "[[empowered]]", "[[inspired]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2021-03-23-cagan-internal-data-products-designing-for-analytics]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-08-07-idiodi-cagan-coaching-team-topology]]", "[[2025-04-18-cagan-team-autonomy-and-ai]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]", "[[2023-11-28-cagan-transformed-faq]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]", "[[2016-12-06-jones-omni-channel-product]]"]
+sources: ["[[2017-09-05-jones-leveraging-data-science]]", "[[transformed]]", "[[empowered]]", "[[inspired]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2021-03-23-cagan-internal-data-products-designing-for-analytics]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-08-07-idiodi-cagan-coaching-team-topology]]", "[[2025-04-18-cagan-team-autonomy-and-ai]]", "[[2023-06-09-cagan-preparing-for-the-future]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2026-08-10-cagan-a-fresh-definition-of-the-product-role]]", "[[2023-11-28-cagan-transformed-faq]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]", "[[2016-12-06-jones-omni-channel-product]]", "[[2015-03-10-cagan-autonomy-vs-leverage]]", "[[2015-04-14-cagan-autonomy-vs-ownership]]", "[[2015-05-08-cagan-autonomy-vs-initiatives]]"]
 related: ["[[product-leadership]]", "[[empowered-product-teams]]", "[[product-strategy]]", "[[product-vision]]", "[[the-product-team-trio]]", "[[data-product-management]]", "[[google-product-model]]", "[[okrs]]", "[[team-objectives]]", "[[psychological-safety]]", "[[ai-and-product-teams]]", "[[team-collaboration-health]]"]
 created: 2026-06-20
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Team Topology
@@ -93,6 +93,14 @@ Ch 20's second half addresses the tension between team autonomy and shared-found
 **Ch 20's coaching payoff:** *"If you find that teams are consistently making poor decisions in this regard, you may need to consider the experience level of the people on the team, but most likely, the teams are missing the full business context."*
 
 The critical context = (1) the overall product vision + (2) the specific business objectives assigned to each team. Provide both, and the autonomy-vs-leverage discussions become more productive.
+
+**Provenance — and the three other trade-offs.** This Ch 20 addendum restates [[2015-03-10-cagan-autonomy-vs-leverage|Autonomy vs. Leverage]] (Mar 2015), the **first of a four-part series** and the article-form root of the two-complaint diagnosis and the eight factors above. The other three parts have no coverage on this page and are now collected on **[[team-autonomy]]**:
+
+- [[2015-04-06-cagan-autonomy-vs-mission|Autonomy vs. Mission]] — vision + objectives as the two leadership-controlled inputs; the **context vacuum**; the company roadmap as the real dividing line; the design-consistency and company-initiative special cases.
+- [[2015-04-14-cagan-autonomy-vs-ownership|Autonomy vs. Ownership]] — what happens when one team needs a change in code another team owns: the **dependency model** vs the **open-source (pull-request) model**, and where the latter stops working (specialised, money-sensitive, or security-restricted code).
+- [[2015-05-08-cagan-autonomy-vs-initiatives|Autonomy vs. Initiatives]] — running discovery on multi-team efforts: **lead team**, **transient team**, or **combo team**, and the durability and design-by-committee costs of the latter two.
+
+Note the book's list differs slightly from the article's: Ch 20 includes *Importance to business*, which the 2015 article does not name as a separate factor. Both are recorded above.
 
 ## The podcast-form deepening — Product Therapy Ep 25 (Cagan)
 [[2025-08-07-idiodi-cagan-coaching-team-topology|Ep 25 (Cagan)]] is the most complete podcast-form teaching on team topology to date. Key additions:

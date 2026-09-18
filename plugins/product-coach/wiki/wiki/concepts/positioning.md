@@ -4,7 +4,7 @@ type: concept
 aliases: [positioning, product-positioning, market-position, category-positioning]
 status: drafting
 tags: [product-marketing, positioning, storytelling, category, market-position]
-sources: ["[[loved]]", "[[martina-lauchengco]]", "[[2008-02-21-lauchengco-whats-in-a-name]]", "[[2011-02-28-lauchengco-why-traditional-messaging-fails]]"]
+sources: ["[[2018-12-27-jones-design-in-enterprise-software-companies]]", "[[loved]]", "[[martina-lauchengco]]", "[[2008-02-21-lauchengco-whats-in-a-name]]", "[[2011-02-28-lauchengco-why-traditional-messaging-fails]]"]
 related: ["[[product-marketing]]", "[[pmm-storyteller]]", "[[messaging]]", "[[one-sheet-messaging-canvas]]", "[[technology-adoption-life-cycle]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-09-05

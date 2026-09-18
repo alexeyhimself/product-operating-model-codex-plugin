@@ -42,6 +42,21 @@ Lauchengco appears on 5 episodes of the *Product Therapy* podcast (Batch 1 · Ep
 **Batch 3:**
 - [[2026-06-18-idiodi-lauchengco-product-marketing-in-the-ai-era]] — Ep 41; the wiki's canonical Lauchengco statement on **product marketing in the AI era**. The foundational definition unchanged, the velocity flipped: **go-to-market is the new bottleneck**, not product building. **Ephemeral assets on a stable spine**; PMM as **judge and jury** of what gets elevated into a launch; **AEO / GEO** (Answer/Generative Engine Optimization) as a new positioning surface — *"models don't get technology wrong, so you must give them the technical depth"*; **AI slop** as polished-but-generic output and the *tone swizzle* that makes messaging ownable; the Gong-vs-Outreach differentiation case; *"great product marketing is what you take away, not what you add"* (Michelangelo's David). Backs [[product-marketing-by-stage]], [[messaging]], [[positioning]].
 
+## Articles ingested (primary)
+
+Lauchengco's SVPG-bylined articles held by the wiki, oldest first — the written spine behind *[[loved|LOVED]]*, spanning 2007–2024. *(Added 2026-09-18; this page previously had no articles section at all despite holding nine of them. Verify against `ls wiki/sources/ | grep lauchengco` before trusting it.)*
+
+- [[2007-12-19-lauchengco-solutions-products-vs-solutions-marketing]] — the earliest, a rare Lauchengco/Cagan co-authored piece.
+- [[2008-02-21-lauchengco-whats-in-a-name]] — article-form root for [[brand-lever]]; *brand-as-promise*.
+- [[2009-08-15-lauchengco-watch-cable-tv-and-read-people-magazine]] — **relevance requires context**: the Palm Pre vs. iPhone ad case, create-a-hook, and the **article-form root for show-don't-tell**. Backs [[messaging]], [[pmm-storyteller]].
+- [[2011-01-12-lauchengco-great-products-not-just-the-product-guys-job]] — earliest article-form root for [[pmm-pm-partnership]].
+- [[2011-02-28-lauchengco-why-traditional-messaging-fails]] — earliest article-form root for [[messaging]].
+- [[2012-04-28-lauchengco-product-marketing-contribution]] — the Jane-and-John parable; defines the PMM contribution.
+- [[2018-09-14-lauchengco-a-better-way]] — her #WomenInProduct origin; Cagan's *"the brains behind SVPG"* framing.
+- [[2022-05-12-lauchengco-the-supermarket-of-software]] — GTM-as-you-build; the 9,932 martech-solutions statistic.
+- [[2022-08-17-lauchengco-market-fit]] — SVPG article-form root for [[market-fit]].
+- [[2024-09-03-lauchengco-coaching-feedback-article]] — the written companion to her feedback episode.
+
 ## Talks / sources referencing her
 - [[2022-03-07-cagan-product-ops-dan-olsen]] — Cagan on why a strong PM needs a product-marketing partner; the "product-marketing rebranding" ops model.
 - [[2023-05-17-cagan-10-misconceptions-startups-productx]] — *LOVED* named as the product-marketing book "already out" in the SVPG series.

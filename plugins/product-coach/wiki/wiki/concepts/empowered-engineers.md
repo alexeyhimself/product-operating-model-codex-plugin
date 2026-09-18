@@ -4,10 +4,10 @@ type: concept
 aliases: [empowered-engineers, empowered-engineer]
 status: drafting
 tags: [engineers, empowerment, innovation, the-most-important-thing]
-sources: ["[[transformed]]", "[[inspired]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2020-05-20-cagan-customer-inspired-technology-enabled]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]"]
+sources: ["[[2017-09-25-cagan-customer-inspired-technology-enabled]]", "[[transformed]]", "[[inspired]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2025-04-21-cagan-design-a-product-like-steve-jobs]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2020-05-20-cagan-customer-inspired-technology-enabled]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2023-10-19-cagan-sunden-product-model-at-spotify]]", "[[2025-12-19-cagan-lieberich-product-model-at-google]]", "[[2018-09-28-cagan-product-discovery-at-apple]]", "[[2021-08-25-cagan-discovery-vs-documentation]]"]
 related: ["[[engineers]]", "[[empowered-product-teams]]", "[[missionaries-vs-mercenaries]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[bill-campbell]]", "[[amazon-prime]]", "[[spotify-discover-weekly]]", "[[google-product-model]]"]
 created: 2026-06-20
-updated: 2026-07-04
+updated: 2026-09-18
 ---
 
 # Empowered Engineers
@@ -47,7 +47,32 @@ This is the cleanest single diagnostic for engineer-empowerment status.
 - **One team** doing both discovery and delivery — no hand-offs from a "discovery team" ([[2020-10-30-cagan-discovery-delivery]]).
 - A **dual-track career ladder** so the best engineers stay engineers.
 
+## The six keys to leveraging strong engineers (Cagan, 2017)
+
+The most operational version of this page's argument, from [[2017-09-25-cagan-customer-inspired-technology-enabled|*Customer Inspired; Technology Enabled*]] (SVPG, Sep 2017) — the **article-form root** of the SVPG tagline and the original home of the line this wiki quotes constantly: *"If you're just using your engineers to code, you're only getting about half their value."*
+
+Use it as a **diagnostic checklist**, in order. The failing key is usually #1 or #4, with #5 the structural cause hiding behind both:
+
+1. **Provide engineers business context** — vision, strategy, analytics, business goals, contractual requirements, legal issues. Against the instinct to shelter them: *"These are the people that will save you. But they need the context. They can handle it, and they will appreciate it."*
+2. **Connect engineers with customer pain** — first-hand exposure to customers using (or failing to use) the product. *"Very little is actually more motivating to an engineer."* Not asking customers what to build — watching them struggle.
+3. **Understand constraints vs. requirements** — the PM's job is to identify the *underlying constraints* (legal, financial, sales, marketing, manufacturing) and hand those over instead of "requirements," which are [rarely truly required](https://www.svpg.com/requirements-are-not/). The payoff: *"significantly more degrees of freedom for the engineering team."*
+4. **Give engineers time in discovery** — *"easily one of the best ROI things you can do… a few hours including them up front can save weeks and months of waste later."*
+5. **Measure the product team as a whole** — splitting OKRs so engineers carry one set of quarterly objectives and PMs another is named here, in 2017, as *"exactly the wrong approach for product teams."* See [[okrs]].
+6. **Competent and confident product managers** — confident enough to be *collaborative*, actively seeking engineers' opinions rather than needing to know everything. Cagan's tell for the failure mode: if you think the PM is "someone with a product owner certification, you almost certainly have this problem."
+
+**Table stakes, and the realistic floor.** The keys presuppose strong engineers who are passionate about the vision — *"absolutely not something you want to outsource. You need [[missionaries-vs-mercenaries|missionaries]] not mercenaries."* But Cagan is explicit that not every engineer wants this: *"you do need **at least one engineer on every product team** that is willing and able to engage at this level."* His preferred teams are those where every engineer does, but that requires a culture that recruits for it.
+
+### Where the innovation actually came from — five worked examples
+The same article carries the corpus's densest set of engineer-as-innovator stories, opening on Bezos: *"No customer ever asked Amazon to create the Prime membership program."*
+
+- **[[amazon|Amazon]] Alexa** — began as the Echo, a voice-controlled music speaker. *An engineer* prototyped it as the voice controller for a streaming TV device; that prototype was the moment the team saw the smart-home hub.
+- **Disney MagicBand** — by 2011 long lines were making DisneyWorld less fun and hurting return rates. Disney chartered "Next-Generation Experience," built a discovery lab behind Epcot, prototyped an RFID wearable, and committed **~$1B** to new park infrastructure. Cagan's gloss: big companies also need *"the leadership and courage to make some big bets."*
+- **[[google|Google]] Translate** — a decade of marginal quality gains, then more progress in one year than in the prior ten, once engineers recognised an enabling technology (early applied ML). They shipped it **unannounced** to see if users noticed unaided. They did.
+- **[[apple|Apple]] iPhone** — while Blackberry, Palm, Nokia and Motorola ran *focus groups* — which, given the Palm Treo's poor touch screen, told them to drop touch screens — Apple read the technology's potential instead.
+- **[[workiva|Workiva]] WDesk** — the answer to "you'd have to be Google or Apple." Competitors *"were literally building what their customers were asking for"*; Workiva bet early on cloud plus a rich modular web front-end, partly because leading-edge technology **attracts and retains the engineers** who then sustain the innovation. Result: NPS above Apple's, in enterprise software.
+
 ## Anti-patterns
+- **Split OKRs across the team** — separate quarterly objectives for engineers and PMs; named by Cagan in 2017 as *"exactly the wrong approach."* See key #5 above.
 - **Outsourced engineering** — literal mercenaries; Cagan: outsourcing your engineering signals "you're not serious about this — come back when you decide to get serious" ([[2022-12-07-cagan-product-lessons-jobs-musk-20vc|20VC]]).
 - **Sprint-planning-first** — engineers see ideas only as Jira tickets.
 - **Excluded from customer contact** — kills innovation.
@@ -69,7 +94,8 @@ _Field note placeholder — when did your engineers last propose a solution that
 - [[2020-10-30-cagan-discovery-delivery]] — engineers stay engaged with discovery; the same team does both.
 - [[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]] · [[2025-04-21-cagan-design-a-product-like-steve-jobs]] — Bill Campbell's "most important thing"; the Steve Jobs myth (engineers show what's possible).
 - [[2022-12-07-cagan-product-lessons-jobs-musk-20vc]] — "using engineers only to code = half their value"; outsourcing = not serious; Bill Campbell.
-- [[2020-05-20-cagan-customer-inspired-technology-enabled]] — customer-inspired, technology-enabled: the enabling tech that makes solutions *just now possible*.
+- [[2017-09-25-cagan-customer-inspired-technology-enabled]] — **primary root (earliest, article-form)**; Cagan, SVPG, Sep 2017. The six keys, the "half their value" line in its original home, and the Alexa / MagicBand / Translate / iPhone / Workiva exemplars. Supersedes the 2020 talk below as the root for this tagline.
+- [[2020-05-20-cagan-customer-inspired-technology-enabled]] — **reinforcement** (talk form, 2020) of the 2017 article above: the enabling tech that makes solutions *just now possible*.
 - [[2024-03-26-cagan-russell-product-model-at-amazon]] — Charlie Ward's subscription insight → Prime; backs [[amazon-prime]].
 - [[2023-10-19-cagan-sunden-product-model-at-spotify]] — ML engineers spotted Discover Weekly; backs [[spotify-discover-weekly]].
 - [[2025-12-19-cagan-lieberich-product-model-at-google]] — Tech Leads "first among equals"; own delivery; backs [[google-product-model]].

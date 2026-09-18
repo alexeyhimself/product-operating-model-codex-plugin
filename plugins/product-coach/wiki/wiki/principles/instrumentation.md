@@ -6,7 +6,7 @@ status: mature
 tags: [product-delivery, telemetry, analytics, metrics, first-principles]
 group: product-delivery
 order: 14
-sources: ["[[transformed]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]"]
+sources: ["[[2017-09-05-jones-leveraging-data-science]]", "[[transformed]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]"]
 related: ["[[outcomes-over-output]]", "[[empowered-with-problems-to-solve]]", "[[monitoring]]", "[[product-delivery]]", "[[principles-of-product-delivery]]"]
 created: 2026-06-14
 updated: 2026-06-14

@@ -4,10 +4,10 @@ type: framework
 aliases: [product-discovery-techniques, discovery-techniques, discovery-technique-catalog]
 status: drafting
 tags: [framework, discovery, techniques, prototypes, testing, risks]
-sources: ["[[transformed]]", "[[inspired]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[continuous-discovery-habits]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[continuous-discovery-habits]]", "[[2025-09-12-cagan-the-purpose-of-prototypes]]", "[[2016-03-01-cagan-discovery-sprints]]", "[[2009-11-12-cagan-product-discovery-diary]]"]
 related: ["[[product-discovery]]", "[[the-four-big-risks]]", "[[prototypes]]", "[[opportunity-assessment]]", "[[reference-customer-program]]", "[[pilot-teams]]", "[[build-to-learn-vs-build-to-earn]]", "[[the-product-team-trio]]", "[[empowered-engineers]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[assumption-testing]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-07-12
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Product Discovery Techniques
@@ -63,6 +63,19 @@ Ch 33 of [[inspired|INSPIRED]] enumerates the principles every technique rests o
 
 - **Story Map** ([[inspired|INSPIRED]] Ch 38) — [[jeff-patton|Jeff Patton]]'s two-dimensional map: major user activities across the top (loose time-ordering), progressive detail down each column (critical tasks higher; optional lower). Solves the *"flat backlog with no context"* problem. Useful *throughout* discovery *and* delivery: framing, planning, ideation, design, communication with stakeholders, and (finally) the actual product backlog. Technique attributed to INSPIRED and to Patton by name; his book itself, *User Story Mapping* (O'Reilly, 2014), is **not ingested** and `[[story-mapping]]` is a **deliberate non-target, closed 2026-09-05** (ingest-plan Batch 8, non-SVPG boundary decision, Option A — see `CLAUDE.md` §2): Cagan credits and borrows from Patton, but never explicitly endorsed the book itself.
 - **[[reference-customer-program|Customer Discovery Program]]** ([[inspired|INSPIRED]] Ch 15 + Ch 39 · [[transformed|TRANSFORMED]] Ch 23) — 6–8 target-market customers as development partners through the whole effort, ending in reference customers at launch. Cagan: *"if they could only pick a single technique, the one I'd recommend is the customer discovery program"* — his single favorite leading indicator of future success. Full mechanics + non-negotiables on **[[reference-customer-program]]**.
+
+### The discovery sprint — and why Cagan renames the "design sprint"
+[[2016-03-01-cagan-discovery-sprints|Discovery Sprints]] (2016) defines it: *"a one week **time-box** of product discovery work, designed to tackle at least one substantial problem or risk in your product's definition"* (see [[2012-08-21-cagan-time-boxing-product-discovery|time-boxing]]).
+
+**The naming.** *"Some people use the term design sprint for this, but as the purpose of the work, when done well, goes significantly beyond design, I prefer the more general term."* The objection is about **scope**, not about Google Ventures' method — worth saying when a team arrives calling it a design sprint.
+
+**The shape of the week.** Map the problem space → pick the problem and target customer → pursue several approaches → narrow and flesh out → build a high-fidelity prototype → put it in front of real target users and observe.
+
+**When to use one — three named situations:** the team is *"struggling to learn how to do product discovery"*; there is something *"big and critically important and/or difficult to tackle"*; or *"things are just moving too slow."* Cagan is explicit that it is **not a cadence**: *"we don't do discovery sprints that often as they're a special tool for an intense effort"* ([[2016-11-29-cagan-planning-product-discovery]]). For the ordinary rhythm see [[continuous-discovery]].
+
+**Origin and the "discovery coach" role.** The method comes from the Google Ventures team, whose model was to *"spend a week with the startup, rolling their sleeves up, and showing them how to do product discovery by doing it with them side-by-side."* Cagan notes others doing the same are *"known as discovery coaches"* — an early (2016) use of that role name; see [[product-coach]].
+
+> **⚠ Open curator decision.** In this article Cagan explicitly endorses *Sprint* (Knapp, Zeratsky & Kowitz) — *"one of the best new books on product I've seen in a long time."* Under CLAUDE.md §2 that is an explicit, checkable endorsement of a specific work, but *Sprint* is **not** on the current [SVPG recommended-reading list](https://www.svpg.com/recommended-reading/). `sprint-knapp` is therefore held as an **unbuilt deliberate non-target pending a ruling** — do not create an entity page for it without one.
 
 ## 3. Ideation techniques
 > **Purpose:** generate a wealth of promising solutions aimed at the problem.

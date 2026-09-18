@@ -4,7 +4,7 @@ type: concept
 aliases: [messaging, product-messaging, cast-messaging, expensify-messaging]
 status: drafting
 tags: [product-marketing, messaging, storytelling, cast, positioning]
-sources: ["[[loved]]", "[[martina-lauchengco]]", "[[2011-02-28-lauchengco-why-traditional-messaging-fails]]", "[[2008-02-21-lauchengco-whats-in-a-name]]", "[[2012-04-28-lauchengco-product-marketing-contribution]]", "[[2022-05-12-lauchengco-the-supermarket-of-software]]"]
+sources: ["[[loved]]", "[[martina-lauchengco]]", "[[2009-08-15-lauchengco-watch-cable-tv-and-read-people-magazine]]", "[[2011-02-28-lauchengco-why-traditional-messaging-fails]]", "[[2008-02-21-lauchengco-whats-in-a-name]]", "[[2012-04-28-lauchengco-product-marketing-contribution]]", "[[2022-05-12-lauchengco-the-supermarket-of-software]]"]
 related: ["[[product-marketing]]", "[[pmm-storyteller]]", "[[positioning]]", "[[one-sheet-messaging-canvas]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-09-05
@@ -154,6 +154,21 @@ Lauchengco's one-line test, stated in both 2022 talks, and the reason her Looker
 
 **Messaging is not written in a room.** *"Too often people in marketing go off in a room and say we're creating this magical wonderful messaging — that's not how great messaging happens."* It is collaborative and iterative across sales, customer success, product and engineering; don't try to get it perfect, get something and test the heck out of it. See [[pmm-pm-partnership]] and [[pmm-sales-partnership]].
 
+## Relevance requires context (Lauchengco, 2009)
+
+The precondition the rest of this page assumes. In [[2009-08-15-lauchengco-watch-cable-tv-and-read-people-magazine|*Watch Cable TV and Read People Magazine*]] — her earliest wiki-attested piece on the subject — Lauchengco states it plainly: **"Products need to be relevant for people to pay attention, and that requires setting the proper context. If you don't understand your customers' context — how messaging appears relative to everything else around them — your marketing won't work."**
+
+The framing case is two smartphone ads seen back to back. The Palm Pre spot gave her an ethereal spokesperson, a glimpse of the device, "three unintelligible screens," and a closing shot of the case shut, "hiding the whole interface." The iPhone spot that followed showed the phone and the apps working: "After 30 seconds, I was both more interested and educated." Her verdict is about the people, not the ad: "I felt sad… really sad for Palm and all the hard-working people whose interesting product remained utterly mysterious to me, a potential early adopter and evangelist."
+
+What makes it a working discipline rather than an observation: the ads were competing against movie trailers and lifestyle-car spots, not against each other. So "successful marketing requires knowing what's in the national conversation" — the cultural context and the visuals competing for the same attention. Her jab at her own profession: "Technology marketers tend to be intellectual snobs about mass media, but at the end of the day, everyone — even your most elite customers — downshift their brains."
+
+Two rules follow, both of which recur throughout *[[loved|LOVED]]*:
+
+- **Create a hook.** "Like good pop songs, good marketing needs a hook." In a crowded category, messaging must quickly communicate why anyone should pay attention — via story, a feature, or visuals.
+- **Show, don't tell.** "Watch this phone do this amazing thing" vs. "Look at our amazing phone!" — because "people believe what they see and can judge for themselves. This is why infomercials and direct marketing never die." See [[pmm-storyteller]].
+
+Beyond pop culture, she lists the other context-setters: critical reviews, category and attribute definition, analyst reports, third-party studies, blogs, commentary and stories.
+
 ## Anti-patterns & misunderstandings
 - **Feature-list messaging.** *"Improves the efficiency and effectiveness of…"* — hundreds of products could substitute in.
 - **Formulaic messaging** (see [[positioning]] and [[pmm-storyteller]] for the positioning-statement-generator trap).
@@ -166,6 +181,9 @@ Lauchengco's one-line test, stated in both 2022 talks, and the reason her Looker
 
 ## In your context
 _Agent prompt: does your current homepage messaging pass CAST for its intended audience? Would it survive Lauchengco's substitution test — can hundreds of products fit into the same statement? What's the "Cancel Anytime" equivalent for your product — the small trust-building phrase you'd never remove?_
+
+## Sources (addition)
+- [[2009-08-15-lauchengco-watch-cable-tv-and-read-people-magazine]] — Lauchengco (Aug 2009); **relevance-requires-context** as the precondition for messaging; the Palm Pre vs. iPhone case; create-a-hook; show-don't-tell.
 
 ## Related
 - [[product-marketing]] · [[pmm-storyteller]] — where messaging + positioning work lives.

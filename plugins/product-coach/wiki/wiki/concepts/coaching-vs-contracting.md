@@ -4,7 +4,7 @@ type: concept
 aliases: [coaching-vs-contracting, coaching-not-contracting, coaching-vs-doing]
 status: drafting
 tags: [coaching, scalability, core-concept]
-sources: ["[[2023-01-11-cagan-becoming-a-product-coach]]"]
+sources: ["[[2017-01-03-jones-from-managing-products-to-managing-product-managers]]", "[[2023-01-11-cagan-becoming-a-product-coach]]"]
 related: ["[[product-coaching]]", "[[product-coach]]", "[[model-as-product-coach]]", "[[types-of-product-coaching]]", "[[marty-cagan]]"]
 created: 2026-06-20
 updated: 2026-06-20

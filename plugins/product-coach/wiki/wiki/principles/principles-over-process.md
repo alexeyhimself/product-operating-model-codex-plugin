@@ -6,10 +6,10 @@ status: mature
 tags: [product-culture, scaling, process, leadership, first-principles]
 group: product-culture
 order: 17
-sources: ["[[transformed]]", "[[2021-10-28-cagan-process-people]]", "[[2018-07-26-cagan-tools-and-processes]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]"]
+sources: ["[[2023-01-16-cagan-principles-over-process]]", "[[transformed]]", "[[2021-10-28-cagan-process-people]]", "[[2018-07-26-cagan-tools-and-processes]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]"]
 related: ["[[trust-over-control]]", "[[product-culture]]", "[[product-leadership]]", "[[principles-of-product-culture]]", "[[process-people]]", "[[product-ops]]"]
 created: 2026-06-14
-updated: 2026-07-04
+updated: 2026-09-18
 ---
 
 # Principles over Process
@@ -36,7 +36,22 @@ Heavy stage-gates, approval chains, and mandatory templates that substitute for 
 - competencies: [[product-leadership]], [[product-ops]]
 - diagnostics: [[model-maturity]]
 
+## The eponymous article — and where the 20 first principles began (2023)
+
+[[2023-01-16-cagan-principles-over-process|*Principles over Process*]] (SVPG, Jan 2023) is short and framing rather than expository, but it is this principle's **eponymous root** and it carries two things nothing else does.
+
+**The thesis, in one sentence:**
+
+> *"There are the Agile principles, as captured in the manifesto, and there are the many Agile processes created ostensibly around those principles… process people essentially took over Agile, and today most companies follow the processes, but aren't even close to living the principles."*
+
+Note what the argument does **not** say. It is not anti-Agile — it is explicitly respectful of the *manifesto* and scathing about the *processes* built on top of it. That distinction is the entire principle and is the first thing lost when it gets quoted as a slogan. Cagan also generalizes it beyond Agile: *"there is a long history in our industry of process people taking over otherwise good principles, and either applying them where they don't make any sense, or being so dogmatic that the teams lose sight of what matters."*
+
+**The occasion matters too.** [Crisp](http://www.crisp.se/) invited him to a conference of deliberately clashing viewpoints in front of an audience of *mainly Agile coaches*, and he took it, with a warning attached: *"if you're an Agile coach, especially if you make your living trying to implement SAFe, large sections of this talk will be more than a little uncomfortable."* Useful when coaching someone who works with or as an Agile coach — Cagan sought that room out rather than talking past it. The hour-long recording is public: [youtube.com/watch?v=mcnxxdzC2fY](https://www.youtube.com/watch?v=mcnxxdzC2fY).
+
+**Provenance — this is the public origin point of the first-principles project.** *"I intend to write a series of articles diving into the **product first principles** that I briefly describe in the video."* Written January 2023, a year before *[[transformed|TRANSFORMED]]* (2024) formalized them. When asked where the [[overview|20 first principles]] came from, this is the earliest public statement of intent.
+
 ## Sources
+- [[2023-01-16-cagan-principles-over-process]] — **primary root (eponymous)**; Cagan, SVPG, Jan 2023. The Crisp talk framing, and the announcement of the first-principles series.
 - [[2021-10-28-cagan-process-people]] — **the primary written source** for "scale with leaders vs scale with process"; names the third contributor type. Previously reached only via Huryn's explainer (below).
 - [[2018-07-26-cagan-tools-and-processes]] — the mechanism: tools and processes embed beliefs about teams and leadership; no *one right way* → standardizing = poor fit.
 - [[2024-03-21-huryn-product-model-first-principles-part-2]] — Principle 17; Hastings, *No Rules Rules*; Cagan, *Process People* (SVPG) — supporting explainer of the same idea now grounded directly above.

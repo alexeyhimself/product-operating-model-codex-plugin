@@ -6,7 +6,7 @@ status: drafting
 tags: [person, svpg, partner, primary-source]
 role: Partner, Silicon Valley Product Group; co-author of EMPOWERED & TRANSFORMED
 org: "[[svpg]]"
-related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[empowered]]", "[[transformed]]", "[[2016-08-30-jones-the-product-designer-role]]", "[[2016-12-06-jones-omni-channel-product]]", "[[2017-04-04-jones-product-discovery-pitfalls-and-anti-patterns]]", "[[2018-01-29-jones-product-discovery-in-regulated-environments]]", "[[2019-11-13-jones-the-coaching-mindset]]", "[[2023-04-21-jones-key-principles-mastering-pm-product-unfiltered]]", "[[2024-07-29-jones-transformed-organization-tech-lead-journal]]", "[[product-designer]]", "[[coaching-mindset]]", "[[imposter-syndrome]]", "[[time-management]]", "[[hiring-and-onboarding]]"]
+related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[empowered]]", "[[transformed]]", "[[2016-08-30-jones-the-product-designer-role]]", "[[2016-12-06-jones-omni-channel-product]]", "[[2017-04-04-jones-product-discovery-pitfalls-and-anti-patterns]]", "[[2018-01-29-jones-product-discovery-in-regulated-environments]]", "[[2017-01-03-jones-from-managing-products-to-managing-product-managers]]", "[[2017-09-05-jones-leveraging-data-science]]", "[[2017-12-13-jones-learning-fast-vs-failing-fast]]", "[[2018-08-28-jones-favorite-interview-question]]", "[[2018-12-27-jones-design-in-enterprise-software-companies]]", "[[2019-11-13-jones-the-coaching-mindset]]", "[[2023-04-21-jones-key-principles-mastering-pm-product-unfiltered]]", "[[2024-07-29-jones-transformed-organization-tech-lead-journal]]", "[[product-designer]]", "[[coaching-mindset]]", "[[imposter-syndrome]]", "[[time-management]]", "[[hiring-and-onboarding]]"]
 created: 2026-06-20
 updated: 2026-09-18
 ---
@@ -19,7 +19,19 @@ updated: 2026-09-18
 Primary source for the modern product designer role. Cagan-quoted observation that motivated [[2021-04-27-cagan-product-vs-project-teams|Cagan's "Product vs. Project Teams"]] update: Jones "shared with me recently that he continues to encounter project teams, but I didn't want to believe it was still that prevalent."
 
 ## Articles ingested (primary)
-- [[2016-08-30-jones-the-product-designer-role]] — the modern product designer ([link](https://www.svpg.com/the-product-designer-role/)).
+
+All ten of Jones's SVPG-bylined articles held by the wiki, oldest first. *(This list was stale at one entry until the 2026-09-18 Jones pass — the entity-page drift the `CLAUDE.md` §3 lint note warns about. Verify against `ls wiki/sources/ | grep jones` before trusting it.)*
+
+- [[2016-08-30-jones-the-product-designer-role]] — the modern product designer; the canonical role definition and the five attributes ([link](https://www.svpg.com/the-product-designer-role/)). Root for [[product-designer]].
+- [[2016-12-06-jones-omni-channel-product]] — Legacy PM vs Digital PM.
+- [[2017-01-03-jones-from-managing-products-to-managing-product-managers]] — the IC-PM → manager-of-PMs transition; **article-form root for the 90-day public win** (the Steve Roop advice the wiki previously carried only second-hand via [[2025-01-23-idiodi-jones-coaching-employee-onboarding|Ep 13]]). Backs [[product-leadership]], [[hiring-and-onboarding]].
+- [[2017-04-04-jones-product-discovery-pitfalls-and-anti-patterns]] — the named catalog: Confirmation-Biased · Product-as-Prototype · Partial-Team Discovery.
+- [[2017-09-05-jones-leveraging-data-science]] — **internal-insights vs customer-value**, the earliest wiki-attested version of the split Cagan restates in 2021; the sequencing rule, the data-scientist/data-infrastructure-engineer distinction, and the "data IQ" anti-silo rule. Backs [[data-product-management]].
+- [[2017-12-13-jones-learning-fast-vs-failing-fast]] — the case against "fail fast" as a slogan; reclaiming "failure" for preventable mistakes. **Article-form root for [[learning-over-failure]]**, seven years before *TRANSFORMED*.
+- [[2018-01-29-jones-product-discovery-in-regulated-environments]] — the four-move regulated-industries playbook.
+- [[2018-08-28-jones-favorite-interview-question]] — the four-attribute stack-rank (**Execution · Creativity · Strategy · Growth**); hiring a PM team as a portfolio rather than a set of clones. Backs [[hiring-and-onboarding]], [[pm-competency]].
+- [[2018-12-27-jones-design-in-enterprise-software-companies]] — the enterprise/B2B case for early design investment, argued on the *buyer's* terms; the Vontu/DLP and Slack examples. Backs [[product-designer]], [[positioning]].
+- [[2019-11-13-jones-the-coaching-mindset]] — article-form root for [[coaching-mindset]]; predates *EMPOWERED* Ch 7.
 
 ## *Product Therapy* podcast — co-host with [[christian-idiodi|Idiodi]] (2024–)
 Chris Jones appears on 6 episodes of the *Product Therapy* podcast (Batch 1 · Eps 6, 11, 13; Batch 2 · Eps 17, 23; Batch 3 · Ep 36):

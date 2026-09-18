@@ -4,10 +4,10 @@ type: framework
 aliases: [opportunity-assessment, product-opportunity-assessment, 10-questions]
 status: drafting
 tags: [framework, opportunity, discovery, prioritization]
-sources: ["[[transformed]]", "[[inspired]]", "[[2006-12-13-cagan-assessing-product-opportunities]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[continuous-discovery-habits]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2006-12-13-cagan-assessing-product-opportunities]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[continuous-discovery-habits]]", "[[2017-06-24-cagan-the-customer-letter]]"]
 related: ["[[product-discovery]]", "[[team-objectives]]", "[[product-strategy]]", "[[the-four-big-risks]]", "[[product-manager]]", "[[reference-customer-program]]", "[[opportunity-solution-tree]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-06-21
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # Opportunity Assessment
@@ -50,6 +50,15 @@ Answer each in 1–3 sentences. The whole assessment should fit on a page. The w
 
 ## How it relates to the opportunity backlog
 The modern descendant ([[2012-07-24-cagan-the-opportunity-backlog|canon]]) condenses the 10 to a **three-question entry**: what problem / for whom / how will we know we succeed. The full 10 still live behind the scenes when a problem rises to active consideration.
+
+## When the effort is too big for an opportunity assessment — the customer letter
+[[2017-06-24-cagan-the-customer-letter|The Customer Letter]] (Jun 2017) names the scale-up. Cagan: "For smaller and more typical size product discovery efforts, the opportunity assessment is usually sufficient" — but a larger effort may have several objectives or customer problems at once, and "in order to effectively communicate the value it may take more than the few questions of an opportunity assessment." His example is a redesign meant to serve both existing and new customers.
+
+**The Amazon original.** The working-backwards process starts an effort with an imagined **press release** describing the future state — what changes for the customer, what the real benefits are. Its purpose is to counter the pull toward "an enumeration of all the features they plan to build, with little real thought into the actual benefits," i.e. it is an [[outcomes-over-output|outcome-not-output]] device. The real readers are the product team, impacted teams, and leadership; Cagan's test — "if people don't see the value after reading then the product manager has more work to do, or perhaps should reconsider the effort." See [[amazon]], [[working-backwards]].
+
+**The Nordstrom variation**, credited to **Walker Lockhart**, a long-time Amazonian: instead of a press release, write an imagined **letter from a well-defined persona** to the CEO explaining why they're grateful and how the product changed their life — *plus* an imagined congratulatory CEO reply to the team explaining how it helped the business. The CEO-reply half is what carries the viability story, which the press-release form tends to drop. Cagan prefers this version: the press release "is a bit dated," and the letter "does an even better job of creating the empathy for the customer's current pain."
+
+⚠️ **It is a framing technique, not a validation one.** Cagan is explicit: some treat it as qualitative demand validation, but "it's only validating demand or value with your colleagues rather than real customers." A compelling letter is not evidence against value risk — see [[the-four-big-risks]], [[assumption-testing]]. It is, however, "a terrific evangelism technique" ([[product-evangelism]]).
 
 ## Compared to Torres's [[opportunity-solution-tree]]
 Both address the "which opportunities?" moment; they solve different problems and complement each other.

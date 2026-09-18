@@ -4,10 +4,10 @@ type: synthesis
 aliases: [pom-vs-lean-and-design-thinking, product-model-vs-lean-startup, product-model-vs-design-thinking, double-diamond-critique]
 status: drafting
 tags: [synthesis, lean-startup, design-thinking, double-diamond, mvp, comparison]
-sources: ["[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[inspired]]", "[[2020-08-05-cagan-minimum-viable-product-for-platforms]]", "[[continuous-discovery-habits]]"]
+sources: ["[[2024-06-24-cagan-pm-and-experimentation-testing-insights]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[inspired]]", "[[2020-08-05-cagan-minimum-viable-product-for-platforms]]", "[[continuous-discovery-habits]]", "[[2023-07-10-cagan-product-risk-taxonomy]]"]
 related: ["[[product-operating-model]]", "[[product-discovery]]", "[[continuous-discovery]]", "[[prototypes]]", "[[build-to-learn-vs-build-to-earn]]", "[[opportunity-solution-tree]]", "[[team-topology]]", "[[pom-vs-agile-and-safe]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # The Product Operating Model vs. Lean Startup and Design Thinking

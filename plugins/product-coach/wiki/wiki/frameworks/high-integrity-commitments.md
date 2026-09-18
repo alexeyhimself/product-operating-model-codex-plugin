@@ -4,10 +4,10 @@ type: framework
 aliases: [high-integrity-commitments, hi-commitments, managing-commitments-in-agile]
 status: drafting
 tags: [framework, commitments, dates, agile, discovery]
-sources: ["[[transformed]]", "[[2012-12-15-cagan-high-integrity-commitments]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]"]
-related: ["[[time-to-money]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[delivery-manager]]", "[[product-manager]]", "[[okrs]]", "[[team-objectives]]"]
+sources: ["[[transformed]]", "[[2012-12-15-cagan-high-integrity-commitments]]", "[[2019-12-27-cagan-coaching-integrity]]", "[[2015-09-07-cagan-the-alternative-to-roadmaps]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2025-12-01-jones-cagan-stakeholders-and-the-product-model]]", "[[2022-09-12-cagan-pledge-to-customers]]", "[[2023-06-28-cagan-pledge-to-executives]]"]
+related: ["[[time-to-money]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[delivery-manager]]", "[[product-manager]]", "[[okrs]]", "[[team-objectives]]", "[[decision-making]]", "[[trust-over-control]]"]
 created: 2026-06-21
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # High-Integrity Commitments
@@ -67,3 +67,17 @@ Two things make it instructive. The commitment was to a **date and a submission*
 
 ## Sources (addition)
 - [[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]] — Cagan, ProductTank Oslo (Apr 2022); see [[guardian-eyewitness]] for the full story.
+
+## The commitment as *character*, not just technique ([[2019-12-27-cagan-coaching-integrity|Cagan, 2019]])
+
+The framework above is a mechanism. Cagan's coaching-series article *Coaching – Integrity* supplies the reason it is worth the friction: [[empowered-product-teams|empowered teams]] are predicated on **trust**, trust is built on *competence + character*, and **integrity is the heart of the character half**. The high-integrity commitment is where that character becomes observable.
+
+Three coachable behaviors, of which the first is this framework:
+
+1. **Dependability.** Never give your word until the team has had the opportunity to do enough discovery to reasonably consider value, usability, feasibility and viability — which explicitly means leaning on the designer's and engineers' expertise. Then do everything possible to deliver. Cagan adds the requirement the mechanism alone misses: **shipping on time is not sufficient — what ships must actually work**, i.e. solve the problem for the customer or the business. That is the harder bar.
+2. **Company's best interests.** Be perceived as acting for the company, not the team and not yourself. For a PM running a single team, the concrete moves are: help another team hit an objective, go above and beyond for a customer or stakeholder, publicly credit others, and — most commonly — make or support a call that is *worse for your team but better for the business*.
+3. **Accountability.** Take responsibility for mistakes even where fault lies elsewhere, always asking what *you* could have done to manage the risk better. Cagan defends the old saying — "if a product team succeeds everyone did their job; if it fails, it's the product manager" — as not facetious: engineering overran because the PM under-read feasibility risk (a quick feasibility prototype would have surfaced the true cost); legal blocked it because the PM never explored viability during discovery.
+
+**Integrity is not perfection.** Mistakes happen and careers survive them, provided you are on the whole dependable, company-first, and accountable. The failure mode is not error — it is the *pattern* of misleading commitments, which permanently damages the trust empowerment depends on.
+
+Cagan's four pressure scenarios are worth reusing verbatim as coaching prompts: the CEO who has impressed on you how urgent a date is while the team says it needs more time; the customer angry that what shipped is not what they were led to expect; the stakeholder confiding she may leave over lack of technology support; the BD partner investing heavily in a product unlikely to deliver the value they are counting on. See [[decision-making]], which this article was written to set up.

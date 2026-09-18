@@ -26,7 +26,7 @@ updated: 2026-06-20
 - concepts: [[the-four-big-risks]] (referenced as the PM's framing), [[empowered-product-teams]] (the prerequisite for the PM role to exist meaningfully)
 - frameworks/diagnostics: [[pm-competency]] (the recommended self-assessment), [[coaching-the-pm]] (the recommended plan)
 - entities: [[marty-cagan]]
-- related linked references (not yet pages): `[[behind-every-great-product]]`, `[[the-foundation-of-product]]`, `[[customer-inspired-technology-enabled]]`, `[[what-is-a-product]]`, `[[the-product-manager-contribution]]`, `[[product-manager-vs-product-owner-revisited]]`
+- related linked references — **all six resolved as of 2026-09-18** (this line previously flagged them as "not yet pages"): [[2016-10-01-cagan-behind-every-great-product]] · [[2022-11-07-cagan-the-foundation-of-product]] · [[2017-09-25-cagan-customer-inspired-technology-enabled]] · [[2019-09-03-cagan-what-is-a-product]] · [[2012-03-18-cagan-the-product-manager-contribution]] · [[2016-12-13-cagan-product-manager-vs-product-owner-revisited]]
 
 ## Notes for the coach
 - **CSPO vs. PM (canon):** "the product owner responsibilities are just a very small subset of the product manager responsibilities." Use when a user has only CSPO training and is confused about why their work isn't producing outcomes.

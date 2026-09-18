@@ -5,7 +5,7 @@ aliases: [pm-competency, pm-skills-assessment, pm-gap-analysis, product-manager-
 status: drafting
 tags: [diagnostic, pm-competency, assessment, gap-analysis]
 assesses: A product manager's competence across the people / process / product skill pillars, relative to what this team and company require.
-sources: ["[[empowered]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2021-06-10-cagan-the-cspo-pathology]]"]
+sources: ["[[2018-08-28-jones-favorite-interview-question]]", "[[empowered]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2021-06-10-cagan-the-cspo-pathology]]"]
 related: ["[[product-manager]]", "[[coaching-the-pm]]", "[[coaching-mindset]]", "[[product-coaching]]", "[[product-coach]]", "[[the-four-big-risks]]", "[[marty-cagan]]"]
 created: 2026-06-20
 updated: 2026-07-12

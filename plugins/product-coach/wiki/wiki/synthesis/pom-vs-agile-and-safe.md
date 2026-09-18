@@ -4,10 +4,10 @@ type: synthesis
 aliases: [pom-vs-agile-and-safe, product-model-vs-agile, product-model-vs-safe, safe-critique]
 status: drafting
 tags: [synthesis, agile, safe, scaled-agile, process, comparison]
-sources: ["[[2018-06-30-cagan-revenge-of-the-pmo]]", "[[2025-01-28-cagan-the-product-model-and-agile]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2021-06-10-cagan-the-cspo-pathology]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[empowered]]", "[[2021-10-28-cagan-process-people]]", "[[2018-07-26-cagan-tools-and-processes]]", "[[2024-02-27-hickman-transformation-theater]]"]
+sources: ["[[2018-06-30-cagan-revenge-of-the-pmo]]", "[[2025-01-28-cagan-the-product-model-and-agile]]", "[[2024-04-14-cagan-escape-the-project-trap-agile-theatre]]", "[[2021-06-10-cagan-the-cspo-pathology]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[empowered]]", "[[2021-10-28-cagan-process-people]]", "[[2018-07-26-cagan-tools-and-processes]]", "[[2024-02-27-hickman-transformation-theater]]", "[[2021-06-15-cagan-the-mba-pathology]]"]
 related: ["[[product-operating-model]]", "[[feature-teams-vs-product-teams]]", "[[product-management-theater]]", "[[transformation-as-a-project]]", "[[product-ops]]", "[[principles-over-process]]", "[[continuous-discovery]]"]
 created: 2026-07-12
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # The Product Operating Model vs. Agile and SAFe

@@ -5,10 +5,10 @@ aliases: [discovery-health, product-discovery-health, discovery-diagnostic]
 status: drafting
 tags: [diagnostic, discovery, four-risks, prototypes, validation]
 assesses: Whether a team's product discovery practice is actually addressing the four big risks fast and cheaply — or is theater dressed in agile vocabulary.
-sources: ["[[transformed]]", "[[2009-10-12-cagan-product-discovery-plan]]", "[[2012-10-24-cagan-continuous-discovery]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[2009-08-23-cagan-the-two-week-rule]]", "[[2012-08-21-cagan-time-boxing-product-discovery]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[2009-09-08-cagan-product-discovery-vs-product-optimization]]", "[[2013-11-23-cagan-product-discovery-in-established-companies]]", "[[2012-11-01-cagan-assessing-customer-impact]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2024-02-27-hickman-transformation-theater]]", "[[2017-04-04-jones-product-discovery-pitfalls-and-anti-patterns]]", "[[2018-01-29-jones-product-discovery-in-regulated-environments]]"]
+sources: ["[[transformed]]", "[[2009-10-12-cagan-product-discovery-plan]]", "[[2012-10-24-cagan-continuous-discovery]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[2009-08-23-cagan-the-two-week-rule]]", "[[2012-08-21-cagan-time-boxing-product-discovery]]", "[[2012-07-24-cagan-the-opportunity-backlog]]", "[[2009-09-08-cagan-product-discovery-vs-product-optimization]]", "[[2013-11-23-cagan-product-discovery-in-established-companies]]", "[[2012-11-01-cagan-assessing-customer-impact]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2024-02-27-hickman-transformation-theater]]", "[[2017-04-04-jones-product-discovery-pitfalls-and-anti-patterns]]", "[[2018-01-29-jones-product-discovery-in-regulated-environments]]", "[[2021-03-28-cagan-discovery-excuses]]", "[[2020-09-11-cagan-discovery-judgement]]"]
 related: ["[[product-discovery]]", "[[the-four-big-risks]]", "[[minimize-waste]]", "[[assess-product-risks]]", "[[embrace-rapid-experimentation]]", "[[test-ideas-responsibly]]", "[[empowered-engineers]]", "[[the-product-team-trio]]"]
 created: 2026-06-20
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Discovery Health — Diagnostic
@@ -40,6 +40,23 @@ Discovery is the principal mechanism by which the product operating model produc
 - Site/app uninstrumented; team is "flying blind" — no analytics, no ability to A/B test ([[2009-09-08-cagan-product-discovery-vs-product-optimization|canon]]: top priority to correct).
 - Production releases used as the validation vehicle (slowest, most expensive option).
 - For established products: testing/learning *without* protecting brand and revenue — no Gentle Deployment, no customer-impact assessment, no use of small-percentage rollouts ([[2013-11-23-cagan-product-discovery-in-established-companies|canon]]).
+
+## The seven excuses — listening probes
+From [[2021-03-28-cagan-discovery-excuses|Discovery – Excuses]] (2021). These are **team-side** objections, not leadership-side: *"in more than a few companies, the issue is not so much with the company's leaders, it's with the product teams themselves."* Because the phrasings are close to verbatim what teams actually say, use them as a **listening guide** — when you hear one, you have a diagnosis and a ready response.
+
+| If you hear… | What it usually means | Cagan's response |
+|---|---|---|
+| *"There's no demand"* | A weak solution misread as absent demand | *"It is easier on our ego to believe the demand isn't there, at least until a competitor comes along with a dramatically better solution."* |
+| *"Our customers hate change"* | Blaming customers for a product problem | *"Customers hate bad products… But customers happily change all the time – if you give them something that truly makes their lives better."* (Slack, Stripe, Shopify, Tesla, Zoom, Netflix, iPhone, [[workiva\|Workiva]]) |
+| *"We're in a regulated industry"* | Blaming the industry | Everyone is regulated to a degree — and *"those same constraints increase the barriers to entry for your would-be competitors."* See [[2018-01-29-jones-product-discovery-in-regulated-environments]]. |
+| *"We have a new type of product"* | Confusing "customers can't tell us what to build" with "customers can't be tested on" | *"We're testing to see if they will buy the product if we do build it."* |
+| *"We're not allowed to talk to customers"* | Direct-sales account control | *"That's non-negotiable. What **is** negotiable is how we do this."* Fix: a head-of-product ↔ head-of-sales conversation. |
+| *"It's not possible to test this idea"* | Lack of technique knowledge | *"I still have not run into that situation myself."* Probe: have you analyzed [[the-four-big-risks\|the four risks]]? do you know the [[prototypes\|four flavors of prototype]]? qualitative *and* quantitative? |
+| *"We don't have time"* | The most common and weakest | *"Do you have the time **not** to test it?"* |
+
+**The measurable standard behind all seven** — the order-of-magnitude rule: *"if we can't test out an idea in at least an order of magnitude less time and effort than actually building it, then you're doing something very wrong."* A team that cannot name a way to test an idea an order of magnitude cheaper than building it has a technique gap, not a time gap.
+
+**Proportionality is also a health signal — in both directions.** Per [[2020-09-11-cagan-discovery-judgement|Discovery – Judgement]], a team that runs the same discovery battery regardless of stakes is as unhealthy as one that skips discovery: treating every risk as major means *"you'll move way too slowly"* and *"won't have the time you need for the items that truly are major risks."* Ask which risk the team started with — the answer usually reveals which one they are avoiding.
 
 ## Rubric
 | Level | Name | What it looks like |

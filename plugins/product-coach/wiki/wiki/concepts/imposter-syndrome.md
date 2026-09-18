@@ -4,10 +4,10 @@ type: concept
 aliases: [imposter-syndrome, impostor-syndrome, coaching-imposter-syndrome, self-doubt]
 status: drafting
 tags: [coaching, mindset, imposter-syndrome, vulnerability, product-manager, product-leadership, chris-jones]
-sources: ["[[2024-07-25-idiodi-jones-coaching-imposter-syndrome]]", "[[empowered]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]"]
+sources: ["[[2019-10-15-cagan-coaching-imposter-syndrome]]", "[[2024-07-25-idiodi-jones-coaching-imposter-syndrome]]", "[[empowered]]", "[[2019-03-11-cagan-coaching-tools-the-narrative]]"]
 related: ["[[coaching-mindset]]", "[[coaching-agency]]", "[[coaching-the-pm]]", "[[trust-over-control]]", "[[product-sense]]", "[[product-strategy]]", "[[product-leadership]]", "[[christian-idiodi]]", "[[chris-jones]]"]
 created: 2026-08-29
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Imposter Syndrome
@@ -56,8 +56,23 @@ _Agent prompt: for the person you're coaching, is the fear signaling real prepar
 - [[product-sense]] — the competency the healthy dose pushes you to earn.
 - [[product-strategy]] — where Jones's story played out; the "write a definitive point of view" move is a strategy-specific instance.
 
+## Cagan's contrarian version — the signal, not the symptom (2019)
+
+The earliest SVPG treatment, and deliberately against the grain: [[2019-10-15-cagan-coaching-imposter-syndrome|*Coaching – Imposter Syndrome*]] (Oct 2019). Cagan grants the feeling is real, then adds the uncomfortable half — *"imposters are also a real thing"* — and refuses the usual remedy of pushing past the fear:
+
+> *"It is my mind warning me of the consequences if I don't do my homework and truly prepare. The fear of looking clueless is what keeps me up late preparing, studying, thinking, writing, rehearsing, and iterating."*
+
+On being praised for overcoming stage fright: *"To me that's like giving a child a trophy just for showing up to the game."*
+
+The remedy he does prescribe is two-part and concrete: **prepare**, then **test it on people you respect who will tell you the truth** — *"more than a few times, those people have indeed saved me from myself."*
+
+**Where he puts the blame is the coaching payload.** Watching an underwhelming executive presentation, *"my frustration is centered not on the product manager, but rather on that person's manager."* Did she review a draft or a rehearsal? Give honest, actionable feedback? Arrange progressively larger speaking opportunities? And the reason it matters is trust, not polish: *"Empowered product teams are predicated on trust… When a product manager appears unprepared, or naïve, in front of the executives, that trust is diminished, and it will take a long time to regain."* Hence his yardstick for leaders — *"they are only as strong as their weakest product manager."*
+
+**Reading it alongside the other two.** This is the harshest of the three voices on this page and should rarely be handed to a struggling coachee first. Jones (above) offers permission and company; Ep 6 offers vulnerability; Cagan offers a job to do. Sequence matters — the article lands as contempt if it arrives before someone believes the feeling is normal, and lands as relief once they do. See [[feedback]] and [[coaching-the-pm]] for the review mechanics it assumes.
+
 ## Sources
-- [[2024-07-25-idiodi-jones-coaching-imposter-syndrome]] — **primary root**; Jones's coaching stories + Idiodi's coaching moves.
+- [[2019-10-15-cagan-coaching-imposter-syndrome]] — **primary root (earliest, article-form)**; Cagan, SVPG, Oct 2019, part of the [Coaching Series](https://www.svpg.com/the-coaching-series/). The signal-not-symptom reframe, and the manager-owns-readiness argument.
+- [[2024-07-25-idiodi-jones-coaching-imposter-syndrome]] — **primary**; Jones's coaching stories + Idiodi's coaching moves.
 - [[empowered]] Ch 7 (The Coaching Mindset) — supporting; Principle 3 (*Beware Your Own Insecurities*) is the leader-facing companion.
 - [[2019-03-11-cagan-coaching-tools-the-narrative]] — supporting; the written-narrative is the specific coaching tool Jones was given.
 

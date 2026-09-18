@@ -4,10 +4,10 @@ type: concept
 aliases: [product-operating-model, the product operating model, POM, the model]
 status: mature
 tags: [core-concept, product-operating-model, definition]
-sources: ["[[transformed]]", "[[svpg-product-operating-model-introduction]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]"]
+sources: ["[[transformed]]", "[[svpg-product-operating-model-introduction]]", "[[2024-01-17-cagan-product-model-concepts]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2024-05-21-cagan-moving-to-the-product-operating-model-industry]]", "[[2023-03-03-cagan-the-product-operating-model]]"]
 related: ["[[overview]]", "[[empowered-product-teams]]", "[[the-four-big-risks]]", "[[product-strategy]]", "[[product-discovery]]", "[[product-delivery]]", "[[product-culture]]", "[[transformation]]", "[[svpg]]", "[[marty-cagan]]"]
 created: 2026-07-12
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Product Operating Model
@@ -34,6 +34,25 @@ Underneath all four cuts sits the same mechanism: teams given **problems**, addr
 - **Not synonymous with any single practice** — not Agile, not Lean, not Design Thinking, not OKRs, not any one discovery technique. Those are tools some teams inside the model use; none of them, alone or combined, constitutes the model. See [[pom-vs-agile-and-safe]] and [[pom-vs-lean-and-design-thinking]] for the detailed contrasts.
 - **Not a title-swap.** Renaming project managers "product managers" and calling it done is [[product-management-theater|product management theater]] — "many people have adopted the new titles of the product model, yet without learning the new competencies" ([[2023-03-15-cagan-product-model-competencies|Cagan]]).
 - **Not exclusive to "tech companies."** Applies to any organization whose engineers build the technology that powers the business — see [[2023-09-12-cagan-who-is-product-operating-model-for|Who Is the Product Operating Model For?]] and [[transformation]].
+
+## Where the name came from — and what you're transforming *from*
+[[2023-03-03-cagan-the-product-operating-model|The Product Operating Model]] (Mar 2023) is the article where Cagan settles on the term while drafting *[[transformed|TRANSFORMED]]*. It is a **nomenclature** piece, distinct from [[svpg-product-operating-model-introduction|*The Product Operating Model: An Introduction*]] — the article itself opens by redirecting readers wanting an overview there instead.
+
+Cagan is reluctant about it: "I am not anxious to introduce new nomenclature." What the term denotes is "simply how the best tech-powered companies work" — "a set of principles, practices and competencies." Inside strong companies it usually goes unnamed or is named after the company: "the Amazon way, the Apple Model, the Netflix way, the Stripe way, or the Spotify Model." SVPG's work "is all about teasing out the common principles and practices" — which is why the wiki treats exemplars as illustrations, not templates ([[where-the-model-applies]]).
+
+**Why not "product-led."** He rejects both "product-led company" and "product-driven company" because "too many people think that means 'product-management-led company' which of course it is not." Worth quoting whenever someone conflates the two.
+
+**The "prior model" taxonomy** — the genuinely new material, and useful for naming an org's starting point precisely:
+
+| Prior model | Tell |
+|---|---|
+| **IT model** | Constant references to "the business"; "IT is there to serve the business" |
+| **Project model** | Close cousin; "the CFO plays an outsized role because funding and staffing is typically project-based" |
+| **Feature-team model** | General stakeholders each drive their own roadmap of features |
+| **Sales-driven / marketing-driven** | One go-to-market function sets product direction |
+| **Engineering-driven / design-driven** | The exception — "much easier to transform … as they already have so many of the key ingredients in place" |
+
+For the book he settles on the umbrella term **"prior model."** Note the article was written as a trial balloon — "I'm tentatively hoping to go with that term, although this article is a way of testing if that's a good idea" — and note also that it makes no claim to have coined the phrase; see [[overview]] on its Atlassian origin.
 
 ## In your context
 _Field note placeholder — when someone in your org says "we're moving to the product operating model," which of the four cuts above are they actually changing? Principles stated but teams still handed features is theater; watch for the gap between the words and the [[feature-team-vs-empowered-team|team-level reality]]._

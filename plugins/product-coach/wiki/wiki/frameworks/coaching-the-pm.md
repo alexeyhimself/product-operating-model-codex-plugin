@@ -4,10 +4,10 @@ type: framework
 aliases: [coaching-the-pm, pm-coaching-plan, the-coaching-plan, coaching-tools-the-plan]
 status: drafting
 tags: [coaching, pm-development, curriculum, framework]
-sources: ["[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]"]
-related: ["[[pm-competency]]", "[[product-manager]]", "[[product-coaching]]", "[[product-coach]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[marty-cagan]]"]
+sources: ["[[2018-08-28-jones-favorite-interview-question]]", "[[2017-01-03-jones-from-managing-products-to-managing-product-managers]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-08-10-cagan-coaching-collaboration]]", "[[2019-10-24-cagan-coaching-customer-centricity]]", "[[2019-12-27-cagan-coaching-integrity]]", "[[2019-12-30-cagan-coaching-decisions]]", "[[2020-01-16-cagan-coaching-happiness]]"]
+related: ["[[pm-competency]]", "[[product-manager]]", "[[product-coaching]]", "[[product-coach]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[marty-cagan]]", "[[collaboration]]", "[[decision-making]]", "[[high-integrity-commitments]]", "[[product-career-development]]"]
 created: 2026-06-20
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Coaching the PM — The Plan
@@ -32,6 +32,8 @@ Coach **product knowledge first** — it's the foundation (~2–3 months to ramp
 - **Optimization techniques** — for live, high-traffic products: learn an optimization tool and run ongoing A/B tests (distinct from discovery; see product-discovery-vs-optimization).
 - **Delivery techniques** — understand what engineering's techniques (e.g. continuous delivery, parallel deployment) entail and cost, enough to make sound release decisions.
 - **Development process** — understand discovery + delivery end-to-end and the PM's product-owner responsibilities. A CSPO course covers the (small) product-owner subset — necessary, but Cagan warns it is *not* the PM job.
+
+> **Where the traits live.** This page is the *plan* — the competency curriculum. The character traits it assumes (ownership, collaboration, customer-centricity, integrity, decision-making, imposter syndrome, ethics, happiness) each have their own article in the [[product-coaching|Coaching Series]], which is where the coaching moves for them are set out. Trust = competence + character; this page builds the first half.
 
 ### People skills & responsibilities (coached by observation)
 - **Team collaboration** — the bulk of Cagan's ongoing coaching. He meets with the *trio* (PM + designer + engineer), not the PM alone, watches the interactions, then debriefs the PM privately: were design/eng bringing solutions or just objections? acting empowered or like order-takers? too much planning vs prototyping? "A one-hour meeting … will usually yield many good examples."

@@ -4,7 +4,7 @@ type: concept
 aliases: [product-judgment, doing-your-homework, product-intuition]
 status: drafting
 tags: [product-sense, judgment, onboarding, product-manager, coaching, discovery]
-sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2025-11-20-idiodi-the-real-risk-of-ai-in-product]]", "[[2026-04-23-cagan-golden-era-for-product-management-udacity]]"]
+sources: ["[[2025-03-03-cagan-why-your-product-operating-model-is-broken]]", "[[2026-04-14-cagan-ai-product-coaching-women-in-product]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2024-03-26-cagan-russell-product-model-at-amazon]]", "[[2024-05-02-idiodi-cagan-coaching-product-sense]]", "[[2024-09-26-cagan-is-product-art-or-science]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2025-11-20-idiodi-the-real-risk-of-ai-in-product]]", "[[2026-04-23-cagan-golden-era-for-product-management-udacity]]", "[[2020-09-11-cagan-discovery-judgement]]", "[[2022-10-04-cagan-product-sense-demystified]]"]
 related: ["[[founder-style-leadership]]", "[[product-manager]]", "[[product-coaching]]", "[[model-as-product-coach]]", "[[product-discovery]]", "[[powered-by-insights]]", "[[the-four-big-risks]]", "[[amazon-prime]]", "[[teresa-torres]]", "[[decision-making]]", "[[ai-and-product-teams]]"]
 created: 2026-07-03
 updated: 2026-09-18
@@ -13,6 +13,21 @@ updated: 2026-09-18
 # Product Sense
 
 > The judgment that lets a product person make good decisions about what's worth building and why — deep, working knowledge of your users, data, business, industry, and enabling technology. Cagan's core claim: **product sense is not innate; it is earned** by "doing your homework."
+
+## The term itself — and why Cagan avoided it
+[[2022-10-04-cagan-product-sense-demystified|Product Sense Demystified]] (Oct 2022) is the **eponymous root source** for this page, and it is mostly an argument against the phrase. Cagan wrote for over two decades, including several books, without using it: "That was not an accident. I have always disliked the term, and I especially dislike the implications."
+
+His objection is that "sense" implies something innate — "some people have a strong sense of smell, and others have strong product sense" — and he watched the term become an excuse in both directions:
+
+> Either, "Trust me because I have great product sense," or "I could never be a successful product person because my manager says I don't have good product sense."
+
+**His preferred name: *deep product knowledge*** — "the result of truly immersing yourself into a specific product space." The four inputs he names are serious time with customers, analysing the competitive landscape, immersing in the product data, and consuming everything available about the industry and the **enabling technologies**. His own worked example is the software-tools space: hundreds of product-team visits, testing every tool he could find, relationships with thought leaders and industry analysts, speaking at the industry conferences — and the resulting 5–10-year foresight came "not because of any innate sense, but because of all the time and effort I had put in."
+
+**Two guardrails he states explicitly**, both useful in coaching:
+- **It does not transfer between spaces.** Believing your success in one domain makes your instincts reliable in another "is just arrogance, not product sense."
+- **It is not a substitute for testing ideas.** "Product sense can definitely accelerate product discovery, but it's more like having a compass as you navigate the product risks." Use this when a senior leader invokes their judgment to skip [[product-discovery|discovery]].
+
+He concedes the term is here to stay — "I've been around long enough to know that's unlikely to happen" — but the reframe is the point: product sense is **something you can and should develop**, and for a product leader or founder, doing the homework is "simply non-negotiable." For a PM it is "one of the most meaningful differences between an entry level product manager, and the more senior levels."
 
 ## Why it matters
 Product sense is what powers [[founder-style-leadership|founder-style leadership]] and separates a real [[product-manager|product manager]] from a backlog administrator. Without it you cannot own value and viability, you can't have a useful conversation with a VP or a skeptical stakeholder, and — Cagan's blunt version — "you're useless, really, to everybody." Most heads of product who lack it "are scared to death to do anything" because they don't want to break things. The reassuring half of the claim: because it's *earned*, anyone willing to do the work can develop it. Cagan rejects the "some people just have it" story explicitly. In the exemplars, this is exactly what [[amazon-prime|Amazon's Single-Threaded Leaders]] bring — "strong product sense: deep knowledge of customers & data, their business, and the industry" — which Cagan calls, more than anything else, the key to Amazon's ongoing success.

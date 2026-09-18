@@ -21,8 +21,6 @@ updated: 2026-06-20
 ## Role
 **Primary (SVPG canon).** Cagan's foundational essay on what product strategy is and why so many companies don't have one. Defines product strategy as **how we make the [[product-vision|vision]] a reality, while meeting the needs of the business**. Names the four things product strategy requires: **focus** (tough choices), **insights** (study and thought), **action** (converting insights into team objectives), and **management** (servant-leadership without micromanagement). This four-part decomposition is what later becomes the [[principles-of-product-strategy|four product-strategy principles]]. Recommends Rumelt's *Good Strategy / Bad Strategy* and quotes him on "bad strategy is the active avoidance of the hard work of crafting a good strategy."
 
-> Note: a duplicate copy `Product Strategy – Overview 1.md` exists in `raw/` — same article, same URL, same date. This source card covers both.
-
 ## What it backs
 - concepts: [[product-strategy]] (the canonical definition + the four-pillar decomposition)
 - principles: [[focus]] (Jobs/Rumelt framing), [[powered-by-insights]] (study + thought), [[placing-bets]] (insights→action), [[transparency]] (implicit in the leadership reasoning)

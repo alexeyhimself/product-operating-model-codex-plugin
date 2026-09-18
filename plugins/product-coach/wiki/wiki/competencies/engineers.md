@@ -5,10 +5,10 @@ aliases: [engineers, tech-lead, engineering, empowered-engineer]
 status: drafting
 tags: [competency, engineers, tech-lead, trio, feasibility, delivery, innovation]
 role: The members of the product team accountable for feasibility risk and product delivery; the single most important source of innovation in a strong product company. The Tech Lead is the engineer in the trio.
-sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]", "[[2025-09-17-cagan-forward-deployed-engineers]]", "[[2024-05-21-cagan-good-product-people]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]", "[[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-04-20-cagan-the-most-important-thing]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2020-04-23-cagan-empowered-engineers-faq]]", "[[2025-09-17-cagan-forward-deployed-engineers]]", "[[2024-05-21-cagan-good-product-people]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]", "[[2020-08-19-idiodi-olsen-enhanced-product-discovery-fireside-lean-product-meetup]]", "[[2017-09-25-cagan-customer-inspired-technology-enabled]]"]
 related: ["[[empowered-product-teams]]", "[[the-product-team-trio]]", "[[empowered-engineers]]", "[[product-delivery]]", "[[the-four-big-risks]]", "[[missionaries-vs-mercenaries]]", "[[delivery-manager]]", "[[forward-deployed-engineers]]"]
 created: 2026-06-20
-updated: 2026-09-06
+updated: 2026-09-18
 ---
 
 # Engineers (and the Tech Lead)

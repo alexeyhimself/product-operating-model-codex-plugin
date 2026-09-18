@@ -4,10 +4,10 @@ type: framework
 aliases: [partnering-with-executives, executive-trust-model, six-element-trust-model, executive-partnership, decisions-outcomes-disagreements-promises-surprises-trust]
 status: drafting
 tags: [framework, executives, product-leadership, transformation, trust, promises, strategic-context, high-integrity-commitments, coaching]
-sources: ["[[transformed]]"]
+sources: ["[[transformed]]", "[[2023-06-28-cagan-pledge-to-executives]]"]
 related: ["[[product-leadership]]", "[[cross-functional-partnering]]", "[[strategic-context]]", "[[high-integrity-commitments]]", "[[transformation-politics]]", "[[overcoming-objections]]", "[[stakeholder-relationship-health]]", "[[transformation]]", "[[team-objectives]]", "[[product-strategy]]", "[[coaching-the-pm]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-18
 ---
 
 # Partnering with Executives — the Six-Element Trust Model

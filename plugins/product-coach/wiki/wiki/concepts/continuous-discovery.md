@@ -4,7 +4,7 @@ type: concept
 aliases: [continuous-discovery, dual-track, dual-track-agile, dual-track-scrum]
 status: drafting
 tags: [product-discovery, continuous-discovery, dual-track, cadence, core-concept]
-sources: ["[[2012-10-24-cagan-continuous-discovery]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[continuous-discovery-habits]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[transformed]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+sources: ["[[2012-10-24-cagan-continuous-discovery]]", "[[2012-09-18-cagan-dual-track-agile]]", "[[continuous-discovery-habits]]", "[[2017-02-10-cagan-beyond-lean-and-agile-dan-olsen]]", "[[transformed]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]", "[[2023-01-02-cagan-product-discovery-series]]", "[[2016-03-01-cagan-discovery-sprints]]"]
 related: ["[[product-discovery]]", "[[product-delivery]]", "[[opportunity-solution-tree]]", "[[continuous-interviewing]]", "[[the-two-week-rule|2009-08-23-cagan-the-two-week-rule]]", "[[teresa-torres]]", "[[ai-evals]]", "[[ai-and-product-teams]]"]
 created: 2026-07-12
 updated: 2026-09-18
@@ -43,6 +43,13 @@ Asked on [[2026-09-17-idiodi-torres-discovery-in-the-ai-era|*Product Therapy* Ep
 And the forecast: *"it'll be 10 years from now and I think we're still going to say there's still these core fundamentals to discovery — and our tactics will probably look completely different, but I don't think the fundamentals are going to change."*
 
 This is the load-bearing claim for how the wiki treats every AI-era discovery question: **the four-clause definition above is structure; transcription, synthesis, prototyping speed and interviewer tooling are tactics.** AI has already changed the tactics substantially (see [[continuous-interviewing]] for what moved and what didn't). It has not touched the structure — and a team that lets a tactic quietly void a clause (an AI interviewer replacing the trio's own exposure; synthesis replacing the team having heard the customer) has left continuous discovery, however fast it is now moving.
+
+## The Discovery Series — SVPG's own canon boundary
+SVPG curates its discovery writing at [[2023-01-02-cagan-product-discovery-series|svpg.com/product-discovery-series]], in four groups: **Understanding Discovery** (11) · **Techniques and Strategies** (6) · **Discovery in Challenging Situations** (4) · **Discovery in Action** (3, the Amazon/Spotify/Apple case studies). All 24 are carded in this wiki as of 2026-09-18.
+
+Two uses. First, it is the authority for treating "the Discovery Series" as a **named body of work** rather than a wiki-invented grouping — the boundary is Cagan's, not ours. Second, it works as a **reading order**: groups 1→4 form a genuine curriculum. It also defuses the "discovery is a recent fad" objection, since the series spans **2008 to 2024**.
+
+*Maintenance:* SVPG says the page *"will continue to update"* — re-fetch and diff it during lint passes.
 
 ## Anti-patterns & misunderstandings
 - **Discovery as a sprint-zero or research phase** — the opposite of continuous; the most common relapse pattern.

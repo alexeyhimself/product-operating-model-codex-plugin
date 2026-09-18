@@ -4,7 +4,7 @@ type: concept
 aliases: [feature-teams-vs-product-teams, feature-vs-product-teams, feature-team]
 status: drafting
 tags: [team-models, anti-pattern, empowerment, ownership]
-sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2010-02-18-cagan-dedicated-product-teams]]", "[[2022-11-07-cagan-the-foundation-of-product]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]", "[[2023-11-28-cagan-alternatives-to-product-managers]]", "[[2007-10-10-cagan-product-management-vs-project-management]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2021-04-27-cagan-product-vs-project-teams]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2019-08-29-cagan-product-vs-feature-teams]]", "[[2010-02-18-cagan-dedicated-product-teams]]", "[[2022-11-07-cagan-the-foundation-of-product]]", "[[2014-06-13-cagan-good-product-team-bad-product-team]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2023-06-02-cagan-are-roadmaps-ever-useful-talking-roadmaps]]", "[[2023-11-28-cagan-alternatives-to-product-managers]]", "[[2007-10-10-cagan-product-management-vs-project-management]]", "[[2026-07-22-cagan-ai-is-helping-bad-companies-fail-faster]]", "[[2026-07-22-cagan-olsen-how-ai-impacts-product-management]]", "[[2021-07-09-cagan-discovery-vs-design]]", "[[2021-03-04-cagan-the-best-vs-the-rest]]", "[[2022-02-07-cagan-value-and-viability]]"]
 related: ["[[empowered-product-teams]]", "[[empowered-with-problems-to-solve]]", "[[outcomes-over-output]]", "[[sense-of-ownership]]", "[[feature-team-vs-empowered-team]]", "[[product-management-theater]]"]
 created: 2026-06-20
 updated: 2026-09-18
@@ -70,6 +70,20 @@ And the visible mechanism is the [[build-to-learn-vs-build-to-earn|build-to-lear
 Same interview, on why blame lands in the wrong place: *"in the old model, stakeholders control product roadmaps… but in that model **the stakeholders are implicitly taking responsibility for value**. They're the ones putting the solution on the roadmap. So you can't blame the teams when it doesn't deliver the value — although they get blamed anyway."* With the arrogance underneath it named: *"they thought that because **they** thought this was a good idea, customers would too. And 'you just didn't execute on my idea the way you should have.'"*
 
 A structural consequence worth pairing with it, from [[2026-07-22-cagan-olsen-how-ai-impacts-product-management|the Lean Product Meetup talk]]: *"most feature teams only work on **usability and feasibility**, because they're given the solutions in the roadmap. But in an empowered team, it's now your job."* See [[the-four-big-risks]].
+
+## The risk-ownership split — what each model actually signs up for
+[[2021-07-09-cagan-discovery-vs-design|Discovery vs. Design]] (2021) is the cleanest statement in the corpus of *who owns which of [[the-four-big-risks|the four risks]]* under each model, which makes this distinction a matter of **accountability**, not just empowerment.
+
+| | Value | Viability | Usability | Feasibility |
+|---|---|---|---|---|
+| **Empowered product team** | team | team | team | team |
+| **Feature team** | **stakeholder** (implicitly) | **stakeholder** (implicitly) | team | team |
+
+Cagan's framing: on a feature team *"it is the stakeholder that is implicitly taking responsibility for value and viability"*, and the team is counted on for usability and feasibility — *"which is why we still need product designers and of course engineers."* A direct corollary he draws: this is *"why on a feature team, the product manager plays more of a **project** manager role."*
+
+**Two consequences worth naming to a leader.** First, handing a team a roadmap is not a neutral act — **the stakeholder has just personally taken on value and viability risk**. Second, the skill gap is real: *"it's one level of skill to design a usable experience and a feasible architecture for a specific feature, but it's a whole other level of skill to be able to discover an effective solution to the problem."* And the accountability gap follows — on a feature team a disappointing result *"is ultimately on the stakeholder"*; on an empowered team *"that's on us. Being accountable to results is hard."*
+
+**Does discovery apply to feature teams at all?** Cagan's honest answer is *mostly no* — *"by these definitions, discovery is not relevant for feature teams"* — but *some* remains, since usability and feasibility still need discovering. His practical advice for a PM stuck on one is a [[coaching-up]] play: demonstrate command of **viability** (the business dimensions) and deep customer understanding (**value**), and *"the more likely the leaders will be to let the feature team try tackling a hard problem to show what they can do."*
 
 ## Anti-patterns & misunderstandings
 - **"We're a product team because we use OKRs."** OKRs over a feature-team operating model produce *feature-team OKRs*: ship X features by Y date.

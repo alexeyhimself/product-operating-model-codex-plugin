@@ -4,10 +4,10 @@ type: framework
 aliases: [hiring-and-onboarding, hiring-product-managers, onboarding, first-product-hire]
 status: drafting
 tags: [framework, hiring, onboarding, coaching, potential]
-sources: ["[[empowered]]", "[[transformed]]", "[[inspired]]", "[[loved]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2025-01-23-idiodi-jones-coaching-employee-onboarding]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]"]
+sources: ["[[2020-06-30-idiodi-new-employee-bootcamp]]", "[[empowered]]", "[[transformed]]", "[[inspired]]", "[[loved]]", "[[2018-08-28-jones-favorite-interview-question]]", "[[2017-01-03-jones-from-managing-products-to-managing-product-managers]]", "[[2022-12-07-cagan-product-lessons-jobs-musk-20vc]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2025-01-23-idiodi-jones-coaching-employee-onboarding]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]", "[[2021-03-04-cagan-the-best-vs-the-rest]]"]
 related: ["[[product-manager]]", "[[product-coach]]", "[[product-leadership]]", "[[product-marketing]]", "[[leading-product-marketing]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[product-sense]]", "[[2007-09-11-cagan-recruiting-product-managers]]"]
 created: 2026-07-04
-updated: 2026-09-06
+updated: 2026-09-18
 ---
 
 # Hiring & Onboarding Product People
@@ -86,7 +86,27 @@ Ch 27 uses **"breadcrumbing"** — you suggest examples or introduce new data to
 See [[leading-product-marketing]] for the fuller Ch 27 skill-by-skill hiring rubric and the Ch 28 career-guidance staging (early / mid / senior + the Director-to-VP essay).
 
 ## Idiodi's New-Employee Boot Camp (*Product Therapy* Ep 13)
-[[christian-idiodi|Christian Idiodi]]'s signature onboarding framework, publicly documented at [New Employee Bootcamp](https://www.svpg.com/new-employee-bootcamp/) and taught end-to-end on [[2025-01-23-idiodi-jones-coaching-employee-onboarding|*Product Therapy* Ep 13]]. Hickman's public attribution (from [[2024-05-31-idiodi-hickman-coaching-trust|Ep 4]]): *"I wish I'd learned it 25 years ago — it's the biggest missing piece from my own career."* Idiodi has been running some version of it for at least ~8 years before the podcast.
+[[christian-idiodi|Christian Idiodi]]'s signature onboarding framework, written up by Idiodi himself in [[2020-06-30-idiodi-new-employee-bootcamp|*New Employee Bootcamp*]] (SVPG, Jun 2020 — **the article-form root**) and taught end-to-end on [[2025-01-23-idiodi-jones-coaching-employee-onboarding|*Product Therapy* Ep 13]]. Hickman's public attribution (from [[2024-05-31-idiodi-hickman-coaching-trust|Ep 4]]): *"I wish I'd learned it 25 years ago — it's the biggest missing piece from my own career."* Idiodi has been running some version of it for at least ~8 years before the podcast.
+
+> **Authorship note.** The SVPG article is commonly mis-attributed to Cagan, including by web clippers, because his name sits at the top. Cagan wrote only the one-paragraph italic introduction; the body is bylined **"By Christian Idiodi"** and written in his first person. Attribute the program to **Idiodi**.
+
+**The two generations of the program.** The 2020 article and Ep 13 (2025) describe the same framework at different sizes, and the difference is worth knowing before recommending one:
+
+| | **2020 article** | **Ep 13 (2025)** |
+|---|---|---|
+| Length | **Five days**, the new hire's first week | **Two weeks**, run in cohorts every 6–8 weeks |
+| Shape | Same three-part day, repeated: personal growth → a strategic-context topic → a serving product person's story → afternoon Product Workshop | Week 1 the individual; week 2 the team |
+| Origin | *"I started the program 10 years ago when I was a head of product"* — so ~2010 | Hickman dates Idiodi's practice to ~8+ years before 2025 |
+
+The **day shape** is the article's distinctive contribution and survives into the later version. Each day opens with **personal growth before company content** — communication exercises, personality tests, a self-authored career growth path — on an explicit rationale: *"put on your own oxygen mask before assisting other passengers. If we train our leaders to be healthy, the people who report to them have a better chance, too."* Then the day's [[strategic-context|Strategic Context]] topic (Idiodi uses that exact term): day one is understanding the customer, told through the company's own history, vision, financial models and customer discovery — *who our customers have been, and who we want them to be*. The rest of the week covers validation, building and prioritizing, learning and measuring, and going to market.
+
+**The four questions he designed it around**, after watching capable hires fail:
+- How are decisions made? How have they been made in the past?
+- What is important to the company now? What are we working toward?
+- How can I get people to trust me?
+- What's the most important thing to do right now?
+
+**The diagnosis underneath**, and the reason this belongs on a hiring page rather than an HR one: *"Product people don't start at a new company with everything they need to succeed, no matter how successful they've been in the past."* Standard orientation handles welcome and logistics but not the two things that actually determine contribution — making hard decisions, and earning peer trust. The success test is behavioural: *"When the product person leaves the Bootcamp she's not asking, 'What do I do today?' She already knows the next, right thing to do."*
 
 **The new-hire trust asymmetry that motivates the framework.** On day one, the employee arrives with the *highest* trust — they left another job publicly announcing this one. The company arrives with the *lowest* trust — they don't yet know what the new hire can actually do in *this* context. Un-managed, that asymmetry inverts within weeks. The boot camp's job is to grow company-side trust and preserve employee-side trust in parallel, before the mismatch produces the *"was this the right decision?"* moment on the first weekend.
 
@@ -126,7 +146,8 @@ See [[leading-product-marketing]] for the fuller Ch 27 skill-by-skill hiring rub
 - [[inspired]] — **Lineage note ([[inspired]] Ch 9, 1st ed, 2008): "Deputy Product Managers."** Ch 9 predates the modern *hire-for-potential* + trio + team-topology canon and is largely superseded — but its core observation persists: find and utilize the smart, product-minded people already hidden in the org (engineering, sales, customer service, the field, exec team). Cagan proposes deputizing them informally, sometimes even publicly, as sources of product ideas and reality checks; techniques he names include *ask at all levels who the great minds are*, MBWA (Management By Wandering Around, from the HP Way), keep the door open, and hang out across levels. In modern SVPG canon this is folded into (a) the *[[empowered-engineers|engineers-as-the-most-important-thing]]* framing, (b) [[hiring-and-onboarding|hire-for-potential]] plus a coaching-committed manager, and (c) the trio's cross-functional access. The 2008 "deputy" label itself is retired.
 - [[empowered]], [[transformed]] — root sources.
 - [[loved]] Ch 27 — **primary (book-length)** for PMM hiring; the three-candidate framing (curious · communicator · collaborator); the signature "great marketing company" interview question + breadcrumbing; the entry-level 1-in-10 / director-level 1-in-3 hit-rate calibration. Ch 28 grounds career staging (early / mid / senior); see [[leading-product-marketing]] for the full treatment. Deep-read in LOVED Pass 3c (2026-07-12).
-- [[2025-01-23-idiodi-jones-coaching-employee-onboarding]] — **primary** for Idiodi's New-Employee Boot Camp; the full two-week structure, milestones, and public-win discipline.
+- [[2020-06-30-idiodi-new-employee-bootcamp]] — **primary root (earliest, article-form)**; Idiodi, SVPG, Jun 2020. The original five-day program, the per-day shape (personal growth → strategic context → practitioner story → workshop), and the four design questions. Note the authorship correction on the section above — this is Idiodi's article, not Cagan's.
+- [[2025-01-23-idiodi-jones-coaching-employee-onboarding]] — **primary** for Idiodi's New-Employee Boot Camp; the later two-week structure, milestones, and public-win discipline.
 - [[2024-05-31-idiodi-hickman-coaching-trust]] — supporting; Hickman's public attribution of the boot-camp origin to Idiodi, ~8+ years before the podcast; the new-hire trust asymmetry.
 
 ## Idiodi's trust-acceleration technique
@@ -145,6 +166,42 @@ From [[2023-12-21-idiodi-essence-of-product-management-lennys|Lenny's Podcast]],
 
 The individual-contributor version of the same idea, for someone who has no manager doing this for them: pick the most influential person you can find and ask them to teach you; if they have no time, offer to help them instead. *"You're either going to teach me, or I'm going to help you."* What you are learning is not just the domain — it is **what their influence is actually made of**, which is almost always competence in the customer or the business.
 
+## Jones's four-attribute stack-rank (hiring a team, not a clone)
+
+From [[2018-08-28-jones-favorite-interview-question|*Chris' Favorite Interview Question*]] (SVPG, Aug 2018) — written as the team-building counterpart to Cagan's own [My Favorite PM Interview Question](https://www.svpg.com/my-favorite-pm-interview-question/) *(uncarded)*, which probes one candidate's mindset.
+
+Late in the interview, the candidate is given four attributes, told they are expected to be strong in all of them, and asked to **stack-rank themselves strongest to weakest**. The setup is half the technique — it "should be disarming," since there is no correct answer.
+
+| Attribute | Jones's phrasing |
+|---|---|
+| **Execution** | getting things done, doing the right thing without being asked, tracking many simultaneous targets |
+| **Creativity** | how often you're the person in the room with the most or best ideas |
+| **Strategy** | rising above the immediate work into market/vision context — and making that clear to others |
+| **Growth** | multiplying effort through process, team management and similar leverage |
+
+**What it tests in the candidate:** self-awareness, and the ability to discuss their own weaknesses — "a less contrived and more effective version of the classically stupid 'tell me about your weaknesses.'" Red flags are refusal to engage, or a self-assessment "wildly at odds" with what the interview already showed.
+
+**What it tests in the hiring manager, which Jones says matters more:** it is "a check on your own biases and helps ensure that you don't end up hiring a bunch of clones (usually of yourself)." Leaders should periodically rank *themselves* — the order changes over time — then hire into their own gaps. His note on why that's hard: "It's a lot easier on the ego to hire into weaknesses when you also know what makes you uniquely strong."
+
+**And it drives deployment, not just selection:** creative-forward PMs onto early, pre-[[market-fit|product/market-fit]] areas; execution-heavy PMs onto mature products; strategy-oriented PMs onto vision and portfolio work; growth people onto process and team management.
+
+**The table-stakes exclusion is deliberate.** Intelligence, communication, leadership soft skills and passion for product are mandatory in *every* candidate and stay out of the portfolio. Jones is also explicit that the four attributes are his own, not canon — "your list of attributes may be different than mine." Compare Hickman's three-trait bar below and [[product-sense|product sense]].
+
+## The 90-day public win (Jones's IC→manager transition)
+
+From [[2017-01-03-jones-from-managing-products-to-managing-product-managers|*From Managing Products To Managing Product Managers*]] (SVPG, Jan 2017) — **the article-form root** of the public-win discipline the wiki previously carried only second-hand via [[2025-01-23-idiodi-jones-coaching-employee-onboarding|Ep 13]].
+
+Jones's early manager, Steve Roop, gave him two things to tell a first direct report in their opening week:
+
+1. It is **their** job to know more than anyone in the company about their product area and its customers — explicitly more than their manager does.
+2. They should have a **publicly visible win within 90 days** of starting. "Business result wins are always the best."
+
+The reframe is what makes it load-bearing: "On the surface, it seems to put the focus on what is expected of the new team member. In fact, the advice is actually intended to show the new manager what *they* need to do." For the hire to out-know the manager, the manager must train them *and* step out of the way — "it is their job to help the new hire grow larger than themselves." For the hire to score a public win, the manager works "quietly in the background," letting the hire own the credit "even to their own managers."
+
+Jones names the reason this is hard: a newly promoted PM was, by definition, a strong individual contributor, so "their sense of their individual value is high," and they now leave their old area of contribution "without really understanding what will replace it." His caveat: the technique assumes a competent hire and a manager who isn't masking a failing one. See [[product-leadership]] and [[coaching-vs-contracting]].
+
 ## Sources (addition)
+- [[2018-08-28-jones-favorite-interview-question]] — Jones (Aug 2018); the four-attribute stack-rank.
+- [[2017-01-03-jones-from-managing-products-to-managing-product-managers]] — Jones (Jan 2017); **article-form root** for the 90-day public win.
 - [[2023-12-21-idiodi-essence-of-product-management-lennys]] — Idiodi (Dec 2023).
 - [[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]] — Hickman, Mind the Product London (Nov 2017); the three-trait PM hiring bar — intellectual curiosity, natural collaboration, grit.

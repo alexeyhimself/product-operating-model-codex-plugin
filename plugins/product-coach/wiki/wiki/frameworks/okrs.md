@@ -4,10 +4,10 @@ type: framework
 aliases: [okrs, objectives-and-key-results, okr, okr-theater]
 status: drafting
 tags: [framework, okrs, team-objectives, outcomes, empowerment]
-sources: ["[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[transformed]]", "[[inspired]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]"]
+sources: ["[[2020-02-24-cagan-team-objectives-overview]]", "[[2020-03-02-cagan-team-objectives-empowerment]]", "[[2020-03-04-cagan-team-objectives-action]]", "[[2020-03-04-cagan-team-objectives-ambition]]", "[[2020-03-04-cagan-team-objectives-commitments]]", "[[2020-03-04-cagan-team-objectives-management]]", "[[2020-03-04-cagan-team-objectives-accountability]]", "[[2020-03-04-cagan-team-objectives-summary]]", "[[2020-03-04-cagan-team-objectives-collaboration]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[transformed]]", "[[inspired]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]", "[[2020-09-01-cagan-discovery-learning-vs-insights]]", "[[2016-11-29-cagan-planning-product-discovery]]", "[[2015-04-06-cagan-autonomy-vs-mission]]"]
 related: ["[[team-objectives]]", "[[outcomes-over-output]]", "[[the-point-is-outcomes]]", "[[product-strategy]]", "[[product-leadership]]", "[[empowered-product-teams]]", "[[high-integrity-commitments]]", "[[placing-bets]]", "[[google-product-model]]"]
 created: 2026-07-04
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # OKRs
@@ -128,6 +128,15 @@ OKRs are the vehicle for [[outcomes-over-output|outcomes over output]], and [[20
 - **Define a clear problem *before* the metric.** Don't let existing metrics dictate which problems to solve; most measurement/alignment struggles are really **clarity** struggles.
 - **KPIs ≠ outcomes.** A business has hundreds of KPIs; only a few are true measures of a given outcome (the gas-gauge-vs-miles-per-gallon analogy). Define new KPIs and add **telemetry/instrumentation** where needed.
 - **Product outcomes → business outcomes → impact.** Team-level *product outcomes* roll up (like dominoes) into *business outcomes/impact* (revenue, profit). See [[the-point-is-outcomes]].
+
+## Anti-pattern: the key result that measures learning
+One of the most common OKR questions Cagan reports getting is whether a team should have an OKR measuring their *learning* in discovery. His answer:
+
+> *"While I do encourage teams to make sure they're practicing the techniques necessary to do effective product discovery, I push them to keep their key results as **business results**, and not fall into the trap of confusing the means with the ends."* — [[2020-09-01-cagan-discovery-learning-vs-insights|Discovery – Learning vs. Insights]], Sep 2020
+
+Practical form: *"run 10 customer interviews"* or *"validate 3 assumptions"* are activity measures wearing a key result's clothes. Discovery is how you get to the result; the key result stays an [[outcomes-over-output|outcome]]. This rests on the learning/insight distinction — see [[insights]].
+
+**The other direction — objectives should frame discovery.** [[2016-11-29-cagan-planning-product-discovery|Planning Product Discovery]] makes the link explicit: when framing a discovery effort you agree the problem, which users it is for, and how you will know you succeeded — and *"not accidentally, these should align directly to your OKRs."* See [[team-objectives]].
 
 ## Anti-patterns (OKR theater)
 - **OKRs over feature teams** — the #1 mismatch; produces effort without change.

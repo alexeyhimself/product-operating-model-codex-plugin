@@ -4,10 +4,10 @@ type: framework
 aliases: [keys-to-successful-transformation, ten-keys, ten-keys-to-successful-transformation, cagan-hickman-ten-keys]
 status: drafting
 tags: [framework, transformation, transformation-readiness, ceo, product-leadership, corporate-courage, insights-based-strategy, stakeholder-collaboration]
-sources: ["[[transformed]]", "[[2020-07-30-hickman-keys-to-successful-transformation]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]"]
+sources: ["[[transformed]]", "[[2020-07-30-hickman-keys-to-successful-transformation]]", "[[2024-02-14-cagan-getting-leadership-up-to-speed-melissa-perri]]", "[[2020-05-15-cagan-meaningful-transformation]]"]
 related: ["[[transformation]]", "[[transformation-readiness]]", "[[model-maturity]]", "[[transformation-politics]]", "[[product-leadership]]", "[[product-manager]]", "[[product-designer]]", "[[engineers]]", "[[empowered-engineers]]", "[[product-strategy]]", "[[stakeholder-relationship-health]]", "[[cross-functional-partnering]]", "[[corporate-courage]]", "[[lea-hickman]]", "[[product-vision]]", "[[strategic-context]]", "[[overcoming-objections]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-18
 ---
 
 # Keys to Successful Transformation — Cagan's Ten

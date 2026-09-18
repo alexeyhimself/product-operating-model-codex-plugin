@@ -6,7 +6,7 @@ status: mature
 tags: [product-culture, learning, failure, experimentation, first-principles]
 group: product-culture
 order: 20
-sources: ["[[transformed]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]"]
+sources: ["[[transformed]]", "[[2017-12-13-jones-learning-fast-vs-failing-fast]]", "[[2024-03-21-huryn-product-model-first-principles-part-2]]"]
 related: ["[[embrace-rapid-experimentation]]", "[[innovation-over-predictability]]", "[[minimize-waste]]", "[[product-culture]]", "[[principles-of-product-culture]]"]
 created: 2026-06-14
 updated: 2026-09-05
@@ -37,6 +37,19 @@ Blame for ideas that didn't pan out; hiding negative results; "we can't run that
 ## Sources
 - [[2024-03-21-huryn-product-model-first-principles-part-2]] — Principle 20; Savoia, *The Right It*.
 
+## Reclaiming the word "failure" (Jones, 2017)
+
+The **article-form root of this principle**, seven years before *[[transformed|TRANSFORMED]]* formalized it. In [[2017-12-13-jones-learning-fast-vs-failing-fast|*Learning Fast vs. Failing Fast*]], [[chris-jones|Jones]] argues the "fail fast" slogan is not merely tired but actively harmful: its intent — shaking orgs out of conservative, optimize-the-known patterns — is right, but the phrasing "robs us of the opportunity to call out the behavior and mistakes that truly need to be corrected," and "lumping together the concepts of risk taking and preventable mistakes leads to sloppiness."
+
+His fix is to **narrow** the word rather than embrace it. Failure should mean cut corners, bad decisions and preventable mistakes. The paired examples are the usable test:
+
+| Not a failure | A failure |
+|---|---|
+| A prototype that falls flat in user testing | Releasing a product with a foreseeable security flaw |
+| An A/B test showing no retention improvement | Shipping a product that missed a critical facet of the customer's workflow |
+
+And the line that makes it a diagnostic rather than a slogan: **"shipping a product without doing sufficient product discovery is almost always a failure."** Jones's closing charge — "save 'failure' for the really bad stuff, like not learning" — is the same standard he states as the insight test below. *(He credits the underlying right/wrong → learning reframe to Tom Chi, cited in passing.)*
+
 ## The test: was there an insight? (Jones, 2024)
 
 [[chris-jones|Jones]] in [[2024-08-04-jones-empowered-vs-feature-teams-peter-yang]], on what a leader should actually ask when something ships and misses. Not *whose fault* — two questions, in order:
@@ -51,4 +64,5 @@ And the line that makes this a usable standard:
 The complementary framing from [[2024-11-02-jones-from-features-to-outcomes-khodor]]: every build produces **two** outputs, the product **and** the learnings, and most cultures notice only the first — *"did it succeed or did it fail, and you will be rewarded for the success and punished for the failure, and that's all there is."* That incentive structure is what produces the behaviour. The model's alternative is to generate insight deliberately in the fast, cheap, low-risk way (prototypes, half a dozen users, a day) rather than the slowest and most expensive one, which is to build everything and find out in the market.
 
 ## Sources (addition)
+- [[2017-12-13-jones-learning-fast-vs-failing-fast]] — Jones (2017); **article-form root** for this principle, and the source of the failure-vs-learning test table above.
 - [[2024-08-04-jones-empowered-vs-feature-teams-peter-yang]] · [[2024-11-02-jones-from-features-to-outcomes-khodor]] — Jones (2024).

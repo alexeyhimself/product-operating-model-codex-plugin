@@ -4,10 +4,10 @@ type: concept
 aliases: [remote-collaboration, remote-product-work, collocation-vs-remote, always-on-technique]
 status: drafting
 tags: [remote, collaboration, collocation, discovery, trust, meetings, always-on]
-sources: ["[[2025-02-20-idiodi-hickman-coaching-remote-collaboration]]", "[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]", "[[2025-05-05-cagan-inspired-in-the-generative-ai-era]]"]
+sources: ["[[2025-02-20-idiodi-hickman-coaching-remote-collaboration]]", "[[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams]]", "[[2025-05-05-cagan-inspired-in-the-generative-ai-era]]", "[[2020-04-13-cagan-discovery-when-working-remotely]]", "[[2021-08-25-cagan-discovery-vs-documentation]]"]
 related: ["[[cross-functional-partnering]]", "[[team-collaboration-health]]", "[[team-topology]]", "[[trust-over-control]]", "[[psychological-safety]]", "[[coaching-mindset]]", "[[ai-and-product-teams]]"]
 created: 2026-08-29
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Remote Collaboration
@@ -18,7 +18,26 @@ updated: 2026-09-05
 SVPG's historical default has been collocation. *INSPIRED* (both editions) pushed hard for it; the magic of a designer-PM-engineer trio sitting side-by-side is real and hard to replicate remotely. But most product organizations are now remote or hybrid — pandemic-driven, then talent-driven (you cannot hire the best people if you require them to live in Seattle or San Francisco). Remote work is fine for **delivery**; it's **discovery** it damages, because discovery is inherently collaborative and collaboration depends on trust ([[marty-cagan|Cagan]] on [[2025-05-15-idiodi-cagan-coaching-ai-impact-on-product-teams|Product Therapy Ep 20]]). Getting remote collaboration right is what determines whether a distributed team is a product team or a delivery team-in-disguise. Cagan makes the same point in writing, a stronger and more specific claim than Ep 20's version: remote work's effect is **role-dependent** (sales, customer success, CEOs, engineers, PMs, and designers are affected very differently — most commentary fails to distinguish this), and it's specifically why "so many leading product model companies are pushing for a return to the office" for discovery and innovation work ([[2025-05-05-cagan-inspired-in-the-generative-ai-era|INSPIRED in the Generative AI Era]]).
 
 ## How it works
-**The rules of proximity** ([[lea-hickman|Hickman]] on [[2025-02-20-idiodi-hickman-coaching-remote-collaboration|Product Therapy Ep 15]]): you optimize proximity for the biggest *gap*.
+
+### The root article — artifacts, trust, time (Cagan, Apr 2020)
+[[2020-04-13-cagan-discovery-when-working-remotely|Discovery When Working Remotely]] is the **root source for this page** and predates the Ep 15/Ep 20 coaching material by five years. Written four weeks into the pandemic, it establishes the asymmetry the rest of the page assumes: *"In delivery, it's more of a trade-off… Overall, I find teams with remote employees can do quite well in delivery, occasionally even better than when the team is co-located. **The real challenge of remote employees is when we consider the discovery work.**"*
+
+The collocation case is made through Bezos, quoted as summing up Cagan's own experience — an [[amazon|Amazon]] product team is *"cross-functional, dedicated, and co-located. Why? Creativity comes from people's interactions; inspiration comes from intensive concentration."*
+
+Crucially, **mechanics barely change; dynamics do.** *"The overall methods and mechanics are not really very different."* What changes is how the trio collaborates — and there Cagan names **three problems, any one of which "can meaningfully damage your ability to innovate"**:
+
+| Problem | The failure mode | The counter |
+|---|---|---|
+| **Artifacts** | *"A nearly gravity-like pull to start producing artifacts for each other"* — designer asks PM for a brief, tech lead asks designer for wireframes, PM asks engineers for estimates. *"Very soon, the new remote work process has reverted back to waterfall-like passing along of artifacts"*, and the conversation shifts from outcome to output. | Keep returning to *"how do we solve this problem?"* on video even when it feels less efficient. *"During discovery, the main artifact should be prototypes."* |
+| **Trust** | Discovery depends on [[psychological-safety\|psychological safety]]; remote strips the social cues that maintain it. *"More than a few people have shared with me that they are seeing a different side of their colleagues, and it's not always a good look."* | Coaching — *"most people don't intend to be cruel or insensitive, they just don't have as many of the social cues to go on."* Handle anything sensitive on video, not in text: a message that *"requires hours of damage control… maybe wasn't so efficient after all."* |
+| **Time** | Uneven *quality* time, not uneven hours. Some people thrive; others with childcare or homeschooling struggle to find *"even an hour a day of uninterrupted time."* | Flexibility. If the designer has one solid hour at an odd time, *"if the product manager and tech lead can find a way to accommodate that, it's worth doing."* |
+
+**It is not an anti-remote piece.** Cagan states the global-talent advantage up front and explicitly declines to argue for or against remote work — the article is *"trying to help teams dealing with remote employees – especially with remote engineers – do better."* This makes it usable with a leadership team already committed to remote.
+
+**The follow-up says the warning went unheeded.** [[2021-08-25-cagan-discovery-vs-documentation|Discovery vs. Documentation]] (Aug 2021) opens by noting he *"tried to warn against this"* here, and that teams did revert to heavy PRDs. The artifacts row above is the mechanism; that article is the consequence — see [[product-discovery]].
+
+### The rules of proximity
+([[lea-hickman|Hickman]] on [[2025-02-20-idiodi-hickman-coaching-remote-collaboration|Product Therapy Ep 15]]): you optimize proximity for the biggest *gap*.
 - Customer-discovery gap → put the team close to customers.
 - Go-to-market alignment gap → put the team close to the GTM team.
 - Engineering/tech-lead alignment gap → put PM + designer close to engineering.

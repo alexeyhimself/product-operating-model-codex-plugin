@@ -4,10 +4,10 @@ type: concept
 aliases: [psychological-safety, safe-to-speak-up, ps]
 status: drafting
 tags: [psychological-safety, trust, teams, coaching, leadership, culture]
-sources: ["[[transformed]]", "[[2025-06-12-idiodi-leto-coaching-psychological-safety]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]", "[[2025-02-20-idiodi-hickman-coaching-remote-collaboration]]"]
+sources: ["[[2017-12-13-jones-learning-fast-vs-failing-fast]]", "[[transformed]]", "[[2025-06-12-idiodi-leto-coaching-psychological-safety]]", "[[2024-05-31-idiodi-hickman-coaching-trust]]", "[[2025-02-20-idiodi-hickman-coaching-remote-collaboration]]", "[[2020-04-13-cagan-discovery-when-working-remotely]]"]
 related: ["[[trust-over-control]]", "[[coaching-mindset]]", "[[team-collaboration-health]]", "[[cross-functional-partnering]]", "[[remote-collaboration]]", "[[kate-leto]]", "[[overcoming-objections]]"]
 created: 2026-08-29
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Psychological Safety

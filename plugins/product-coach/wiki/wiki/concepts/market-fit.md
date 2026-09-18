@@ -4,7 +4,7 @@ type: concept
 aliases: [market-fit, market-pull, market-side-of-pmf, market-side-of-product-market-fit]
 status: drafting
 tags: [product-marketing, market-fit, discovery, viability, product-market-fit]
-sources: ["[[loved]]", "[[transformed]]", "[[2022-08-17-lauchengco-market-fit]]", "[[martina-lauchengco]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]", "[[2022-05-12-lauchengco-the-supermarket-of-software]]", "[[2011-01-12-lauchengco-great-products-not-just-the-product-guys-job]]"]
+sources: ["[[loved]]", "[[transformed]]", "[[2022-08-17-lauchengco-market-fit]]", "[[martina-lauchengco]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]", "[[2022-05-12-lauchengco-the-supermarket-of-software]]", "[[2011-01-12-lauchengco-great-products-not-just-the-product-guys-job]]", "[[2008-05-13-cagan-market-discovery-vs-product-discovery]]"]
 related: ["[[product-marketing]]", "[[pmm-ambassador]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[assumption-testing]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-09-18
@@ -112,6 +112,16 @@ Most of this page treats market fit qualitatively. [[christian-idiodi|Idiodi]] o
 Two things make this more than a rule of thumb. First, it is **falsifiable early** — if you cannot recruit enough people who have the problem, that is the answer, and it arrives before you build anything. Second, it forces the [[the-four-big-risks|value risk]] to be settled by behaviour rather than by a satisfaction score: *"just because somebody can use your product doesn't mean that they will buy it… what people say is often different from what they do."* Idiodi is explicit that he has seen teams call value proven because 300 users scored a test 90%.
 
 The mechanism is [[technology-adoption-life-cycle|Geoffrey Moore's adoption curve]], which he cites by name: most people will not be first, but will move if enough people *who look like them* already have. The full mechanics are on [[reference-customer-program]].
+
+## Market discovery — the half upstream of product discovery
+[[2008-05-13-cagan-market-discovery-vs-product-discovery|Market Discovery vs. Product Discovery]] (2008) names the distinction: **market discovery** is *"all about identifying opportunities worth pursuing"*; product discovery is finding a solution that is valuable, usable and feasible. Sometimes the market is obvious and established; sometimes it is *"undiscovered, unrecognized, and/or untapped."*
+
+The exemplar split is the useful part, and it cuts against a common founder assumption:
+- **Won on product discovery, not new markets** — [[apple|Apple]] (*"the iPod, iPhone, and Mac are all great examples"*) and [[google|Google]] search, *"nowhere close to being the first to identify the search market."*
+- **Won on market discovery first, then delivered** — eBay, TiVo, Nintendo Wii.
+- **Strong at market discovery, weak at product discovery** — the general case, and what makes fast-following viable: *"there's nothing wrong with letting the big guys pay to develop a new market and then you come in with a product that actually delivers on the need"* — provided you are strong at product discovery.
+
+Cagan's closing priority: *"It doesn't do you any good to come up with all these great opportunities and then not deliver products that meet the need."* A non-software exemplar he cites is **OXO**, which finds whole product lines in aging baby boomers' latent needs by *"watching consumers interact with everyday products."*
 
 ## Anti-patterns & misunderstandings
 - **Assuming initial beachhead = product-market fit.** Growth stalls because market fit was under-invested.

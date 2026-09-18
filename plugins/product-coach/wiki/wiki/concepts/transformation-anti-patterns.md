@@ -4,10 +4,10 @@ type: concept
 aliases: [transformation-anti-patterns, ten-anti-patterns, product-model-anti-patterns]
 status: drafting
 tags: [transformation, anti-patterns, loop-of-failure, air-sandwich, pilot-teams]
-sources: ["[[2026-03-19-idiodi-castenfors-coaching-transformation-anti-patterns]]", "[[2026-02-19-idiodi-hickman-coaching-transformations]]", "[[2023-10-05-cagan-transformation-fail]]", "[[2024-02-27-hickman-transformation-theater]]"]
+sources: ["[[2026-03-19-idiodi-castenfors-coaching-transformation-anti-patterns]]", "[[2026-02-19-idiodi-hickman-coaching-transformations]]", "[[2023-10-05-cagan-transformation-fail]]", "[[2024-02-27-hickman-transformation-theater]]", "[[2023-04-12-cagan-management-consultancies]]", "[[2021-06-15-cagan-the-mba-pathology]]"]
 related: ["[[transformation]]", "[[transformation-as-a-project]]", "[[pilot-teams]]", "[[strategic-context]]", "[[product-management-theater]]"]
 created: 2026-08-30
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Transformation Anti-Patterns
@@ -92,6 +92,36 @@ The middle of the arc where results haven't landed and doubters are gaining. Cou
 - **Pilot theater** — the pilot works but nothing broader changes; infinite pilot cycles.
 - **Pilot-team factory** — cookie-cutter "let's have hundreds of pilot teams" kills the learning the pattern exists to create.
 - **Sacred golden child** — leadership starts throwing every hard problem to the pilot team instead of scaling the way of working.
+
+## Hiring the management consultancy to run your transformation
+
+A named, single-anti-pattern article: [[2023-04-12-cagan-management-consultancies|Transformation Anti-Patterns: Management Consultancies]] (Apr 2023). Cagan is careful to rule out the two explanations people reach for first — it is **not** that the consultants are unintelligent ("most of the time the people there … are well above average") and **not** under-investment ("if you've seen what these management consultancies are charging your company, you know it's *not* due to lack of investment").
+
+> My theory is that this anti-pattern is structural. These firms are inherently unable to help, and transformations driven by them are almost certainly destined to fail.
+
+**The analogy.** A power utility wanting to move from fossil fuels to renewables calls its fossil-fuel partners of several decades — who of course position themselves as being "in the *energy* business" and of course say yes. "But really what you're asking is for them to act against their own institutional interests. And even if they were willing to do that, it's unlikely they know how." Both halves matter: **unwilling, and also unable.**
+
+**The mechanism in tech.** Stakeholders have long used business consultants for decision support. Transformation requires that capability to move in-house *and* to different people — product leaders rather than stakeholders. "Stakeholders hire management consultants for help with decisions, and those consultants will not be incentivized to provide advice that diminishes the power of the people who hired them."
+
+**The parallel case: IT outsourcing.** If much of engineering is outsourced and transforming means bringing that competency in-house, "do you really expect the outsourcing firm to advocate for that? This is a direct threat to their business." Read alongside [[2024-08-13-cagan-kerievsky-the-product-model-in-outsourcing]], which treats outsourcing at greater length and less absolutely — the two are complementary positions, not identical ones.
+
+**The carve-out — don't drop it.** "Just because you shouldn't hire their firms to help you transform, that doesn't mean you can't hire away some of their people," provided someone with real product-model experience can put them to good use. Compare [[coaching-vs-contracting]]: the transformation cannot be delegated to a vendor, and [[2024-10-29-cagan-transformation-as-a-project]] reaches the same conclusion from a different direction.
+
+## The MBA pathology — and its convergence with the CSPO pathology
+
+[[2021-06-15-cagan-the-mba-pathology|The MBA Pathology]] (Jun 2021), published five days after [[2021-06-10-cagan-the-cspo-pathology|The CSPO Pathology]], is the second half of Cagan's named diagnosis of where weak product managers come from. ⚠️ **Read it correctly:** Cagan explicitly refuses the anti-MBA position — he quotes Musk's "avoid hiring MBAs" and says "I'm *not* one of those people," noting he has hired and coached many exceptionally strong people straight from top programs. His claim is about **curriculum and the coaching it makes necessary**, not about people.
+
+Scope is wider than PMs — he names VCs, board members, CEOs, CFOs, GMs and business-unit leaders, which is what makes it a transformation anti-pattern: "these issues may need to be unlearned by the key senior leadership team."
+
+**The four problem areas:**
+1. **Equating management with leadership** — the assumption that a manager is "the boss." The coaching correction: a PM "is actually *not the boss of anyone*," is an individual contributor, is "*true peers* with your designer and engineers," and must "*earn your spot*."
+2. **Not knowing what you can't know** — the illusion of predictability, "the religion of business cases," the pressure to have the answer. The distinctive harm: graduates believe they're *supposed* to know, so uncertainty reads as personal weakness rather than the nature of innovation. See [[innovation-over-predictability]].
+3. **The role of technology** — technology as a cost center rather than the core enabler; engineers and designers as subordinates or outsourceable resources. Same root cause as the prerequisite in [[2020-05-15-cagan-meaningful-transformation|Meaningful Transformation]].
+4. **Command-and-control leadership** — not taught explicitly but "inferred or implied" via case studies, guest speakers and "the whole mythology around business leaders." See [[trust-over-control]].
+
+**The CPG lineage** — the most original part. Cagan attributes much of the PM-specific damage to the consumer-packaged-goods / brand-manager model, noting those roles today align far more closely with what tech calls [[product-marketing|product marketing managers]]. His evidence: in MBA catalogs, product-management courses are mostly taught by **professors of marketing**. "If you were responsible for developing a new brand of soap, or a new brand of beer, this was considered primarily a *marketing* exercise, and not an *innovation* exercise."
+
+**"The perfect storm of bad product."** When both pathologies meet in one company, stakeholders trained in command-and-control and predictability meet "an eager market of Agile coaches that tell them exactly what they want to hear" — top-down control *and* the Agile checkbox. Cagan calls this "the perfect incubator for a disease like *SAFe*." This is a **causal account of SAFe adoption**; see [[pom-vs-agile-and-safe]].
 
 ## Cagan's two lists — where the pitfalls actually come from (ProductTank Oslo, 2022)
 

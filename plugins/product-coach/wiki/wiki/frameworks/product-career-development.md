@@ -4,8 +4,8 @@ type: framework
 aliases: [product-career, career-development, career-as-a-product, human-skills, coaching-career-advice]
 status: drafting
 tags: [career, coaching, hiring-and-onboarding, human-skills, mentorship, product-manager, product-leadership]
-sources: ["[[2024-10-24-idiodi-moore-coaching-career-advice]]", "[[transformed]]", "[[empowered]]", "[[loved]]"]
-related: ["[[hiring-and-onboarding]]", "[[product-manager]]", "[[product-leadership]]", "[[product-coaching]]", "[[product-coach]]", "[[coaching-the-pm]]", "[[product-sense]]", "[[coaching-mindset]]", "[[christian-idiodi]]", "[[jon-moore]]"]
+sources: ["[[2018-08-28-jones-favorite-interview-question]]", "[[2024-10-24-idiodi-moore-coaching-career-advice]]", "[[2020-01-16-cagan-coaching-happiness]]", "[[transformed]]", "[[empowered]]", "[[loved]]"]
+related: ["[[hiring-and-onboarding]]", "[[product-manager]]", "[[product-leadership]]", "[[product-coaching]]", "[[product-coach]]", "[[coaching-the-pm]]", "[[product-sense]]", "[[coaching-mindset]]", "[[christian-idiodi]]", "[[jon-moore]]", "[[missionaries-vs-mercenaries]]", "[[time-management]]", "[[psychological-safety]]"]
 created: 2026-08-29
 updated: 2026-09-05
 ---
@@ -82,6 +82,23 @@ From [[2024-04-05-jones-product-power-play-pmdojo|PMDojo]], offered as personal 
 - **Roughly four years** was his own number for a job — with a dip around two years that he would deliberately work through by changing something and getting reinvigorated.
 - **Time to leave:** when you are no longer learning and growing **and** you cannot see a path to changing that. Start with your first-line manager. If the manager is the problem, that path is usually closed — *"and that's a good time to leave."*
 
+## The manager's side — coaching happiness ([[2020-01-16-cagan-coaching-happiness|Cagan, 2020]])
+
+Everything above is written from the perspective of the person building a career. The closing article of Cagan's [[product-coaching|coaching series]] takes the manager's side of the same relationship, and it is the wiki's root source for the retention/burnout half of career development.
+
+**The framing move.** Cagan concedes the topic sounds odd — it is not a manager's job to make people happy — then inverts it: *a manager can very easily be responsible for a product manager being miserable.* "People join a company but leave a manager." What he actually asks of managers is a weekly check on three things: is this person doing **meaningful work**, are they **progressing**, and are they building the **relationships** — with their team and with executives — that let them lead an empowered team.
+
+Six levers, with the caveat that everyone differs and the manager's first job is to know their people well enough to know what matters to *them*:
+
+- **Meaningful work** — in Cagan's experience the largest single factor in happiness, ahead of compensation (unless the manager is bad, in which case that dominates). But the PM often cannot see how her one small team contributes, so the connection must be stated explicitly and repeated, publicly and privately.
+- **Personal relationship** — built deliberately, by talking about life outside work and inviting the same. Cagan's stated aim is that people believe he is committed to their success and trust him enough to hear hard feedback.
+- **Personal recognition** — people who say they don't need recognition usually mean they don't want it *publicly*. Beyond promotion and compensation, he favours small, personal, frequent forms (a conference ticket, dinner for two), and notes he has sometimes paid out of pocket — framed as self-interest, not altruism: *"any good manager knows that they are only as good as their people."*
+- **Work habits** — the sharpest diagnostic in the article: long hours **because you want to** is a different situation from long hours **because you have to**. If it's the latter, Cagan is blunt that *"you very likely have teams of mercenaries and not missionaries, and this entire topic is probably not something you care about"* (see [[missionaries-vs-mercenaries]]). For the former, the manager still watches for burnout, plays the long game, and uses comp-time after a genuine push. Chronic cases need [[time-management|active coaching on time]].
+- **Modeling good behaviors** — "do what I say, not what I do" fails. A manager working all hours produces a spiral of early-in, late-out, midnight email whatever they say. Share how *you* recharge, and be conscious of when you send mail.
+- **Career planning** — sometimes the honest answer is helping someone into a different job or career entirely. His example is a PM who was excellent at the work and came to realise it was not what she wanted from her life; he encouraged her into writing fiction, which became her career.
+
+**Why it belongs in this framework and not only in coaching.** It is the counterweight to the career-as-a-product framing above: the individual authors the arc, but the manager holds most of the levers over whether it is survivable. Cagan's closing point is that managers routinely under-estimate how much power they hold over an employee's life — to make it miserable, or to help them reach professional and personal goals.
+
 ## Anti-patterns & misunderstandings
 - **Wait to be promoted, then learn the job.** The reverse of the working rule; if you can't do the job before the title, you probably won't do it after.
 - **Optimize for salary bumps, not for coaches.** Especially early in a career, *who* you work for compounds more than *what* you're paid. Cagan explicitly names Google, Amazon, and Apple as apprenticeships worth accepting a down-levelling for.
@@ -104,6 +121,7 @@ _Agent prompt: for the person you're coaching, what is their career vision? Whic
 
 ## Sources
 - [[2024-10-24-idiodi-moore-coaching-career-advice]] — **primary root**; career-as-a-product, the human-skills list, don't-rush-team-jobs, mentorship-as-leverage.
+- [[2020-01-16-cagan-coaching-happiness]] — **primary (SVPG canon)**; the manager's side — meaningful work, recognition, the want-to/have-to distinction on hours, modeling, and career planning that may mean helping someone leave. Closing article of the coaching series.
 - [[transformed]] Ch 34 (Transformation Help) — supporting; the coaching typology this framework maps onto.
 - [[empowered]] Ch 3 (Strong Product Leadership) — supporting; the manager-as-coach framing.
 - [[loved]] Ch 28 (Career Development) — supporting; the PMM-specific staging companion.

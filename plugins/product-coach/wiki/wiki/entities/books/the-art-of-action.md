@@ -8,11 +8,11 @@ author: Stephen Bungay
 year: 2011
 source_url: https://www.amazon.com/dp/1857885597
 recommended_by: ["[[marty-cagan]]"]
-recommended_in: ["[[2020-02-22-cagan-product-strategy-the-missing-link]]"]
+recommended_in: ["[[2020-02-22-cagan-product-strategy-the-missing-link]]", "[[2020-12-22-cagan-lead-with-context-not-control]]"]
 topics: [product-strategy, strategic-context, okrs, leadership]
 related: ["[[recommended-library]]", "[[product-strategy]]", "[[placing-bets]]", "[[good-strategy-bad-strategy]]"]
 created: 2026-07-03
-updated: 2026-07-03
+updated: 2026-09-18
 ---
 
 # The Art of Action

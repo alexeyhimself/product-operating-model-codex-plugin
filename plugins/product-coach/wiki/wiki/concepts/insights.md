@@ -4,10 +4,10 @@ type: concept
 aliases: [insights, strategic-insights]
 status: drafting
 tags: [product-strategy, insights, data, core-concept]
-sources: ["[[2020-02-19-cagan-product-strategy-insights]]", "[[2020-02-17-cagan-product-strategy-overview]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[transformed]]"]
+sources: ["[[2017-09-05-jones-leveraging-data-science]]", "[[2020-02-19-cagan-product-strategy-insights]]", "[[2020-02-17-cagan-product-strategy-overview]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[transformed]]", "[[2020-09-01-cagan-discovery-learning-vs-insights]]"]
 related: ["[[powered-by-insights]]", "[[product-strategy]]", "[[product-discovery]]", "[[data-product-management]]", "[[focus]]"]
 created: 2026-07-12
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # Insights
@@ -36,6 +36,16 @@ You can't choose the most important problems to solve without understanding wher
 - **[[product-discovery|Discovery]] is the main generator.** Weekly customer contact, experiments, and prototypes surface qualitative and quantitative insight as a side effect of testing ideas — see [[continuous-discovery]].
 - **Teams feed strategy, not just the reverse.** [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve|Moore]]: many of the best insights come *up* from teams doing the work, not down from a strategy offsite — a bottom-up channel leaders must deliberately keep open.
 - **Case-study examples** the wiki already grounds: [[amazon-prime|Amazon's]] Charlie Ward connecting an enabling capability (subscription + shipping) to a business opportunity is a technology insight; [[spotify-discover-weekly|Spotify's]] ML engineers spotting the Discover Weekly opportunity is the same pattern.
+
+## Learning vs. insights — the distinction Cagan insists on
+[[2020-09-01-cagan-discovery-learning-vs-insights|Discovery – Learning vs. Insights]] (Sep 2020) is the eponymous root for this distinction. Insights are *"learnings that we can **leverage**"* — or, in the phrase Cagan borrows from a leader he works with, *"insights are learnings we can take to the bank."* Learning happens every day in discovery; insights are what you are actually hunting.
+
+**Three tiers of insight**, an escalation ladder worth using directly:
+1. An insight that **fixes the solution** to the problem at hand — *"when that insight leads to an effective solution, we declare victory."*
+2. An insight whose impact **goes beyond the current problem** and is *"perhaps even important enough to be leveraged in our [[product-strategy|product strategy]]. Strong product leaders are always on the lookout for these sorts of insights."*
+3. An insight *"so profound that it causes us to revisit everything, possibly even changing the course of the company"* — a **vision pivot** ([[2013-02-03-cagan-vision-pivots-vs-discovery-pivots]]).
+
+**The hard edge.** *"The purpose of a product team is not to learn. The purpose of a product team is to solve hard problems in ways our customers love yet work for the business."* Learning is *"the means not the ends"* — and a team can be excellent at learning and still be a weak product team. See [[product-discovery]] and [[okrs]].
 
 ## Anti-patterns & misunderstandings
 - **"Insights" reduced to "the dashboard."** Quantitative data is one of four sources, not the whole thing — and even quantitative work splits into "what happened" (analytics) vs. "would this work" (experiments).

@@ -4,7 +4,7 @@ type: framework
 aliases: [product-evangelism, evangelism, selling-the-dream, sell-the-dream]
 status: drafting
 tags: [framework, evangelism, product-vision, communication, missionaries]
-sources: ["[[inspired]]", "[[empowered]]", "[[transformed]]", "[[2011-07-18-cagan-product-evangelism]]"]
+sources: ["[[inspired]]", "[[empowered]]", "[[transformed]]", "[[2011-07-18-cagan-product-evangelism]]", "[[2017-06-24-cagan-the-customer-letter]]"]
 related: ["[[product-manager]]", "[[product-leadership]]", "[[product-vision]]", "[[missionaries-vs-mercenaries]]", "[[prototypes]]", "[[pmm-evangelist]]"]
 created: 2026-07-12
 updated: 2026-09-18

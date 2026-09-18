@@ -4,7 +4,7 @@ type: concept
 aliases: [pmm-storyteller, storyteller, product-marketing-storyteller, positioning, messaging, cast]
 status: drafting
 tags: [product-marketing, positioning, messaging, storytelling, cast, seo]
-sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]"]
+sources: ["[[loved]]", "[[transformed]]", "[[2009-08-15-lauchengco-watch-cable-tv-and-read-people-magazine]]", "[[martina-lauchengco]]"]
 related: ["[[product-marketing]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-evangelist]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-07-12
@@ -119,4 +119,5 @@ _Agent prompt: does your messaging pass CAST — Clear · Authentic · Simple ·
 - [[loved]] Ch 5 — root source; the positioning/messaging distinction; Use Formulas as Input Not Output; the Looker/RJMetrics worked example; **CAST**; the Tendency to Be Overly Precise; SEO discipline; Positioning = Your Actions + Others' + the dark-funnel framing; The Long Game. Deep-read in LOVED Pass 1 (2026-07-12).
 - [[loved]] Chs 21–25 (Part Four — Storyteller: Clarity and Authenticity) — deep-read in LOVED Pass 3b (2026-07-12); grounded new pages [[positioning]] (Chs 21 + 24), [[messaging]] (Chs 22 + 23), [[one-sheet-messaging-canvas]] (Ch 25) — see the *Deep pass — Part Four* section of [[loved]].
 - [[transformed]] Ch 23 — the PM-side view lists **messaging + positioning** as one of the eight PM ↔ PMM collaboration areas.
+- [[2009-08-15-lauchengco-watch-cable-tv-and-read-people-magazine]] — Lauchengco (Aug 2009); the **article-form root for show-don't-tell** — "Watch this phone do this amazing thing vs. 'Look at our amazing phone!'" — plus create-a-hook and the "people believe what they see" rationale. See [[messaging]] for the fuller treatment.
 - [[martina-lauchengco]] — author.

@@ -6,10 +6,10 @@ status: mature
 tags: [product-team, outcomes, roadmaps, first-principles]
 group: product-team
 order: 2
-sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]"]
+sources: ["[[transformed]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-03-17-cagan-castro-outcomes-are-hard]]", "[[continuous-discovery-habits]]", "[[2016-02-09-cagan-when-performance-is-measured-by-results]]", "[[2026-07-23-cagan-the-ai-productivity-paradox]]", "[[2017-11-24-hickman-transforming-to-a-product-culture-mind-the-product]]", "[[2015-04-06-cagan-autonomy-vs-mission]]"]
 related: ["[[empowered-with-problems-to-solve]]", "[[team-objectives]]", "[[innovation-over-predictability]]", "[[time-to-money]]", "[[principles-of-product-teams]]", "[[okrs]]", "[[the-point-is-outcomes]]", "[[teresa-torres]]", "[[continuous-discovery-habits]]"]
 created: 2026-06-14
-updated: 2026-09-06
+updated: 2026-09-18
 ---
 
 # Outcomes over Output

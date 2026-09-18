@@ -4,7 +4,7 @@ type: concept
 aliases: [product-ethics, ethics, coaching-ethics, fifth-risk, ethical-risk]
 status: drafting
 tags: [ethics, viability, ai, psychological-safety, diversity, product-manager, jon-moore]
-sources: ["[[2024-06-27-idiodi-moore-coaching-ethics]]", "[[transformed]]", "[[the-four-big-risks]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
+sources: ["[[2020-01-28-cagan-coaching-ethics]]", "[[2024-06-27-idiodi-moore-coaching-ethics]]", "[[transformed]]", "[[the-four-big-risks]]", "[[2026-09-17-idiodi-torres-discovery-in-the-ai-era]]"]
 related: ["[[the-four-big-risks]]", "[[cross-functional-partnering]]", "[[coaching-mindset]]", "[[trust-over-control]]", "[[product-manager]]", "[[product-leadership]]", "[[christian-idiodi]]", "[[jon-moore]]"]
 created: 2026-08-29
 updated: 2026-09-18
@@ -14,7 +14,27 @@ updated: 2026-09-18
 
 > **Product ethics** = the discipline of asking, on every substantive product decision, *should we build this?* — separate from *can we*, *will they use it*, *will they buy it*, and *does it work for our business.* From [[jon-moore|Jon Moore]] and [[christian-idiodi|Christian Idiodi]] on *Product Therapy* Ep 5: ethics functions as an **emerging fifth risk** alongside value, usability, feasibility, and [[the-four-big-risks|viability]] — overlapping most with viability, but not reducible to it. *"Just because we can build something doesn't mean that we should build it."*
 
-**Canon note — this page keeps Moore's own language.** [[jon-moore|Moore]] and [[christian-idiodi|Idiodi]] call ethics an *"emerging fifth risk"* in this podcast conversation — a coaching-context framing, not *TRANSFORMED*'s book canon. Cagan's canonical position, documented on [[the-four-big-risks]], keeps the model to **four** risks (value, usability, feasibility, viability), with ethics folded inside viability: *"ethical risk is part of business viability risk."* This page doesn't resolve that by picking a winner — it keeps Moore's "not reducible to viability" language because that's what he actually said, and because the practical discipline is the same either way: whether or not ethics is a *named* fifth risk, the work is asking "should we build this?" as a separate question from "can we/will they/does it pay off." When coaching an SVPG-canon-oriented team, use [[the-four-big-risks|the four-risks-with-ethics-inside-viability]] framing; when working from this podcast's material directly, Moore's own "fifth risk" language is fine to use as-is.
+**Canon note — the "fifth risk" is Cagan's own earlier position, not a departure from him.** *(Revised 2026-09-18 on ingesting [[2020-01-28-cagan-coaching-ethics|Cagan's* Coaching – Ethics *(Jan 2020)]]; the previous version of this note was wrong and is corrected here.)*
+
+This page long framed ethics-as-fifth-risk as a **coaching-context framing from [[jon-moore|Moore]] and [[christian-idiodi|Idiodi]]**, set against a Cagan canon that keeps four risks with ethics inside viability. That framing does not survive the primary source. In *Coaching – Ethics* Cagan writes, in his own voice:
+
+> *"So, I have been advocating explicitly considering the ethical implications, **by adding a fifth risk: Should we build it? (ethical risk)**."*
+
+His two stated reasons are the same ones Moore gives four years later: business viability is already overloaded (*"sales, marketing, finance, legal, compliance, privacy and more — it's easy for ethics to get lost"*), and *"unlike the other areas of business viability, there is rarely a stakeholder explicitly responsible for ethics."*
+
+**The actual lineage** is therefore a position that moved and then moved back:
+
+| Period | Cagan's framing | Evidence |
+|---|---|---|
+| 2008 | **Three** risks — value, usability, feasibility; viability absent | *[[inspired\|INSPIRED]]* 1st ed, Ch 21 |
+| 2017 | **Four** — viability added | *[[inspired\|INSPIRED]]* 2nd ed |
+| 2016 | Ethics **named as a risk**, but as one of six sub-dimensions of *stakeholder risk* — not yet a peer of the big four | [[2016-11-29-cagan-planning-product-discovery\|*Planning Product Discovery*, Nov 2016]]: *"Ethical risk – is this solution something we should do?"*, listed alongside financial, business-development, marketing, sales and legal risk |
+| 2018–2020 | **Five** — ethics **promoted** to its own first-class risk | [[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf\|mtpcon SF 2018]] (floated) → [[2020-01-28-cagan-coaching-ethics\|*Coaching – Ethics*, Jan 2020]] (advocated in writing) |
+| 2021– | **Four**, ethics folded inside viability | *[[transformed]]*; *"once you get to more than 4, the real worry is that it just becomes a checklist and not a way of thinking"* |
+
+**Note on the 2016 row (added 2026-09-18).** This row was inserted when [[2016-11-29-cagan-planning-product-discovery]] was ingested; it **refines rather than overturns** the lineage above. The distinction is load-bearing: in 2016 ethical risk is already named in print, but as a *sub-dimension of stakeholder risk*, not as a proposed fifth peer to value/usability/feasibility/viability. So what 2018–2020 added was not the *idea* of ethical risk but the argument to **promote** it. Read out of order it looks like a contradiction; read in order it is a two-step escalation.
+
+So Moore and Idiodi's 2024 *"emerging fifth risk"* is a **continuation of Cagan's own 2016–2020 framing**, not a divergence from canon — and [[teresa-torres|Torres]]'s five-category assumption map ([[continuous-discovery-habits|CDH]] Ch 9, 2021) sits in the same lineage rather than adjacent to it. This page keeps both framings side by side, as before, but for a corrected reason: **both are Cagan's**, separated by time, and his move back to four was an anti-checklist judgement call rather than a rejection of ethics as a distinct question. When a coachee cites "five risks," say so plainly instead of correcting them to four.
 
 ## Why it matters
 Ethics failures rarely arrive as one big dramatic decision — they accumulate through **small decisions made over time**, each of which felt inconsequential in isolation ([Radhika Dutt](https://www.linkedin.com/in/radhika-dutt/) on *radical ethics*, quoted in Ep 5). Moore's core commercial argument: **good ethics is good business.** When you get an ethics call wrong, the downstream consequences — regulation, lawsuits, brand damage, customer trust destruction — dwarf whatever you gained by shipping the questionable thing. The European wave of social-media regulation, and the (as of Ep 5) live discussion of banning smartphones for under-16s, are Moore's evidence that markets and states *do* eventually reprice ethical debts.
@@ -28,7 +48,7 @@ For AI, this is elevated: *"we've just lived through a decade or two of social m
 - **Diversity is upstream of ethics.** *"A homogeneous room won't spot what only a different perspective would flag."* The lack-of-diversity argument for hiring is not only an equity argument — it is a competence argument for the ethics function. Companies that hire from one background, school, or discipline systematically under-recruit the perspectives that would catch ethical blind spots early.
 
 ## How to reason about a specific decision
-Ep 5's closing reflection questions — useful directly with a team facing an ethics call:
+Closing reflection questions — useful directly with a team facing an ethics call. Ep 5 relays these, but the **root is [[2020-01-28-cagan-coaching-ethics|Cagan's 2020 article]]**, where they are put by **Rob Chesnut**, Airbnb's Chief Ethics Officer and a long-time Cagan friend from eBay. Attribute them to Chesnut via that article, not to the podcast:
 
 - How is this good for the customer?
 - How is this good for the customer's customer?
@@ -76,7 +96,8 @@ _Agent prompt: on the last non-trivial decision this team shipped, who asked "sh
 - [[jon-moore]] · [[christian-idiodi]] — the co-hosts of the primary source.
 
 ## Sources
-- [[2024-06-27-idiodi-moore-coaching-ethics]] — **primary root**; Ep 5 of *Product Therapy* with Jon Moore.
+- [[2020-01-28-cagan-coaching-ethics]] — **primary root (earliest, article-form)**; Cagan, SVPG, Jan 2020, the closing article of the [Coaching Series](https://www.svpg.com/the-coaching-series/). Where Cagan himself proposes the **fifth (ethical) risk**, and the root of the Rob Chesnut material this page previously sourced second-hand. Grounds the corrected canon note above.
+- [[2024-06-27-idiodi-moore-coaching-ethics]] — **primary**; Ep 5 of *Product Therapy* with Jon Moore. The fullest treatment, and the source of everything below the canon note; now understood as continuing Cagan's own earlier framing rather than departing from it.
 - [[transformed]] — supporting; leadership behaviors (trust-over-control, active coaching) that create the conditions ethics conversations require.
 - [[the-four-big-risks]] — supporting; ethics does not replace the four, it adds a fifth axis of "should we."
 - [[2026-09-17-idiodi-torres-discovery-in-the-ai-era]] — *Product Therapy* Ep 44 ([[teresa-torres|Torres]] with Idiodi), Sep 2026; the AI-traces transparency problem, synthetic data as a partial mitigation, and *should we build it?* arriving inside the build loop. Roots the section above and [[ai-evals]].
