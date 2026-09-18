@@ -5,10 +5,10 @@ aliases: [adobe, adobe-transformation, adobe-creative-cloud, creative-cloud, cre
 status: drafting
 tags: [case-study, transformation, saas-transition, subscription, product-vision, visiontype, lea-hickman, empowered-engineers, continuous-delivery]
 org: Adobe
-sources: ["[[transformed]]"]
+sources: ["[[transformed]]", "[[2016-10-01-cagan-behind-every-great-product]]"]
 related: ["[[transformation]]", "[[lea-hickman]]", "[[product-vision]]", "[[product-strategy]]", "[[transformation-politics]]", "[[empowered-product-teams]]", "[[product-manager]]", "[[the-product-team-trio]]", "[[product-marketing]]", "[[team-topology]]", "[[time-to-money]]", "[[trainline-transformation]]", "[[datasite-transformation]]"]
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-09-18
 ---
 
 # Adobe — Creative Suite → Creative Cloud
@@ -108,3 +108,4 @@ _If your CEO asked you today: "show me the visiontype for where our company is g
 
 ## Sources
 - [[transformed]] Part IX — Transformation Story: Adobe (by Lea Hickman). First-person account across all three dimensions + a fourth GTM dimension unique to the SaaS transition.
+- [[2016-10-01-cagan-behind-every-great-product]] — Cagan (2016); the second-person "story about a product leader" account of the same transformation, written from outside; describes Hickman's approach — compelling prototypes with CTO Kevin Lynch, sustained internal-evangelism campaign, no-such-thing-as-over-communication — as the operational form of what Hickman later documents first-person in *TRANSFORMED* Part IX. Also names the ~$2B pre-transition Creative Suite revenue anchor.

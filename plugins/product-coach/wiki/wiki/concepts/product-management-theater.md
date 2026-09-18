@@ -4,10 +4,10 @@ type: concept
 aliases: [pm-theater, product-leadership-theater, agile-theater, product-theater]
 status: drafting
 tags: [theater, feature-teams, product-manager, project-model, ai, core-concept]
-sources: ["[[transformed]]", "[[2024-01-30-cagan-product-management-theater]]", "[[2024-02-13-cagan-product-leadership-theater]]", "[[2024-03-10-cagan-product-management-theater-lennys]]", "[[2021-06-10-cagan-the-cspo-pathology]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf]]", "[[2022-12-01-cagan-the-nature-of-product-school-of-product]]", "[[2018-06-07-cagan-behind-every-great-product-mtpcon-london-2016]]", "[[2023-01-16-cagan-master-class-context-not-control]]", "[[2025-05-28-cagan-the-era-of-the-product-creator]]"]
+sources: ["[[transformed]]", "[[2024-01-30-cagan-product-management-theater]]", "[[2024-02-13-cagan-product-leadership-theater]]", "[[2024-03-10-cagan-product-management-theater-lennys]]", "[[2021-06-10-cagan-the-cspo-pathology]]", "[[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]]", "[[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf]]", "[[2022-12-01-cagan-the-nature-of-product-school-of-product]]", "[[2016-10-01-cagan-behind-every-great-product]]", "[[2018-06-07-cagan-behind-every-great-product-mtpcon-london-2016]]", "[[2023-01-16-cagan-master-class-context-not-control]]", "[[2025-05-28-cagan-the-era-of-the-product-creator]]"]
 related: ["[[feature-teams-vs-product-teams]]", "[[product-manager]]", "[[product-leadership]]", "[[coaching-vs-contracting]]", "[[model-as-product-coach]]", "[[outcome-vs-output-orientation]]", "[[time-to-money]]"]
 created: 2026-07-03
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Product Management Theater
@@ -28,7 +28,7 @@ The stakes rose sharply with generative AI, which **simultaneously exposes and a
 
 **The tells:**
 - **Output over outcome.** You're measured by shipping, not by solving the problem. Cagan reframes it for executives as *[[time-to-money|time to money]]*, not time to market.
-- **The "three ways" a PM works** ([[2018-06-07-cagan-behind-every-great-product-mtpcon-london-2016|Behind Every Great Product]]): (a) escalate every decision to your manager; (b) call a meeting for every decision (design-by-committee); (c) *actually do the job*. Only (c) is product management.
+- **The "three ways" a PM works** ([[2016-10-01-cagan-behind-every-great-product|Behind Every Great Product, 2016 essay]] — the root; the [[2018-06-07-cagan-behind-every-great-product-mtpcon-london-2016|2018 MTP London talk]] is the spoken restatement): (a) escalate every decision to your manager; (b) call a meeting for every decision (design-by-committee); (c) *actually do the job*. Only (c) is product management. Modes (a) and (b) are the **origin** of Cagan's later "theater" taxonomy — attribute the label to 2024, the diagnosis to 2016.
 - **The mealy-mouthed job definition** — "I facilitate, I communicate, I herd the cats, I say 'why'." Cagan: "the *why* comes from [[product-strategy|product strategy]] anyway." A real PM is a **creator, not a facilitator**.
 - **The written definition of the alternative** ([[2025-05-28-cagan-the-era-of-the-product-creator|The Era of the Product Creator]]): *"anyone actively shaping the product and tackling the product risks... is a product creator. Their title doesn't really matter."* Non-creator PMs — the theater performers above — are named as "increasingly and especially vulnerable" as GenAI removes the need for pure facilitation and administration.
 - **Agile theater** — the sibling ([[2024-04-14-cagan-escape-the-project-trap-agile-theatre|Scandinavian Product]], [[2023-01-16-cagan-master-class-context-not-control|Master Class]]): all the rituals (scrum master, CSPO/PSPO product owner, stand-ups, retros) yet **releasing monthly or quarterly** and not empowered. "Waterfall with a marketing name of agile." Agile only ever addresses *one* of the three transformation dimensions (how you build) — the easiest one.
@@ -69,6 +69,7 @@ _Field note: where does theater show up in your org — in the PM role, the lead
 - [[2024-03-10-cagan-product-management-theater-lennys]] — the fullest spoken statement, six weeks after the root article (TRANSFORMED launch).
 - [[2026-06-04-cagan-pm-theater-age-of-ai-modern-cto]] — the AI angle (three models; bottleneck shift).
 - [[2018-05-31-cagan-root-causes-of-product-failure-mtpcon-sf]] · [[2022-12-01-cagan-the-nature-of-product-school-of-product]] · [[2018-06-07-cagan-behind-every-great-product-mtpcon-london-2016]] — the role misconceptions and "three ways."
+- [[2016-10-01-cagan-behind-every-great-product]] — **root** for the *three ways* taxonomy (the diagnosis behind the later "theater" label); the 2016 essay Cagan calls the one he's most proud of.
 - [[2024-04-14-cagan-escape-the-project-trap-agile-theatre]] · [[2023-01-16-cagan-master-class-context-not-control]] — the agile-theater sibling.
 - [[2021-06-10-cagan-the-cspo-pathology]] — the CSPO-pathology strand of certifications-as-proof; why a CSPO course produces backlog administrators, not PMs, and why the pathology feeds SAFe.
 - [[2025-05-28-cagan-the-era-of-the-product-creator]] — the written "product creator" definition; names non-creator PMs as especially vulnerable to AI disruption.

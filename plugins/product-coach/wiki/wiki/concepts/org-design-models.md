@@ -4,10 +4,10 @@ type: concept
 aliases: [org-design, gm-model, business-unit-model, single-threaded-leader-model, functional-model, hybrid-org-model, org-structure-vs-topology]
 status: drafting
 tags: [org-design, org-structure, gm-model, functional-model, team-topology, transformation]
-sources: ["[[2024-07-30-cagan-the-product-model-and-org-design]]", "[[transformed]]"]
+sources: ["[[2024-07-30-cagan-the-product-model-and-org-design]]", "[[transformed]]", "[[2008-01-05-cagan-the-best-product-management-model]]"]
 related: ["[[team-topology]]", "[[where-the-model-applies]]", "[[product-strategy]]", "[[product-vision]]", "[[amazon]]", "[[apple]]"]
 created: 2026-09-05
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Org Design Models
@@ -42,3 +42,4 @@ _Field note placeholder — which model is your org using today (GM, functional,
 ## Sources
 - [[2024-07-30-cagan-the-product-model-and-org-design]] — **primary root** for the whole page: the GM/Functional/Hybrid taxonomy, the Amazon/Apple contrast, the reorg-usually-unnecessary TL;DR, the orthogonality claim, and the topology-vs-org-structure distinction.
 - [[transformed]] — root source for the product model principles this page assumes as background.
+- [[2008-01-05-cagan-the-best-product-management-model]] — Cagan (2008); the earliest statement of the *no one model works everywhere* thesis, sixteen years before the 2024 article. Cagan's five factors that shape which model fits a company (product type · development process · role definition · org size · company culture) foreshadow the 2024 GM/Functional/Hybrid framing — including the observation that Google's model and Apple's model are each *right for their companies* but neither should be copied wholesale.

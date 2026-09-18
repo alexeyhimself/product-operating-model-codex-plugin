@@ -49,6 +49,8 @@ Together, the Batch 3 episodes make Hickman the wiki's primary voice on two adja
 - [[2023-02-20-cagan-transformed-announcement]] — names Hickman as one of the book's three first-person Transformation Story authors (supporting, pre-launch).
 - [[2025-08-21-idiodi-doshi-coaching-product-leadership-part-1]] — introduces Doshi as a product-leadership voice "alongside Cagan and Hickman."
 - [[2026-03-19-idiodi-castenfors-coaching-transformation-anti-patterns]] — Castenfors's anti-pattern catalog is framed as a complement to "Hickman describ[ing] the messy middle from her practice" in Ep 37.
+- [[2016-10-01-cagan-behind-every-great-product]] — Cagan (2016 essay); the outside-view account of Hickman's Creative Cloud transformation as one of the six iconic PM case studies. Companion to her first-person *TRANSFORMED* Part IX chapter.
+- [[2020-11-23-cagan-behind-every-great-company]] — Cagan (2020); Hickman is one of the eight *EMPOWERED* leader profiles Cagan uses to make the "none are generic people managers" argument.
 
 ## Notes
 - **Name:** interview transcripts render it phonetically as "Leah"; the correct spelling is **Lea Hickman**.

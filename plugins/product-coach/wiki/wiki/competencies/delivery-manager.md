@@ -5,10 +5,10 @@ aliases: [delivery-manager, project-manager, scrum-master, program-manager]
 status: drafting
 tags: [competency, delivery-manager, project-manager, role]
 role: The person who clears impediments and tracks delivery commitments for one or more product teams, freeing the PM to focus on product discovery. Rebranded by Cagan from "project manager" because the project-management brand had become damaged.
-sources: ["[[transformed]]", "[[2014-07-13-cagan-the-delivery-manager-role]]", "[[2012-12-15-cagan-high-integrity-commitments]]", "[[2019-06-28-cagan-coaching-managing-time]]", "[[2007-10-10-cagan-product-management-vs-project-management]]"]
+sources: ["[[transformed]]", "[[2014-07-13-cagan-the-delivery-manager-role]]", "[[2022-05-03-svpg-delivery-manager-job-description]]", "[[2012-12-15-cagan-high-integrity-commitments]]", "[[2019-06-28-cagan-coaching-managing-time]]", "[[2007-10-10-cagan-product-management-vs-project-management]]"]
 related: ["[[product-manager]]", "[[the-product-team-trio]]", "[[high-integrity-commitments]]", "[[product-delivery]]", "[[time-to-money]]"]
 created: 2026-06-21
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # Delivery Manager
@@ -24,6 +24,8 @@ Seven years before Cagan formally named the delivery-manager role (2014), he was
 - **Production support and triage** — for orgs with material run-time responsibilities, often a significant time investment.
 - **Owning [[high-integrity-commitments|high-integrity commitment]] mechanics** — tracking dependencies, dates, and the cross-team coordination that makes a commitment honorable ([[2012-12-15-cagan-high-integrity-commitments|canon]]).
 - **Not Agile coaching** — the role is not about teaching process; it's about clearing the path.
+
+**The SVPG JD form** ([[2022-05-03-svpg-delivery-manager-job-description|Delivery Manager Job Description]]) makes the multi-team scope explicit: *"A Delivery Manager supports multiple cross-functional product teams (squads), and serves as the Scrum Master for each of those product teams."* Named key responsibilities: impediment identification/removal, cross-team/squad dependency tracking, high-integrity-commitment tracking, proactive visibility, meeting minimisation, team-driven decision culture, coaching *only where appropriate* — and the JD is explicit that *"coaching is the primary responsibility of teams' managers"*, not the delivery manager. **Certified Scrum Master (CSM) is a "basic qualification"** in this JD — worth flagging that this is not the same certification Cagan warns against in [[2021-06-10-cagan-the-cspo-pathology|the CSPO Pathology]] (which targets CSPO training as a false PM substitute); CSM for DMs sits in a different, endorsed lane.
 
 ## Competencies — weak vs strong
 | Competency | Weak | Strong |
@@ -57,6 +59,7 @@ _Field note placeholder — does your org have a delivery manager per team, per 
 
 ## Sources
 - [[2014-07-13-cagan-the-delivery-manager-role]] — the role and its rebrand from project manager.
+- [[2022-05-03-svpg-delivery-manager-job-description]] — the SVPG-authored template JD; multi-team-scope default; the servant-leader framing in the opening italics; the "coaching is the primary responsibility of teams' managers" delimitation; CSM as basic qualification.
 - [[2012-12-15-cagan-high-integrity-commitments]] — DM's role in tracking commitments.
 - [[2019-06-28-cagan-coaching-managing-time]] — DM/PM partnership; canonical four-hours rule.
 - [[transformed]] — root source.

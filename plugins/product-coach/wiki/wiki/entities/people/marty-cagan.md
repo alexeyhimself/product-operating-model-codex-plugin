@@ -84,3 +84,17 @@ An interview deliberately about the person rather than the model. Four details t
 - [[2026-07-22-cagan-olsen-how-ai-impacts-product-management]] — his 10th consecutive Lean Product Meetup; the three kinds of PM and their AI fates; the model-as-coach operational account.
 - [[2026-04-23-cagan-golden-era-for-product-management-udacity]] — the April-2026 "golden era" interview.
 - [[2015-10-22-cagan-discovery-vs-delivery]] · [[2021-02-01-cagan-creating-technology-products-customers-love-leaddev]] · [[2021-02-18-cagan-olsen-empowered-fireside-lean-product]] · [[2021-11-06-cagan-empowered-nuggets-product-lessons]] — earlier-era additions from the same pass.
+
+## Additional sources (2026-09-18 Clippings ingest)
+- [[2020-08-05-cagan-product-vision-vs-mission]] — Aug 5, 2020 article, five days before the FAQ; the vision-vs-mission distinction; the five direct + five indirect purposes of vision; the anti-canvas argument.
+- [[2016-10-01-cagan-behind-every-great-product]] — the 2016 essay Cagan calls the one he's *most* proud of; the "three ways teams run a PM" root; the PM-as-CEO analogy; the six iconic PM case studies (Lauchengco, Kate Arnold, Jane Manning, Alex Pressland, Camille Hearst, Hickman).
+- [[2020-11-23-cagan-behind-every-great-company]] — the eight-leader-profile companion (Nov 2020); "none of them are generic people managers."
+- [[2022-05-03-cagan-the-vp-product-role]] — the VP Product / CPO four-competencies rubric (Team Development · Product Vision · Execution · Product Culture); the two hiring-scenario failure modes; the CTO/VP-Marketing peer principle.
+- [[2022-05-03-svpg-product-director-job-description]] — the director-tier JD (Ben Horowitz's "most important non-C level role").
+- [[2022-05-03-svpg-example-pm-job-description]] — the SVPG PM JD template (value + viability accountability; four risks; adjacent-role paths; deliberate no-CSPO stance).
+- [[2022-05-03-svpg-delivery-manager-job-description]] — the delivery-manager JD (multi-team scope; servant-leadership framing; CSM as basic qualification).
+- [[2022-05-03-svpg-example-prfaq]] — the worked PRFAQ ("Jobs Inc." EMPOWERED enterprise-expansion case study).
+- [[2022-04-28-svpg-examples]] — the SVPG Examples hub referenced by [[2026-02-04-cagan-product-coaching-and-ai|Product Coaching and AI]] as the project-files reference example; contains the sample project-instructions prompt.
+- [[2024-07-10-svpg-recommended-reading-on-the-product-model]] — the **official SVPG reading list** — the load-bearing endorsement for every non-SVPG book on [[recommended-library]] per CLAUDE.md's non-SVPG boundary test.
+- [[2012-06-17-cagan-lessons-from-leaders]] — the 10 company-associated mantras (Amazon, Google, Facebook, [[bill-campbell|Bill Campbell]]); the recursive PM-cares extension.
+- [[2008-01-05-cagan-the-best-product-management-model]] — one of the earliest SVPG articles the wiki carries (Jan 2008); the pre-history of [[org-design-models]] and [[where-the-model-applies]].

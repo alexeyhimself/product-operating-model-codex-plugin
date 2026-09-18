@@ -4,10 +4,10 @@ type: concept
 aliases: [product-vision, vision]
 status: drafting
 tags: [product-strategy, vision, core-concept]
-sources: ["[[transformed]]", "[[empowered]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[2024-01-02-cagan-power-of-visiontypes]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-05-29-idiodi-moore-coaching-vision]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2020-08-05-cagan-product-vision-vs-mission]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[2024-01-02-cagan-power-of-visiontypes]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-05-29-idiodi-moore-coaching-vision]]", "[[2022-04-28-svpg-examples]]"]
 related: ["[[product-strategy]]", "[[focus]]", "[[product-leadership]]", "[[missionaries-vs-mercenaries]]", "[[product-principles]]", "[[overview]]", "[[vision-quality]]", "[[visiontype]]", "[[kaiser-permanente-get-care-now]]", "[[trainline-transformation]]"]
 created: 2026-06-14
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Product Vision
@@ -81,13 +81,24 @@ Ch 3 also grounds the vision-and-principles pairing that becomes an element of [
 - **The CFO test — the true test of a strong vision.** The finance team gets excited. The head of corporate affairs stomps up and down excited about the next 5 years. Every non-product function feels drawn in. Product/tech teams tend to grok vision naturally; non-product functions are the real test.
 - **Kaiser Permanente case study (fuller version).** Mission = quality affordable healthcare. Vision = *"Get Care Now"* — telehealth as the concentration of that mission. Started just in time for the pandemic → *"never let a crisis go to waste."* The vision made the transformation legible and the pandemic response executable. See [[kaiser-permanente-get-care-now]].
 
+## Vision vs. Mission — [[2020-08-05-cagan-product-vision-vs-mission|the canonical distinction]]
+[[2020-08-05-cagan-product-vision-vs-mission|Cagan, "Product Vision vs. Mission" (Aug 2020)]] is the wiki's **root** for this distinction, published five days before the FAQ and referenced by it. The article names **two common confusions**:
+
+1. **Confusing vision with a mission statement.** Most "product visions" Cagan is shown are actually mission slogans (e.g. *"organize the world's information"*). A mission slogan tries to make the *purpose* clear; a **vision** describes *the future you are trying to create* and how customers' lives improve. Both can coexist — the mistake is thinking the slogan does the vision's job.
+2. **Each product team creating its own vision.** *"Everyone picking out their own star from the sky, and calling it their 'north star' and then heading in their own direction."* One vision per organization; teams contribute to the whole.
+
+**The article's own list of five direct purposes** — vision keeps you (i) customer-focused, (ii) provides the *North Star* / common understanding, (iii) inspires ordinary people to create extraordinary products, (iv) shows why the work is *meaningful*, (v) illustrates how you'll leverage relevant industry trends and technologies to solve customer problems in ways just-now possible. **Five indirect purposes** — (vi) gives engineering enough clarity to invest in the right *architecture*, (vii) is a **primary driver of [[team-topology|team topology]]**, (viii) combined with annual company objectives, **drives the [[product-strategy|product strategy]]**, (ix) is the org's most powerful **recruiting tool** for strong product people, (x) is its most powerful **evangelism tool** to enlist help across the company. Cagan: *"I don't think I can name a higher-leverage tool for a product organization."*
+
+The article's closing footnote makes the [[missionaries-vs-mercenaries|missionaries-vs-mercenaries]] link explicit for [[feature-teams-vs-product-teams|feature-team orgs]]: *"Unless of course you're a feature team organization, in which case I'm afraid none of this really matters, because mercenaries don't need to be inspired, just paid."*
+
 ## Anti-patterns & misunderstandings
-- Confusing vision with an **empty mission slogan** ("organize the world's information"). Cagan distinguishes the two — and in *TRANSFORMED* **drops "product mission" entirely**, which Huryn welcomes.
+- Confusing vision with an **empty mission slogan** ("organize the world's information"). Cagan distinguishes the two ([[2020-08-05-cagan-product-vision-vs-mission|canonical article]]) — and in *TRANSFORMED* **drops "product mission" entirely**, which Huryn welcomes.
 - Treating vision as a marketing tagline rather than a concrete, customer-improving future.
 - **"We will make customers' lives better through automation."** — the canonical empty-vision anti-pattern Cagan flags in [[2020-08-10-cagan-product-vision-faq]]. You must give the audience a real sense of *how* you will make their lives better.
 - **Vision about money, priorities, or org structure** — vision is first and foremost about the **customer**. It is *not* "how we'll make more money" or "our quarterly priorities."
 - **Splitting one product into multiple visions** — common with marketplaces (one vision for buyer side, one for seller). Misses the cross-side dynamics.
-- **Vision as 1-page canvas** — Cagan: "don't expect to find a simple fill-in-the-blanks, paint-by-numbers, canvas or board approach to a strong product vision." It's a creative craft.
+- **Vision as 1-page canvas** — Cagan: "don't expect to find a simple fill-in-the-blanks, paint-by-numbers, canvas or board approach to a strong product vision." It's a creative craft. Sharper form from [[2020-08-05-cagan-product-vision-vs-mission]]: *"Have you ever been inspired by a canvas or board? I know I haven't."* Vision is *fundamentally a persuasion tool*, and a canvas isn't persuasive.
+- **Public examples worth studying** ([[2022-04-28-svpg-examples|SVPG Examples hub]]): video visions from Dropbox, Airbnb, Roblox, HP Safe City, John Deere, SpaceX; text-form visions from Asana; Apple's design/experience-vision framing via Jared Spool. Match the medium (video / prototype / text) to who needs persuading; see [[visiontype]].
 
 ## In your context
 _Field note placeholder — can your teams state a vision that describes how customers' lives improve?_
@@ -97,7 +108,9 @@ _Field note placeholder — can your teams state a vision that describes how cus
 
 ## Sources
 - [[transformed]] — root source; vision in the empowered model (Ch. 13).
+- [[2020-08-05-cagan-product-vision-vs-mission]] — the vision-vs-mission distinction; the two-common-confusions diagnosis; the five direct + five indirect purposes of a product vision; the anti-canvas argument; **published five days before** the FAQ below and referenced by it as the vision-vs-mission companion piece.
 - [[2020-08-10-cagan-product-vision-faq]] — canonical operational guidance: timeframe, scope, ownership, crafting process, vision pivot, common failure modes.
+- [[2022-04-28-svpg-examples]] — public product-vision examples (Dropbox, Airbnb, Roblox, HP Safe City, John Deere, Asana, SpaceX, Apple).
 - [[2024-01-02-cagan-power-of-visiontypes]] — root source for the [[visiontype]] concept page; the PARC/Apple story and the HP "domesticated computer" cautionary tale.
 - [[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]] — customer-driven vision as the *Decide* dimension.
 - [[2020-11-19-cagan-product-leadership-is-hard]] — vision as one of the five elements of strategic context owned by product leaders.

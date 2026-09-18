@@ -45,6 +45,7 @@ Lauchengco appears on 5 episodes of the *Product Therapy* podcast (Batch 1 · Ep
 ## Talks / sources referencing her
 - [[2022-03-07-cagan-product-ops-dan-olsen]] — Cagan on why a strong PM needs a product-marketing partner; the "product-marketing rebranding" ops model.
 - [[2023-05-17-cagan-10-misconceptions-startups-productx]] — *LOVED* named as the product-marketing book "already out" in the SVPG series.
+- [[2016-10-01-cagan-behind-every-great-product]] — Cagan (2016 essay); the **Word for Mac / Word 6.1 turnaround** story told in Cagan's own voice, from outside — the same story *LOVED* returns to in "Word for Mac and word count." Cagan's coda in the essay: *"there's little as powerful as a marketing person that's also strong at product. The combination is amazing."*
 
 ## Notes
 - **Not brand/field/performance marketing.** Product marketing is about market fit, positioning, go-to-market, and channel enablement — see [[product-marketing]] and the market side of [[time-to-money|product-market fit]].

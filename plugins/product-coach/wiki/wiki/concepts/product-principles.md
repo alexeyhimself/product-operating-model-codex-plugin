@@ -4,10 +4,10 @@ type: concept
 aliases: [product-principles, product-manifesto, company-product-principles]
 status: drafting
 tags: [strategic-context, principles, leadership, vision, ethics, core-concept]
-sources: ["[[transformed]]", "[[inspired]]", "[[empowered]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2020-01-09-cagan-coaching-strategic-context]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[empowered]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2022-04-28-svpg-examples]]", "[[2012-06-17-cagan-lessons-from-leaders]]"]
 related: ["[[product-leadership]]", "[[product-vision]]", "[[product-strategy]]", "[[team-objectives]]", "[[principles-over-process]]", "[[overview]]", "[[product-strategy-quality]]", "[[coaching-vs-contracting]]", "[[the-four-big-risks]]"]
 created: 2026-07-04
-updated: 2026-07-12
+updated: 2026-09-18
 ---
 
 # Product Principles
@@ -58,6 +58,16 @@ Both say "principles," but they are different *kinds of thing*:
 
 Analogy: the 20 first principles are the **laws of physics** of good product orgs (you *discover* them); your product principles are your company's **constitution** (you *write* them). The bridge — and the deepest source of the confusion — is that one of the 20, [[principles-over-process|"principles over process"]], is the *meta*-belief that you should lead with principles rather than rules; **authoring your own product principles is one concrete way a company enacts that meta-principle.**
 
+## Public exemplars — the SVPG-endorsed short list
+The [[2022-04-28-svpg-examples|SVPG Examples hub]] names two published sets Cagan recommends as *"favorite examples"* of a real, working product-principles document:
+- **Supercell** — *[10 learnings 10 years](https://supercell.com/en/news/10-learnings-10-years/7436/)* (2020, 10-year retrospective; each learning is a working principle).
+- **Slack** — *[We don't sell saddles here](https://medium.com/@stewart/we-dont-sell-saddles-here-4c59524d650d)* (Stewart Butterfield, 2013, internal memo published years later).
+
+Neither is a bullet-list "principles page" — both are longer-form written narratives. That form is Cagan's point: strong product principles are usually written prose an author can defend under trade-off pressure, not a poster on the wall.
+
+## Mantras vs principles — the closely-related short-quote form
+Company mantras are the *shorter, oral* cousin of written product principles. [[2012-06-17-cagan-lessons-from-leaders|Cagan's 2012 Lessons From Leaders]] collects ten he associates with specific cultures — *"Our job is to invent on behalf of our users"* / *"Be stubborn on vision but flexible on details"* (Amazon), *"Think in leaps, but iterate in steps"* / *"Fake it before you make it"* / *"Data beats opinions"* (Google), *"Don't fall in love"* (Facebook), plus [[bill-campbell|Bill Campbell]]'s *"The company cares about what the leader cares about"* — which Cagan applies recursively to the PM: *"the team cares about what the product manager cares about."* Mantras carry culture in a way principles-as-documents rarely do — they are the *spoken form* teams already use to remember the trade-offs their principles were written to guide. Recommend companies **author** their principles and then **name** the mantras that have already been operating implicitly; both matter.
+
 ## Anti-patterns & misunderstandings
 - **Confusing them with the model's [[overview|first principles]]** — or, worse, "adopting the 20" as if they were your company's authored beliefs. The 20 describe the model; they are not your manifesto.
 - **A poster on the wall.** Principles that never enter a real trade-off are decoration, not strategic context.
@@ -81,3 +91,5 @@ _Field note: does your org have written product principles? When were they last 
 - [[2020-01-09-cagan-coaching-strategic-context]] — product principles as one of the six elements of strategic context.
 - [[empowered]] — the long-form treatment of strategic context (leaders provide vision *and* principles).
 - [[transformed]] — root; strategic context in the empowered model.
+- [[2022-04-28-svpg-examples]] — SVPG's Examples hub; the two Cagan-endorsed public exemplars of product principles (Supercell, Slack).
+- [[2012-06-17-cagan-lessons-from-leaders]] — the mantra-form-of-principles: ten company mantras Cagan associates with Amazon, Google, Facebook, and specific individuals ([[bill-campbell|Bill Campbell]]).

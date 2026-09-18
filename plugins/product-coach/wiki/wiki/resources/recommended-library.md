@@ -4,15 +4,15 @@ type: overview
 aliases: [recommended-library, recommended-reading, recommended-resources, what-should-i-read]
 status: drafting
 tags: [resources, recommendations, books, videos, reading-list]
-sources: ["[[transformed]]", "[[svpg-product-operating-model-introduction]]", "[[svpg-cagan-on-principles-dalio]]", "[[2024-05-14-cagan-book-discussion-guide]]"]
+sources: ["[[transformed]]", "[[svpg-product-operating-model-introduction]]", "[[svpg-cagan-on-principles-dalio]]", "[[2024-05-14-cagan-book-discussion-guide]]", "[[2024-07-10-svpg-recommended-reading-on-the-product-model]]"]
 related: ["[[overview]]", "[[svpg]]", "[[marty-cagan]]", "[[loved]]", "[[product-marketing]]"]
 created: 2026-06-15
-updated: 2026-07-04
+updated: 2026-09-18
 ---
 
 # Recommended Library
 
-> The coach's **trusted recommendation map**. Every item here is recommended by **[[marty-cagan|Cagan]] / [[svpg|SVPG]]** — primarily from the further-reading in *[[transformed]]* and SVPG's *[[svpg-product-operating-model-introduction|Product Operating Model: An Introduction]]* (plus the Cagan article on [[svpg-cagan-on-principles-dalio|Dalio's Principles]]). Match the PM's **problem/topic** to a row, then recommend the resource **with its provenance and link**.
+> The coach's **trusted recommendation map**. Every item here is recommended by **[[marty-cagan|Cagan]] / [[svpg|SVPG]]** — primarily from the further-reading in *[[transformed]]* and SVPG's *[[svpg-product-operating-model-introduction|Product Operating Model: An Introduction]]*, plus the **official SVPG reading list** at [[2024-07-10-svpg-recommended-reading-on-the-product-model|Recommended Reading on the Product Model]] (Jul 2024) — the load-bearing evidence for [CLAUDE.md's non-SVPG boundary test](../../CLAUDE.md#2-page-conventions) that every non-SVPG title below clears — and the Cagan article on [[svpg-cagan-on-principles-dalio|Dalio's Principles]]. Match the PM's **problem/topic** to a row, then recommend the resource **with its provenance and link**.
 
 > **How the coach should use this:** (1) identify the PM's problem/topic; (2) pick from the matching section below; (3) recommend it, say *who recommends it and why*, and give the link; (4) tie it back to the relevant [[overview|principle/concept]]. Never recommend something as "Cagan/SVPG-endorsed" unless it appears here (or in another trusted source).
 
@@ -82,4 +82,4 @@ updated: 2026-07-04
 - The Product Model at Spotify → https://www.svpg.com/product-model-at-spotify/ · at Amazon → https://www.svpg.com/product-model-at-amazon/
 
 ## Provenance
-All recommendations trace to trusted sources: the further-reading in [[transformed]], SVPG's [[svpg-product-operating-model-introduction|Product Operating Model: An Introduction]] (books + videos + exemplar articles), and [[svpg-cagan-on-principles-dalio|Cagan on Dalio's *Principles*]]. Add new items only with a comparable trusted trail, and tag them by topic above.
+All recommendations trace to trusted sources: the further-reading in [[transformed]], SVPG's [[svpg-product-operating-model-introduction|Product Operating Model: An Introduction]] (books + videos + exemplar articles), the **official SVPG endorsement list** at [[2024-07-10-svpg-recommended-reading-on-the-product-model|Recommended Reading on the Product Model]] (Jul 2024) — which names the four SVPG books + Cagan's top-10 non-SVPG picks (Torres · Fadell · Bryar/Carr · Hastings/Meyer · Kocienda · Schmidt/Rosenberg × 2 · Zhuo · Kerievsky · Forsgren/Humble/Kim) — and [[svpg-cagan-on-principles-dalio|Cagan on Dalio's *Principles*]]. Add new items only with a comparable trusted trail, and tag them by topic above.
