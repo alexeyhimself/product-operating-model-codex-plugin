@@ -6,9 +6,9 @@ status: drafting
 tags: [person, svpg, partner, primary-source]
 role: Partner, Silicon Valley Product Group; co-author of EMPOWERED & TRANSFORMED
 org: "[[svpg]]"
-related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[empowered]]", "[[transformed]]", "[[2016-08-30-jones-the-product-designer-role]]", "[[product-designer]]", "[[imposter-syndrome]]", "[[time-management]]", "[[hiring-and-onboarding]]"]
+related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[empowered]]", "[[transformed]]", "[[2016-08-30-jones-the-product-designer-role]]", "[[2016-12-06-jones-omni-channel-product]]", "[[2017-04-04-jones-product-discovery-pitfalls-and-anti-patterns]]", "[[2018-01-29-jones-product-discovery-in-regulated-environments]]", "[[2019-11-13-jones-the-coaching-mindset]]", "[[2023-04-21-jones-key-principles-mastering-pm-product-unfiltered]]", "[[2024-07-29-jones-transformed-organization-tech-lead-journal]]", "[[product-designer]]", "[[coaching-mindset]]", "[[imposter-syndrome]]", "[[time-management]]", "[[hiring-and-onboarding]]"]
 created: 2026-06-20
-updated: 2026-09-05
+updated: 2026-09-18
 ---
 
 # Chris Jones

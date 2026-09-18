@@ -4,7 +4,7 @@ type: synthesis
 aliases: [overcoming-objections, strongest-objections-to-the-model, objections, addressing-objections, product-model-objections]
 status: drafting
 tags: [synthesis, transformation, politics, objections, stakeholders, executives, change-management]
-sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]"]
+sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2021-05-14-moore-lessons-from-ikea]]"]
 related: ["[[transformation]]", "[[transformation-politics]]", "[[pilot-teams]]", "[[stakeholder-relationship-health]]", "[[product-leadership]]", "[[product-manager]]", "[[product-marketing]]", "[[high-integrity-commitments]]", "[[team-objectives]]", "[[time-to-money]]", "[[outcomes-over-output]]", "[[empowered-engineers]]", "[[product-strategy]]", "[[product-vision]]", "[[team-topology]]", "[[delivery-manager]]", "[[product-ops]]", "[[psychological-safety]]"]
 created: 2026-07-11
 updated: 2026-08-31

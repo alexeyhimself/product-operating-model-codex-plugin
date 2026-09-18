@@ -6,9 +6,9 @@ status: drafting
 tags: [person, svpg, partner, primary-source, transformation]
 role: Partner, Silicon Valley Product Group
 org: "[[svpg]]"
-related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[transformed]]", "[[chris-jones]]", "[[transformation]]", "[[product-ethics]]", "[[product-career-development]]", "[[2022-05-31-moore-transformation-defined]]", "[[2022-09-18-moore-the-transformation-series]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]"]
+related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[transformed]]", "[[chris-jones]]", "[[transformation]]", "[[product-ethics]]", "[[product-career-development]]", "[[2022-05-31-moore-transformation-defined]]", "[[2022-09-18-moore-the-transformation-series]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2022-09-20-moore-changing-how-you-solve-problems]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-05-22-moore-transformation-in-action]]", "[[2021-05-14-moore-lessons-from-ikea]]", "[[2021-09-14-moore-executive-engagement]]", "[[guardian-eyewitness]]"]
 created: 2026-06-20
-updated: 2026-06-21
+updated: 2026-09-18
 ---
 
 # Jon Moore

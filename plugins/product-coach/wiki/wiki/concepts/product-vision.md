@@ -4,7 +4,7 @@ type: concept
 aliases: [product-vision, vision]
 status: drafting
 tags: [product-strategy, vision, core-concept]
-sources: ["[[transformed]]", "[[empowered]]", "[[2020-08-05-cagan-product-vision-vs-mission]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[2024-01-02-cagan-power-of-visiontypes]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-05-29-idiodi-moore-coaching-vision]]", "[[2022-04-28-svpg-examples]]"]
+sources: ["[[transformed]]", "[[empowered]]", "[[2020-08-05-cagan-product-vision-vs-mission]]", "[[2020-08-10-cagan-product-vision-faq]]", "[[2024-01-02-cagan-power-of-visiontypes]]", "[[2013-02-03-cagan-vision-pivots-vs-discovery-pivots]]", "[[2022-09-23-moore-changing-how-you-decide-which-problems-to-solve]]", "[[2020-11-19-cagan-product-leadership-is-hard]]", "[[2024-03-16-huryn-product-model-first-principles-part-1]]", "[[2025-05-29-idiodi-moore-coaching-vision]]", "[[2022-04-28-svpg-examples]]"]
 related: ["[[product-strategy]]", "[[focus]]", "[[product-leadership]]", "[[missionaries-vs-mercenaries]]", "[[product-principles]]", "[[overview]]", "[[vision-quality]]", "[[visiontype]]", "[[kaiser-permanente-get-care-now]]", "[[trainline-transformation]]"]
 created: 2026-06-14
 updated: 2026-09-18

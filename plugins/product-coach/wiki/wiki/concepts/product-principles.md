@@ -4,7 +4,7 @@ type: concept
 aliases: [product-principles, product-manifesto, company-product-principles]
 status: drafting
 tags: [strategic-context, principles, leadership, vision, ethics, core-concept]
-sources: ["[[transformed]]", "[[inspired]]", "[[empowered]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2022-04-28-svpg-examples]]", "[[2012-06-17-cagan-lessons-from-leaders]]"]
+sources: ["[[transformed]]", "[[inspired]]", "[[empowered]]", "[[2006-01-02-cagan-the-product-manifesto]]", "[[2020-01-09-cagan-coaching-strategic-context]]", "[[2022-04-28-svpg-examples]]", "[[2012-06-17-cagan-lessons-from-leaders]]", "[[2022-03-10-idiodi-sling-tvs-need-for-speed]]"]
 related: ["[[product-leadership]]", "[[product-vision]]", "[[product-strategy]]", "[[team-objectives]]", "[[principles-over-process]]", "[[overview]]", "[[product-strategy-quality]]", "[[coaching-vs-contracting]]", "[[the-four-big-risks]]"]
 created: 2026-07-04
 updated: 2026-09-18

@@ -5,7 +5,7 @@ aliases: [john-deere-transformation, john-deere-case-study, deere-smart-industri
 status: drafting
 tags: [case-study, transformation, empowered-engineers, product-discovery, manufacturing, agriculture, non-tech, chris-jones, machine-learning]
 org: John Deere
-sources: ["[[2024-04-03-jones-moving-to-the-product-operating-model-product-people]]"]
+sources: ["[[2024-04-03-jones-moving-to-the-product-operating-model-product-people]]", "[[2022-03-03-idiodi-protecting-the-planet]]"]
 related: ["[[john-deere]]", "[[transformation]]", "[[empowered-engineers]]", "[[product-discovery]]", "[[continuous-interviewing]]", "[[product-operating-model]]", "[[time-to-money]]", "[[where-the-model-applies]]", "[[intelligent-products]]", "[[chris-jones]]", "[[trainline-transformation]]", "[[carmax-omnichannel-pivot]]"]
 created: 2026-09-05
 updated: 2026-09-05

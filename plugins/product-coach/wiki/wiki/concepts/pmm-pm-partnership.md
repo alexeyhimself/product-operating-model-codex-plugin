@@ -4,7 +4,7 @@ type: concept
 aliases: [pmm-pm-partnership, pmm-and-pm, pm-pmm-partnership, product-marketing-product-management-partnership]
 status: drafting
 tags: [product-marketing, product-management, partnership, cross-functional, trio-plus-pmm]
-sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]"]
+sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]", "[[2011-01-12-lauchengco-great-products-not-just-the-product-guys-job]]", "[[2012-04-28-lauchengco-product-marketing-contribution]]", "[[2022-06-lauchengco-one-knight-in-product-e134]]"]
 related: ["[[product-marketing]]", "[[product-manager]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[cross-functional-partnering]]", "[[stakeholder-relationship-health]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-09-05

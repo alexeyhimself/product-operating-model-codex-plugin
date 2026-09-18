@@ -4,7 +4,7 @@ type: concept
 aliases: [the-need-for-speed, need-for-speed, speed-and-innovation, why-speed-matters]
 status: drafting
 tags: [speed, velocity, innovation, learning, quality]
-sources: ["[[transformed]]", "[[2013-07-21-cagan-the-need-for-speed]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2023-08-17-cagan-from-projects-to-products]]"]
+sources: ["[[transformed]]", "[[2013-07-21-cagan-the-need-for-speed]]", "[[2022-09-17-moore-changing-how-you-build]]", "[[2023-08-17-cagan-from-projects-to-products]]", "[[2022-03-10-idiodi-sling-tvs-need-for-speed]]"]
 related: ["[[time-to-money]]", "[[product-discovery]]", "[[product-delivery]]", "[[small-frequent-uncoupled-releases]]", "[[embrace-rapid-experimentation]]", "[[innovation-over-predictability]]", "[[the-four-big-risks]]"]
 created: 2026-06-21
 updated: 2026-06-21

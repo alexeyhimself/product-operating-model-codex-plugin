@@ -6,7 +6,7 @@ status: drafting
 tags: [person, svpg, partner, product-marketing]
 role: Partner, Silicon Valley Product Group; author of LOVED
 org: "[[svpg]]"
-related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[loved]]", "[[product-marketing]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[transformed]]", "[[feedback]]"]
+related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[loved]]", "[[product-marketing]]", "[[pmm-ambassador]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[transformed]]", "[[feedback]]", "[[2007-12-19-lauchengco-solutions-products-vs-solutions-marketing]]", "[[2008-02-21-lauchengco-whats-in-a-name]]", "[[2011-01-12-lauchengco-great-products-not-just-the-product-guys-job]]", "[[2011-02-28-lauchengco-why-traditional-messaging-fails]]", "[[2012-04-28-lauchengco-product-marketing-contribution]]", "[[2018-09-14-lauchengco-a-better-way]]", "[[2022-05-12-lauchengco-the-supermarket-of-software]]", "[[2022-08-17-lauchengco-market-fit]]", "[[2024-10-07-lauchengco-building-loved-products-tech-lead-journal]]", "[[2022-06-lauchengco-one-knight-in-product-e134]]"]
 created: 2026-07-04
 updated: 2026-09-05
 ---

@@ -4,7 +4,7 @@ type: concept
 aliases: [brand-lever, brand, brand-strategy, brand-in-tech, product-naming]
 status: drafting
 tags: [product-marketing, brand, positioning, naming, customer-experience]
-sources: ["[[loved]]", "[[martina-lauchengco]]"]
+sources: ["[[loved]]", "[[martina-lauchengco]]", "[[2008-02-21-lauchengco-whats-in-a-name]]"]
 related: ["[[product-marketing]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-07-12

@@ -4,7 +4,7 @@ type: concept
 aliases: [transformation-politics, politics-of-transformation, hearts-and-minds]
 status: drafting
 tags: [concept, transformation, politics, stakeholders, executives, change-management]
-sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]"]
+sources: ["[[transformed]]", "[[2024-11-21-cagan-transformation-politics]]", "[[2024-10-29-cagan-transformation-as-a-project]]", "[[2025-02-06-idiodi-cagan-coaching-transformation-politics]]", "[[2025-04-17-idiodi-hickman-coaching-change-management]]", "[[2025-07-24-idiodi-cullen-fredell-coaching-transformation-datasite]]", "[[2026-09-11-cagan-strong-opinions-loosely-held]]", "[[2021-09-14-moore-executive-engagement]]"]
 related: ["[[transformation]]", "[[pilot-teams]]", "[[product-leadership]]", "[[product-manager]]", "[[stakeholder-relationship-health]]", "[[leadership-readiness]]"]
 created: 2026-06-21
 updated: 2026-09-11

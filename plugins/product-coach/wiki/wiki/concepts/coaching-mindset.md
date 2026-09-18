@@ -4,7 +4,7 @@ type: concept
 aliases: [coaching-mindset, coach-mindset, developing-people-is-job-1]
 status: drafting
 tags: [coaching, leadership, mindset, product-leadership, culture, empowered-teams]
-sources: ["[[empowered]]", "[[transformed]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2019-06-24-cagan-coaching-owner-vs-employee]]", "[[2019-04-24-cagan-the-greatest-coach]]", "[[bill-campbell]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]"]
+sources: ["[[empowered]]", "[[transformed]]", "[[2019-11-13-jones-the-coaching-mindset]]", "[[2019-04-08-cagan-coaching-tools-the-assessment]]", "[[2019-04-22-cagan-coaching-tools-the-plan]]", "[[2019-06-24-cagan-coaching-owner-vs-employee]]", "[[2019-04-24-cagan-the-greatest-coach]]", "[[bill-campbell]]", "[[2024-04-15-idiodi-cagan-coaching-mindset]]"]
 related: ["[[product-coaching]]", "[[product-coach]]", "[[coaching-the-pm]]", "[[pm-competency]]", "[[coaching-vs-contracting]]", "[[product-leadership]]", "[[trust-over-control]]", "[[bill-campbell]]", "[[empowered-product-teams]]"]
 created: 2026-07-12
 updated: 2026-07-12

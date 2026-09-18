@@ -4,7 +4,7 @@ type: concept
 aliases: [types-of-product-coaching, discovery-coaching, product-leadership-coaching, transformation-coaching]
 status: drafting
 tags: [coaching, discovery, leadership, transformation, core-concept]
-sources: ["[[2023-01-11-cagan-becoming-a-product-coach]]"]
+sources: ["[[2022-02-22-cagan-types-of-product-coaching]]", "[[2023-01-11-cagan-becoming-a-product-coach]]"]
 related: ["[[product-coaching]]", "[[product-coach]]", "[[coaching-vs-contracting]]", "[[product-discovery]]", "[[product-strategy]]", "[[marty-cagan]]"]
 created: 2026-06-20
 updated: 2026-06-20

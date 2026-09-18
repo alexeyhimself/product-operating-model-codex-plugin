@@ -5,4 +5,4 @@ This directory is a build artifact, synced by
 <https://github.com/alexeyhimself/product-operating-model-llm-wiki>.
 Any manual edit here will be overwritten by the next sync.
 
-Source commit: `62c562c4cc65a6155be5e636677d2d5be732b2f8`
+Source commit: `bf9c2394b92ad403bf1f827d12ac2fa9cba9f606`

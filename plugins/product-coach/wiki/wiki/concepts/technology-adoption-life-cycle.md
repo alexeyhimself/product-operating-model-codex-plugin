@@ -4,7 +4,7 @@ type: concept
 aliases: [technology-adoption-life-cycle, adoption-curve, technology-adoption-curve, adoption-life-cycle, innovation-adoption-life-cycle]
 status: drafting
 tags: [product-marketing, adoption, segmentation, gtm-strategy, iphone]
-sources: ["[[loved]]", "[[martina-lauchengco]]", "[[2025-06-16-cagan-disruption-and-denial]]"]
+sources: ["[[loved]]", "[[martina-lauchengco]]", "[[2025-06-16-cagan-disruption-and-denial]]", "[[2011-02-28-lauchengco-why-traditional-messaging-fails]]"]
 related: ["[[product-marketing]]", "[[pmm-strategist]]", "[[market-fit]]", "[[pmm-ambassador]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-07-12

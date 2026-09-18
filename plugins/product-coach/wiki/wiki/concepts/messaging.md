@@ -4,7 +4,7 @@ type: concept
 aliases: [messaging, product-messaging, cast-messaging, expensify-messaging]
 status: drafting
 tags: [product-marketing, messaging, storytelling, cast, positioning]
-sources: ["[[loved]]", "[[martina-lauchengco]]"]
+sources: ["[[loved]]", "[[martina-lauchengco]]", "[[2011-02-28-lauchengco-why-traditional-messaging-fails]]", "[[2008-02-21-lauchengco-whats-in-a-name]]", "[[2012-04-28-lauchengco-product-marketing-contribution]]", "[[2022-05-12-lauchengco-the-supermarket-of-software]]"]
 related: ["[[product-marketing]]", "[[pmm-storyteller]]", "[[positioning]]", "[[one-sheet-messaging-canvas]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-09-05

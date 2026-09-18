@@ -6,7 +6,7 @@ status: drafting
 tags: [person, svpg, partner, transformation]
 role: Partner, Silicon Valley Product Group; TRANSFORMED co-author
 org: "[[svpg]]"
-related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[transformed]]", "[[transformation]]", "[[transformation-readiness]]", "[[model-maturity]]", "[[trust-over-control]]", "[[stakeholder-relationship-health]]", "[[coaching-up]]", "[[outcome-based-roadmap]]", "[[high-integrity-commitments]]", "[[strategy-jumpstart]]"]
+related: ["[[svpg]]", "[[marty-cagan]]", "[[christian-idiodi]]", "[[transformed]]", "[[transformation]]", "[[transformation-readiness]]", "[[model-maturity]]", "[[trust-over-control]]", "[[stakeholder-relationship-health]]", "[[coaching-up]]", "[[outcome-based-roadmap]]", "[[high-integrity-commitments]]", "[[strategy-jumpstart]]", "[[2020-07-30-hickman-keys-to-successful-transformation]]", "[[keys-to-successful-transformation]]"]
 created: 2026-07-04
 updated: 2026-09-06
 ---

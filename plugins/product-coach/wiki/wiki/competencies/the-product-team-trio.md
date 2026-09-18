@@ -5,7 +5,7 @@ aliases: [the-product-team-trio, trio, product-trio]
 status: drafting
 tags: [competency, trio, product-team, collaboration, four-risks]
 role: The three core competencies on every empowered product team — Product Manager, Product Designer, and Tech Lead — working as peers to address the four big risks and discover a solution together.
-sources: ["[[transformed]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]"]
+sources: ["[[transformed]]", "[[2023-03-15-cagan-product-model-competencies]]", "[[2020-09-04-cagan-discovery-problem-vs-solution]]", "[[2020-10-30-cagan-discovery-delivery]]", "[[2019-09-03-cagan-what-is-a-product]]"]
 related: ["[[empowered-product-teams]]", "[[product-manager]]", "[[product-designer]]", "[[engineers]]", "[[the-four-big-risks]]", "[[collaboration]]", "[[product-discovery]]"]
 created: 2026-06-20
 updated: 2026-06-20

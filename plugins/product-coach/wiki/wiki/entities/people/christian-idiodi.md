@@ -6,7 +6,7 @@ status: drafting
 tags: [person, svpg, partner, coaching, transformation, product-therapy, podcast-host]
 role: Partner, Silicon Valley Product Group; TRANSFORMED co-author; host of the *Product Therapy* podcast
 org: "[[svpg]]"
-related: ["[[svpg]]", "[[marty-cagan]]", "[[transformed]]", "[[product-coaching]]", "[[jon-moore]]", "[[chris-jones]]", "[[lea-hickman]]", "[[martina-lauchengco]]", "[[coaching-agency]]", "[[coaching-mindset]]", "[[hiring-and-onboarding]]", "[[2025-11-20-idiodi-the-real-risk-of-ai-in-product]]"]
+related: ["[[svpg]]", "[[marty-cagan]]", "[[transformed]]", "[[product-coaching]]", "[[jon-moore]]", "[[chris-jones]]", "[[lea-hickman]]", "[[martina-lauchengco]]", "[[coaching-agency]]", "[[coaching-mindset]]", "[[hiring-and-onboarding]]", "[[2025-11-20-idiodi-the-real-risk-of-ai-in-product]]", "[[2022-02-24-idiodi-the-freedom-to-grow]]", "[[2022-02-24-idiodi-failure-as-a-springboard-to-success]]", "[[2022-03-03-idiodi-protecting-the-planet]]", "[[2022-03-03-idiodi-transformation-as-a-personal-journey]]", "[[2022-03-10-idiodi-sling-tvs-need-for-speed]]", "[[2023-06-02-idiodi-breaking-down-walls]]", "[[datasite-transformation]]", "[[john-deere-smart-industrial]]"]
 created: 2026-07-04
 updated: 2026-09-18
 ---

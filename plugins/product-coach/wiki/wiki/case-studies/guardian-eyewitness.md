@@ -5,7 +5,7 @@ aliases: [guardian-eyewitness, the-guardian-ipad, eyewitness-app, guardian-trans
 status: drafting
 tags: [case-study, transformation, empowered-teams, high-integrity-commitments, media, uk, marty-cagan, product-discovery]
 org: The Guardian
-sources: ["[[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]]", "[[empowered]]"]
+sources: ["[[2022-04-13-cagan-common-transformation-pitfalls-producttank-oslo]]", "[[empowered]]", "[[2020-05-22-moore-transformation-in-action]]"]
 related: ["[[the-guardian]]", "[[transformation]]", "[[empowered-product-teams]]", "[[high-integrity-commitments]]", "[[product-discovery]]", "[[the-four-big-risks]]", "[[prototypes]]", "[[disruption-response]]", "[[model-maturity]]", "[[marty-cagan]]", "[[trainline-transformation]]", "[[john-deere-smart-industrial]]"]
 created: 2026-09-05
 updated: 2026-09-05

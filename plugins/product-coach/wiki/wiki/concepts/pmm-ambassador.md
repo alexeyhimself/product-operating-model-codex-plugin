@@ -4,7 +4,7 @@ type: concept
 aliases: [pmm-ambassador, ambassador, product-marketing-ambassador, market-sensing, customer-and-market-insights]
 status: drafting
 tags: [product-marketing, insights, customer-discovery, market-sensing, competition]
-sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]"]
+sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]", "[[2022-08-17-lauchengco-market-fit]]"]
 related: ["[[product-marketing]]", "[[pmm-strategist]]", "[[pmm-storyteller]]", "[[pmm-evangelist]]", "[[product-manager]]", "[[the-four-big-risks]]", "[[cross-functional-partnering]]", "[[loved]]"]
 created: 2026-07-12
 updated: 2026-07-12

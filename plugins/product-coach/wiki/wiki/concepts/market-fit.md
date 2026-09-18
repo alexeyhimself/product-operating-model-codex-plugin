@@ -4,10 +4,10 @@ type: concept
 aliases: [market-fit, market-pull, market-side-of-pmf, market-side-of-product-market-fit]
 status: drafting
 tags: [product-marketing, market-fit, discovery, viability, product-market-fit]
-sources: ["[[loved]]", "[[transformed]]", "[[martina-lauchengco]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]"]
+sources: ["[[loved]]", "[[transformed]]", "[[2022-08-17-lauchengco-market-fit]]", "[[martina-lauchengco]]", "[[2020-08-12-idiodi-enhanced-product-discovery-lean-product-meetup]]", "[[2022-05-12-lauchengco-the-supermarket-of-software]]", "[[2011-01-12-lauchengco-great-products-not-just-the-product-guys-job]]"]
 related: ["[[product-marketing]]", "[[pmm-ambassador]]", "[[the-four-big-risks]]", "[[product-discovery]]", "[[assumption-testing]]", "[[loved]]"]
 created: 2026-07-12
-updated: 2026-09-06
+updated: 2026-09-18
 ---
 
 # Market Fit
